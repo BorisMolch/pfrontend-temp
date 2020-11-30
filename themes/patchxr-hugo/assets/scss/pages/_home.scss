@@ -1,0 +1,418 @@
+.introtext {
+	padding-top: 100px;
+	padding-bottom: 00px;
+}
+// Banner Styles
+.banner{
+	padding: 150px 0 150px;
+	background-position: center bottom;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+.slider{
+	padding: 180px 0 300px;
+	text-align: center;
+	position: relative;
+	overflow: hidden;
+	.block{
+		position: relative;
+		h1,h3{
+			color: $light;
+		}
+		.download{
+			margin-top: 20px;
+		}
+		.image-content{
+			text-align: center;
+
+		    img{
+		    	margin-top: 100px;
+		    	margin-bottom: -200px;
+		    }
+		}
+	}
+	&:before{
+	    content: '';
+	    position: absolute;
+	    bottom: 0;
+	    right: 0;
+	    border-bottom: 290px solid #fff;
+	    border-left: 2000px solid transparent;
+	    width: 0;
+	}
+}
+
+.services{
+	.service-block{
+		background: $dark;
+		padding: 30px 40px;
+		margin-bottom: 30px;
+		&:last-child{
+			margin-bottom: 0;
+			@include mobile {
+				margin-bottom: 30px;
+			}
+		}
+		border-radius: 5px;
+		h3 {
+			line-height: 30px;
+		    text-transform: capitalize;
+		    font-size: 16px;
+		    font-weight: 500;
+		}
+
+		i{
+			font-size: 30px;
+			color: $primary-color;
+			margin-bottom: 15px;
+			display:inline-block;
+
+		}
+		p{
+			margin-bottom: 0;
+			font-size:14px;
+			line-height:20px;
+		}
+	}
+	.app-preview{
+		display: flex;
+        justify-content: center !important;
+		img{
+			height: 500px;
+			width: auto;
+		}
+	}
+	@include tablet {
+		.col-lg-4.m-auto{
+			display: none;
+		}
+	}
+}
+.service{
+	@extend .hide-overflow;
+	.service-thumb{
+		@include tablet {
+			width: 80%;
+			margin: 0 auto;
+		}
+	}
+	.service-box{
+		padding: 20px;
+		background: $dark;
+		border-radius: 4px;
+		@extend .shadow;
+		@include tablet {
+			width: 80%;
+			margin: 0 auto;
+		}
+		.service-item{
+			text-align: center;
+			padding: 10px;
+			margin: 20px 0;
+			i{
+				font-size: 64px;
+				color: $primary-color;
+				display: inline-block;
+				margin-bottom: 10px;
+			}
+			p{
+				font-size: 20px;
+			}
+			h3 {font-size: 28px;}
+		}
+	}
+}
+
+.feature{
+	.feature-content{ padding-top: 25px;
+		h2, p{
+
+			margin-bottom: 25px;
+			@include tablet {
+				text-align: left;
+			}
+		}
+	}
+	.testimonial{
+		@include tablet {
+			text-align: center;
+		}
+		p{
+			font-family: $secondary-font;
+			margin-bottom: 10px;
+			font-style: italic;
+			color: $light;
+		}
+		ul.meta{
+			li{
+				font-size: 12px;
+				margin-right: 10px;
+				img{
+					height: 40px;
+					width: 40px;
+					border-radius: 100%;
+				}
+			}
+		}
+	}
+}
+
+// App Features
+.app-features{
+	.app-feature{
+		@include mobile {
+			margin-bottom: 30px;
+		}
+	}
+	.app-explore{
+		display: flex;
+        justify-content: center !important;
+	    margin-bottom: 40px;
+	}
+}
+
+.banner-full{
+	.image{
+		display: flex;
+        justify-content: center;
+		img{
+			height: 625px;
+		}
+		@include tablet {
+			margin-bottom: 30px;
+		}
+	}
+	.block{
+		@include tablet {
+			text-align: center;
+		}
+		.logo{
+			margin-bottom: 40px;
+		}
+		h1{
+			margin-bottom: 40px;
+		}
+		p{
+			font-size: 20px;
+			margin-bottom: 50px;
+		}
+		.app{
+			margin-bottom: 20px;
+		}
+	}
+}
+
+.video-promo{
+	padding: 150px 0;
+	.content-block{
+		width: 60%;
+		margin: 0 auto;
+		text-align: center;
+		h2{
+			font-size: 30px;
+			color: $light;
+		}
+		p{
+			margin-bottom: 30px;
+		}
+		a{
+			i.video{
+				height: 125px;
+			    width: 125px;
+			    background: $dark;
+			    display: inline-block;
+			    font-size: 40px;
+			    color: $light;
+			    text-align: center;
+			    line-height: 125px;
+			    border-radius: 100%;
+			}
+			&:focus{
+				outline: 0;
+			}
+		}
+	}
+}
+
+.testimonial{
+	.testimonial-slider{
+		.item{
+			padding-bottom: 10px;
+			.block{
+				padding: 40px;
+				text-align: center;
+				margin: 10px;
+		        border-radius: 5px;
+				.image{
+					margin-top: 30px;
+					margin-bottom: 5px;
+					width: 100%;
+					display: flex;
+			        justify-content: center;
+					@include tablet {
+				        flex-grow: 1;
+					}
+					img{
+						height: 40px;
+						width: 40px;
+				        border-radius: 100%;
+					}
+				}
+				p{
+					font-family: $secondary-font;
+					font-style: italic;
+					color: $light;
+				}
+				cite{
+					font-style: normal;
+					font-size: 14px;
+					color: $light;
+				}
+			}
+		}
+		// Owl dot Active color overide
+		.owl-dots{
+			.owl-dot{
+				&:hover{
+					span{
+						background: $primary-color;
+					}
+				}
+				&.active{
+					span{
+						background: $primary-color;
+					}
+				}
+			}
+		}
+	}
+}
+
+
+
+/* homepage 3 */
+
+
+.patchworld{
+	padding-top: 100px;
+	padding-bottom: 100px;
+	padding-left: 50px;
+	padding-right: 50px;
+	position: relative;
+	overflow: hidden;
+	// background-color: rgb(111,128,123) !important;
+
+	}
+
+	.patchworld::before {
+		content: "";
+		background-image: url("/images/patchxr-wave.png") ;
+		position: absolute;
+		-webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+	opacity: 20%;
+		top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+
+	}
+
+	.patchworldlogo {opacity: 100%;}
+
+	.patchathon{
+		background-color: $light !important;
+		padding-top: 100px;
+		padding-bottom: 100px;
+		padding-left: 50px;
+		padding-right: 50px;
+		position: relative;
+		overflow: hidden;
+		bottom: 0;}
+
+.platforms {
+	width: 300px auto;
+	padding-top: 50px;
+	color: white;
+	img {
+		width: 20%;
+		padding-right: 0px;}
+}
+
+.footer-main {
+	background-color: $black;
+}
+.bannerlogo{
+	display: block;
+	opacity: 100%;
+
+
+}
+
+.bannerbg{
+	padding-top: 150px;
+	padding-bottom: 100px;
+	padding-left: 10px;
+	padding-right: 10px;
+	position: relative;
+	overflow: hidden;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	width: 100%;
+	border-radius: 0% 0% 2% 2%;
+	bottom: 0;
+	// background: url("/images/patchxr-glitch.gif") center center fixed no-repeat;
+}
+
+.bannerbg::before{
+	position: absolute;
+	content: '';
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	left: 0px;
+	opacity: 75%;
+	background: url("/images/patch_automate_final.gif") center center fixed no-repeat;
+	background-attachment: local;
+	background-size: cover;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+}
+
+.darkbg{
+	background-color: $dark;
+}
+
+.nicebg {
+	background-image: linear-gradient(45deg,#009EC5 0%, $primary-color 20%,#02225B 50%);
+}
+.partners-title {color: $dark; margin-bottom: 50px;}
+
+.gradient-banner{
+	padding: 100px 0 170px;
+	position: relative;
+	overflow: hidden;
+	&::before{
+    position: absolute;
+		content: '';
+    bottom: 0;
+		left: 50%;
+		transform: translateX(-50%);
+    width: 200%;
+    height: 200%;
+    border-radius: 50%;
+    background: url("/images/automata.jpg");
+		//background-image: linear-gradient(45deg,#009EC5 0%, $primary-color 20%,#02225B 50%);
+	}
+}
+
+.pull-top{
+	margin-top: -100px;
+}

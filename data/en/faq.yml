@@ -1,0 +1,49 @@
+---
+intro:
+  title: Frequently Asked Questions
+  description: The important thing is never to stop questioning.
+faq_list:
+- title: GETTING STARTED
+  faq_item:
+  - question: WHAT IS PATCH ?
+    answer: Patch is a modular, immersive musical instrument environment made for
+      Virtual Reality to code, create and connect your own instruments and sounds,
+      and interact with them live with your body, your gestures, and other people.
+  - question: WHAT CAN I CREATE WITH PATCH?
+    answer: Patch doesn’t just mimic existing musical instruments, it explores music
+      beyond your average experience. Thanks to over four years of research and collaboration
+      with XR artists and musicians, Patch can create new, exiting hybrid creations
+      and compositions that have never been seen before, and never been heard before.
+      Links to some machine that were made in Patch
+  - question: WHY USE VR TO MAKE MUSIC?
+    answer: Patch lets you interact spatially with visuals and sonic interactions
+      that respond to where you’re looking and how you move - a full-body, full-sensory
+      experience. It’s an immersive, inventive world to explore, rather than just
+      another rectangular editing interface.
+  - question: CAN I GET PATCH SOFTWARE?
+    answer: Patch is not released yet, but we are giving some development licences
+      to selected creators and universities. If you want to get a try, it's possible,
+      just contact us by mail.
+  - answer: blablabla
+    question: WHEN WILL BE PATCH RELEASED?
+- title: ABOUT THE PATCHATHON
+  faq_item:
+  - question: WHAT IS THE PATCHATHON?
+    answer: "#PATCHATHON brings together interested artists with our one-of-a-kind
+      VR tool. It connects you to the team who built the platform so you can get the
+      most out of your creative experience. Together, we want to bring the next generation
+      of computer-generated music to life and bring technology to the service of artistic
+      exploration. IMMERSIVE, INTERACTIVE, VISUAL MUSIC in 3D space is the beginning
+      of a new genre."
+  - question: CAN I REGISTER WITHOUT VR SET-UP?
+    answer: If you are super interested in joining the event and don’t have VR, WE
+      MAY BE ABLE TO HOOK YOU UP , But don’t wait, submit ASAP and we’ll see what
+      we can do.
+  - question: WHEN IS THE NEXT EVENT ?
+    answer: Check the dates on our event calendar on the Patchathon page.
+- title: OTHER IMPORTANT QUESTIONS
+  faq_item:
+  - question: HOW TO FOLLOW US FOR MORE ?
+    answer: You can follow the Patchathon on our Twitch channel, subscribe to our
+      newsletter, follow us on Twitter and join the Patchlab slack groups. All links
+      are available in the footer of everypage on this site.

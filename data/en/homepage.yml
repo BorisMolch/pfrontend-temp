@@ -1,0 +1,130 @@
+---
+banner:
+  enable: true
+  title: patchXR
+  logo: "/uploads/patchwhite.png"
+  content: WHERE MUSICAL INSTRUMENTS BECOME FANTASTICAL WORLDS
+  videotext: 'Watch a short video clip:'
+  videourl: https://www.youtube.com/embed/gvUXPecgNK8
+intro:
+  enable: true
+  title: PATCH, PLAY & SHARE
+  subtitle: Patch is a native VR authoring tool that lets you build brand new digital
+    instruments and play electronic music in a 3D space like never before. Forget
+    about the mouse, control your world with the building blocks of sound, and expand
+    the limits of your imagination, with infinite possibilities.
+  description: ''
+download:
+  enable: true
+  title: Available soon...
+  subtitle: PatchXR will be available on the following VR platforms
+  download_buttons:
+  - label: Oculus
+    logo: "/images/p-oculus.png"
+    link: www.oculus.com
+feature:
+  enable: true
+  feature_item:
+  - title: When an instrument becomes an immersive music experience.
+    image: images/automata.jpg
+    content: PATCH lets you experience music and build sound in 3D space with virtual
+      reality. Transform any room into your own music studio. Create electronic music
+      with the building blocks of sound, Play, Customize, Remix, Share. Possibilities
+      are endless.
+    quote:
+      enable: true
+      name: Jonathon Andrew , 1xN.org
+      avater: images/testimonial/feature-testimonial-thumb.jpg
+      comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua.
+  - title: Build, play and share, interactive sonic worlds in real-time.
+    image: "/images/patch1.jpg"
+    image_webp: images/feature/feature-new-02.webp
+    content: Transform noise into music in no time and explore the wonders of playing
+      with sound synthesis in VR, where you can feel, see and interact with sounds
+      in 3D space. Build your own synthesizer, sequencer, drum pad, or any electronic
+      instrument you can think of, by assembling Patch’s Sonic modules to shape your
+      unique sounds.
+    quote:
+      enable: true
+      name: Jonathon Andrew , 1xN.org
+      avater: images/testimonial/feature-testimonial-thumb.jpg
+      comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua.
+promo_video:
+  enable: true
+  title: READY TO VROCK?
+  content: Play Music in VR like you never thought you could. Get started quickly
+    with a bundle of pre-made extraordinary instruments ready for you to rock on!
+  bg_image: images/video-back.jpg
+  video_embed_url: https://www.youtube.com/embed/gvUXPecgNK8
+testimonial:
+  enable: false
+  testimonial_item:
+  - name: Donald Duck , 1xN.org
+    image: images/testimonial/feature-testimonial-thumb.jpg
+    content: Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Donec sollicitudin
+      molestie malesuada. Donec sollicitudin molestie malesuada. Pellentesque in ipsum
+      id orci porta dapibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Pellentesque in ipsum id orci porta dapibus. Quisque velit nisi, pretium ut
+      lacinia in, elementum id enim.
+  - name: Skeletor , 1xN.org
+    image: images/testimonial/feature-testimonial-thumb.jpg
+    content: Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Donec sollicitudin
+      molestie malesuada. Donec sollicitudin molestie malesuada. Pellentesque in ipsum
+      id orci porta dapibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Pellentesque in ipsum id orci porta dapibus. Quisque velit nisi, pretium ut
+      lacinia in, elementum id enim.
+  - name: Mr. White , 1xN.org
+    image: images/testimonial/feature-testimonial-thumb.jpg
+    content: Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Donec sollicitudin
+      molestie malesuada. Donec sollicitudin molestie malesuada. Pellentesque in ipsum
+      id orci porta dapibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Pellentesque in ipsum id orci porta dapibus. Quisque velit nisi, pretium ut
+      lacinia in, elementum id enim.
+  - name: James Bond , 1xN.org
+    image: images/testimonial/feature-testimonial-thumb.jpg
+    content: Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Donec sollicitudin
+      molestie malesuada. Donec sollicitudin molestie malesuada. Pellentesque in ipsum
+      id orci porta dapibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Pellentesque in ipsum id orci porta dapibus. Quisque velit nisi, pretium ut
+      lacinia in, elementum id enim.
+patchworld:
+  enable: true
+  title: Patchworld
+  subtitle: Apply now to be part of our online workshops and make your own VR musical
+    instrument with Patch.
+  download_buttons:
+  - label: Join now
+    icon: tf-ion-none
+    link: "/community"
+patchathon:
+  enable: false
+  title: Check out what the community is making
+  subtitle: PatchXR teamed up artist, sound engineers, producers, builders and other
+    creators for a 6 days online Patchathon. To get inspired, check out their work
+    and discover what’s possible to make in Patchworld in only a few days.
+usp:
+  enable: true
+  title: OUR USPS
+  subtitle: A nice and long subtitle can be used for the USPs
+  image: images/automata.jpg
+  usp_item:
+  - name: No coding
+    icon: tf-puzzle
+    content: Build musical worlds using sound blocks.
+  - name: Gamified
+    icon: tf-ribbon
+    content: Learn about music by playing and having fun.
+  - name: Community
+    icon: tf-ion-android-globe
+    content: Share with the whole world from your bedroom.
+  - name: Gestural
+    icon: tf-ion-android-walk
+    content: No more mouse clicking, use the whole body gesture to express yourself.
+  - name: Immersive
+    icon: tf-grid
+    content: Step inside the music you love and personalize it.
+  - name: Collaborative
+    icon: tf-ion-android-contacts
+    content: Collaborate and play music remotely together in real-time.

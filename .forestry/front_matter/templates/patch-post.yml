@@ -1,0 +1,43 @@
+---
+label: Patch post
+hide_body: true
+fields:
+- type: text
+  name: type
+  label: type
+- type: text
+  name: item
+  label: item
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: image
+  label: image
+- type: text
+  name: video
+  label: video
+- type: text
+  name: author
+  label: author
+- type: text
+  name: location
+  label: location
+- type: text
+  name: link1
+  label: link1
+- type: text
+  name: link2
+  label: link2
+- type: text
+  name: twitter
+  label: twitter
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: bio
+  label: bio

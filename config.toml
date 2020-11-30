@@ -1,0 +1,107 @@
+baseURL = "https://patchxr-demo.netlify.app/"
+disableLanguages = []
+paginate = "6"
+summaryLength = "10"
+theme = "patchxr-hugo"
+title = "PatchXR "
+[Languages.en]
+contentDir = "content/"
+home = "Home"
+languageCode = "en-us"
+languageName = "En"
+weight = 1
+[[menu.footer]]
+URL = "faq"
+name = "FAQ"
+weight = 6
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 5
+[[menu.footer]]
+URL = "info"
+name = "Info"
+weight = 1
+[[menu.footer]]
+URL = "privacy"
+name = "Privacy"
+weight = 4
+[[menu.footer]]
+URL = "blog"
+name = "Blog"
+weight = 3
+[[menu.main]]
+URL = "info"
+name = "Info"
+weight = 1
+[[menu.main]]
+URL = "team"
+name = "team"
+weight = 5
+[[menu.main]]
+URL = "patchathon"
+name = "Patchathon"
+weight = 2
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 4
+[[menu.main]]
+URL = "community"
+name = "Community"
+weight = 3
+[[menu.main]]
+URL = "faq"
+name = "FAQ"
+weight = 6
+[params]
+address = "Physical Address?"
+author = "PatchXR"
+contact_form_action = "#"
+description = "Patch is a native VR authoring tool that lets you build brand new digital instruments and play electronic music in a 3D space like never before."
+email = "info@patchxr.com"
+google_analitycs_id = ""
+home = "Home"
+logo = "images/logo.png"
+logo_1 = "images/logo-1.png"
+logo_light = "images/logo-alt.png"
+mobile = "+555555555"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themefisher-font/themefisher-font.min.css"
+[[params.plugins.css]]
+link = "plugins/owl-carousel/owl.carousel.min.css"
+[[params.plugins.css]]
+link = "plugins/aos/aos.css"
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/owl-carousel/owl.carousel.min.js"
+[[params.plugins.js]]
+link = "plugins/aos/aos.js"
+[[params.plugins.js]]
+link = "plugins/jquery.bootstrap-autohidingnavbar.js"
+[params.preloader]
+enable = false
+preloader = "/images/logo-1.png"
+[[params.social]]
+URL = "https://www.facebook.com/patch.xr/"
+icon = "tf-ion-social-facebook"
+[[params.social]]
+URL = "https://twitter.com/patch_xr"
+icon = "tf-ion-social-twitter"
+[[params.social]]
+URL = "https://www.instagram.com/patch.xr/"
+icon = "tf-ion-social-instagram"
+[[params.social]]
+URL = "https://www.youtube.com/channel/UCk_Ekjvy67qnNo-iM4-F_bA"
+icon = "tf-ion-social-youtube"
+[[params.social]]
+URL = "https://www.linkedin.com/company/patch-xr/"
+icon = "tf-ion-social-linkedin"
+[[params.social]]
+URL = "https://www.twitch.tv/patchxr"
+icon = "tf-ion-social-twitch"

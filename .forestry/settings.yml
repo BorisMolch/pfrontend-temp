@@ -1,0 +1,52 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: static/admin
+webhook_url: 
+sections:
+- type: document
+  path: data/en/homepage.yml
+  label: Homepage
+- type: document
+  path: data/en/about.yml
+  label: Info
+- type: document
+  path: data/en/patchathon.yml
+  label: Patchathon
+- type: directory
+  path: content/community
+  label: Community
+  create: documents
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - patch-post
+- type: directory
+  path: content/blog
+  label: Blog
+  create: documents
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - blog-post
+- type: document
+  path: data/en/team.yml
+  label: Team
+- type: document
+  path: data/en/faq.yml
+  label: FAQ
+upload_dir: static/uploads
+public_path: "/uploads"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+build:
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.75.1
+  preview_output_directory: public
+  preview_docker_image: forestryio/hugo:latest
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: hugo server -D -E -F --renderToDisk -d public
+version: 0.75.1

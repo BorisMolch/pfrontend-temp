@@ -1,0 +1,44 @@
+---
+intro:
+  title: WE ORGANIZE COLLABORATIVE HACKLAB TO BUILD SOUND IN VR
+  description: You are a visual/media artist, a developers, a composer, a sound designers,
+    a DIY producer, or you are simply interested in exploring the potential of VR/XR.
+    Take part in our next Patchathon to learn the rope of our sonic engine and create
+    your own instruments and interactive musical worlds.
+  enable: true
+  subtitle: Check out our event list for our upcoming events !
+promo:
+  enable: true
+  title: 'PATCHATHON #1 @ A MAZE. / Berlin 2020 - Total Digital'
+  content: |+
+    The first-ever, week-long virtual, hack-lab using our sonic engine spatial tools.
+    Ten internationally multimedia artists have been selected from an open call to join the PatchXR team mentored by Peter Kirn (Founder@CDM) in a six-day workshop to produce an original audiovisual experience, building musical instruments, and create an artistic performances in VR, using our authoring tools. The judging Panel presided by Muki Kulhan gathered technology, music, art and spatial-interactive design experts: Oisin Lunny (Audio Matters Podcast), Rafi Nizam (Rafianimates), and Karim Fanous (Abbey Road Red).
+
+  video_thumb: images/patchxrtv.jpg
+  video_embed_url: https://www.youtube.com/embed/dAheG6W3QAE?autoplay=1
+gallery:
+  enable: true
+  gallery_item:
+  - image: "/uploads/faces2.jpg"
+  - image: images/patchathon1.jpg
+  - image: images/patch2.png
+event:
+  enable: true
+  title: Patchathon event calendar
+  event_post:
+  - title: 'A MAZE. / Total Digital 2020 / Patchathon #1'
+    location: 17 - 23 July 2020, Online
+    deadlines:
+    - '11 July: Application deadline, 23:59 Berlin CET.'
+    - '13 July: Participants notified.'
+    - '17-23 July: Workshop, online on Twitch.'
+    - '25 July: Live performances streamed at A MAZE.'
+    details: Visual/media artists, VR/XR artists and developers, Musicians, Composers
+      and electronic music producers, Sound designers.
+    form_action: "#"
+    points:
+    - 'VR headset: HTC Vive, Oculus Rift S, Oculus Quest'
+    - 'PC Minimum-specs: Win 10 64-bit, Intel i5-2500K, dedicated GPU (GTX970), 8GB
+      RAM, or better.'
+    - A problem solving mindset and some knowledge of digital music creation.
+    - Don’t worry - you will not need to do any coding!

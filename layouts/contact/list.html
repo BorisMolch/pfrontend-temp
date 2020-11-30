@@ -1,0 +1,52 @@
+{{ define "main" }}
+
+{{ "<!-- Page Title -->" | safeHTML }}
+<section class="section page-title">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 m-auto">
+        <h1>{{ .Title }}</h1>
+        <p>{{ .Params.Description }}</p>
+  <!--      <p>{{ .Content }}</p>-->
+      </div>
+    </div>
+  </div>
+</section>
+{{ "<!-- End of Page Title -->" | safeHTML }}
+
+{{ with .Site.Params.contact_form_action }}
+<section class="contact-form section">
+  <div class="container">
+    <div class="row">
+      <div class="col-6">
+        <h2 class="mb-4">{{ i18n "contact_form" }}</h2>
+      </div>
+      <div class="col-6">
+        <form action="{{ . }}"  class="row">
+          {{ "<!-- Name -->" | safeHTML }}
+          <div class="col-md-6">
+            <input class="form-control main" type="text" placeholder="Name" required>
+          </div>
+          {{ "<!-- Email -->" | safeHTML }}
+          <div class="col-md-6">
+            <input class="form-control main" type="email" placeholder="Your Email Address" required>
+          </div>
+          {{ "<!-- subject -->" | safeHTML }}
+          <div class="col-md-12">
+            <input class="form-control main" type="text" placeholder="Subject" required>
+          </div>
+          {{ "<!-- Message -->" | safeHTML }}
+          <div class="col-md-12">
+            <textarea class="form-control main" name="message" rows="10" placeholder="Your Message"></textarea>
+          </div>
+          {{ "<!-- Submit Button -->" | safeHTML }}
+          <div class="col-12 text-right">
+            <button type="submit" class="btn btn-main-md">{{ i18n "submit" }}</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}

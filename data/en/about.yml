@@ -1,0 +1,73 @@
+intro:
+  title: About Patch
+  description: Patch is a native VR authoring tool that lets you build brand new digital instruments and play electronic music in a 3D space like never before. Forget about the mouse, control your world with the building blocks of sound, and expand the limits of your imagination, with infinite possibilities.
+
+############################ our story ##############################
+features:
+  enable: true
+  title : "Features"
+  content : "Transform noise into music in no time and explore the wonders of playing with sound synthesis in VR, where you can feel, see and interact with sounds in 3D space. Build your own synthesizer, sequencer, drum pad, or any electronic instrument you can think of, by assembling Patch’s Sonic modules to shape your unique sounds..."
+  image_slider:
+    - image : "images/automata.jpg"
+    - image : "images/automata.jpg"
+    - image : "images/automata.jpg"
+
+############################ behind story ##############################
+behind_story:
+  enable : true
+  title : "Our History"
+  content : "Founded in 2020, we are committed to developing broadly accessible, artistic, emotional and enriching experiences, including award-winning titles blablablla. Our work has exhibited in galleries and exhibitions across the globe, including the induction into Smithsonian’s permanent collection. Our hope is to expand the range of emotional experiences possible in video games, so that it can be enjoyed and loved by people of all ages, cultures and backgrounds."
+
+############################ about us ##############################
+about_us:
+  enable : true
+  about_item:
+    # about item loop
+    - title : "Our Story"
+      image : "images/PatchXRteam.jpg"
+      content : "PatchXR is a software house focused on empowering creativity and expressivity via play and imagination using VR technologies
+"
+
+    # about item loop
+    - title : "What we do"
+      image : "images/automata.jpg"
+      content : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla consequat massa.Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu."
+
+############################ quote slider ##############################
+quote_slider:
+  enable : true
+  slider_item :
+    - quote : "Behind every great product, there is a great mind."
+      quote_by : "TechCrunch"
+
+    - quote : "Another great quote for the website."
+      quote_by : "Webmaster"
+
+############################ clients slider ##############################
+partners_logo_slider:
+  enable : true
+  title : "Our Partners"
+  logos :
+   - "images/partners/1.png"
+   - "images/partners/2.png"
+   - "images/partners/3.png"
+   - "images/partners/4.png"
+   - "images/partners/5.png"
+   - "images/partners/6.png"
+   - "images/partners/7.png"
+   - "images/partners/8.png"
+   - "images/partners/9.png"
+   - "images/partners/10.png"
+   - "images/partners/11.png"
+   - "images/partners/12.png"
+   - "images/partners/13.png"
+
+############################ call to action ##############################
+call_to_action:
+  enable : false
+  title : "Join our community of creators!"
+  content : "Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus."
+  button:
+    enable : true
+    label : "join!"
+    link : "#"

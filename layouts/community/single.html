@@ -1,0 +1,76 @@
+{{ define "main" }}
+
+{{ "<!-- Page Title -->" | safeHTML }}
+<section class="section page-title">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 m-auto">
+        <h1>{{ .Title }}</h1>
+        <p>{{ .Params.Description }}</p>
+  <!--      <p>{{ .Content }}</p>-->
+      </div>
+    </div>
+  </div>
+</section>
+{{ "<!-- End of Page Title -->" | safeHTML }}
+
+{{ "<!-- Single Article -->" | safeHTML }}
+<section class="section pt-0">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-md-6 ">
+
+          <div class="post-body">
+            <div class="content">
+              <p><strong>{{ .Params.author }}</strong><br>
+              {{ .Params.location }}</p>
+              <p class="none">{{ .Params.bio }}</p>
+              <strong>Links:</strong><br>
+              <p><i class="tf-ion-ios-world-outline"></i> {{ .Params.link1 }}<br>
+              <i class="tf-ion-ios-world"></i> <a href="https://{{ .Params.link2 | safeURL }} " target="_blank">{{ .Params.link2 }}</a><br>
+            <i class="tf-ion-social-twitter"></i> <a href="https://www.twitter.com/{{ .Params.twitter }}" target="_blank">{{ .Params.twitter }}</a>
+          </div>
+      </div>
+    </div>
+
+      <div class="col-md-6">
+        <video id="vid1" class="video-js vjs-default-skin" controls autoplay width="512" data-setup='{ "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "https://www.youtube.com/watch?v={{ .Params.video }}"}] }'>
+        </video>
+
+      <!--  <div class="video">
+    <img class="img-fluid shadow" src="{{ .Params.Image | absURL }}" alt="video-thumbnail">
+    <div class="video-button video-box">
+      <a href="javascript:void(0)">
+        <i class="tf-ion-play" data-video="https://www.youtube.com/embed/{{ .Params.video }}?autoplay=1"></i>
+      </a> -->
+    </div>
+  </div>
+
+      </div>
+  <div class="col-md-12">
+
+    </div>
+  </div>
+</div>
+</section>
+{{ "<!-- End of Single Article -->" | safeHTML }}
+
+{{ "<!-- Related Article -->" | safeHTML }}
+<section class="section related-articles bg-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 title">
+        <h2>{{ i18n "relatedcommunity" }}</h2>
+      </div>
+    </div>
+    <div class="row">
+      {{ range last 3 ( where .Site.Pages "Type" "community" )}}
+      {{ .Render "patch"}}
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ "<!-- End of Related Article -->" | safeHTML }}
+
+{{ end }}

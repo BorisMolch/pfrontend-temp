@@ -1,0 +1,110 @@
+---
+intro:
+  title: PatchXR Team
+  description: 'We are artists, designers, engineers, musicians, creators, all unified
+    to bring imagination to technology and empower artists with the right tools and
+    frame work to let them create mind-blowing stuff. '
+team_small:
+  enable: true
+  team_section:
+  - title: Developers
+    subtitle: PatchXR Genius Development team
+    team_member:
+    - name: Eduardo Fouilloux
+      image: images/team/eduardo.jpg
+      image_webp: images/team/design-team-01.webp
+      designation: 'Co-founder, CEO, creative technologist, Artist '
+      content: Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.
+        Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus
+        suscipit tortor eget felis porttitor volutpat.
+      social:
+      - icon: tf-ion-social-facebook
+        link: "#"
+      - icon: tf-ion-social-twitter
+        link: "#"
+      - icon: tf-ion-social-instagram
+        link: "#"
+    - name: Mélodie Mousset
+      image: images/team/melodie.jpg
+      image_webp: images/team/design-team-02.webp
+      designation: Co-founder, Art direction, Marketing director
+      content: Mélodie Mousset is a French contemporary artist based in Zurich, Switzerland.
+        Involuntarily pioneer in the field of new media art, Mélodie is passionate
+        about expending different forms of being human combining art and technology.
+      social:
+      - icon: tf-ion-social-facebook
+        link: "#"
+      - icon: tf-ion-social-twitter
+        link: "#"
+      - icon: tf-ion-social-instagram
+        link: "#"
+    - name: Christian Heinrichs, PHD
+      image: images/team/christian.jpg
+      image_webp: images/team/design-team-03.webp
+      designation: Audio direction, audio designer, musician
+      content: Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.
+        Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus
+        suscipit tortor eget felis porttitor volutpat.
+      social:
+      - icon: tf-ion-social-facebook
+        link: "#"
+      - icon: tf-ion-social-twitter
+        link: "#"
+      - icon: tf-ion-social-instagram
+        link: "#"
+    - name: Aleksey Sarapulov
+      image: images/team/aleksey.jpg
+      image_webp: images/team/design-team-03.webp
+      designation: Engine Lead developer
+      content: Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.
+        Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus
+        suscipit tortor eget felis porttitor volutpat.
+      social:
+      - icon: tf-ion-social-facebook
+        link: "#"
+      - icon: tf-ion-social-twitter
+        link: "#"
+      - icon: tf-ion-social-instagram
+        link: "#"
+    - name: Victor Beaupuy
+      image: images/team/victor.jpg
+      image_webp: images/team/design-team-03.webp
+      designation: Technical Director
+      content: Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.
+        Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus
+        suscipit tortor eget felis porttitor volutpat.
+      social:
+      - icon: tf-ion-social-facebook
+        link: "#"
+      - icon: tf-ion-social-twitter
+        link: "#"
+      - icon: tf-ion-social-instagram
+        link: "#"
+    - name: Octa
+      image: images/team/octa.jpg
+      image_webp: images/team/design-team-03.webp
+      designation: Environmental Artist
+      content: Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.
+        Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus
+        suscipit tortor eget felis porttitor volutpat.
+      social:
+      - icon: tf-ion-social-facebook
+        link: "#"
+      - icon: tf-ion-social-twitter
+        link: "#"
+      - icon: tf-ion-social-instagram
+        link: "#"
+call_to_action:
+  enable: false
+  title: We are hunting Genius Developers
+  content: Yeah! Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula
+    elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus. Curabitur
+    non nulla sit amet nisl tempus convallis quis ac lectus.
+  button:
+    enable: true
+    label: join the team
+    link: "#"
+menu:
+  footer:
+    name: Team
+    weight: "7"
