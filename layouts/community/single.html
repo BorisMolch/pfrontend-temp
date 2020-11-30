@@ -26,10 +26,38 @@
               <p><strong>{{ .Params.author }}</strong><br>
               {{ .Params.location }}</p>
               <p class="none">{{ .Params.bio }}</p>
-              <strong>Links:</strong><br>
-              <p><i class="tf-ion-ios-world-outline"></i> {{ .Params.link1 }}<br>
-              <i class="tf-ion-ios-world"></i> <a href="https://{{ .Params.link2 | safeURL }} " target="_blank">{{ .Params.link2 }}</a><br>
-            <i class="tf-ion-social-twitter"></i> <a href="https://www.twitter.com/{{ .Params.twitter }}" target="_blank">{{ .Params.twitter }}</a>
+              <h5>More info:</h5>
+              <p>
+              {{ if isset .Params "link1" }}
+
+              <i class="tf-ion-ios-world-outline"></i> <a href="{{ .Params.link1 | safeURL }} " target="_blank">Web</a>
+
+                {{ end }}
+
+                {{ if isset .Params "link2" }}
+
+              <i class="tf-ion-ios-world"></i> <a href="{{ .Params.link2 | safeURL }} " target="_blank">Alt. Web</a>
+
+              {{ end }}
+
+              {{ if isset .Params "twitter" }}
+
+            <i class="tf-ion-social-twitter"></i> <a href="{{ .Params.twitter }}" target="_blank">Twitter</a>
+
+            {{ end }}
+
+            {{ if isset .Params "youtube" }}
+
+          <i class="tf-ion-social-youtube"></i> <a href="{{ .Params.youtube }}" target="_blank">YouTube</a>
+
+          {{ end }}
+
+          {{ if isset .Params "instagram" }}
+
+        <i class="tf-ion-social-instagram"></i> <a href="{{ .Params.instagram }}" target="_blank">Instagram</a>
+
+        {{ end }}
+
           </div>
       </div>
     </div>

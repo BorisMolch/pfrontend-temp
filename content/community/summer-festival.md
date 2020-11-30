@@ -7,8 +7,7 @@ video: TDFkuwj-R10
 author: Ferran Bertomeu Castells & YenTing Lo
 location: The Netherlands
 link1: https://yentinglo.net/
-link2: ''
-twitter: https://twitter.com/offscoreproject?lang=en
+twitter: https://twitter.com/offscoreproject
 description: In summer 2020, we won’t be able to travel where we hoped to. Instead,
   in Summer Festival we celebrate. Inspired by japanese summer festivals, we try to
   recreate the soundscape and visual themes of night markets and parades of traditional

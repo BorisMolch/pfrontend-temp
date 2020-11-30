@@ -1,8 +1,8 @@
 <div class="col-lg-4 col-md-6 mb-5">
   {{ "<!-- Post -->" | safeHTML }}
   <article class="post-sm">
-    <div class="post-thumb">
-      <a href="{{ .Permalink }}"><img class="img-fluid" src="{{ .Params.Image | absURL }}" alt="{{ .Title }}"></a>
+    <div class="post-thumbs">
+      <a href="{{ .Permalink }}"><img class="post-thumbs img-fluid" src="{{ .Params.Image | absURL }}" alt="{{ .Title }}" style="object-fit: cover; object-position: center;"></a>
     </div>
     <div class="post-title">
       <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>

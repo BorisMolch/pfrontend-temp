@@ -30,30 +30,28 @@ weight = 4
 URL = "blog"
 name = "Blog"
 weight = 3
-[[menu.main]]
-URL = "info"
-name = "Info"
-weight = 1
-[[menu.main]]
-URL = "team"
-name = "team"
-weight = 5
-[[menu.main]]
-URL = "patchathon"
-name = "Patchathon"
-weight = 2
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 4
+
 [[menu.main]]
 URL = "community"
-name = "Community"
+name = "community"
+weight = 2
+[[menu.main]]
+URL = "us"
+name = "us"
 weight = 3
 [[menu.main]]
-URL = "faq"
-name = "FAQ"
+URL = "info"
+name = "works"
+weight = 4
+[[menu.main]]
+URL = "blog"
+name = "blog"
+weight = 5
+[[menu.main]]
+URL = "contact"
+name = "contact"
 weight = 6
+
 [params]
 address = "Physical Address?"
 author = "PatchXR"
