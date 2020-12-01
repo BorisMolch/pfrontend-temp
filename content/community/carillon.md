@@ -9,6 +9,7 @@ location: Berlin / Quebec
 link1: instagram.com/commonolithic
 link2: soundcloud.com/hex_ed)
 twitter: ''
+event: "Patchathon #1"
 description: Carillon is produced by two artists who's sheer love of the instrument,
   the carillon, has brought this project into existence. The work uses a 3d scan of
   a cast bronze bell complete with photographic textures accurate to its real world

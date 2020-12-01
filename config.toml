@@ -3,7 +3,11 @@ disableLanguages = []
 paginate = "6"
 summaryLength = "10"
 theme = "patchxr-hugo"
-title = "PatchXR "
+title = "PatchXR"
+[taxonomies]
+
+  event = "events"
+  artist = "artists"
 [Languages.en]
 contentDir = "content/"
 home = "Home"
