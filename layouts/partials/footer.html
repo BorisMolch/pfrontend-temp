@@ -1,15 +1,54 @@
 {{ "<!-- Footer -->" | safeHTML }}
 <footer class="footer-main">
+  <div class="container text-white">
+    <div class="row">
+        <div class="col">
+          <a href="/community">Community</a><br>
+          <a href="/patchathon">Patchathon</a><br>
+          <a href="/contact">Subscribe</a>
+        </div>
+        <div class="col">
+          <a href="/us">Us</a><br>
+          Philosophy<br>
+          People (Team, board, advisors)<br>
+          Story<br>
+          Partners<br>
+
+
+        </div>
+        <div class="col">
+          <a href="/info">Works</a><br>
+Patchworld<br>
+Jellyfish<br>
+Engine
+</div>
+        <div class="col">
+
+          <a href="/blog">Blog</a><br>
+  <a href="/privacy">Privacy</a><br>
+<br>
+  <a href="/faq">FAQ</a>
+
+</div>
+        <div class="col">
+          <a href="/contact">Contact</a>
+<br>
+Address Zurich<br>
+Address Copenhagen<br>
+info@patchxr.com<br>
+</div>
+    </div>
+</div>
   <div class="container">
     <div class="row">
-      <div class="col-12 text-center">
+      <div class="col-12 text-center mt-5">
         <div class="block">
-          <ul class="list-inline mb-4">
+          <!--<ul class="list-inline mb-4">
             {{ range .Site.Menus.footer }}
             <li class="list-inline-item mx-3"><a class="text-white" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
             {{ end }}
           </ul>
-          <a href="{{ .Site.BaseURL | absLangURL }}"><img src="{{if .Site.Params.logo_light}}{{ .Site.Params.logo_light | absURL }}{{else}}{{ .Site.Params.logo | absURL }}{{ end }}" alt="{{ .Site.Title }}"></a>
+          <a href="{{ .Site.BaseURL | absLangURL }}"><img src="{{if .Site.Params.logo_light}}{{ .Site.Params.logo_light | absURL }}{{else}}{{ .Site.Params.logo | absURL }}{{ end }}" alt="{{ .Site.Title }}"></a>-->
           <ul class="social-icon list-inline">
             {{ range .Site.Params.social }}
             <li class="list-inline-item">
@@ -20,6 +59,9 @@
         </div>
         <span class="text-light">&copy;{{ now.Format "2006"}} PatchXR. All rights reserved · Web by <a href="https://www.1xn.org/" class="text-light" style="font-size: 14px">1XN</a></span>
       </div>
+
+
+
     </div>
   </div>
 </footer>
