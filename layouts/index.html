@@ -171,7 +171,106 @@
 {{ end }}
 {{ "<!-- /Feature -->" | safeHTML }}
 
+{{"<!-- USPs -->" | safeHTML }}
+{{ if $data.homepage.usp.enable }}
+{{ with $data.homepage.usp }}
+<section class="service section bg-gray">
+	<div class="container-fluid p-0">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="section-title">
+					<h2>{{ .title | safeHTML | markdownify }}</h2>
+					<p>{{ .subtitle | safeHTML | markdownify }}</p>
+				</div>
+			</div>
+		</div>
+		<div class="row no-gutters">
+			<div class="col-lg-12 mr-auto align-self-center">
+				<div class="service-box">
+					<div class="row align-items-center">
+						{{ range .usp_item }}
+						<div class="col-md-4 col-xs-12">
+							<div class="service-item">
+								<i class="{{ .icon }} text-gradient3"></i>
+								<h3>{{ .name }}</h3>
+								<p>{{ .content | safeHTML | markdownify }}</p>
+							</div>
+						</div>
+						{{ end }}
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+{{ end }}
+{{ end }}
+{{"<!-- End of USPs -->" | safeHTML }}
 
+
+{{ "<!-- Behind Story -->" | safeHTML }}
+{{ if $data.about.behind_story.enable }}
+{{ with $data.about.behind_story }}
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="section-title mb-0">
+          <h2>{{ .title | safeHTML | markdownify }}</h2>
+          <p>{{ .content | safeHTML | markdownify }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{ "<!-- End of Behind Story -->" | safeHTML }}
+
+
+{{ "<!-- about us -->" | safeHTML }}
+{{ if $data.about.about_us.enable }}
+{{ with $data.about.about_us }}
+<section class="section create-stories pt-0">
+  <div class="container">
+    <div class="row">
+      {{ range .about_item }}
+      <div class="col-lg-6">
+        <div class="block">
+          <img class="img-fluid" src="{{ .image | absURL }}" alt="{{ .title }}">
+          <h3>{{ .title | safeHTML | markdownify }}</h3>
+          <p>{{ .content | safeHTML | markdownify }}</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{ "<!-- End of about us -->" | safeHTML }}
+
+
+{{ "<!-- Quotes Slider -->" | safeHTML }}
+{{ if $data.about.quote_slider.enable }}
+<section class="section quotes pt-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-10 m-auto text-center">
+        <div class="quote-slider owl-carousel owl-theme">
+          {{ range $data.about.quote_slider.slider_item }}
+          <div class="item">
+            <h4>{{ .quote }}</h4>
+            <cite>-{{ .quote_by }}</cite>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ "<!-- End of Quotes Slider -->" | safeHTML }}
 
 {{ "<!-- patchworld -->" | safeHTML }}
 {{ if $data.homepage.patchworld.enable }}
