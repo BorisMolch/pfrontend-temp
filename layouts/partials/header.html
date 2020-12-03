@@ -5,10 +5,12 @@
       aria-expanded="false" aria-label="Toggle navigation">
       <span class="tf-ion-android-menu"></span>
     </button>
-    <div class="topmenu">
     <div class="collapse navbar-collapse text-center" id="navbarNav">
-      <ul class="navbar-nav ml-auto">
+      <ul class="nav navbar-nav ml-auto">
+        {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
+        {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
+        {{- $page_url:= $currentPage.Permalink  | absLangURL }}
         {{ if .HasChildren }}
         <li class="nav-item dropdown dropdown-slide">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
@@ -22,13 +24,16 @@
           </div>
         </li>
         {{ else }}
-        <li class="nav-item">
-          <a class="nav-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+        <li class="nav nav-item">
+          <a class="nav-link" href="{{ $menu_item_url }}">
+             <span {{- if eq $menu_item_url $page_url }} class="active" {{- end }}>
+               {{ .Name }}
+             </span>
+           </a>
         </li>
         {{ end }}
         {{ end }}
       </ul>
-
     <!--  {{ if .IsTranslated }}
       <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
         {{ $siteLanguages := .Site.Languages}}
@@ -49,6 +54,7 @@
       </select>
       {{ end }}-->
     </div>
-    </div>
+
+
   </div>
 </nav>

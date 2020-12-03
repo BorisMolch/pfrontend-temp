@@ -9,9 +9,10 @@ body {
 }
 
 
-.topmenu ul li.active a, .topmenu ul li a:hover {
-    text-decoration:underline;
-    color:#fff;
+
+.active{
+    color: royalblue;
+    font-weight: 600;
 }
 
 .post-thumbs {
