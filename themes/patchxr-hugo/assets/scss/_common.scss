@@ -8,6 +8,12 @@ body {
   // cursor: crosshair;
 }
 
+
+.topmenu ul li.active a, .topmenu ul li a:hover {
+    text-decoration:underline;
+    color:#fff;
+}
+
 .post-thumbs {
 width: 100%;
 height: 240px;

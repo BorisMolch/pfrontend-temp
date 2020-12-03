@@ -85,6 +85,8 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 link = "plugins/aos/aos.js"
 [[params.plugins.js]]
 link = "plugins/jquery.bootstrap-autohidingnavbar.js"
+[[params.plugins.js]]
+link = "plugins/highlight.js"
 [params.preloader]
 enable = false
 preloader = "/images/logo-1.png"
