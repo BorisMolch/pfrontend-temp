@@ -272,6 +272,23 @@
 {{ end }}
 {{ "<!-- End of Quotes Slider -->" | safeHTML }}
 
+{{ "<!-- Related Article -->" | safeHTML }}
+<section class="section related-articles bg-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 title">
+        <h2>{{ i18n "relatedcommunity" }}</h2>
+      </div>
+    </div>
+    <div class="row">
+      {{ range last 3 ( where .Site.Pages "Type" "community"  )}}
+      {{ .Render "patch"}}
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ "<!-- End of Related Article -->" | safeHTML }}
+
 {{ "<!-- Featured Article -->" | safeHTML }}
 <section class="section featured-article">
   <div class="container">
@@ -301,40 +318,6 @@
   </div>
 </section>
 {{ "<!-- End of Featured Article -->" | safeHTML }}
-
-{{ "<!-- Related Article -->" | safeHTML }}
-<section class="section related-articles bg-gray">
-  <div class="container">
-    <div class="row">
-
-    </div>
-    <div class="row">
-      {{ range first 3 ( where .Site.Pages "Type" "post" )}}
-      {{ .Render "post"}}
-      {{ end }}
-    </div>
-  </div>
-</section>
-{{ "<!-- End of Related Article -->" | safeHTML }}
-
-{{ "<!-- Related Article -->" | safeHTML }}
-<section class="section related-articles bg-gray">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 title">
-        <h2>{{ i18n "relatedcommunity" }}</h2>
-      </div>
-    </div>
-    <div class="row">
-      {{ range last 3 ( where .Site.Pages "Type" "community"  )}}
-      {{ .Render "patch"}}
-      {{ end }}
-    </div>
-  </div>
-</section>
-{{ "<!-- End of Related Article -->" | safeHTML }}
-
-
 
 {{ "<!-- patchworld -->" | safeHTML }}
 {{ if $data.homepage.patchworld.enable }}
