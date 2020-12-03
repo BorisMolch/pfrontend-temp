@@ -35,7 +35,7 @@ about_us:
 
 ############################ quote slider ##############################
 quote_slider:
-  enable : true
+  enable : false
   slider_item :
     - quote : "Behind every great product, there is a great mind."
       quote_by : "TechCrunch"
