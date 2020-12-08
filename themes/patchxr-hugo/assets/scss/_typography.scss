@@ -1,5 +1,5 @@
 // Google Font Import
-@import url('https://fonts.googleapis.com/css?family=Lora:400,400i|Raleway:100,200,300,400,600,700,800|Secular+One:400');
+@import url('https://fonts.googleapis.com/css?family=Lora:400,400i|Roboto:100,200,300,400,600,700,800|Secular+One:400');
 
 // Body
 body{
@@ -16,6 +16,7 @@ h1,h2,h3,h4,h5,h6{
 
 h1{
 	font-size: 36px;
+	font-weight:600;
 }
 
 h2{
@@ -31,10 +32,10 @@ h3{
 h4{font-size: 32px;}
 // Others
 p, a, li, blockquote, label{
-	font-size: 20px;
-	font-weight: 600;
+	font-size: 21px;
+	font-weight: 300;
 	letter-spacing: 0;
-	line-height: 25px;
+	line-height: 30px;
 	color: $light;
 	margin-bottom: 0;
 }
