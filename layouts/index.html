@@ -279,7 +279,7 @@
               <li class="postdate mb-0">{{ .PublishDate.Format "January 02, 2006" }}</li>
             </ul>
             <p>{{ .Summary }}</p>
-            <a class="btn btn-main-sm" href="{{ .Permalink }}">{{ i18n "read_more" }}</a>
+            <!--<a class="btn btn-main-sm" href="{{ .Permalink }}">{{ i18n "read_more" }}</a>-->
           </div>
         </article>
       </div>
@@ -319,7 +319,7 @@
 			<p style="padding-bottom: 40px;">	{{ .subtitle | safeHTML | markdownify }}</p>
 				<ul class="list-inline">
 					{{ range .download_buttons }}
-					<li class="list-inline-item">
+					<li class="list-inline-item" data-aos="fade-up">
 						<a href="{{ .link | safeURL }}" class="btn btn-green">
 							<i class="{{ .icon }}"></i>
 							{{ .label }}

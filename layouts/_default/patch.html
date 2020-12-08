@@ -6,13 +6,13 @@
   object-position: center;"></a>
     </div>
     <div class="post-title">
-      <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-      <h6>{{ .Params.Patchevent }}
+      <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+      <h6>{{ .Params.Patchevent }}</h6>
     </div>
     <div class="post-meta">
       <ul class="list-inline">
-        <li class="mb-0"><!--<a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">--><strong>{{ .Params.Author | title }}</strong><!--</a>--></li>
-        <li class="mb-0">{{ .Params.Location }}</li>
+        <li class="mb-0"><!--<a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">--><strong><h5>{{ .Params.Author | title }}</h5></strong><!--</a>--></li>
+        <li class="mb-0"><h6>{{ .Params.Location }}</h6></li>
       </ul>
     </div>
   <!--  <div class="post-details">
