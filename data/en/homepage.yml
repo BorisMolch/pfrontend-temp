@@ -134,3 +134,8 @@ usp:
     icon: tf-ion-android-contacts
     image: collaborative.svg
     content: Collaborate and play music remotely together in real-time.
+company:
+  enable: true
+  address1: Address Zurich
+  address2: Address Copenhagen
+  email: info@patchxr.com   

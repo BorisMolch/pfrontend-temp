@@ -33,9 +33,14 @@ Engine
         <div class="col">
           <a class="text-dark"href="/contact">Contact</a>
 <br>
-Address Zurich<br>
-Address Copenhagen<br>
-info@patchxr.com<br>
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ if $data.homepage.company.enable }}
+{{ with $data.homepage.company }}
+{{ .address1 }}<br>
+{{ .address2 }}<br>
+{{ .email }}<br>
+{{ end }}
+{{ end }}
 </div>
     </div>
 </div>
