@@ -298,7 +298,7 @@
       </div>
     </div>
     <div class="row">
-      {{ range last 3 ( where .Site.Pages "Section" "community"  )}}
+      {{ range last 3 ( where .Site.Pages "Type" "community"  ) }}
       {{ .Render "patch"}}
       {{ end }}
     </div>
