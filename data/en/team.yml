@@ -95,7 +95,7 @@ team_small:
       - icon: tf-ion-social-instagram
         link: "#"
 call_to_action:
-  enable: false
+  enable: true
   title: We are hunting Genius Developers
   content: Yeah! Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula
     elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus. Curabitur
