@@ -35,7 +35,6 @@ sections:
 - type: document
   path: data/en/jobs.yml
   label: Jobs
-  match: "**/*"
 - type: document
   path: data/en/faq.yml
   label: FAQ

@@ -17,7 +17,7 @@ fields:
 - type: file
   name: image
   label: image
-  description: Max size. 1920x1080px - Compressed jpg (approx. 500kb)
+  description: Do not use .PNG! only Compressed jpg (approx. 250kb)
 - type: text
   name: video
   label: video
