@@ -38,6 +38,10 @@ sections:
 - type: document
   path: data/en/faq.yml
   label: FAQ
+- type: document
+  path: i18n/en.yaml
+  label: i18n / Strings
+  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
