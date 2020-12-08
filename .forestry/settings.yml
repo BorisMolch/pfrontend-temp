@@ -40,8 +40,7 @@ sections:
   label: FAQ
 - type: document
   path: i18n/en.yaml
-  label: i18n / Strings
-  match: "**/*"
+  label: Misc. Strings
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
