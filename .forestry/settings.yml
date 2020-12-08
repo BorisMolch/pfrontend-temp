@@ -7,20 +7,6 @@ sections:
 - type: document
   path: data/en/homepage.yml
   label: Homepage
-- type: document
-  path: data/en/about.yml
-  label: Info
-- type: document
-  path: data/en/patchathon.yml
-  label: Patchathon
-- type: directory
-  path: content/community
-  label: Community
-  create: documents
-  match: "**/*"
-  exclude: _index.md
-  templates:
-  - patch-post
 - type: directory
   path: content/blog
   label: Blog
@@ -29,6 +15,20 @@ sections:
   exclude: _index.md
   templates:
   - blog-post
+- type: directory
+  path: content/community
+  label: Community
+  create: documents
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - patch-post
+- type: document
+  path: data/en/patchathon.yml
+  label: Patchathon
+- type: document
+  path: data/en/about.yml
+  label: Info
 - type: document
   path: data/en/team.yml
   label: Team
@@ -40,7 +40,7 @@ sections:
   label: FAQ
 - type: document
   path: i18n/en.yaml
-  label: Misc. Strings
+  label: Extra Strings
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
