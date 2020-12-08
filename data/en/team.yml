@@ -103,7 +103,7 @@ call_to_action:
   button:
     enable: true
     label: join the team
-    link: "#"
+    link: jobs
 menu:
   footer:
     name: Team
