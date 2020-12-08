@@ -1,7 +1,7 @@
 ---
 title: Holofrenia
 date: 2019-02-28T12:35:54.000+06:00
-image: "/uploads/capture-d-ecran-2020-11-21-a-19-41-34.png"
+image: "/uploads/holofrenia.jpg"
 video: dwXqqi5O-1Q
 author: Julian Bonequi
 location: Mexico/Berlin

@@ -2,7 +2,7 @@
 title: Urchin
 item: patch
 date: 2019-11-28T12:35:54.000+06:00
-image: "/uploads/capture-d-ecran-2020-11-22-a-15-07-45.png"
+image: "/uploads/urchin.jpg"
 video: 1O9zyKPB5cY
 author: Przemek Danowski
 location: Warsaw
