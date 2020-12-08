@@ -1,0 +1,59 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ with $data.jobs.intro }}
+{{ "<!-- Page Title -->" | safeHTML }}
+<section class="section page-title">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 m-auto">
+        <h1>{{ .title }}</h1>
+        <p>{{ .description }}</p>
+  <!--      <p>{{ .Content }}</p>-->
+      </div>
+    </div>
+  </div>
+</section>
+{{ "<!-- End of Page Title -->" | safeHTML }}
+{{ end }}
+
+{{ "<!-- FAQ Section -->" | safeHTML }}
+<section class="faq section pt-0">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-10 m-auto">
+				<div class="block shadow">
+          {{ $.Scratch.Set "count" 0 }}
+          {{ range $data.jobs.job_list }}
+          {{ $.Scratch.Set "count" (add ($.Scratch.Get "count") 1) }}
+					{{ "<!-- Faq list -->" | safeHTML }}
+					<div class="faq-item">
+						<div class="faq-item-title">
+							<h2>{{ .title }}</h2>
+						</div>
+						<div id="accordions{{$.Scratch.Get `count`}}" data-children=".item">
+              {{ $.Scratch.Set "counter" 0 }}
+              {{ range .job_item }}
+              {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+						  <div class="item">
+						  	<div class="item-link">
+							    <i class="tf-ion-ios-arrow-right"></i><a data-toggle="collapse" data-parent="#accordions{{$.Scratch.Get `count`}}" href="#accordion{{$.Scratch.Get `count`}}{{$.Scratch.Get `counter`}}">{{ .title | markdownify }}</a>
+						  	</div>
+						    <div id="accordion{{$.Scratch.Get `count`}}{{$.Scratch.Get `counter`}}" class="collapse accordion-block">
+						      <p>{{ .description | markdownify }}</p>
+                  <p><a href="/contact">Contact us to apply</a></p>
+						    </div>
+						  </div>
+              {{ end }}
+						</div>
+					</div>
+          {{ end }}
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+{{ "<!--====  End of FAQ Section  ====-->" | safeHTML }}
+
+{{ end }}

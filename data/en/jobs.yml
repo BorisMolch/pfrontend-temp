@@ -1,0 +1,15 @@
+---
+intro:
+  title: Jobs
+  description: Join our team and help us develop fantastic VR software. We are always looking for new talent to expand our team at PatchXR. If you are looking for a job and like what we are doing, these are the current Jobs at PatchXR.
+job_list:
+- title: Engineering Team
+  job_item:
+  - title: Senior Unity Developer
+    description: Numquam at vel illo mollitia vel nam corporis. Officiis et deserunt natus. Est animi vel dicta quod. Libero in illo iusto exercitationem inventore veniam dolorum. Aut consequatur est pariatur voluptatem qui ex pariatur alias.
+  - title: VR developer
+    description: Numquam at vel illo mollitia vel nam corporis. Officiis et deserunt natus. Est animi vel dicta quod. Libero in illo iusto exercitationem inventore veniam dolorum. Aut consequatur est pariatur voluptatem qui ex pariatur alias.
+- title: Web Team
+  job_item:
+  - title: Backend developer
+    description: "We are looking for an experienced Back-end developer to join our IT team. You will be responsible for the server side of our web applications. If you have excellent programming skills and a passion for developing applications or improving existing ones, we would like to meet you. As a Back-end developer, you’ll work closely with our engineers to ensure system consistency and improve user experience."
