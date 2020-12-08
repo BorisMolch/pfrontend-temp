@@ -40,7 +40,7 @@ sections:
   label: FAQ
 - type: document
   path: i18n/en.yaml
-  label: Extra Strings
+  label: i18n Strings
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
