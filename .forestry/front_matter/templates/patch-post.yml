@@ -17,6 +17,7 @@ fields:
 - type: file
   name: image
   label: image
+  description: Max size. 1920x1080px - Compressed jpg (approx. 500kb)
 - type: text
   name: video
   label: video
@@ -42,6 +43,12 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-- type: text
-  name: bio
-  label: bio
+- name: bio
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Bio
