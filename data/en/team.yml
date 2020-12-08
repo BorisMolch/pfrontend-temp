@@ -96,10 +96,9 @@ team_small:
         link: "#"
 call_to_action:
   enable: true
-  title: We are hunting Genius Developers
-  content: Yeah! Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula
-    elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus. Curabitur
-    non nulla sit amet nisl tempus convallis quis ac lectus.
+  title: Want to work with us?
+  content: We are always on the look for talented individuals to join the PatchXR
+    team.
   button:
     enable: true
     label: join the team
