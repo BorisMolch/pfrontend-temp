@@ -1,6 +1,5 @@
 ---
 title: "Contact Us"
 draft: false
-description : "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta."
+description : "You are a music producer, sound engineer, New media artist, game designer or you run an educational program in this field? Contact us now!"
 ---
-
