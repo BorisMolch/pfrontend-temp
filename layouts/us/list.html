@@ -56,6 +56,28 @@
 {{ end }}
 {{ "<!-- End of Team -->" | safeHTML }}
 
+{{ "<!-- call to action -->" | safeHTML }}
+{{ if $data.team.call_to_action.enable }}
+{{ with $data.team.call_to_action }}
+<section class="section cta-hire bg-gary">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <h2>{{ .title | safeHTML | markdownify }}</h2>
+        <p>{{ .content | safeHTML | markdownify }}</p>
+        {{ if .button.enable }}
+        {{ with .button }}
+        <a href="{{ .link | absLangURL }}" class="btn btn-main">{{ .label }}</a>
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{ "<!-- End of call to action -->" | safeHTML }}
+
 {{ "<!-- Behind Story -->" | safeHTML }}
 {{ if $data.about.behind_story.enable }}
 {{ with $data.about.behind_story }}
@@ -152,27 +174,7 @@
 {{ end }}
 {{ "<!-- End of Investors -->" | safeHTML }}
 
-{{ "<!-- call to action -->" | safeHTML }}
-{{ if $data.team.call_to_action.enable }}
-{{ with $data.team.call_to_action }}
-<section class="section cta-hire bg-gary">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 text-center">
-        <h2>{{ .title | safeHTML | markdownify }}</h2>
-        <p>{{ .content | safeHTML | markdownify }}</p>
-        {{ if .button.enable }}
-        {{ with .button }}
-        <a href="{{ .link | absLangURL }}" class="btn btn-main">{{ .label }}</a>
-        {{ end }}
-        {{ end }}
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-{{ "<!-- End of call to action -->" | safeHTML }}
+
 
 
 {{ end }}
