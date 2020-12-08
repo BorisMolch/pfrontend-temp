@@ -366,13 +366,13 @@
 {{ "<!-- End of Testimonial -->" | safeHTML }}
 
 {{ "<!-- Partners Slider -->" | safeHTML }}
-{{ if $data.about.clients_logo_slider.enable }}
-{{ with $data.about.clients_logo_slider }}
+{{ if $data.about.partners_logo_slider.enable }}
+{{ with $data.about.partners_logo_slider }}
 <section class="section clients bg-white">
   <div class="container">
     <div class="row">
       <div class="col-10 m-auto text-center">
-        <h1 class="partners-title pb-20">{{ .title | upper }}</h1>
+        <h1 class="text-dark">{{ .title }}</h1>
         <div class="client-slider owl-carousel owl-theme">
           {{ range .logos }}
           <div class="item">
