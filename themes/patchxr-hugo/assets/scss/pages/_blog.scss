@@ -203,7 +203,7 @@ blockquote {
 // Pagination
 .pagination-nav {
 	display: flex;
-	justify-content: center;
+	justify-content: left;
 
 	ul.pagination {
 		padding-top: 30px;
@@ -212,11 +212,11 @@ blockquote {
 			margin-right: 10px;
 
 			a {
-				border-radius: 3px;
+				border-radius: 0px;
 				padding: 0;
-				height: 50px;
-				width: 50px;
-				line-height: 50px;
+				height: 40px;
+				width: 40px;
+				line-height: 40px;
 				text-align: center;
 				border-color: transparent;
 				box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.1);
@@ -225,7 +225,7 @@ blockquote {
 
 				&:hover {
 					background-color: $primary-color;
-					color: $light;
+					color: $dark;
 					border-color: transparent;
 				}
 			}
@@ -233,7 +233,7 @@ blockquote {
 
 		.active {
 			a {
-				background-color: $primary-color;
+				background-color: $dark;
 				color: $light;
 				border-color: transparent;
 			}
