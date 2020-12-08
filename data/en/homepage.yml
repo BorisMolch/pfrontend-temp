@@ -8,7 +8,7 @@ banner:
   videourl: https://www.youtube.com/embed/gvUXPecgNK8
 intro:
   enable: true
-  title: PATCH, PLAY & SHARE
+  title: BUILD, PLAY & SHARE
   subtitle: Patch is a native VR authoring tool that lets you build brand new digital
     instruments and play electronic music in a 3D space like never before. Forget
     about the mouse, control your world with the building blocks of sound, and expand
@@ -112,19 +112,25 @@ usp:
   usp_item:
   - name: No coding
     icon: tf-puzzle
+    image: nocoding.svg
     content: Build musical worlds using sound blocks.
-  - name: Gamified
+  - name: Playful
     icon: tf-ribbon
+    image: playful.svg
     content: Learn about music by playing and having fun.
   - name: Community
     icon: tf-ion-android-globe
+    image: community.svg
     content: Share with the whole world from your bedroom.
   - name: Gestural
     icon: tf-ion-android-walk
+    image: gestural.svg
     content: No more mouse clicking, use the whole body gesture to express yourself.
   - name: Immersive
     icon: tf-grid
+    image: immersive.svg
     content: Step inside the music you love and personalize it.
   - name: Collaborative
     icon: tf-ion-android-contacts
+    image: collaborative.svg
     content: Collaborate and play music remotely together in real-time.

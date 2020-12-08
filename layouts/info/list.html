@@ -86,47 +86,7 @@
 {{"<!-- End of USPs -->" | safeHTML }}
 
 
-{{ "<!-- Behind Story -->" | safeHTML }}
-{{ if $data.about.behind_story.enable }}
-{{ with $data.about.behind_story }}
-<section class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <div class="section-title mb-0">
-          <h2>{{ .title | safeHTML | markdownify }}</h2>
-          <p>{{ .content | safeHTML | markdownify }}</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-{{ "<!-- End of Behind Story -->" | safeHTML }}
 
-
-{{ "<!-- about us -->" | safeHTML }}
-{{ if $data.about.about_us.enable }}
-{{ with $data.about.about_us }}
-<section class="section create-stories pt-0">
-  <div class="container">
-    <div class="row">
-      {{ range .about_item }}
-      <div class="col-lg-6">
-        <div class="block">
-          <img class="img-fluid" src="{{ .image | absURL }}" alt="{{ .title }}">
-          <h3>{{ .title | safeHTML | markdownify }}</h3>
-          <p>{{ .content | safeHTML | markdownify }}</p>
-        </div>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-{{ "<!-- End of about us -->" | safeHTML }}
 
 
 {{ "<!-- Quotes Slider -->" | safeHTML }}

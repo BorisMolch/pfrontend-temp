@@ -64,10 +64,10 @@ partners_logo_slider:
 
 ############################ call to action ##############################
 call_to_action:
-  enable : false
+  enable : true
   title : "Join our community of creators!"
-  content : "Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus."
+  content : "You are a music producer, sound engineer, New media artist, game designer or you run an educational program in this field? Contact us now (or subscribe to the mailing list to be informed of our next concerts, and workshops)."
   button:
     enable : true
     label : "join!"
-    link : "#"
+    link : "contact"

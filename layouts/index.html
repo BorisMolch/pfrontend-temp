@@ -191,7 +191,8 @@
 						{{ range .usp_item }}
 						<div class="col-md-4 col-xs-12">
 							<div class="service-item">
-								<i class="{{ .icon }} text-gradient3"></i>
+								<!--<i class="{{ .icon }} text-gradient3"></i>-->
+								<img src="/images/icons/svg/{{ .image }}" height="100px" class="mb-5">
 								<h3>{{ .name }}</h3>
 								<p>{{ .content | safeHTML | markdownify }}</p>
 							</div>
@@ -207,48 +208,32 @@
 {{ end }}
 {{"<!-- End of USPs -->" | safeHTML }}
 
-
-{{ "<!-- Behind Story -->" | safeHTML }}
-{{ if $data.about.behind_story.enable }}
-{{ with $data.about.behind_story }}
-<section class="section">
+{{ "<!-- call to action -->" | safeHTML }}
+{{ if $data.about.call_to_action.enable }}
+{{ with $data.about.call_to_action }}
+<section class="section cta-hire bg-white">
   <div class="container">
     <div class="row">
-      <div class="col-12">
-        <div class=" mb-0 text-left">
-          <h2>{{ .title | safeHTML | markdownify }}</h2>
-          <p>{{ .content | safeHTML | markdownify }}</p>
-        </div>
+      <div class="col-md-12 text-center">
+        <h2>{{ .title | safeHTML | markdownify }}</h2>
+        <p>{{ .content | safeHTML | markdownify }}</p>
+        {{ if .button.enable }}
+        {{ with .button }}
+        <a href="{{ .link | absLangURL }}" class="btn btn-main">{{ .label }}</a>
+        {{ end }}
+        {{ end }}
       </div>
     </div>
   </div>
 </section>
 {{ end }}
 {{ end }}
-{{ "<!-- End of Behind Story -->" | safeHTML }}
+{{ "<!-- End of call to action -->" | safeHTML }}
 
 
-{{ "<!-- about us -->" | safeHTML }}
-{{ if $data.about.about_us.enable }}
-{{ with $data.about.about_us }}
-<section class="section create-stories pt-0">
-  <div class="container">
-    <div class="row">
-      {{ range .about_item }}
-      <div class="col-lg-6">
-        <div class="block">
-          <img class="img-fluid" src="{{ .image | absURL }}" alt="{{ .title }}">
-          <h3>{{ .title | safeHTML | markdownify }}</h3>
-          <p>{{ .content | safeHTML | markdownify }}</p>
-        </div>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-{{ "<!-- End of about us -->" | safeHTML }}
+
+
+
 
 
 {{ "<!-- Quotes Slider -->" | safeHTML }}
@@ -272,28 +257,13 @@
 {{ end }}
 {{ "<!-- End of Quotes Slider -->" | safeHTML }}
 
-{{ "<!-- Related Article -->" | safeHTML }}
-<section class="section related-articles bg-gray">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 title">
-        <h2>{{ i18n "relatedcommunity" }}</h2>
-      </div>
-    </div>
-    <div class="row">
-      {{ range last 3 ( where .Site.Pages "Type" "community"  )}}
-      {{ .Render "patch"}}
-      {{ end }}
-    </div>
-  </div>
-</section>
-{{ "<!-- End of Related Article -->" | safeHTML }}
+
 
 {{ "<!-- Featured Article -->" | safeHTML }}
 <section class="section featured-article">
   <div class="container">
     <div class="row">
-			<div class="col-12 title">
+			<div class="col-12 title mt-5">
 				<h2>{{ i18n "related" }}</h2>
 			</div>
       {{ range first 1 (where .Site.Pages "Type" "featured") }}
@@ -318,6 +288,23 @@
   </div>
 </section>
 {{ "<!-- End of Featured Article -->" | safeHTML }}
+
+{{ "<!-- Related Article -->" | safeHTML }}
+<section class="section related-articles bg-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 title">
+        <h2>{{ i18n "relatedcommunity" }}</h2>
+      </div>
+    </div>
+    <div class="row">
+      {{ range last 3 ( where .Site.Pages "Type" "community"  )}}
+      {{ .Render "patch"}}
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ "<!-- End of Related Article -->" | safeHTML }}
 
 {{ "<!-- patchworld -->" | safeHTML }}
 {{ if $data.homepage.patchworld.enable }}
@@ -401,26 +388,6 @@
 {{ end }}
 {{ "<!-- End of Partners Slider -->" | safeHTML }}
 
-{{ "<!-- call to action -->" | safeHTML }}
-{{ if $data.about.call_to_action.enable }}
-{{ with $data.about.call_to_action }}
-<section class="section cta-hire bg-white">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 text-center">
-        <h2>{{ .title | safeHTML | markdownify }}</h2>
-        <p>{{ .content | safeHTML | markdownify }}</p>
-        {{ if .button.enable }}
-        {{ with .button }}
-        <a href="{{ .link | absLangURL }}" class="btn btn-main">{{ .label }}</a>
-        {{ end }}
-        {{ end }}
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-{{ "<!-- End of call to action -->" | safeHTML }}
+
 
 {{ end }}
