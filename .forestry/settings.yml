@@ -33,6 +33,10 @@ sections:
   path: data/en/team.yml
   label: Team
 - type: document
+  path: data/en/jobs.yml
+  label: Jobs
+  match: "**/*"
+- type: document
   path: data/en/faq.yml
   label: FAQ
 upload_dir: static/uploads
