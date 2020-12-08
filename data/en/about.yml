@@ -1,11 +1,11 @@
 intro:
-  title: About Patch
+  title: Patch
   description: Patch is a native VR authoring tool that lets you build brand new digital instruments and play electronic music in a 3D space like never before. Forget about the mouse, control your world with the building blocks of sound, and expand the limits of your imagination, with infinite possibilities.
 
 ############################ our story ##############################
 features:
   enable: true
-  title : "Features"
+  title : "Patch Features"
   content : "Transform noise into music in no time and explore the wonders of playing with sound synthesis in VR, where you can feel, see and interact with sounds in 3D space. Build your own synthesizer, sequencer, drum pad, or any electronic instrument you can think of, by assembling Patch’s Sonic modules to shape your unique sounds..."
   image_slider:
     - image : "images/automata.jpg"

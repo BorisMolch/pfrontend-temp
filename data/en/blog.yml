@@ -1,5 +1,5 @@
 ############################ blog ##############################
 intro:
   enable: true
-  title : "Blog"
-  description : "Blog description text"
+  title : "PatchXR blog"
+  description : "The latest news and updates about PatchXR and our tools."
