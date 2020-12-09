@@ -75,17 +75,13 @@
 </section>
 {{ end }}
 {{ end }}
-
 {{ "<!-- End of download -->" | safeHTML }}
-
 
 {{ "<!-- Video Promo -->" | safeHTML }}
 {{ if $data.homepage.promo_video.enable }}
 {{ with $data.homepage.promo_video }}
 <section class="video-promo section bg-1" style="background-attachment:local; background-image: url('{{.bg_image | absURL}}')">
-	 exce
 	<img style="display: none;" alt="Bg_image" src="{{ .bg_image | absURL }}" />
-
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -134,7 +130,6 @@
 {{"<!-- /banner-feature -->" | safeHTML}}
 
 {{ "<!-- Feature -->" | safeHTML }}
-
 {{ if $data.homepage.feature.enable }}
 {{ range $i,$p:= $data.homepage.feature.feature_item }}
 <section class="feature section hide-overflow pt-30">
@@ -230,12 +225,6 @@
 {{ end }}
 {{ "<!-- End of call to action -->" | safeHTML }}
 
-
-
-
-
-
-
 {{ "<!-- Quotes Slider -->" | safeHTML }}
 {{ if $data.about.quote_slider.enable }}
 <section class="section quotes pt-0">
@@ -256,8 +245,6 @@
 </section>
 {{ end }}
 {{ "<!-- End of Quotes Slider -->" | safeHTML }}
-
-
 
 {{ "<!-- Featured Article -->" | safeHTML }}
 <section class="section featured-article">
@@ -335,7 +322,6 @@
 {{ end }}
 {{ "<!-- End of patchworld -->" | safeHTML }}
 
-
 {{ "<!-- Testimonial -->" | safeHTML }}
 {{ if $data.homepage.testimonial.enable }}
 {{ with $data.homepage.testimonial }}
@@ -387,7 +373,5 @@
 {{ end }}
 {{ end }}
 {{ "<!-- End of Partners Slider -->" | safeHTML }}
-
-
 
 {{ end }}
