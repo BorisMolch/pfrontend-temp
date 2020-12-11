@@ -136,9 +136,11 @@ usp:
     content: Collaborate and play music remotely together in real-time.
 company:
   enable: true
+  address1title: Office Zurich
   address1street: Musterweg 14
   address1city: 1337 Zurich
   address1country: Switzerland
+  address2title: Office Copenhaguen
   address2street: Refshalevej 209
   address2city: 1432 Copenhagen
   address2country: Denmark
