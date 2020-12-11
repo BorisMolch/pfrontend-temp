@@ -1,5 +1,5 @@
 {{ define "main" }}
-
+{{ $data := index .Site.Data .Site.Language.Lang }}
 {{ "<!-- Page Title -->" | safeHTML }}
 <section class="section page-title">
   <div class="container">
@@ -18,10 +18,26 @@
 <section class="contact-form section">
   <div class="container">
     <div class="row">
-      <div class="col-6">
+      <div class="col-6 text-light">
         <h2 class="mb-4">{{ i18n "contact_form" }}</h2>
+
+          {{ with $data.homepage.company }}
+          <hr>
+          <span class="small"><b>Zurich Office</b></span><br>
+          <span class="small">{{ .address1street }}</span><br>
+          <span class="small">{{ .address1city }}</span><br>
+          <span class="small">{{ .address1country }}</span><br>
+          <hr>
+          <span class="small"><b>Copenhaguen Office</b></span><br>
+          <span class="small">{{ .address2street }}</span><br>
+          <span class="small">{{ .address2city }}</span><br>
+          <span class="small">{{ .address2country }}</span><br>
+
+          {{ end }}
+
       </div>
       <div class="col-6">
+        <h1>Get in touch</h1>
         <form action="{{ . }}"  class="row">
           {{ "<!-- Name -->" | safeHTML }}
           <div class="col-md-6">

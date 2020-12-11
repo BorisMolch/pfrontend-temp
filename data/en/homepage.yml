@@ -136,6 +136,10 @@ usp:
     content: Collaborate and play music remotely together in real-time.
 company:
   enable: true
-  address1: Address Zurich
-  address2: Address Copenhagen
+  address1street: Musterweg 14
+  address1city: 1337 Zurich
+  address1country: Switzerland
+  address2street: Refshalevej 209
+  address2city: 1432 Copenhagen
+  address2country: Denmark
   email: info@patchxr.com
