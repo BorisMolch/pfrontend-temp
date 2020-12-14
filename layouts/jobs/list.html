@@ -6,26 +6,27 @@
 {{ "<!-- Page Title -->" | safeHTML }}
 <section class="section page-title">
   <div class="container">
-    
-      <div class="col-sm-12 m-auto">
+	<div class="row">
+      <div class="col-lg-6">
         <h1>{{ .Title }}</h1>
-        <p>{{ .Description }}</p>
+        <p>{{ .Description }}</p><br>
         <p>{{ .Content }}</p> 
+	</div>
 
-  <div class="row mt-3">
-  <ul>
+	<div class="col border mt-5 pt-5 pb-5">
+  	<ul style="list-style:circle!important;">
     <!-- Ranges through content/jobs/*.md -->
     {{ range .Pages }}
         <li>
 			<a href="{{.Permalink}}">{{.Title}}</a><br>
-			{{.Date.Format "2006-01-02"}} 
+			<div class="small jobdate">{{.Date.Format "2006-01-02"}}</div> 
         </li>
     {{ end }}
 	</ul>
 </div>
-      </div>
-    </div>
-  </div>
+	</div>
+</div>
+
 </section>
 {{ "<!-- End of Page Title -->" | safeHTML }}
 

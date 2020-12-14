@@ -35,13 +35,22 @@ about_us:
 
 ############################ quote slider ##############################
 quote_slider:
-  enable : false
+  enable : true
   slider_item :
-    - quote : "Behind every great product, there is a great mind."
-      quote_by : "TechCrunch"
+    - quote : "Spatial audio"
+      quote_by : "adjusting the frequencies that each ear hears so that sounds can be placed virtually anywhere in 3D space."
 
-    - quote : "Another great quote for the website."
-      quote_by : "Webmaster"
+    - quote : "Interactive venues"
+      quote_by : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    
+    - quote : "Instruments"
+      quote_by : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+    - quote : "Concerts"
+      quote_by : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+    - quote : "Installations"
+      quote_by : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 ############################ clients slider ##############################
 partners_logo_slider:
