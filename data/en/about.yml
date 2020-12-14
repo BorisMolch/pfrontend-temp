@@ -31,7 +31,7 @@ about_us:
     # about item loop
     - title : "What we do"
       image : "images/automata.jpg"
-      content : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla consequat massa.Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu."
+      content : "PatchXR creates tools and games in VR. We are specialised in adapting real time audio systems for use in Virtual Reality and are hard at work creating mind bending audio driven games, collaborative VR audio creation tools and exciting exhibition worthy VR experiences for all ages."
 
 ############################ quote slider ##############################
 quote_slider:
