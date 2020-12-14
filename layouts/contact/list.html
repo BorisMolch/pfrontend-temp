@@ -23,13 +23,15 @@
 
           {{ with $data.homepage.company }}
           <hr>
-          <span class="small"><b>Zurich Office</b></span><br>
+          <span class="small"><b>{{ .address1title }}</b></span><br>
           <span class="small">{{ .address1street }}</span><br>
+          <span class="small">{{ .address1extra }}</span><br>
           <span class="small">{{ .address1city }}</span><br>
           <span class="small">{{ .address1country }}</span><br>
           <hr>
-          <span class="small"><b>Copenhaguen Office</b></span><br>
+          <span class="small"><b>{{ .address2title }}</b></span><br>
           <span class="small">{{ .address2street }}</span><br>
+          <span class="small"> {{ .address2extra }}</span>
           <span class="small">{{ .address2city }}</span><br>
           <span class="small">{{ .address2country }}</span><br>
 

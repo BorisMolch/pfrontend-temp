@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+{{ "<!-- Page Title -->" | safeHTML }}
+<section class="section page-title">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 m-auto">
+        <h1>{{ .Title }}</h1>
+        <p>{{ .Params.Description }}</p>
+  <!--      <p>{{ .Content }}</p>-->
+      </div>
+    </div>
+  </div>
+</section>
+{{ "<!-- End of Page Title -->" | safeHTML }}
+
+{{ "<!-- Single Article -->" | safeHTML }}
+<section class="section blog-single pt-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-10 m-auto">
+        <article class="single-post">
+          <div class="post-body">
+
+            <div class="content">
+              {{ .Content }}
+            </div>
+          </div>
+        </article>
+
+      </div>
+    </div>
+  </div>
+</section>
+{{ "<!-- End of Single Article -->" | safeHTML }}
+
+
+{{ end }}
