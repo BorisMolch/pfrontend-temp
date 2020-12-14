@@ -5,15 +5,6 @@ description : "Creativity is intelligence having fun"
 date: 2020-12-08 
 ---
  
-
-### People admire creativity, and they are always attracted to fun so the combination is fantastic !
-
-PatchXR is a Swiss-Danish software house focused on innovation through play and sensory exploration.
-
-*We believe that the future of Media is Immersive, real-time interactive and personalized*
-
-This is why we are combining the mechanics of building games with computer music to create contentment in extended realities. To do that, we created an inhouse engine that uses playful block-based approach that allows musical instruments to become fantastical worlds that are fully customizable and sharable.
-
 **We are looking for the person to make a social playground for people to play, build and share interactive music worlds remotely in real-time - to empower a community to exchange interactive venues, musical instruments, concerts and more!**
 
 Together, we aim to build a new sonic dimension where our surroundings become shareable interactive music, where you can play with an infinite library of worlds. A new way to build, think, and enjoy music.
