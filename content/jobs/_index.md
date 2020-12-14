@@ -1,5 +1,6 @@
 ---
 title: "Jobs"
 draft: false
-description : "These are our current job openings at PatchXR"
+description : ""
 ---
+Join our team and help us develop fantastic VR software. We are always looking for new talent to expand our team at PatchXR. If you are looking for a job and like what we are doing, these are the current Jobs at PatchXR.

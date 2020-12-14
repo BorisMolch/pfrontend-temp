@@ -1,7 +1,8 @@
 ---
-title: "PatchXR Network Architect Job Posting"
+title: "PatchXR Network Architect"
 draft: false
 description : "Creativity is intelligence having fun"
+date: 2020-12-08 
 ---
  
 
@@ -59,4 +60,8 @@ Creating content is our passion! and have been working on immersive media for ma
 
 Our goal is to change the way we interact with computers and computer music by taking advantage of Extended Reality technologies. To get rid of the limitations of the screen, by replacing the clicking of a mouse for the gestures of the body and get sound touch and vision under one format.
 
+{{< youtube gvUXPecgNK8 >}}
+
 Get in touch. Let's Talk!
+
+# contact@patchxr.com
