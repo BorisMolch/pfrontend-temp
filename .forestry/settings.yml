@@ -32,9 +32,11 @@ sections:
 - type: document
   path: data/en/team.yml
   label: Team
-- type: document
-  path: data/en/jobs.yml
+- type: directory
+  path: content/jobs
   label: Jobs
+  create: documents
+  match: "**/*"
 - type: document
   path: data/en/faq.yml
   label: FAQ
