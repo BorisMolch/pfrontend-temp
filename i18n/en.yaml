@@ -4,8 +4,11 @@
 - id: related
   translation: From the PatchXR blog
 
+- id: latest
+  translation: The latest
+
 - id: relatedcommunity
-  translation: The latest from the Patchworld community
+  translation: From the Patchworld community
 
 - id: posted_by
   translation: Posted by this author
