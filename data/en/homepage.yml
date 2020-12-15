@@ -59,7 +59,7 @@ promo_video:
   bg_image: images/video-back.jpg
   video_embed_url: https://www.youtube.com/embed/gvUXPecgNK8
 testimonial:
-  enable: false
+  enable: true
   testimonial_item:
   - name: Donald Duck , 1xN.org
     image: images/testimonial/feature-testimonial-thumb.jpg

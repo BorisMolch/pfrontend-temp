@@ -225,6 +225,35 @@
 {{ end }}
 {{"<!-- End of USPs -->" | safeHTML }}
 
+{{ "<!-- Testimonial -->" | safeHTML }}
+{{ if $data.homepage.testimonial.enable }}
+{{ with $data.homepage.testimonial }}
+<section class="section testimonial">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="testimonial-slider owl-carousel owl-theme">
+					{{ range .testimonial_item }}
+					{{ "<!-- Testimonial 01 -->" | safeHTML }}
+					<div class="item">
+						<div class="block shadow">
+							<p>{{ .content }}</p>
+							<div class="image">
+								<img src="{{ .image | absURL }}" alt="{{ .name }}">
+							</div>
+							<cite>{{ .name }}</cite>
+						</div>
+					</div>
+					{{ end }}
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+{{ end }}
+{{ end }}
+{{ "<!-- End of Testimonial -->" | safeHTML }}
+
 {{ "<!-- call to action -->" | safeHTML }}
 {{ if $data.about.call_to_action.enable }}
 {{ with $data.about.call_to_action }}
@@ -324,35 +353,6 @@
 {{ end }}
 {{ end }}
 {{ "<!-- End of patchworld -->" | safeHTML }}
-
-{{ "<!-- Testimonial -->" | safeHTML }}
-{{ if $data.homepage.testimonial.enable }}
-{{ with $data.homepage.testimonial }}
-<section class="section testimonial">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-12">
-				<div class="testimonial-slider owl-carousel owl-theme">
-					{{ range .testimonial_item }}
-					{{ "<!-- Testimonial 01 -->" | safeHTML }}
-					<div class="item">
-						<div class="block shadow">
-							<p>{{ .content }}</p>
-							<div class="image">
-								<img src="{{ .image | absURL }}" alt="{{ .name }}">
-							</div>
-							<cite>{{ .name }}</cite>
-						</div>
-					</div>
-					{{ end }}
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-{{ end }}
-{{ end }}
-{{ "<!-- End of Testimonial -->" | safeHTML }}
 
 {{ "<!-- Partners Slider -->" | safeHTML }}
 {{ if $data.about.partners_logo_slider.enable }}
