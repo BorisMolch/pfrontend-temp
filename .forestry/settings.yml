@@ -5,9 +5,6 @@ admin_path: static/admin
 webhook_url: 
 sections:
 - type: document
-  path: content/info/_index.md
-  label: Works/Info
-- type: document
   path: data/en/homepage.yml
   label: Homepage
 - type: directory
@@ -32,6 +29,9 @@ sections:
 - type: document
   path: data/en/about.yml
   label: Info
+- type: document
+  path: content/info/_index.md
+  label: Works/Info
 - type: document
   path: data/en/team.yml
   label: Team
