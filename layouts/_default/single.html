@@ -30,27 +30,8 @@
           </div>
         </article>
         <div class="about-author">
-          <h2>About this author</h2>
-          {{ range where .Site.RegularPages "Title" (.Params.Author | title) }}
-          <div class="media align-items-center">
-            <div class="image">
-              {{ if .Params.Image }}
-              <img style="object-fit: cover;" src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
-              {{else if .Params.Email}}
-              <img style="object-fit: cover;" src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon">
-              {{ end }}
-            </div>
-            <div class="media-body align-self-center">
-              <h3><!--<a class="h4" href="{{ `author/` | relLangURL }}{{ .Title | lower | urlize }}">-->{{ .Title }}</h3>
-              <p>{{ .Content | truncate 150 }}</p>
-              <ul class="list-inline social-links">
-                {{ range .Params.Social }}
-                <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
-                {{ end }}
-              </ul>
-            </div>
-          </div>
-          {{ end }}
+          <h2>About {{ .Site.Params.author }}</h2>
+          <p class="text-light">{{ .Site.Params.description }}</p>
         </div>
       </div>
     </div>
