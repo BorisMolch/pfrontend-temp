@@ -30,6 +30,9 @@ sections:
   path: data/en/about.yml
   label: Info
 - type: document
+  path: content/info/_index.md
+  label: Works/Info
+- type: document
   path: data/en/team.yml
   label: Team
 - type: directory
