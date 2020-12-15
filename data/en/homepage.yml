@@ -38,7 +38,7 @@ feature:
       comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua.
   - title: Build, play and share, interactive sonic worlds in real-time.
-    image: "/images/patch1.jpg"
+    image: "/uploads/m_reader.png"
     image_webp: images/feature/feature-new-02.webp
     content: Transform noise into music in no time and explore the wonders of playing
       with sound synthesis in VR, where you can feel, see and interact with sounds
