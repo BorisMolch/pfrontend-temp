@@ -106,8 +106,9 @@ patchathon:
     and discover what’s possible to make in Patchworld in only a few days.
 usp:
   enable: true
-  title: OUR USPS
-  subtitle: A nice and long subtitle can be used for the USPs
+  title: What Makes Patch Unique?
+  subtitle: Our audio engine combined with immersive 3D worlds create a truly otherworldly
+    VR experience
   image: images/automata.jpg
   usp_item:
   - name: No coding
