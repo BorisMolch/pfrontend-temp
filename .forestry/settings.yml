@@ -5,9 +5,8 @@ admin_path: static/admin
 webhook_url: 
 sections:
 - type: document
-  path: content/info
+  path: content/info/_index.md
   label: Works/Info
-  match: "**/*"
 - type: document
   path: data/en/homepage.yml
   label: Homepage
