@@ -1,82 +1,97 @@
+---
 intro:
   title: Patch
-  description: Patch is a native VR authoring tool that lets you build brand new digital instruments and play electronic music in a 3D space like never before. Forget about the mouse, control your world with the building blocks of sound, and expand the limits of your imagination, with infinite possibilities.
-
-############################ our story ##############################
+  description: "Patch is a native VR authoring tool that lets you build brand new
+    digital instruments and play electronic music in a 3D space like never before.
+    Forget about the mouse, control your world with the building blocks of sound,
+    and expand the limits of your imagination, with infinite possibilities.\n\n\nPatchWorld\nWe
+    are currenly developing PatchWorld, VR Audio driven game for Oculus Rift S, Oculus
+    Quest and Oculus Quest 2. The player is tasked with creating music in 3 fantastical
+    sound worlds with 10 customizable instruments. There are 20 tracks ready for you
+    to rock on, Customizable avatars, and emersive 3D spatial audio. Players can also
+    broadcast and record their session to be vieiwed online by friends. Players will
+    also haev access to a modular and intuitive level editor and an advanced sound
+    production suite.\n\nSinging with Medusa\nIn development together with executive
+    Producer Morten Thorning with support from the Danish Film Institute, Singing
+    with Medusa is a VR art exhibition that allows the viewer to interact with an
+    array of undersea wildlife  using their voice. "
+  subtitle: " "
+  enable: true
 features:
   enable: true
-  title : "Patch Features"
-  content : "Transform noise into music in no time and explore the wonders of playing with sound synthesis in VR, where you can feel, see and interact with sounds in 3D space. Build your own synthesizer, sequencer, drum pad, or any electronic instrument you can think of, by assembling Patch’s Sonic modules to shape your unique sounds..."
+  title: Patch Features
+  content: Transform noise into music in no time and explore the wonders of playing
+    with sound synthesis in VR, where you can feel, see and interact with sounds in
+    3D space. Build your own synthesizer, sequencer, drum pad, or any electronic instrument
+    you can think of, by assembling Patch’s Sonic modules to shape your unique sounds...
   image_slider:
-    - image : "images/automata.jpg"
-    - image : "images/automata.jpg"
-    - image : "images/automata.jpg"
-
-############################ behind story ##############################
+  - image: images/automata.jpg
+  - image: images/automata.jpg
+  - image: images/automata.jpg
 behind_story:
-  enable : true
-  title : "Our History"
-  content : "Founded in 2020, we are committed to developing broadly accessible, artistic, emotional and enriching experiences, including award-winning titles blablablla. Our work has exhibited in galleries and exhibitions across the globe, including the induction into Smithsonian’s permanent collection. Our hope is to expand the range of emotional experiences possible in video games, so that it can be enjoyed and loved by people of all ages, cultures and backgrounds."
-
-############################ about us ##############################
+  enable: true
+  title: Our History
+  content: Founded in 2020, we are committed to developing broadly accessible, artistic,
+    emotional and enriching experiences, including award-winning titles blablablla.
+    Our work has exhibited in galleries and exhibitions across the globe, including
+    the induction into Smithsonian’s permanent collection. Our hope is to expand the
+    range of emotional experiences possible in video games, so that it can be enjoyed
+    and loved by people of all ages, cultures and backgrounds.
 about_us:
-  enable : true
+  enable: true
   about_item:
-    # about item loop
-    - title : "Our Story"
-      image : "images/PatchXRteam.jpg"
-      content : "PatchXR is a software house focused on empowering creativity and expressivity via play and imagination using VR technologies
-"
-
-    # about item loop
-    - title : "What we do"
-      image : "images/automata.jpg"
-      content : "PatchXR creates tools and games in VR. We are specialised in adapting real time audio systems for use in Virtual Reality and are hard at work creating mind bending audio driven games, collaborative VR audio creation tools and exciting exhibition worthy VR experiences for all ages."
-
-############################ quote slider ##############################
+  - title: Our Story
+    image: images/PatchXRteam.jpg
+    content: 'PatchXR is a software house focused on empowering creativity and expressivity
+      via play and imagination using VR technologies '
+  - title: What we do
+    image: images/automata.jpg
+    content: PatchXR creates tools and games in VR. We are specialised in adapting
+      real time audio systems for use in Virtual Reality and are hard at work creating
+      mind bending audio driven games, collaborative VR audio creation tools and exciting
+      exhibition worthy VR experiences for all ages.
 quote_slider:
-  enable : true
-  slider_item :
-    - quote : "Spatial audio"
-      quote_by : "adjusting the frequencies that each ear hears so that sounds can be placed virtually anywhere in 3D space."
-
-    - quote : "Interactive venues"
-      quote_by : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
-    - quote : "Instruments"
-      quote_by : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-    - quote : "Concerts"
-      quote_by : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-    - quote : "Installations"
-      quote_by : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-############################ clients slider ##############################
+  enable: true
+  slider_item:
+  - quote: Spatial audio
+    quote_by: adjusting the frequencies that each ear hears so that sounds can be
+      placed virtually anywhere in 3D space.
+  - quote: Interactive venues
+    quote_by: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+  - quote: Instruments
+    quote_by: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+  - quote: Concerts
+    quote_by: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+  - quote: Installations
+    quote_by: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
 partners_logo_slider:
-  enable : true
-  title : "Our Partners"
-  logos :
-   - "images/partners/1.png"
-   - "images/partners/2.png"
-   - "images/partners/3.png"
-   - "images/partners/4.png"
-   - "images/partners/5.png"
-   - "images/partners/6.png"
-   - "images/partners/7.png"
-   - "images/partners/8.png"
-   - "images/partners/9.png"
-   - "images/partners/10.png"
-   - "images/partners/11.png"
-   - "images/partners/12.png"
-   - "images/partners/13.png"
-
-############################ call to action ##############################
+  enable: true
+  title: Our Partners
+  logos:
+  - images/partners/1.png
+  - images/partners/2.png
+  - images/partners/3.png
+  - images/partners/4.png
+  - images/partners/5.png
+  - images/partners/6.png
+  - images/partners/7.png
+  - images/partners/8.png
+  - images/partners/9.png
+  - images/partners/10.png
+  - images/partners/11.png
+  - images/partners/12.png
+  - images/partners/13.png
 call_to_action:
-  enable : true
-  title : "Join our community of creators!"
-  content : "You are a music producer, sound engineer, New media artist, game designer or you run an educational program in this field? Contact us now (or subscribe to the mailing list to be informed of our next concerts, and workshops)."
+  enable: true
+  title: Join our community of creators!
+  content: You are a music producer, sound engineer, New media artist, game designer
+    or you run an educational program in this field? Contact us now (or subscribe
+    to the mailing list to be informed of our next concerts, and workshops).
   button:
-    enable : true
-    label : "join!"
-    link : "contact"
+    enable: true
+    label: join!
+    link: contact
