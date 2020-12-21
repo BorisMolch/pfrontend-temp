@@ -39,8 +39,8 @@ URL = "community"
 name = "community"
 weight = 2
 [[menu.main]]
-URL = "us"
-name = "us"
+URL = "about"
+name = "about"
 weight = 3
 [[menu.main]]
 URL = "info"
