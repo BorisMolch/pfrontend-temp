@@ -5,7 +5,7 @@ intro:
     to bring imagination to technology and empower artists with the right tools and
     frame work to let them create mind-blowing stuff. '
 team_small:
-  enable: true
+  enable: false
   team_section:
   - title: Developers
     subtitle: PatchXR Genius Development team
