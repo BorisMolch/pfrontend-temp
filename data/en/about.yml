@@ -57,7 +57,7 @@ quote_slider:
       tempor incididunt ut labore et dolore magna aliqua.
 partners_logo_slider:
   enable: true
-  title: Our Partners
+  title: We collaborate with
   logos:
   - images/partners/1.png
   - images/partners/2.png
