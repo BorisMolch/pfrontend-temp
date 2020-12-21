@@ -30,31 +30,31 @@
               <p>
               {{ if isset .Params "link1" }}
 
-              <i class="tf-ion-ios-world-outline"></i> <a href="{{ .Params.link1 | safeURL }} " target="_blank"></a>
+              <a href="{{ .Params.link1 | safeURL }} " target="_blank"><i class="tf-ion-ios-world-outline"></i> </a>
 
                 {{ end }}
 
                 {{ if isset .Params "link2" }}
 
-              <i class="tf-ion-ios-world"></i> <a href="{{ .Params.link2 | safeURL }} " target="_blank"></a>
+               <a href="{{ .Params.link2 | safeURL }} " target="_blank"><i class="tf-ion-ios-world"></i></a>
 
               {{ end }}
 
               {{ if isset .Params "twitter" }}
 
-            <i class="tf-ion-social-twitter"></i> <a href="{{ .Params.twitter }}" target="_blank"></a>
+             <a href="{{ .Params.twitter }}" target="_blank"><i class="tf-ion-social-twitter"></i></a>
 
             {{ end }}
 
             {{ if isset .Params "youtube" }}
 
-          <i class="tf-ion-social-youtube"></i> <a href="{{ .Params.youtube }}" target="_blank"></a>
+          <a href="{{ .Params.youtube }}" target="_blank"><i class="tf-ion-social-youtube"></i></a>
 
           {{ end }}
 
           {{ if isset .Params "instagram" }}
 
-        <i class="tf-ion-social-instagram"></i> <a href="{{ .Params.instagram }}" target="_blank"></a>
+        <a href="{{ .Params.instagram }}" target="_blank"><i class="tf-ion-social-instagram"></i></a>
 
         {{ end }}
 
