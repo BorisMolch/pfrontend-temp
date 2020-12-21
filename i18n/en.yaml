@@ -7,6 +7,9 @@
 - id: latest
   translation: The latest
 
+- id: testimonials
+  translation: What they say about PatchXR
+
 - id: relatedcommunity
   translation: From the Patchworld community
 

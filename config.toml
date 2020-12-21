@@ -43,7 +43,7 @@ URL = "about"
 name = "about"
 weight = 3
 [[menu.main]]
-URL = "info"
+URL = "works"
 name = "works"
 weight = 4
 [[menu.main]]
@@ -65,6 +65,7 @@ google_analitycs_id = ""
 home = "Home"
 logo = "images/logo.png"
 logo_1 = "images/logo-1.png"
+logo_2 = "images/logo-2.png"
 logo_light = "images/logo-alt.png"
 mobile = "+555555555"
 [[params.plugins.css]]

@@ -5,7 +5,7 @@
 {{ "<!-- Hero Section -->" | safeHTML }}
 {{ if $data.homepage.banner.enable }}
 {{ with $data.homepage.banner }}
-<section class="bannerbg section">
+<section class="bannerbg{{ .gif }} section">
 	<div class="container">
 		<div class="row mt-5 text-center">
 			<div class="col-lg-12 text-shadow">
@@ -232,9 +232,14 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
+				<div class="col-12 title mt-5 text-center">
+					<h2>{{ i18n "testimonials" }}</h2>
+				</div>
 				<div class="testimonial-slider owl-carousel owl-theme">
+					
 					{{ range .testimonial_item }}
 					{{ "<!-- Testimonial 01 -->" | safeHTML }}
+
 					<div class="item">
 						<div class="block shadow">
 							<p>{{ .content }}</p>
@@ -310,7 +315,7 @@
 		<div class="row text-center">
 			<div class="col-lg-12">
 				<h2 style="display: none;">Patchathon</h2>
-				<img style="padding-bottom: 20px; width:100%" src="/images/patchworld.png" alt="Patchathon">
+				<img style="padding-bottom: 20px; width:100%" src="/images/patchathon.png" alt="Patchathon">
 				<h2>{{ .title | safeHTML | markdownify }}</h2>
 			<p style="padding-bottom: 40px;">	{{ .subtitle | safeHTML | markdownify }}</p>
 				<ul class="list-inline">
