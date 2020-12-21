@@ -25,7 +25,7 @@ behind_story:
     range of emotional experiences possible in video games, so that it can be enjoyed
     and loved by people of all ages, cultures and backgrounds.
 about_us:
-  enable: true
+  enable: false
   about_item:
   - title: Our Story
     image: images/PatchXRteam.jpg
