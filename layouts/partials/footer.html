@@ -1,36 +1,41 @@
 {{ "<!-- Footer -->" | safeHTML }}
-<footer class="footer-main bg-color">
-  <div class="container text-dark">
-    <div class="row">
-        <div class="col">
-          <a class="text-dark" href="/community">Community</a><br>
-          <a class="text-dark"href="/patchathon">Patchathon</a><br>
-          <a class="text-dark"href="/contact">Subscribe</a>
+<footer class="footer-main">
+  <div class="container text-light">
+    <div class="row footer-links">
+        <div class="col"><span class="footer-title">COMPANY</span><bR>
+          <a href="/about">About</a><br>
+          <a href="/jobs">Careers</a><span class="bubble">WE'RE HIRING</span><br>
+          <a href="/internships">Internships</a><br>
+          <a href="/blog">Blog</a><br>
+          <a href="/press">Press Room</a><br>
         </div>
-        <div class="col">
-          <a class="text-dark"href="/us">Us</a><br>
-          <a class="text-dark"href="/info">Works</a><br>
+        <div class="col"><span class="footer-title">WORKS</span><bR>
+          <a href="/works#patch">Patchworld</a><br>
+          <a href="/works#patchworld">PatchEngine / Patchita</a><br>
+          <a href="/works#singing-with-medusa">Jellyfish</a><br>
 
 
         </div>
-        <div class="col">
-          <a class="text-dark"href="/blog">Blog</a><br>
+        <div class="col"><span class="footer-title">RESOURCES</span><bR>
+          <a href="#">Documentation</a><br>
+          <a href="/downloads">Downloads</a><br>
+          <a href="/faq">FAQ</a>
 
-  <a class="text-dark"href="/jobs">Jobs</a><br>
   
 </div>
-        <div class="col">
+        <div class="col"><span class="footer-title">SUPPORT</span><bR>
 
-          <a class="text-dark"href="/privacy">Privacy</a><br>
-          <a class="text-dark"href="/faq">FAQ</a>
+          <a href="#">Forum</a><br>
+          <a href="#">Discord</a><br>
+          <a href="#">Reddit</a><br>
+          <a href="/contact">Contact Us</a><br>
 </div>
         <div class="col">
-          <a class="text-dark"href="/contact">Contact</a>
-<br>
+
 {{ $data := index .Site.Data .Site.Language.Lang }}
 {{ if $data.homepage.company.enable }}
 {{ with $data.homepage.company }}
-<hr>
+
 <span class="small"><b>{{ .address1title }}</b></span><br>
 <span class="small">{{ .address1street }}</span><br>
 <span class="small">{{ .address1extra }}</span><br>
@@ -66,7 +71,7 @@
             {{ end }}
           </ul>
         </div>
-        <span class="text-dark">&copy;{{ now.Format "2006"}} PatchXR. All rights reserved · Web by <a href="https://www.1xn.org/" class="text-dark" style="font-size: 14px">1XN</a></span>
+        <span class="text-dark">&copy;{{ now.Format "2006"}} PatchXR. All rights reserved · Web by <a href="https://www.1xn.org/" class="text-dark" style="font-size: 14px">1XN</a> - <a class="text-dark"style="font-size: 14px" href="/privacy">Privacy Policy</a></span>
       </div>
 
 

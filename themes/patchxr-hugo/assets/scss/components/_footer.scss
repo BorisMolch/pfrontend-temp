@@ -1,9 +1,38 @@
 .footer-main{
 	padding: 42px 0;
-	background: $light-gray!important;
+	background: $dark-gray!important;
 	@include tablet {
 		padding: 50px 0;
+
 	}
+
+.bubble {
+	margin-left: 10px; 
+	font-size: 9px!important; 
+	background-color: purple;
+	border-radius: 10px; 
+	padding: 3px
+}
+	.footer-title { color: $light-gray;}
+
+	.footer-links {
+
+		a{
+			text-decoration: none;
+			border-radius: 100%;
+			color: $light;
+			text-align: left;
+			font-size:14px;
+		}
+
+		a:hover {
+			color: $text-red;
+		}
+
+
+
+	}
+
 	.block{
 		img{
 			margin-bottom: 20px;
@@ -19,8 +48,7 @@
 					width: 38px;
 					height: 38px;
 			        border-radius: 100%;
-
-					color: $dark;
+					color: $light;
 					text-align: center;
 					line-height: 38px;
 				}
@@ -44,8 +72,8 @@
 				margin-bottom: 10px;
 				list-style: none;
 				a{
-					font-size: 14px;
-					color: #6f6f71;
+					font-size: 12px;
+					color: $light;
 					transition: .2s ease;
 					&:hover{
 						color: $light;
@@ -71,7 +99,7 @@
 				display: block;
 				i{
 					font-size: 25px;
-					color: $dark;
+					color: $light;
 				}
 			}
 		}
@@ -84,7 +112,7 @@
 				font-weight: bold;
 				text-transform: uppercase;
 				font-size: 14px;
-				color: $dark;
+				color: $light;
 			}
 		}
 	}
