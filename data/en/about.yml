@@ -16,7 +16,7 @@ features:
   - image: images/automata.jpg
   - image: images/automata.jpg
 behind_story:
-  enable: true
+  enable: false
   title: Our History
   content: Founded in 2020, we are committed to developing broadly accessible, artistic,
     emotional and enriching experiences, including award-winning titles blablablla.
