@@ -5,9 +5,18 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-12 m-auto">
-        <h1>{{ .Title }}</h1>
-        <p>{{ .Params.Description }}</p>
+        <div class="video">
+          <img class="img-fluid shadow" src="{{ .Params.Image | absURL }}" alt="video-thumbnail">
+          <div class="video-button video-box">
+            <a href="javascript:void(0)">
+              <i class="tf-ion-play" data-video="https://www.youtube.com/embed/{{ .Params.video }}?autoplay=1"></i>
+            </a> 
+          </div>
+        </div>
+        
   <!--      <p>{{ .Content }}</p>-->
+
+  
       </div>
     </div>
   </div>
@@ -19,61 +28,57 @@
   <div class="container">
 
     <div class="row">
-      <div class="col-md-6 ">
+      <div class="col-md-8 ">
+        <h1>{{ .Title }}</h1>
+        
+        <p>{{ .Params.Description }}</p>
 
-          <div class="post-body">
-            <div class="content">
-              <p><strong>{{ .Params.author }}</strong><br>
-              {{ .Params.location }}</p>
-              <p class="none">{{ .Params.bio }}</p>
-              <h5>More info:</h5>
-              <p>
-              {{ if isset .Params "link1" }}
+    </div>
 
-              <a href="{{ .Params.link1 | safeURL }} " target="_blank"><i class="tf-ion-ios-world-outline"></i> </a>
+    <div class="col-md-4" style="border-left: 1px solid white;">
 
-                {{ end }}
+      <div class="post-body">
+        <div class="content">
 
-                {{ if isset .Params "link2" }}
+          <p style="font-size:1em; line-height: 1.2em;"><strong>{{ .Params.author }}</strong><br>
+            {{ .Params.location }}</p>
+          
+          <p style="font-size:1em; line-height: 1.2em;">{{ .Params.bio }}</p>
+          
+          <p>
+          {{ if isset .Params "link1" }}
 
-               <a href="{{ .Params.link2 | safeURL }} " target="_blank"><i class="tf-ion-ios-world"></i></a>
-
-              {{ end }}
-
-              {{ if isset .Params "twitter" }}
-
-             <a href="{{ .Params.twitter }}" target="_blank"><i class="tf-ion-social-twitter"></i></a>
+          <a href="{{ .Params.link1 | safeURL }} " target="_blank"><i class="tf-ion-ios-world-outline"></i> </a>
 
             {{ end }}
 
-            {{ if isset .Params "youtube" }}
+            {{ if isset .Params "link2" }}
 
-          <a href="{{ .Params.youtube }}" target="_blank"><i class="tf-ion-social-youtube"></i></a>
+           <a href="{{ .Params.link2 | safeURL }} " target="_blank"><i class="tf-ion-ios-world"></i></a>
 
           {{ end }}
 
-          {{ if isset .Params "instagram" }}
+          {{ if isset .Params "twitter" }}
 
-        <a href="{{ .Params.instagram }}" target="_blank"><i class="tf-ion-social-instagram"></i></a>
+         <a href="{{ .Params.twitter }}" target="_blank"><i class="tf-ion-social-twitter"></i></a>
 
         {{ end }}
 
-          </div>
+        {{ if isset .Params "youtube" }}
+
+      <a href="{{ .Params.youtube }}" target="_blank"><i class="tf-ion-social-youtube"></i></a>
+
+      {{ end }}
+
+      {{ if isset .Params "instagram" }}
+
+    <a href="{{ .Params.instagram }}" target="_blank"><i class="tf-ion-social-instagram"></i></a>
+
+    {{ end }}
+
       </div>
-    </div>
-
-      <div class="col-md-6">
-        <video id="vid1" class="video-js vjs-default-skin" controls autoplay width="512" data-setup='{ "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "https://www.youtube.com/watch?v={{ .Params.video }}"}] }'>
-        </video>
-
-      <!--  <div class="video">
-    <img class="img-fluid shadow" src="{{ .Params.Image | absURL }}" alt="video-thumbnail">
-    <div class="video-button video-box">
-      <a href="javascript:void(0)">
-        <i class="tf-ion-play" data-video="https://www.youtube.com/embed/{{ .Params.video }}?autoplay=1"></i>
-      </a> -->
-    </div>
   </div>
+
 
       </div>
   <div class="col-md-12">
@@ -93,7 +98,7 @@
       </div>
     </div>
     <div class="row">
-      {{ range last 3 ( where .Site.Pages "Type" "community" )}}
+      {{ range last 6 ( where .Site.Pages "Type" "community" )}}
       {{ .Render "patch"}}
       {{ end }}
     </div>
