@@ -1,7 +1,6 @@
 {{ define "main" }}
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
-
 {{ "<!-- Hero Section -->" | safeHTML }}
 {{ if $data.homepage.banner.enable }}
 {{ with $data.homepage.banner }}

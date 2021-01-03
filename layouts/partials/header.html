@@ -1,6 +1,26 @@
+<style>
+#top-alert 
+  {
+  position: fixed;
+  bottom: 0;
+  z-index: 99999;
+  }
+</style>
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ if $data.homepage.alert.enable }}
+{{ with $data.homepage.alert }}
+<div id="top-alert" class="alert alert-{{ .type }}" role="alert">
+  <button type="button" class="close" data-dismiss="alert">×</button>
+  <strong>{{ .title }}</strong> <a style="font-size: 1em; color: black" href="/jobs">{{ .text }}</a>
+</div>
+{{ end }}
+{{ end }}
 <nav id="navbar" class="navbar main-nav navbar-expand-lg p-0 navbar-fixed-top bg-black">
+
   <div class="container">
+
     <a class="navbar-brand" href="{{ .Site.BaseURL | absLangURL }}"><img style="width:30%" src="{{ .Site.Params.logo_2 | absURL }}" alt="logo"></a>
+
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav"
       aria-expanded="false" aria-label="Toggle navigation">
       <span class="tf-ion-android-menu" style="color:white!important;"></span>
