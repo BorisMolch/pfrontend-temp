@@ -11,7 +11,7 @@
 {{ with $data.homepage.alert }}
 <div id="top-alert" class="alert alert-{{ .type }}" role="alert">
   <button type="button" class="close" data-dismiss="alert">×</button>
-  <strong>{{ .title }}</strong> <a style="font-size: 1em; color: black" href="/jobs">{{ .text }}</a>
+  <strong>{{ .title }}</strong> <a style="font-size: 1em; color: black" href="/{{ .link }}">{{ .text }}</a>
 </div>
 {{ end }}
 {{ end }}

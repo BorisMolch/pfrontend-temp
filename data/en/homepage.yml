@@ -1,9 +1,10 @@
 ---
 alert:
-  enable: false
-  type: success
+  enable: true
+  type: info
   title: We are Hiring!
   text: Check out our jobs page.
+  link: jobs
 banner:
   enable: true
   title: patchXR
