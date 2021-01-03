@@ -7,13 +7,13 @@
 <section class="section page-title">
   <div class="container">
 	<div class="row">
-      <div class="col-lg-6">
+      <div class="col-lg-8">
         <h1>{{ .Title }}</h1>
         <p>{{ .Description }}</p><br>
         <p>{{ .Content  }}</p> 
 	</div>
 
-	<div class="col border mt-5 pt-5 pb-5">
+	<div class="col border-left mt-5 pt-5 pb-5">
   	<ul style="list-style:circle!important;">
     <!-- Ranges through content/jobs/*.md -->
     {{ range .Pages }}
