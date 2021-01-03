@@ -1,7 +1,7 @@
 ---
 alert:
   enable: true
-  type: info
+  type: success
   title: We are Hiring!
   text: Check out our jobs page.
   link: jobs
@@ -12,7 +12,7 @@ banner:
   content: WHERE MUSICAL INSTRUMENTS BECOME FANTASTICAL WORLDS
   videotext: 'Watch a short video clip:'
   videourl: https://www.youtube.com/embed/gvUXPecgNK8
-  gif: 1
+  gif: "1"
 intro:
   enable: true
   title: BUILD, PLAY & SHARE
@@ -99,7 +99,9 @@ testimonial:
 patchworld:
   enable: true
   title: Join our community of creators!
-  subtitle: You are a music producer, sound engineer, New media artist, game designer or you run an educational program in this field? Contact us now (or subscribe to the mailing list to be informed of our next concerts, and workshops).
+  subtitle: You are a music producer, sound engineer, New media artist, game designer
+    or you run an educational program in this field? Contact us now (or subscribe
+    to the mailing list to be informed of our next concerts, and workshops).
   download_buttons:
   - label: Join now
     icon: tf-ion-none
