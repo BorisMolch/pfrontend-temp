@@ -4,6 +4,7 @@
 <section class="section page-title">
   <div class="container">
     <div class="row">
+
       <div class="col-sm-12 m-auto">
         <div class="video">
           <img class="img-fluid shadow" src="{{ .Params.Image | absURL }}" alt="video-thumbnail">
@@ -13,8 +14,8 @@
             </a> 
           </div>
         </div>
-        
-  <!--      <p>{{ .Content }}</p>-->
+
+
 
   
       </div>
@@ -81,29 +82,19 @@
 
 
       </div>
-  <div class="col-md-12">
 
-    </div>
+      <div class="col-sm-6">        {{ with .PrevInSection }}
+        <a style="font-size:1em; line-height: 1.2em;" href="{{ .Permalink }}">< Previous</a>
+      {{ end }}</div>
+      <div class="col-sm-6 text-right">    
+        {{ with .NextInSection }}
+        <a style="font-size:1em; line-height: 1.2em;" href="{{ .Permalink }}">Next ></a>
+      {{ end }}</div>
   </div>
 </div>
 </section>
 {{ "<!-- End of Single Article -->" | safeHTML }}
 
-{{ "<!-- Related Article -->" | safeHTML }}
-<section class="section related-articles bg-gray">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 title">
-        <h2>{{ i18n "relatedcommunity" }}</h2>
-      </div>
-    </div>
-    <div class="row">
-      {{ range last 6 ( where .Site.Pages "Type" "community" )}}
-      {{ .Render "patch"}}
-      {{ end }}
-    </div>
-  </div>
-</section>
-{{ "<!-- End of Related Article -->" | safeHTML }}
+
 
 {{ end }}
