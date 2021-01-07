@@ -59,7 +59,7 @@ feature:
       comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua.
 promo_video:
-  enable: false
+  enable: true
   title: READY TO VROCK?
   content: Play Music in VR like you never thought you could. Get started quickly
     with a bundle of pre-made extraordinary instruments ready for you to rock on!
