@@ -40,6 +40,12 @@ about_us:
 quote_slider:
   enable: true
   slider_item:
+  - quote: Physical models
+    quote_by: Play music using with strings, gravity, marbles, fluid mechanics
+  - quote: Total hybrid
+    quote_by: Connect your VR worlds and instruments to your existing workflow via
+      MIDI, OSC, CV/Gate, and Ableton Link support lets you sync timing easily across
+      instruments and devices, and makes collaborating with others a breeze.
   - quote: Modular DSP Lab
     quote_by: Build custom synths, samplers, effects, and tools
   - quote: Spatial audio
@@ -50,9 +56,6 @@ quote_slider:
   - quote: Instruments
     quote_by: Discover 50+ included instruments plus Hundreds of sounds in the Library
   - quote: Concerts
-    quote_by: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-  - quote: Installations
     quote_by: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
 partners_logo_slider:
