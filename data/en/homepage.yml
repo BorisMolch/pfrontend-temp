@@ -32,7 +32,7 @@ download:
 feature:
   enable: true
   feature_item:
-  - title: When an instrument becomes an immersive music experience.
+  - title: Where instruments become fantastic music worlds
     image: "/uploads/m_spawner2.png"
     content: PATCH lets you experience music and build sound in 3D space with virtual
       reality. Transform any room into your own music studio. Create electronic music
