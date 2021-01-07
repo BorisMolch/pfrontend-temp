@@ -40,6 +40,8 @@ about_us:
 quote_slider:
   enable: true
   slider_item:
+  - quote: Modular DSP Lab
+    quote_by: Build custom synths, samplers, effects, and tools
   - quote: Spatial audio
     quote_by: adjusting the frequencies that each ear hears so that sounds can be
       placed virtually anywhere in 3D space.
