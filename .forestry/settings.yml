@@ -5,12 +5,12 @@ admin_path: static/admin
 webhook_url: 
 sections:
 - type: document
-  path: data/en/homepage.yml
-  label: Homepage
-- type: document
   path: data/en/about.yml
   label: About
   match: "**/*"
+- type: document
+  path: data/en/homepage.yml
+  label: Homepage
 - type: directory
   path: content/blog
   label: Blog
