@@ -55,9 +55,8 @@ quote_slider:
     quote_by: Perform in customizable venues  that interact with your sound
   - quote: Instruments
     quote_by: Discover 50+ included instruments plus Hundreds of sounds in the Library
-  - quote: Concerts
-    quote_by: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+  - quote: Concert
+    quote_by: 'Perform online and on stage alike. Invite your friend to your VR world '
 partners_logo_slider:
   enable: true
   title: We collaborate with
