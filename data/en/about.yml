@@ -59,7 +59,7 @@ quote_slider:
   - quote: Concert
     quote_by: 'Perform online and on stage alike. Invite your friend to your VR world '
 partners_logo_slider:
-  enable: true
+  enable: false
   title: We collaborate with
   logos:
   - images/partners/1.png
