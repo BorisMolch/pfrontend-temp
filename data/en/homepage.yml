@@ -53,7 +53,7 @@ feature:
       instrument you can think of, by assembling Patch’s Sonic modules to shape your
       unique sounds.
     quote:
-      enable: true
+      enable: false
       name: Jonathon Andrew , 1xN.org
       avater: images/testimonial/feature-testimonial-thumb.jpg
       comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
