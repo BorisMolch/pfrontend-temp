@@ -42,10 +42,9 @@ quote_slider:
   slider_item:
   - quote: Physical models
     quote_by: Play with strings, plate, hammers, using gravity, winds, or fluid mechanics
-  - quote: Total hybrid
-    quote_by: Connect your VR worlds and instruments to your existing workflow via
-      MIDI, OSC, CV/Gate, and Ableton Link support lets you sync timing easily across
-      instruments and devices, and makes collaborating with others a breeze.
+  - quote: Connect
+    quote_by: Go full hybrid and connect your VR worlds to your existing DAW via MIDI,
+      OSC, CV/Gate, and Ableton Link.
   - quote: Modular DSP Lab
     quote_by: Build custom synths, samplers, effects, and tools
   - quote: Spatial audio
