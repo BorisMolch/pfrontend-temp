@@ -39,7 +39,7 @@ feature:
       with the building blocks of sound, Play, Customize, Remix, Share. Possibilities
       are endless.
     quote:
-      enable: true
+      enable: false
       name: Jonathon Andrew , 1xN.org
       avater: images/testimonial/feature-testimonial-thumb.jpg
       comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
