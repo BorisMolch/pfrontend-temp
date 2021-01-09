@@ -24,6 +24,10 @@ sections:
   templates:
   - patch-post
 - type: document
+  path: content/works/_index.md
+  label: Works
+  match: "**/*"
+- type: document
   path: data/en/patchathon.yml
   label: Patchathon
 - type: document
