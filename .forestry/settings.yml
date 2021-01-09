@@ -26,7 +26,6 @@ sections:
 - type: document
   path: data/en/community.yml
   label: Community Info
-  match: "**/*"
 - type: document
   path: content/works/_index.md
   label: Works
