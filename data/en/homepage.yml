@@ -139,7 +139,7 @@ usp:
   - name: Immersive
     icon: tf-grid
     image: immersive.svg
-    content: Step inside the music you love and personalize it.
+    content: Step inside the music you love and personalize it
   - name: Collaborative
     icon: tf-ion-android-contacts
     image: collaborative.svg
