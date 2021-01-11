@@ -123,7 +123,7 @@ usp:
   - name: No coding
     icon: tf-puzzle
     image: nocoding.svg
-    content: Build musical worlds using sound blocks.
+    content: Build musical worlds using sound blocks
   - name: Playful
     icon: tf-ribbon
     image: playful.svg
