@@ -143,7 +143,7 @@ usp:
   - name: Collaborative
     icon: tf-ion-android-contacts
     image: collaborative.svg
-    content: Collaborate and play music remotely together in real-time.
+    content: Collaborate and play music remotely together in real-time
 company:
   enable: true
   address1title: Zurich
