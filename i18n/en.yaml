@@ -1,41 +1,29 @@
+---
 - id: read_more
   translation: Read More
-
 - id: related
   translation: From the PatchXR blog
-
 - id: latest
-  translation: The latest
-
+  translation: The latest news
 - id: testimonials
   translation: What they say about PatchXR
-
 - id: relatedcommunity
   translation: From the Patchworld community
-
 - id: posted_by
   translation: Posted by this author
-
 - id: view_details
   translation: View Details
-
 - id: location
   translation: DATE / LOCATION
-
 - id: about_you
   translation: WHO SHOULD APPLY
-
 - id: experience_title
   translation: WHAT YOU’LL NEED
-
 - id: apply
   translation: Apply Now
-
 - id: contact_form
   translation: Our offices
-
 - id: submit
   translation: Submit
-
 - id: deadlines
   translation: WHEN
