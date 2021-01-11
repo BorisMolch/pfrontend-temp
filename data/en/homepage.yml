@@ -131,7 +131,7 @@ usp:
   - name: Community
     icon: tf-ion-android-globe
     image: community.svg
-    content: Share with the whole world from your bedroom.
+    content: Share with the whole world from your bedroom
   - name: Gestural
     icon: tf-ion-android-walk
     image: gestural.svg
