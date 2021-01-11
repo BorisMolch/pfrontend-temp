@@ -64,7 +64,7 @@ promo_video:
   title: READY TO VROCK?
   content: Play Music in VR like you never thought you could. Get started quickly
     with a bundle of pre-made extraordinary instruments ready for you to rock on!
-  bg_image: images/video-back.jpg
+  bg_image: "/uploads/mali-perfo.jpg"
   video_embed_url: x1LRs161hfk
 testimonial:
   enable: true
