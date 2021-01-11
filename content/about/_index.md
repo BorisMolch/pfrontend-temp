@@ -1,7 +1,9 @@
 ---
-title: "Our Vision"
-draft: false
-description : "We are artists, designers, engineers, musicians, creators, all unified to bring imagination to technology. Our team is made up of a mix of diverse talent, cultures, and experience."
+title: 'We believe the future of music is immersive, interactive and personalized '
+description: We are artists, designers, engineers, musicians, explorers, all unified
+  to  empower imaginations with the latest technologies. Our international team is
+  made up of a mix of diverse talent, cultures, and experiences.
+
 ---
 {{< youtube gvUXPecgNK8 >}}
 

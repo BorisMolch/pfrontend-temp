@@ -21,7 +21,6 @@ sections:
 - type: document
   path: content/about/_index.md
   label: About
-  match: "**/*"
 - type: document
   path: content/works/_index.md
   label: Works
