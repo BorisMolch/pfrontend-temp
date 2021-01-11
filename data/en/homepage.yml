@@ -49,9 +49,10 @@ feature:
     image_webp: images/feature/feature-new-02.webp
     content: Transform noise into music in no time and explore the wonders of playing
       with sound synthesis in VR, where you can feel, see and interact with sounds
-      in 3D space. Build your own synthesizer, sequencer, drum pad, or any electronic
-      instrument you can think of, by assembling Patch’s sonic modules to shape unique
-      sounds and worlds.
+      in 3D space. Play with a bundle of fantastic instruments made by the community,
+      or use Patch tools to build your own synthesizer, sequencer, drum pad, or any
+      electronic instrument you can think of, by assembling Patch’s sonic modules
+      to shape unique sounds and worlds.
     quote:
       enable: false
       name: Jonathon Andrew , 1xN.org
