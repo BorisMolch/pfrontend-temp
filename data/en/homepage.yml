@@ -135,7 +135,7 @@ usp:
   - name: Gestural
     icon: tf-ion-android-walk
     image: gestural.svg
-    content: No more mouse clicking, use the whole body gesture to express yourself.
+    content: No more mouse clicking, use the whole body gesture to express yourself
   - name: Immersive
     icon: tf-grid
     image: immersive.svg
