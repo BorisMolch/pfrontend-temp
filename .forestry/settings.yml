@@ -8,14 +8,6 @@ sections:
   path: data/en/homepage.yml
   label: Homepage
 - type: directory
-  path: content/blog
-  label: Blog
-  create: documents
-  match: "**/*"
-  exclude: _index.md
-  templates:
-  - blog-post
-- type: directory
   path: content/community
   label: Community
   create: documents
@@ -27,17 +19,29 @@ sections:
   path: data/en/community.yml
   label: Community Info
 - type: document
+  path: content/about/_index.md
+  label: About
+  match: "**/*"
+- type: document
   path: content/works/_index.md
   label: Works
+- type: document
+  path: content/info/_index.md
+  label: Works/Info
 - type: document
   path: data/en/patchathon.yml
   label: Patchathon
 - type: document
   path: data/en/about.yml
   label: Info
-- type: document
-  path: content/info/_index.md
-  label: Works/Info
+- type: directory
+  path: content/blog
+  label: Blog
+  create: documents
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - blog-post
 - type: document
   path: data/en/team.yml
   label: Team
