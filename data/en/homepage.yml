@@ -69,7 +69,7 @@ testimonial:
   enable: true
   testimonial_item:
   - name: Peter Kirn, CDM, Berlin
-    image: ''
+    image: "/uploads/pkirn_sq_veralinnik.jpg"
     content: It takes VR beyond passive consumption. This isn't a game with tons of
       guardrails and pre-defined paths. It's a toolbox, an open playground where you
       make your own rules. That blows the potential for musical imagination wide open.
