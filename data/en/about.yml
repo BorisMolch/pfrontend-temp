@@ -1,4 +1,8 @@
 ---
+topsection:
+  enable: true
+  title: "We believe the future of music is immersive, interactive and personalized."
+  background: "/uploads/bg.jpg"
 intro:
   title: not used
   description: ''

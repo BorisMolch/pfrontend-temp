@@ -2,6 +2,22 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
+{{ "<!-- Top Section -->" | safeHTML }}
+{{ if $data.about.topsection.enable }}
+{{ with $data.topsection.banner }}
+<section class="section">
+	<div class="container">
+		<div class="row mt-5 text-center">
+			<div class="col-lg-12 text-shadow">
+				<h1>{{ .title }}</h1>
+					</div>
+				</div>
+			</div>
+</section>
+{{ end }}
+{{ end }}
+{{ "<!-- End of Hero Section -->" | safeHTML }}
+
 
 {{ "<!-- Page Title -->" | safeHTML }}
 <section class="section page-title">
