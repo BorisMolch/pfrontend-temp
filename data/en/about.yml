@@ -2,12 +2,13 @@
 topsection:
   enable: true
   title: "We believe the future of music is immersive, interactive and personalized."
-  background: "/uploads/bg.jpg"
-intro:
-  title: not used
-  description: ''
-  subtitle: " "
-  enable: false
+  background: images/automata.jpg
+team:
+  enable: true
+  title: PatchXR Team
+  description: 'We are artists, designers, engineers, musicians, creators, all unified
+    to bring imagination to technology and empower artists with the right tools and
+    frame work to let them create mind-blowing stuff. '
 features:
   enable: true
   title: Patch Features
@@ -20,16 +21,25 @@ features:
   - image: images/automata.jpg
   - image: images/automata.jpg
 behind_story:
-  enable: false
+  enable: true
   title: Our History
+  image: images/PatchXRteam.jpg
   content: Founded in 2020, we are committed to developing broadly accessible, artistic,
     emotional and enriching experiences, including award-winning titles blablablla.
     Our work has exhibited in galleries and exhibitions across the globe, including
     the induction into Smithsonian’s permanent collection. Our hope is to expand the
     range of emotional experiences possible in video games, so that it can be enjoyed
     and loved by people of all ages, cultures and backgrounds.
+philosophy:
+  enable: true
+  title: Our Philosophy
+  content: "Rerum dignissimos ducimus laborum ut adipisci quia esse non. Sapiente aut odio mollitia eos. Dicta dignissimos consequatur voluptates.
+Non odio est quia. Vel non corrupti eligendi voluptates perspiciatis. Quis qui dignissimos et non rerum et sit. Modi et et aliquam. Omnis repudiandae eaque magni accusantium perferendis."
+location:
+  enable: true
+  title: Location
 about_us:
-  enable: false
+  enable: true
   about_item:
   - title: Our Story
     image: images/PatchXRteam.jpg
