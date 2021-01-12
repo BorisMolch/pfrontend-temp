@@ -68,13 +68,11 @@ promo_video:
 testimonial:
   enable: true
   testimonial_item:
-  - name: Donald Duck , 1xN.org
-    image: images/testimonial/feature-testimonial-thumb.jpg
-    content: Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Donec sollicitudin
-      molestie malesuada. Donec sollicitudin molestie malesuada. Pellentesque in ipsum
-      id orci porta dapibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Pellentesque in ipsum id orci porta dapibus. Quisque velit nisi, pretium ut
-      lacinia in, elementum id enim.
+  - name: Peter Kirn, CDM, Berlin
+    image: ''
+    content: It takes VR beyond passive consumption. This isn't a game with tons of
+      guardrails and pre-defined paths. It's a toolbox, an open playground where you
+      make your own rules. That blows the potential for musical imagination wide open.
   - name: Skeletor , 1xN.org
     image: images/testimonial/feature-testimonial-thumb.jpg
     content: Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Donec sollicitudin
