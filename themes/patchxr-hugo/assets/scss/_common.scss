@@ -13,7 +13,7 @@ body {
 }
 
 .active{
-    color: royalblue;
+    color: $nicepurple;
     font-weight: 600;
 }
 
@@ -51,7 +51,7 @@ background-color: grey;
 }
 
 .text-gradient3 {
-  background: linear-gradient(106deg, rgb(31, 201, 151) 0%, rgb(82, 224, 183) 100%);
+  background: $primary-color;
   background-clip: text;
   -webkit-background-clip: text;
   color: transparent;
