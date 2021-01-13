@@ -68,7 +68,7 @@ promo_video:
 testimonial:
   enable: true
   testimonial_item:
-  - name: Peter Kirn, CDM, Berlin
+  - name: Peter Kirn, CDM
     image: "/uploads/pkirn_sq_veralinnik.jpg"
     content: PatchXR takes VR beyond passive consumption. This isn't a game with tons
       of guardrails and pre-defined paths. It's a toolbox, an open playground where
