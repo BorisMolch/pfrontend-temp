@@ -12,11 +12,13 @@ faq_list:
       Our proprietary engine is written in C++ and we are using Unity 3D for the VR
       interface.
   - question: WHAT CAN I CREATE WITH PATCH?
-    answer: Patch doesn’t just mimic existing musical instruments, it explores music
+    answer: 'Patch doesn’t just mimic existing musical instruments, it explores music
       beyond your average experience. Thanks to over four years of research and collaboration
-      with XR artists and musicians, Patch can create new, exiting hybrid creations
-      and compositions that have never been seen before, and never been heard before.
-      Links to some machine that were made in Patch
+      with XR artists, producers, musicians and audio engineers, Patch can create
+      new, exiting hybrid creations and compositions that have never been seen before,
+      and never been heard before. With Patch you can create interactive worlds, instruments,
+      sound FX, automata, music games, perform live and stream online simultaneously,
+      link VR machines and worlds to your existing workflow using OSC, MIDI, CV gate. '
   - question: WHY USE VR TO MAKE MUSIC?
     answer: Patch lets you interact spatially with visuals and sonic interactions
       that respond to where you’re looking and how you move - a full-body, full-sensory
