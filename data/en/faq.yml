@@ -9,6 +9,8 @@ faq_list:
     answer: Patch is a modular, immersive musical instrument environment made for
       Virtual Reality to code, create and connect your own instruments and sounds,
       and interact with them live with your body, your gestures, and other people.
+      Our proprietary engine is written in C++ and we are using Unity 3D for the VR
+      interface.
   - question: WHAT CAN I CREATE WITH PATCH?
     answer: Patch doesn’t just mimic existing musical instruments, it explores music
       beyond your average experience. Thanks to over four years of research and collaboration
