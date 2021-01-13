@@ -28,7 +28,11 @@ faq_list:
     answer: Patch is not released yet, but we are giving some development licences
       to selected creators and universities. If you want to get a try, it's possible,
       just contact us by mail.
-  - answer: blablabla
+  - answer: 'We are currently developing PATCHWORLD, a gamified version of our tool.
+      A fantasia like environment to experience with procedural sound in VR. Patchworld
+      will be released on the Quest in Q1 2022.
+
+'
     question: WHEN WILL BE PATCH RELEASED?
 - title: ABOUT THE PATCHATHON
   faq_item:
