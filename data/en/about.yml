@@ -1,7 +1,7 @@
 ---
 topsection:
   enable: true
-  title: "We believe the future of music is immersive, interactive and personalized."
+  title: We believe the future of music is immersive, interactive and personalized.
   background: images/automata.jpg
 team:
   enable: true
@@ -23,7 +23,7 @@ features:
 behind_story:
   enable: true
   title: Our History
-  image: images/PatchXRteam.jpg
+  image: ''
   content: Founded in 2020, we are committed to developing broadly accessible, artistic,
     emotional and enriching experiences, including award-winning titles blablablla.
     Our work has exhibited in galleries and exhibitions across the globe, including
@@ -33,8 +33,10 @@ behind_story:
 philosophy:
   enable: true
   title: Our Philosophy
-  content: "Rerum dignissimos ducimus laborum ut adipisci quia esse non. Sapiente aut odio mollitia eos. Dicta dignissimos consequatur voluptates.
-Non odio est quia. Vel non corrupti eligendi voluptates perspiciatis. Quis qui dignissimos et non rerum et sit. Modi et et aliquam. Omnis repudiandae eaque magni accusantium perferendis."
+  content: Rerum dignissimos ducimus laborum ut adipisci quia esse non. Sapiente aut
+    odio mollitia eos. Dicta dignissimos consequatur voluptates. Non odio est quia.
+    Vel non corrupti eligendi voluptates perspiciatis. Quis qui dignissimos et non
+    rerum et sit. Modi et et aliquam. Omnis repudiandae eaque magni accusantium perferendis.
 location:
   enable: true
   title: Location
