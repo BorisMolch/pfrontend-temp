@@ -3,14 +3,13 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
 {{ "<!-- Hero Section -->" | safeHTML }}
-{{ if $data.homepage.banner.enable }}
-{{ with $data.homepage.banner }}
+{{ if $data.about.topsection.enable }}
+{{ with $data.about.topsection }}
 <section class="bannerbg4 section">
 	<div class="container">
 		<div class="row mt-5 text-center">
 			<div class="col-lg-12 text-shadow">
-				<h1>We believe the future of music is immersive, interactive and personalized.</h1>
-
+				<h1>{{ .title }} </h1>
 					</div>
 				</div>
 			</div>
@@ -19,55 +18,13 @@
 {{ end }}
 {{ "<!-- End of Hero Section -->" | safeHTML }}
 
-
-
-{{ "<!-- Team -->" | safeHTML }}
-{{ if $data.team.team_small.enable }}
-{{ range $data.team.team_small.team_section }}
-<section class="design-team section pt-0">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-
-      </div>
-    </div>
-    <div class="row">
-      {{ range .team_member }}
-      {{ "<!-- Team member -->" | safeHTML }}
-      <div class="col-lg-4 col-md-6">
-        <div class="team-sm">
-          <div class="image">
-            <img class="img-fluid" src="{{ .image | absURL }}" alt="{{ .name }}">
-            <div class="social-links">
-              <ul class="list-inline">
-                {{ range .social }}
-                <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
-                {{ end }}
-              </ul>
-            </div>
-          </div>
-          <h3>{{ .name }}</h3>
-          <cite>{{ .designation | markdownify}}</cite>
-          <p>{{ .content | markdownify}}</p>
-        </div>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-{{ "<!-- End of Team -->" | safeHTML }}
-
-
-
-{{ "<!-- Behind Story -->" | safeHTML }}
+{{ "<!-- PatchXR Team -->" | safeHTML }}
 
 <section class="section">
   <div class="container">
     <div class="row">
-      <div class="col-6">
-        <div class="section mb-0">
+      <div class="col-md-6">
+        <div class="section mb-0" data-aos="zoom-in">
           {{ if $data.about.team.enable }}
           {{ with $data.about.team }}
           <h1>{{ .title | safeHTML | markdownify }}</h1>
@@ -76,11 +33,40 @@
           {{ end }}
         </div>
       </div>
-      <div class="col-6">
+      <div class="col-md-6">
         <div class="section mb-0">
           {{ if $data.about.behind_story.enable }}
           {{ with $data.about.behind_story }}
-          <img class="img-fluid mb-5" src="{{ .image | absURL }}" alt="{{ .title }}">
+          <img class="img-fluid" data-aos="zoom-in" src="{{ .image | absURL }}" alt="{{ .title }}">
+
+          {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ "<!-- End of PatchXR Team -->" | safeHTML }}
+
+{{ "<!-- History -->" | safeHTML }}
+
+<section class="section pt-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <div class="section mb-0 pt-0">
+          {{ if $data.about.team.enable }}
+          {{ with $data.about.team }}
+          <img class="img-fluid" data-aos="zoom-in" src="{{ .image | absURL }}" alt="{{ .title }}">
+          {{ end }}
+          {{ end }}
+        </div>
+      </div>
+      <div class="col-md-6" data-aos="zoom-in">
+        <div class="mb-0">
+          {{ if $data.about.behind_story.enable }}
+          {{ with $data.about.behind_story }}
           <h1>{{ .title | safeHTML | markdownify }}</h1>
           <p>{{ .content | safeHTML | markdownify }}</p>
           {{ end }}
@@ -91,28 +77,31 @@
   </div>
 </section>
 
-{{ "<!-- End of Behind Story -->" | safeHTML }}
+{{ "<!-- End of History -->" | safeHTML }}
 
-
-{{ "<!-- about us -->" | safeHTML }}
+{{ "<!-- philosophy -->" | safeHTML }}
 {{ if $data.about.philosophy.enable }}
 {{ with $data.about.philosophy }}
 <section class="section create-stories pt-0 mb-5">
   <div class="container">
     <div class="row">
-      <div class="col-lg-6">
+      <div class="col-lg-6" data-aos="zoom-in">
         <div class="block">
           <h1>{{ .title | safeHTML | markdownify }}</h1>
           <p>{{ .content | safeHTML | markdownify }}</p>
         </div>
       </div>
-
+      <div class="col-md-6">
+        <div class="section mb-0">
+          <img class="img-fluid" data-aos="zoom-in" src="{{ .image | absURL }}" alt="{{ .title }}">
+        </div>
+      </div>
     </div>
   </div>
 </section>
 {{ end }}
 {{ end }}
-{{ "<!-- End of about us -->" | safeHTML }}
+{{ "<!-- End of philosophy -->" | safeHTML }}
 
 {{ "<!-- call to action -->" | safeHTML }}
 {{ if $data.team.call_to_action.enable }}

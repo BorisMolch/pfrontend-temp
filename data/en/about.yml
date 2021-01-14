@@ -6,6 +6,7 @@ topsection:
 team:
   enable: true
   title: PatchXR Team
+  image: "/uploads/desierto.jpg"
   description: 'We are artists, designers, engineers, musicians, creators, all unified
     to bring imagination to technology and empower artists with the right tools and
     frame work to let them create mind-blowing stuff. '
@@ -23,7 +24,7 @@ features:
 behind_story:
   enable: true
   title: Our History
-  image: "/uploads/desierto.jpg"
+  image: "/uploads/goethe.jpg"
   content: Founded in 2020, we are committed to developing broadly accessible, artistic,
     emotional and enriching experiences, including award-winning titles blablablla.
     Our work has exhibited in galleries and exhibitions across the globe, including
@@ -33,6 +34,7 @@ behind_story:
 philosophy:
   enable: true
   title: Our Philosophy
+  image: "/uploads/mali-perfo.jpg"
   content: Rerum dignissimos ducimus laborum ut adipisci quia esse non. Sapiente aut
     odio mollitia eos. Dicta dignissimos consequatur voluptates. Non odio est quia.
     Vel non corrupti eligendi voluptates perspiciatis. Quis qui dignissimos et non
