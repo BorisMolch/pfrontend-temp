@@ -5,10 +5,6 @@ admin_path: static/admin
 webhook_url: 
 sections:
 - type: document
-  path: data/en/about.yml
-  label: About
-  match: "**/*"
-- type: document
   path: data/en/homepage.yml
   label: Homepage
 - type: directory
@@ -23,9 +19,6 @@ sections:
   path: data/en/community.yml
   label: Community Info
 - type: document
-  path: content/about/_index.md
-  label: About
-- type: document
   path: content/works/_index.md
   label: Works
 - type: document
@@ -36,7 +29,7 @@ sections:
   label: Patchathon
 - type: document
   path: data/en/about.yml
-  label: Info
+  label: About
 - type: directory
   path: content/blog
   label: Blog
