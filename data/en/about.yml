@@ -61,13 +61,11 @@ about_us:
 quote_slider:
   enable: true
   slider_item:
-  - quote: Automata
-    quote_by: Build musical robots and orchestrions
   - quote: Physical models
     quote_by: Play with strings, plate, hammers, using gravity, winds, or fluid mechanics
-  - quote: Connect
-    quote_by: Go full hybrid and connect your VR worlds to your existing DAW via MIDI,
-      OSC, CV/Gate, and Ableton Link.
+  - quote: Go Hybrid
+    quote_by: Connect your VR worlds to your existing DAW via MIDI, OSC, CV/Gate,
+      and Ableton Link.
   - quote: Modular DSP Lab
     quote_by: Build custom synths, samplers, effects, and tools
   - quote: Spatial audio
