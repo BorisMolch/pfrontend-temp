@@ -131,9 +131,9 @@
 }
 
 .feature{
-	.feature-content{ padding-top: 25px;
+	.feature-content{ 
 		h2, p{
-
+		
 			margin-bottom: 25px;
 			@include tablet {
 				text-align: left;

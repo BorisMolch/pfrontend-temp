@@ -152,16 +152,16 @@
 {{ "<!-- Feature -->" | safeHTML }}
 {{ if $data.homepage.feature.enable }}
 {{ range $i,$p:= $data.homepage.feature.feature_item }}
-<section class="feature section hide-overflow pt-30">
+<section class="feature section hide-overflow">
 	<div class="container">
-		<div class="row justify-content-between align-items-center">
+		<div class="row justify-content-between align-top">
 			<div class="col-lg-6 {{if not (modBool $i 2)}}order-lg-2{{end}}">
-				<div class="image-content mb-20" data-aos="fade-{{if not (modBool $i 3)}}left{{else}}right{{end}}">
+				<div class="image-content mb-5" data-aos="fade-{{if not (modBool $i 3)}}left{{else}}right{{end}}">
 					<img class="img-fluid" src="{{ .image | absURL }}" alt="PatchXR features">
 				</div>
 			</div>
-			<div class="col-lg-6 {{if not (modBool $i 2)}}order-lg-1{{end}}">
-				<div class="feature-content">
+			<div class="col-lg-6 align-top {{if not (modBool $i 2)}}order-lg-1{{end}}">
+				<div class="feature-content ">
 					<h1><strong>{{ .title }}</strong></h1>
 					<p class="desc">{{ .content }}</p>
 				</div>
