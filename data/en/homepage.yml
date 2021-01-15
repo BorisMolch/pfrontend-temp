@@ -8,8 +8,8 @@ alert:
 banner:
   enable: true
   title: patchXR
-  logo: "/uploads/patchwhite.png"
-  content: MUSIC IN THE METAVERSE
+  logotype: "/images/patchXR-SOUNDmetaverse-grey.svg"
+  content: 
   videotext: 'Watch a short video clip:'
   videourl: https://www.youtube.com/embed/gvUXPecgNK8
   gif: "1"

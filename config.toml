@@ -66,6 +66,7 @@ home = "Home"
 logo = "images/logo.png"
 logo_1 = "images/logo-1.png"
 logo_2 = "images/logo-2.png"
+logotype = "images/patchXR-SOUNDmetaverse-grey.svg"
 logo_light = "images/logo-alt.png"
 mobile = "+555555555"
 [[params.plugins.css]]
