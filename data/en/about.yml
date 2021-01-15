@@ -7,9 +7,13 @@ team:
   enable: true
   title: PatchXR Team
   image: "/uploads/desierto.jpg"
-  description: We are award winning artists, designers, engineers, musicians, explorers,
-    all unified to empower creativity and imagination with immersive technology. Our
-    team is made up of passionate people with mixed cultures, talent and experiences.
+  description: We are award winning artists, designers, engineers, musicians, explorers
+    with mixed cultures and talents, all unified to empower creativity and imagination
+    with immersive technology. Our team has worked in gaming, procedural audio and
+    visual art for decades and our works have been exhibited in museums and festivals
+    across the globe. Our goal is to enable engineers and creators to come together
+    in the Metaverse and foster the emergence of a community around new form of art
+    that mix genres, realities and senses.
 features:
   enable: true
   title: Patch Features
