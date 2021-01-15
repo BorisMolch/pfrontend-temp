@@ -64,7 +64,7 @@ feature:
       avater: images/testimonial/feature-testimonial-thumb.jpg
       comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua.
-  - title: Play, build and share in real-time
+  - title: BUILD
     image: "/uploads/newfish.gif"
     image_webp: images/feature/feature-new-02.webp
     content: Transform noise into music in no time and explore the wonders of sound
