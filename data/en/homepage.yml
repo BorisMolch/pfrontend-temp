@@ -79,7 +79,7 @@ feature:
       avater: images/testimonial/feature-testimonial-thumb.jpg
       comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua.
-  - title: SHARE
+  - title: Share without border
     image: "/uploads/avatar-web-1.jpg"
     quote: ''
     content: Broadcast your performance to your web channel or record amazing music
