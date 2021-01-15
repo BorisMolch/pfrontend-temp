@@ -25,12 +25,15 @@ behind_story:
   enable: true
   title: Our History
   image: "/uploads/goethe.jpg"
-  content: Founded in 2020, we are committed to developing broadly accessible, artistic,
-    emotional and enriching experiences, including award-winning titles blablablla.
-    Our work has exhibited in galleries and exhibitions across the globe, including
-    the induction into Smithsonian’s permanent collection. Our hope is to expand the
-    range of emotional experiences possible in video games, so that it can be enjoyed
-    and loved by people of all ages, cultures and backgrounds.
+  content: Founded in 2020, PatchXR is a Swiss-Danish studio focused on SOUND & VISION
+    in MIXED REALITIES. We have build our own VR sound engine for 5 years called Patcheetah
+    and based on that we are now committed to developing broadly accessible, artistic,
+    emotional and enriching experiences, and tools for creators of whole genre. Our
+    team has worked in gaming, procedural audio and visual art for decades and our
+    work has been exhibited in galeries, museums and festivals across the globe. Our
+    ultimate goal is to enable a community of engineers and creators to come together
+    in the Metaverse to foster the emergence of a new form of art that mix genres,
+    realities and senses.
 philosophy:
   enable: true
   title: Our Philosophy
