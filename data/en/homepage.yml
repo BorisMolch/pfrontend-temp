@@ -52,7 +52,7 @@ download:
 feature:
   enable: true
   feature_item:
-  - title: PLAY
+  - title: Play fantastic worlds
     image: "/uploads/newfish.gif"
     content: Transform any room into your own music playground and discover an infinite
       library of fantastic musical worlds to play with. Get inspired to make music
@@ -65,7 +65,7 @@ feature:
       avater: images/testimonial/feature-testimonial-thumb.jpg
       comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua.
-  - title: BUILD
+  - title: Build sound
     image: "/uploads/composition-1_2.gif"
     image_webp: images/feature/feature-new-02.webp
     content: Transform noise into music in no time and explore the wonders of sound
