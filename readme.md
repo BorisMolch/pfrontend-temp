@@ -1,6 +1,6 @@
 # PatchXR Website
 
-This is the Website generated with Hugo 0.78.0
+This is the Website generated with Hugo 0.80.0
 
 ### How to build locally:
 
