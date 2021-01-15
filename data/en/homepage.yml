@@ -1,7 +1,7 @@
 ---
 alert:
   enable: true
-  type: success
+  type: light
   title: We are Hiring!
   text: Check out our jobs page.
   link: jobs
