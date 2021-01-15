@@ -42,7 +42,10 @@ weight = 2
 URL = "about"
 name = "about"
 weight = 3
-
+[[menu.main]]
+URL = "works"
+name = "works"
+weight = 4
 [[menu.main]]
 URL = "blog"
 name = "blog"

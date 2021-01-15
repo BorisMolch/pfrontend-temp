@@ -157,7 +157,7 @@
 	<div class="container">
 		<div class="row justify-content-between align-items-center">
 			<div class="col-lg-6 {{if not (modBool $i 2)}}order-lg-2{{end}}">
-				<div class="image-content mb-20" data-aos="fade-{{if not (modBool $i 2)}}left{{else}}right{{end}}">
+				<div class="image-content mb-20" data-aos="fade-{{if not (modBool $i 3)}}left{{else}}right{{end}}">
 					<img class="img-fluid" src="{{ .image | absURL }}" alt="PatchXR features">
 				</div>
 			</div>
@@ -166,19 +166,7 @@
 					<h1><strong>{{ .title }}</strong></h1>
 					<p class="desc">{{ .content }}</p>
 				</div>
-				{{ if .quote.enable }}
-				{{ with .quote }}
-				<div class="testimonial">
-					<p>"{{ .comment }}"</p>
-					<ul class="list-inline meta">
-						<li class="list-inline-item">
-							<img src="{{ .avater | absURL }}" alt="{{ .name }}">
-						</li>
-						<li class="list-inline-item">{{ .name }}</li>
-					</ul>
-				</div>
-				{{ end }}
-				{{ end }}
+
 			</div>
 		</div>
 	</div>
