@@ -52,7 +52,7 @@ download:
 feature:
   enable: true
   feature_item:
-  - title: Where instruments become fantastic music worlds
+  - title: PLAY
     image: "/uploads/avatar-web.jpg"
     content: PATCH lets you experience music and build sound in 3D space with virtual
       reality. Transform any room into your own music playground, and discover an
