@@ -5,7 +5,7 @@ aboutbanner:
   background: "/uploads/fishwebsite.jpg"
 worksbanner:
   enable: true
-  title: We create immersive experiences and tools that blend Sound, Vision and Gesture.
+  title: We create immersive experiences and tools that blend Sound, Vision and Gesture
   background: "/images/uploads/moises-web.jpg"
 team:
   enable: true
