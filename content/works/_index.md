@@ -1,8 +1,7 @@
 ---
 title: Works
-description: This is PatchXR works/info page text description.
+description: This is PatchXR works
 draft: true
-
 ---
 ## Patch 
 Patch is a native VR authoring tool that lets you build brand new digital instruments and play electronic music in a 3D space like never before. 
