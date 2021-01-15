@@ -47,14 +47,12 @@ feature:
   - title: Play, build and share in real-time
     image: "/uploads/newfish.gif"
     image_webp: images/feature/feature-new-02.webp
-    content: Crafted for first timer to the experimented patchers in Max MSP or Pure
-      Data, Patch is the ultimate VR tool that let you create without physical limitation.
-      Transform noise into music in no time and explore the wonders of sound synthesis
-      in VR, where you can feel, see and interact with sound in 3D space using gestures.
+    content: Transform noise into music in no time and explore the wonders of sound
+      synthesis in VR, where you can feel, see and interact with sound in 3D space.
       Play with a bundle of surreal instruments and sound FX made by the community,
-      or use PatchXR tools to build your own. synthesizer, sequencer, drum pad, or
-      any electronic instrument you can think of. Assemble Patch’s sonic modules to
-      shape unique sounds and worlds.
+      or use PatchXR tools to build your own. Crafted for first timer to the experimented
+      patchers in Max MSP or Pure Data, our VR tool let you create without physical
+      limitation. Assemble Patch’s sonic modules to shape unique sounds and worlds.
     quote:
       enable: false
       name: Jonathon Andrew , 1xN.org
