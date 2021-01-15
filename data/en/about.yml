@@ -1,8 +1,12 @@
 ---
-topsection:
+aboutbanner:
   enable: true
   title: We believe the future of music is immersive, interactive and personalized.
   background: "/uploads/fishwebsite.jpg"
+worksbanner:
+  enable: true
+  title: We create immersive experiences and tools that blends Sound, Vision and Gesture.
+  background: "/images/uploads/moises-web.jpg"
 team:
   enable: true
   title: PatchXR Team

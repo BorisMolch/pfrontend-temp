@@ -3,9 +3,9 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
 {{ "<!-- Hero Section -->" | safeHTML }}
-{{ if $data.about.topsection.enable }}
-{{ with $data.about.topsection }}
-<section class="bannerbg4 section">
+{{ if $data.about.aboutbanner.enable }}
+{{ with $data.about.aboutbanner }}
+<section class="bannerabout section">
 	<div class="container">
 		<div class="row mt-5 text-center">
 			<div class="col-lg-12 text-shadow">
