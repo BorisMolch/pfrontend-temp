@@ -52,8 +52,8 @@ download:
 feature:
   enable: true
   feature_item:
-  - title: PLAY
-    image: "/uploads/avatar-web-1.jpg"
+  - title: Play fantastic worlds
+    image: "/uploads/newfish.gif"
     content: Transform any room into your own music playground and discover an infinite
       library of fantastic musical worlds to play with. Get inspired to make music
       in VR thanks to a bundle of surreal instruments and sound FX made by the community,
@@ -65,30 +65,30 @@ feature:
       avater: images/testimonial/feature-testimonial-thumb.jpg
       comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua.
-  - title: BUILD
-    image: "/uploads/newfish.gif"
+  - title: Build sound
+    image: "/uploads/composition-1_2.gif"
     image_webp: images/feature/feature-new-02.webp
     content: Transform noise into music in no time and explore the wonders of sound
       synthesis in VR, where you can feel, see and interact with sound in 3D space.
-      Play with a bundle of surreal instruments and sound FX made by the community,
-      or use PatchXR tools to build your own. Crafted for first timer to the experimented
-      patchers in Max MSP or Pure Data, our VR tool let you create without physical
-      limitation. Assemble Patch’s sonic modules to shape unique sounds and worlds.
+      Crafted for first timer to the experimented patchers in Max MSP or Pure Data,
+      our VR tool let you create without physical limitation. Assemble Patch’s sonic
+      modules and interactive powerblocks to shape unique sounds and worlds.
     quote:
       enable: false
       name: Jonathon Andrew , 1xN.org
       avater: images/testimonial/feature-testimonial-thumb.jpg
       comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua.
-  - title: SHARE
-    image: ''
+  - title: Share without border
+    image: "/uploads/avatar-web-1.jpg"
     quote: ''
-    content: Broadcast your performance to your web channel or record amazing music
-      video in no-time thanks to our intuitive camera suite. Perform live or online
-      alike, invite your fans and friends to step inside your worlds.
+    content: Create amazing music video in no-time thanks to our intuitive recording
+      suite. Share your worlds and sound patches, perform live or in VR and broadcast
+      your performance to your web channel and invite your fans and friends to step
+      inside your worlds.
 promo_video:
   enable: true
-  title: WHERE INSTRUMENTS BECOME FANTASTIC MUSIC WORLDS
+  title: Where instruments become fantastic music worlds
   content: ''
   bg_image: "/uploads/mali-perfo.jpg"
   video_embed_url: https://youtube.com/embed/x1LRs161hfk
