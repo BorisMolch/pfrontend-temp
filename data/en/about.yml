@@ -2,7 +2,7 @@
 topsection:
   enable: true
   title: We believe the future of music is immersive, interactive and personalized.
-  background: images/automata.jpg
+  background: "/uploads/fishwebsite.jpg"
 team:
   enable: true
   title: PatchXR Team
