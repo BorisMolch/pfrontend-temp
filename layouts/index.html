@@ -49,13 +49,13 @@
 {{ end }}
 {{ "<!-- End of introtext -->" | safeHTML }}
 {{ "<!-- Rotation Banner Slider -->" | safeHTML }}
-{{ if $data.about.quote_slider.enable }}
+{{ if $data.homepage.quote_slider.enable }}
 <section class="section quotes ">
   <div class="container">
     <div class="row">
       <div class="col-10 m-auto text-center">
         <div class="quote-slider owl-carousel owl-theme">
-          {{ range $data.about.quote_slider.slider_item }}
+          {{ range $data.homepage.quote_slider.slider_item }}
           <div class="item">
             <h4 style="font-weight: 200">{{ .quote }}</h4>
             <h5>{{ .quote_by }}</h5>

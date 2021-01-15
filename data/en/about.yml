@@ -58,26 +58,6 @@ about_us:
       real time audio systems for use in Virtual Reality and are hard at work creating
       mind bending audio driven games, collaborative VR audio creation tools and exciting
       exhibition worthy VR experiences for all ages.
-quote_slider:
-  enable: true
-  slider_item:
-  - quote: Interactive music video
-    quote_by: Create awesome music video in which you can also step inside
-  - quote: Physical models
-    quote_by: Play with strings, plate, hammers, using gravity, winds, or fluid mechanics
-  - quote: Go Hybrid
-    quote_by: Connect your VR worlds to your existing DAW via MIDI, OSC, CV/Gate,
-      and Ableton Link.
-  - quote: Modular DSP Lab
-    quote_by: Build custom synths, samplers, effects, and tools
-  - quote: Spatial audio
-    quote_by: Place and move your sound anywhere in 3D space
-  - quote: Interactive venues
-    quote_by: Perform in customizable venues that interact with your sound
-  - quote: Instruments
-    quote_by: Discover 50+ included instruments plus hundreds of sounds in the library
-  - quote: Concert
-    quote_by: Perform live online and on stage
 partners_logo_slider:
   enable: false
   title: We collaborate with
