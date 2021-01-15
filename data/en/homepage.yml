@@ -70,10 +70,9 @@ feature:
     image_webp: images/feature/feature-new-02.webp
     content: Transform noise into music in no time and explore the wonders of sound
       synthesis in VR, where you can feel, see and interact with sound in 3D space.
-      Play with a bundle of surreal instruments and sound FX made by the community,
-      or use PatchXR tools to build your own. Crafted for first timer to the experimented
-      patchers in Max MSP or Pure Data, our VR tool let you create without physical
-      limitation. Assemble Patch’s sonic modules to shape unique sounds and worlds.
+      Crafted for first timer to the experimented patchers in Max MSP or Pure Data,
+      our VR tool let you create without physical limitation. Assemble Patch’s sonic
+      modules and interactive powerblocks to shape unique sounds and worlds.
     quote:
       enable: false
       name: Jonathon Andrew , 1xN.org
