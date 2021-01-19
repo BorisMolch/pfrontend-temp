@@ -8,7 +8,7 @@ alert:
 banner:
   enable: true
   title: patchXR
-  logotype: "images/patchXR-SOUNDmetaverse-grey.svg"
+  logotype: images/patchXR-SOUNDmetaverse-grey.svg
   content: 
   videotext: 'Watch a short video clip:'
   videourl: https://www.youtube.com/embed/gvUXPecgNK8
@@ -19,7 +19,7 @@ intro:
   subtitle: Patch is a native VR authoring tool that lets you build brand new digital
     instruments and play electronic music in a 3D space like never before. Forget
     about the mouse, create worlds with the building blocks of sound and expand the
-    limits of your imagination, with infinite possibilities
+    limits of your imagination, with infinite possibilities.
   description: ''
 quote_slider:
   enable: true
@@ -47,7 +47,7 @@ download:
   subtitle: PatchXR will be available on the following VR platforms
   download_buttons:
   - label: Oculus
-    logo: "images/p-oculus.png"
+    logo: images/p-oculus.png
     link: www.oculus.com
 feature:
   enable: true
