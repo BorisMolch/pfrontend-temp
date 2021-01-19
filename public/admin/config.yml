@@ -1,0 +1,96 @@
+backend:
+  name: git-gateway
+  branch: master
+  identity_url: "https://patchxr-demo.netlify.app/.netlify/identity"
+  gateway_url: "https://patchxr-demo.netlify.app/.netlify/git"
+media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+display_url: https://patchxr-demo.netlify.app
+logo_url: https://patchxr-demo.netlify.app/images/logo-1.png
+
+# Define here all the post types
+collections:
+  #NEWS#####################################################################
+  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+    label: "NEWS" # Used in the UI
+    label_singular: "Post"
+    folder: "content/english/blog" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Type", name: "type", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: false}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Categories", name: "categories", widget: "list", default: ["news"]}
+      - {label: "Tags", name: "tags", widget: "list", default: ["cool"]}
+      - {label: "Body", name: "body", widget: "markdown"}
+  #NOMINEES#################################################################
+  - name: "community"
+    label: "COMMUNITY"
+    label_singular: "community"
+    folder: "content/english/community"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "community"}
+      - {label: "Type", name: "type", widget: "hidden", default: "community"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: false}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "YoutubeID", name: "video", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Location", name: "location", widget: "string"}
+      - {label: "Link1", name: "link1", widget: "string"}
+      - {label: "Link2", name: "link2", widget: "string"}
+      - {label: "Twitter", name: "twitter", widget: "string"}
+      - {label: "Description", name: "description", widget: "markdown"}
+      - {label: "Bio", name: "bio", widget: "markdown"}
+
+# DEFINE HERE ALL THE SEPARATE UNIQUE PAGES
+  - label: "PAGES"
+    name: "pages"
+    files:
+        ## START
+      - label: "About Page"
+        name: "about"
+        file: "content/english/info/_index.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: markdown}
+        ## /END
+      - label: "Patchathon"
+        name: "patchathon"
+        file: "content/english/patchathon/_index.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: markdown}
+        ## /END
+
+
+# HOMEPAGE OPTIONS
+  - label: "HOMEPAGE"
+    name: options
+    editor:
+      preview: false
+    files:
+      - label: "Team"
+        name: team_small
+        file: "data/en/team.yml"
+        fields:
+          - label: "Team Section"
+            name: team_section
+            fields:
+              - {label: "Title", name: title, widget: string}
+              - {label: "Subtitle", name: subtitle, widget: string}
+          - label: "Team Members"
+            name: "team_member"
+            widget: list
+            fields:
+              - {label: "Name", name: name, widget: string}
+              - {label: "Designation", name: designation, widget: string}
+              - {label: "Bio", name: content, widget: string}

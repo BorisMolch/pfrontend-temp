@@ -28,7 +28,27 @@
   </url>
   
   <url>
+    <loc>https://patchxr.netlify.app/categories/</loc>
+    <lastmod>2020-10-12T14:00:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patchxr.netlify.app/tags/news/</loc>
+    <lastmod>2020-10-12T14:00:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patchxr.netlify.app/categories/patchathon/</loc>
+    <lastmod>2020-10-12T14:00:22+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://patchxr.netlify.app/blog/featured-post/</loc>
+    <lastmod>2020-10-12T14:00:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patchxr.netlify.app/tags/</loc>
     <lastmod>2020-10-12T14:00:22+00:00</lastmod>
   </url>
   
@@ -103,15 +123,7 @@
   </url>
   
   <url>
-    <loc>https://patchxr.netlify.app/artists/</loc>
-  </url>
-  
-  <url>
     <loc>https://patchxr.netlify.app/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://patchxr.netlify.app/events/</loc>
   </url>
   
   <url>
