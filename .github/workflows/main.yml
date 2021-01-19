@@ -12,7 +12,7 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
         server: ftp.cluster021.hosting.ovh.net
-        local-dir: /public/
+        local-dir: public/
         server-dir: /patchxr/2021/
         username: hanahanaki
         password: ${{ secrets.ftp_password }}
