@@ -9,7 +9,7 @@
 		<div class="row text-center">
 			<div class="col-lg-12 text-shadow">
 				<h1 class="hidden">PatchXR</h1>
-				<img src="{{ .logotype }}" class="img-fluid" style="width:80%" alt="PatchXR - Sound of the Metaverse ">
+				<img src="{{ .logotype | absLangURL }}" class="img-fluid" style="width:80%" alt="PatchXR - Sound of the Metaverse ">
 					<!--<h2 class="mb-0 "><br>{{ .content | safeHTML | markdownify }}</h2>-->
 						<div class="platforms">
 							<p class="text-white">{{ .videotext | safeHTML | markdownify }}</p>
@@ -81,9 +81,9 @@
 
 						<div class="image-content" data-aos="zoom-out">
 							<ul class="list-inline">
-								<li class="list-inline-item" style="padding-left: 5px;"><img width="182" alt="Oculus" src="/images/p-oculus.png"></li>
-								<li class="list-inline-item"><img width="78" alt="HTC Vive" src="/images/p-vive.png" style="filter: grayscale(100%)"></li>
-							  <li class="list-inline-item"><img width="180" alt="Oculus Quest" src="/images/p-quest.png"></li>
+								<li class="list-inline-item" style="padding-left: 5px;"><img width="182" alt="Oculus" src="images/p-oculus.png"></li>
+								<li class="list-inline-item"><img width="78" alt="HTC Vive" src="images/p-vive.png" style="filter: grayscale(100%)"></li>
+							  <li class="list-inline-item"><img width="180" alt="Oculus Quest" src="images/p-quest.png"></li>
 							</ul>
 						</div>
 
@@ -195,7 +195,7 @@
 						<div class="col-md-4 col-xs-12">
 							<div class="service-item" data-aos="zoom-in">
 								<!--<i class="{{ .icon }} text-gradient3"></i>-->
-								<img src="/images/icons/svg/{{ .image }}" height="100px" class="mb-5">
+								<img src="images/icons/svg/{{ .image }}" height="100px" class="mb-5">
 								<h3>{{ .name }}</h3>
 								<p>{{ .content | safeHTML | markdownify }}</p>
 							</div>
@@ -301,7 +301,7 @@
 		<div class="row text-center">
 			<div class="col-lg-12">
 				<h2 style="display: none;">Patchathon</h2>
-				<img style="padding-bottom: 20px; width:100%" src="/images/patchathon.png" alt="Patchathon">
+				<img style="padding-bottom: 20px; width:100%" src="images/patchathon.png" alt="Patchathon">
 				<h2>{{ .title | safeHTML | markdownify }}</h2>
 			<p style="padding-bottom: 40px;">	{{ .subtitle | safeHTML | markdownify }}</p>
 				<ul class="list-inline">

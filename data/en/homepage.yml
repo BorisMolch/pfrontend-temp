@@ -8,7 +8,7 @@ alert:
 banner:
   enable: true
   title: patchXR
-  logotype: "/images/patchXR-SOUNDmetaverse-grey.svg"
+  logotype: "images/patchXR-SOUNDmetaverse-grey.svg"
   content: 
   videotext: 'Watch a short video clip:'
   videourl: https://www.youtube.com/embed/gvUXPecgNK8
@@ -47,7 +47,7 @@ download:
   subtitle: PatchXR will be available on the following VR platforms
   download_buttons:
   - label: Oculus
-    logo: "/images/p-oculus.png"
+    logo: "images/p-oculus.png"
     link: www.oculus.com
 feature:
   enable: true
