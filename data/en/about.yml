@@ -32,15 +32,10 @@ behind_story:
   enable: true
   title: Our History
   image: "/uploads/goethe.jpg"
-  content: Founded in 2020, PatchXR is a Swiss-Danish studio focused on SOUND & VISION
-    in MIXED REALITIES. We have build our own VR sound engine for 5 years called Patcheetah
-    and based on that we are now committed to developing broadly accessible, artistic,
-    emotional and enriching experiences, and tools for creators of whole genre. Our
-    team has worked in gaming, procedural audio and visual art for decades and our
-    work has been exhibited in galeries, museums and festivals across the globe. Our
-    ultimate goal is to enable a community of engineers and creators to come together
-    in the Metaverse to foster the emergence of a new form of art that mix genres,
-    realities and senses.
+  content: |
+    History. PatchXR is a Swiss-Danish studio focused on sound and vision in mixed realities. We were founded in 2020, but our pedigree begins much earlier. Co-founder Mélodie Mousset is the creator of HanaHana, an award-winning surrealist VR artwork five years in the making celebrated by film festivals and the interactive circuit alike. A half-decade of development produced our bespoke VR sound engine, Patcheetah. Eduardo Fouilloux had in parallel developed MuX, a sandbox for musical instrument creation that facilitated some 4,000 user-generated instruments in its first few months of availability on Steam. They joined with developer Chris Heinrichs, creator of Enzien Audio’s ground-breaking compiler for the open modular environment Pure Data (Pd).
+
+    This coming together of co-founders represents an unprecedented convergence of backgrounds in interactive sound and extended realities, all in a single vision of an accessible, emotionally powered new genre of tools and music.
 philosophy:
   enable: true
   title: Our Philosophy
