@@ -161,7 +161,7 @@ usp:
   - name: Community
     icon: tf-ion-android-globe
     image: community.svg
-    content: Share with the whole world from your bedroom
+    content: Join an open and advanced group of fellow makers and share your vision
   - name: Gestural
     icon: tf-ion-android-walk
     image: gestural.svg
