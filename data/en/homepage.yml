@@ -16,10 +16,12 @@ banner:
 intro:
   enable: true
   title: PLAY + BUILD + SHARE
-  subtitle: Patch is a native VR authoring tool that lets you build brand new digital
-    instruments and play electronic music in a 3D space like never before. Forget
-    about the mouse, create worlds with the building blocks of sound and expand the
-    limits of your imagination, with infinite possibilities.
+  subtitle: Patch is a native VR authoring tool that lets you build brand new instruments
+    and play electronic music like never before - directly in digital three-dimensional
+    space. Break out of the limited model of mouse and flat screen, and create worlds
+    with the building blocks of sound. Explore an unlimited environment that looks
+    to the future of human-computer interface and the endless possibilities of your
+    imagination.
   description: ''
 quote_slider:
   enable: true
