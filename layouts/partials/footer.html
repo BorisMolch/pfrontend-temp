@@ -5,10 +5,13 @@
         <div class="col"><span class="footer-title">COMPANY</span><bR>
           <a href="/about">About</a><br>
           <a href="/jobs">Careers</a><span class="bubble">WE'RE HIRING</span><br>
-          <a href="#">Internships</a><br>
+          <a href="/internships">Internships</a><br>
           <a href="/blog">Blog</a><br>
-          <a href="#">Press Room</a><br>
-          <a href="#">Partners</a><br>
+          <a href="/press">Press Room</a><br>
+          <a href="/partners">Partners</a><br>
+
+          <img class="img-fluid block mt-5 " width="50%" src="/images/patch_logowhite.png">
+          
         </div>
         <!--<div class="col"><span class="footer-title">WORKS</span><bR>
           <a href="/works#patch">Patchworld</a><br>
@@ -18,39 +21,41 @@
 
         </div>-->
         <div class="col"><span class="footer-title">RESOURCES</span><bR>
-          <a href="http://documentation.patchxr.com/">Documentation</a><br>
-          <a href="#">Downloads</a><br>
+          <a href="/documentation">Documentation</a><br>
+          <a href="/downloads">Downloads</a><br>
           <a href="/faq">FAQ</a>
 
   
 </div>
         <div class="col"><span class="footer-title">SUPPORT</span><bR>
 
-          <a href="#">Forum</a><br>
-          <a href="#">Discord</a><br>
+          <a href="/forum">Forum</a><br>
+          <a href="/discord">Discord</a><br>
           <a href="https://www.reddit.com/r/mux/">Reddit</a><br>
           <a href="/contact">Contact Us</a><br>
 </div>
         <div class="col">
+   
 
-{{ $data := index .Site.Data .Site.Language.Lang }}
-{{ if $data.homepage.company.enable }}
-{{ with $data.homepage.company }}
+          {{ $data := index .Site.Data .Site.Language.Lang }}
+          {{ if $data.homepage.company.enable }}
+          {{ with $data.homepage.company }}
+          
+          <span class="small"><b>{{ .address1title }}</b></span><br>
+          <span class="small">{{ .address1street }}</span><br>
+          <span class="small">{{ .address1extra }}</span><br>
+          <span class="small">{{ .address1city }}</span><br>
+          <span class="small">{{ .address1country }}</span><br>
+          <hr>
+          <span class="small"><b>{{ .address2title }}</b></span><br>
+          <span class="small">{{ .address2street }}</span><br>
+          <span class="small"> {{ .address2extra }}</span>
+          <span class="small">{{ .address2city }}</span><br>
+          <span class="small">{{ .address2country }}</span><br>
+          
+          {{ end }}
+          {{ end }}
 
-<span class="small"><b>{{ .address1title }}</b></span><br>
-<span class="small">{{ .address1street }}</span><br>
-<span class="small">{{ .address1extra }}</span><br>
-<span class="small">{{ .address1city }}</span><br>
-<span class="small">{{ .address1country }}</span><br>
-<hr>
-<span class="small"><b>{{ .address2title }}</b></span><br>
-<span class="small">{{ .address2street }}</span><br>
-<span class="small"> {{ .address2extra }}</span>
-<span class="small">{{ .address2city }}</span><br>
-<span class="small">{{ .address2country }}</span><br>
-
-{{ end }}
-{{ end }}
 </div>
     </div>
 </div>
@@ -58,7 +63,7 @@
     <div class="row border-top mt-5 pt-3 pb-3">
       <div class="col-md-6 mt-2">
 
-        <span class="text-light">&copy;{{ now.Format "2006"}} PatchXR AG. All rights reserved · <a href="https://www.1xn.org/"  style="font-size: 14px">Web by 1XN</a> - <a style="font-size: 14px" href="/privacy-policy">Privacy Policy</a></span>
+        <span class="text-light">&copy;{{ now.Format "2006"}} PatchXR AG. All rights reserved · <a style="font-size: 14px" href="/privacy-policy">Privacy Policy</a></span>
       </div>
       
       <div class="col-md-6 mt-2 text-right">
@@ -75,11 +80,6 @@
     </div>
   </div>
 </footer>
-
-{{ "<!-- Google Map API -->" | safeHTML }}
-{{ with .Site.Params.map.gmap_api }}
-<script src="{{ . | safeURL }}"></script>
-{{ end }}
 
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range .Site.Params.plugins.js }}
@@ -112,19 +112,6 @@
 
 <script>
   $("nav.navbar-fixed-top").autoHidingNavbar();
-</script>
-
-<!-- Netlify CMS -->
-<script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
 </script>
 
 <script src="https://vjs.zencdn.net/7.8.4/video.js"></script>
