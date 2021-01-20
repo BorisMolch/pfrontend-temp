@@ -57,11 +57,11 @@ feature:
   feature_item:
   - title: Play fantastic worlds
     image: "/uploads/jellywebsite.jpg"
-    content: Transform any room into your own music playground and discover an infinite
+    content: Transform any room into your musical playground and discover an infinite
       library of fantastic musical worlds to play with. Get inspired to make music
       in VR thanks to a bundle of surreal instruments and sound FX made by the community,
-      and use PatchXR tools to build your own. Step inside the music you love, play,
-      tweak, patch without borders.
+      and use PatchXR tools to build your own. Step inside the music you love and
+      play, tweak, and patch without borders.
     quote:
       enable: false
       name: Jonathon Andrew , 1xN.org
