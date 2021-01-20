@@ -39,7 +39,7 @@ behind_story:
 philosophy:
   enable: true
   title: Our Philosophy
-  image: "/uploads/patch_logowhite-copie.png"
+  image: "/uploads/patch_logowhite.png"
   content: |
     Your ideas and your creativity come first. That’s why our platform is built to be modular, to allow control both in high-level musical gestures and in low-level modularity. Your self-realization is essential. In our work, collaborations, and product, we value self-expression and creativity, quality over quantity, responsibility and autonomy, and spontaneity. We work to weave those ideals into our human interactions and into the mechanics of our tools.
 
