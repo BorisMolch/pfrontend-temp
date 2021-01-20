@@ -129,8 +129,10 @@ testimonial:
 patchworld:
   enable: true
   title: Join our community of creators!
-  subtitle: You are a music producer, sound engineer, New media artist, game designer
-    or you run an educational program in this field? Contact us now
+  subtitle: 'You are a music producer, sound engineer, media artist, game designer,
+    or you run an educational program in this field? Contact us now!
+
+'
   download_buttons:
   - label: Join now
     icon: tf-ion-none
