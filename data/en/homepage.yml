@@ -119,13 +119,14 @@ testimonial:
       about presence and virtuality is changing and those of us who use this environment
       are contributing to the emergence of new forms of art and questions regarding
       the body, performance and the hybrid haptic experience.
-  - name: James Bond , 1xN.org
+  - name: Georg Bleikolm, RAVE U R
     image: images/testimonial/feature-testimonial-thumb.jpg
-    content: Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Donec sollicitudin
-      molestie malesuada. Donec sollicitudin molestie malesuada. Pellentesque in ipsum
-      id orci porta dapibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Pellentesque in ipsum id orci porta dapibus. Quisque velit nisi, pretium ut
-      lacinia in, elementum id enim.
+    content: "PATCH XR is probably the most exciting instrument and music interface
+      I was given to try in 2020. \nWe came up with the fun idea to entangle digital
+      and physical worlds in an instrument. Integrating compositions from Ableton
+      live and interaction with Arduino devices over MAX/MSP worked seamlessly. I
+      will definitely use PATCH XR to develop new ways to control and interpret my
+      compositions in the future. "
 patchworld:
   enable: true
   title: Join our community of creators!
