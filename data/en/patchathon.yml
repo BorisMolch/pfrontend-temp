@@ -1,12 +1,12 @@
 ---
 intro:
-  title: WE ORGANIZE COLLABORATIVE HACKLAB TO BUILD SOUND IN VR
-  description: You are a visual/media artist, a developers, a composer, a sound designers,
-    a DIY producer, or you are simply interested in exploring the potential of VR/XR.
-    Take part in our next Patchathon to learn the rope of our sonic engine and create
-    your own instruments and interactive musical worlds.
+  title: WE ORGANIZE COLLABORATIVE HACKLABS TO BUILD SOUND IN VR
+  description: So, you’re a visual/media artist, a developer, a composer, a sound
+    designer, a DIY producer, or you are simply interested in exploring the potential
+    of VR/XR? Take part in our next Patchathon to learn your way around our sonic
+    engine, then create your own instruments and interactive musical worlds
   enable: true
-  subtitle: Check out our event list for our upcoming events !
+  subtitle: Check out our event list for our upcoming events!
 promo:
   enable: true
   title: 'PATCHATHON #1 @ A MAZE. / Berlin 2020 - Total Digital'
