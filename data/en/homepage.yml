@@ -157,7 +157,7 @@ usp:
   - name: Playful
     icon: tf-ribbon
     image: playful.svg
-    content: Learn about music by playing and having fun
+    content: Learn about music in a new ways
   - name: Community
     icon: tf-ion-android-globe
     image: community.svg
