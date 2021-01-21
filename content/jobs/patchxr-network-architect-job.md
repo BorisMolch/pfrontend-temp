@@ -55,4 +55,3 @@ Our goal is to change the way we interact with computers and computer music by t
 
 Get in touch. Let's Talk!
 
-# contact@patchxr.com
