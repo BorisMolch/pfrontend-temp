@@ -14,7 +14,15 @@
             </a> 
           </div>
         </div>
+        
       </div>
+      <div class="col-sm-6 pt-3">        {{ with .PrevInSection }}
+        <a style="font-size:2em; line-height: 1.2em; font-weight: 600;" href="{{ .Permalink }}"><</a>
+      {{ end }}</div>
+      <div class="col-sm-6 pt-3 text-right">    
+        {{ with .NextInSection }}
+        <a style="font-size:2em; font-weight: 600; line-height: 1.2em;" href="{{ .Permalink }}">></a>
+      {{ end }}</div>
     </div>
   </div>
 </section>
@@ -25,6 +33,10 @@
   <div class="container">
 
     <div class="row">
+
+
+
+      
       <div class="col-md-8 ">
         <h1>{{ .Title }}</h1>
         
@@ -79,13 +91,7 @@
 
       </div>
 
-      <div class="col-sm-6">        {{ with .PrevInSection }}
-        <a style="font-size:1em; line-height: 1.2em;" href="{{ .Permalink }}">< Previous</a>
-      {{ end }}</div>
-      <div class="col-sm-6 text-right">    
-        {{ with .NextInSection }}
-        <a style="font-size:1em; line-height: 1.2em;" href="{{ .Permalink }}">Next ></a>
-      {{ end }}</div>
+
   </div>
 </div>
 </section>
