@@ -2,46 +2,55 @@
 date = 2020-12-08T00:00:00Z
 description = "Creativity is intelligence having fun"
 draft = true
-title = "PatchXR Network Architect-(copy)"
+title = "PatchWorld 3D Graphics Artist"
 
 +++
-**We are looking for the person to make a social playground for people to play, build and share interactive music worlds remotely in real-time - to empower a community to exchange interactive venues, musical instruments, concerts and more!**
+**PatchXR is looking for a freelance 3D artist to visualize Musical VR experiences. We need someone to help create our VR worlds where you can play and build  interactive music worlds.**
 
-Together, we aim to build a new sonic dimension where our surroundings become shareable interactive music, where you can play with an infinite library of worlds. A new way to build, think, and enjoy music.
-Interesting challenge? Lets talk!
+ Are you a passionate 3D artist and graphics professional with interest in Unity and VR. Let's Talk!
 
-## What will you be doing?
+## **JOB DESCRIPTION:**
 
-* Join a passionate team of creative technologies on a full-time position
-* Brainstorming and designing the best solution to connect players
-* Implementing the infrastructure to allow players to exchange and store their creations with the best experience
-* Collaborating with artist, designers, programmers, and researchers across multiple disciplines
-* Design a scalable platform that can connect users to a server side audio engine
-* Documenting and testing methods of approach
-* Sort and process files (Meshes, Images, ASCII, audio)
-* Data streaming implementations
-* Implement multiplayer functionality
+* 3d Artist wanted for VR game asset creation and integration.
+* Asset modeling
+* Unity integration
+* The Game is targeted to Oculus Quest and Quest 2, developed with Unity.
 
-## What is your profile?
+## **ABOUT THE GAME:**
 
-* Passion for music and Sound
-* Deep knowledge of cloud computing and computer networks
-* Knowledge of network protocols and implementation methods
-* Expertise of server systems fx. Azure, AWS.
-* Knowledge of Docker, Docker Swarm, Kubernetes.
-* Knowledge of network protocols, major APIs and libraries. Things like TLS, SSH, TCP, UDP, DNS, data streaming, video streaming, audio streaming, Game Multiplayer, Cloud Platforms.
+* PatchWorld is an immersive underwater environment teeming with underwater life.
+* This includes interactive reefs and that mimic movement and create noise depending on player interaction.
+
+## **ABOUT YOU:**
+
+Basic skills:
+
+You are interested in participating in the art direction with the team.  
+You are an accomplished 3D artist with Unity experience.
+
+You are able to deliver mobile optimized 3D models and experience with baking techniques.  
+You have experience in procedural meshes and textures creation.
+
+Bonus skills:
+
+Drawing.  
+Visual FX / Shader programming skills.
+
+Understanding of rendering pipeline.
+
+* You are an accomplished 3D artist with Unity experience.
+* Shader programing and capable of creating mobile optimized code
+* Linear algebra
+* Understanding of rendering pipeline
 
 **Nice to have**
+
 * Art lover
 * Programming skills in C# and C++
 * Web GL
 * Knowledge/interest Digital of signal processing (DSP)
 
-## What do you get from us?
-
-**Flexible working hours & time off.** With flexible working policies, you’re not only in charge of where but also when you are going to work and when you unwind.
-
-**Dedicated time for research and learning.** Perfect time to validate ideas, focus on work priorities or a side project. Stock options. Equity stake that gives you a piece of a company's growth and success.’
+##  
 
 # More about us
 
@@ -53,4 +62,4 @@ Our goal is to change the way we interact with computers and computer music by t
 
 {{< youtube gvUXPecgNK8 >}}
 
-Get in touch. Let's Talk!
+Get in touch. Let's Talk! Write us a short message and we will be in touch. 
