@@ -1,6 +1,11 @@
 // Google Font Import
 @import url('https://fonts.googleapis.com/css?family=Lora:400,400i|Roboto:100,200,300,400,600,700,800|Secular+One:400');
 
+@font-face {
+    font-family: "signs";
+    src: url("/fonts/signs.woff2") format('woff');
+}
+
 // Body
 body{
 	font-family: $primary-font;
@@ -15,9 +20,10 @@ h1,h2,h3,h4,h5,h6{
 }
 
 h1{
-	font-size: 52px;
+	font-size: 48px;
 	font-weight:600;
-	font-family: $primary-font!important;
+	letter-spacing: -1px;
+	font-family: $patchxr-font!important;
 }
 
 h2{
