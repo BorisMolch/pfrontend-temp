@@ -17,11 +17,11 @@
         
       </div>
       <div class="col-sm-6 pt-3">        {{ with .PrevInSection }}
-        <a style="font-size:2em; line-height: 1.2em; font-weight: 600;" href="{{ .Permalink }}"><</a>
+        <a style="font-size:2em; line-height: 1.2em; font-weight: 600;" href="{{ .Permalink }}"><i class="tf-ion-chevron-left" style="font-size: 40px;"></i></a>
       {{ end }}</div>
       <div class="col-sm-6 pt-3 text-right">    
         {{ with .NextInSection }}
-        <a style="font-size:2em; font-weight: 600; line-height: 1.2em;" href="{{ .Permalink }}">></a>
+        <a style="font-size:2em; font-weight: 600; line-height: 1.2em;" href="{{ .Permalink }}"><i class="tf-ion-chevron-right" style="font-size: 40px;"></i></a>
       {{ end }}</div>
     </div>
   </div>
