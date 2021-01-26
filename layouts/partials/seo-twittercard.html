@@ -1,6 +1,16 @@
 
 {{ "<!-- ENTERING partial seo-twittercard.html -->" | safeHTML }}
 {{ $baseurl := .Site.BaseURL }}
+{{ if .IsHome }}
+<meta property="twitter:title" content="{{ .Title }}{{ if ne .Title .Site.Title }} {{ end }}" />
+<meta property="twitter:description" content="{{ .Site.Params.Description }}" />
+<meta property="twitter:url" content="{{ .Permalink }}" />
+<meta name="twitter:site" content="@patch_xr"/>
+<meta name="twitter:creator" content="@patch_xr"/>
+<meta name="twitter:domain" content="patchxr.com"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="{{ .Site.Params.og_image | absURL }}"/>
+{{ end }}
 {{ if .IsPage }}
 <!-- Twitter Card data -->
 <meta name="twitter:title" content="{{ .Title }}{{ if ne .Title .Site.Title }} : {{ .Site.Title }}{{ end }}"/>
