@@ -43,7 +43,7 @@ Are you a passionate 3D artist and graphics professional with interest in Unity 
 * Shader programing and capable of creating mobile optimized code
 * Linear algebra
 
-**Nice to have**
+**Nice to have:**
 
 * Art & Music lover
 * Programming skills in C#
