@@ -31,11 +31,11 @@ Mélodie explains: “PatchXR is based on modular construction blocks, with stea
 
 ### How to build your instrument in PatchXR 
 
-{{< youtube [DyaRIgP6icM](https://youtu.be/DyaRIgP6icM) >}}
+{{< youtube DyaRIgP6icM>}}
 
 The PatchXR team is already collaborating with some 30 artists. Eduardo has given workshops at [Ircam](https://www.ircam.fr/) in Paris, at [ZHdK](https://www.zhdk.ch/en/zurich-university-of-the-arts-1) in Zurich and at the University of Aalborg. Some people like the performative aspect of the software, while others like to create worlds… In summer 2020, for the [A MAZE Playful Media](https://2020.amaze-berlin.de/) festival in Berlin, the team organized an online hackathon, or rather, “[patchathon](https://amazeberlin2020totaldigital.sched.com/event/d4JN/patchathon?iframe=no&w=100%&sidebar=yes&bg=no)”. They launched a call for VR projects by musicians, engineers, developers, etc., with the goal of performing an online concert at the end of the festival. They received applications from around the world, including Spain, Iran, Canada, Poland, Colombia, etc. During the 5-day patchathon, participants could appropriate the tool in order to create their own instruments and soundscapes that they would perform for the A Maze audience.
 
-{{< youtube [1O9zyKPB5cY](https://youtu.be/1O9zyKPB5c "Urchin by Przemek") >}}
+{{< youtube 1O9zyKPB5cY >}}
 
 PatchXR is still in development. Currently, it is targeted at a niche audience of designers and sound engineers, or artists who like to experiment with audio synthesis, but the team aims to make the audio procedural, interactive and accessible to all, through an intuitive and playful user mode.
 

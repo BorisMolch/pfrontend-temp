@@ -65,7 +65,8 @@ logo_1 = "images/logo-1.png"
 logo_2 = "images/logo-2.png"
 logotype = "images/patchXR-SOUNDmetaverse-grey.svg"
 logo_light = "images/logo-alt.png"
-mobile = "+555555555"
+ISO8601 = "2006-01-02T15:04:05JST"
+og_image = "images/logo-1.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]

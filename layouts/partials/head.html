@@ -35,4 +35,10 @@
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="shortcut icon" href="{{ `images/favicon.ico` | absURL }} " type="image/x-icon">
   <link rel="icon" href="{{ `images/favicon.ico` | absURL }} " type="image/x-icon">
+  <!-- urls -->
+  <link rel="dns-prefetch" href="{{ .Site.BaseURL }}">
+  <link rel="preconnect" href="{{ .Site.BaseURL }}">
+  <link rel="canonical" href="{{ .Site.BaseURL }}"/>
+   {{ partial "seo-og.html" . }}
+   {{ partial "seo-twittercard.html" . }}
 </head>
