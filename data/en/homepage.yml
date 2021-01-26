@@ -91,7 +91,7 @@ feature:
       inside your worlds.
 promo_video:
   enable: true
-  title: Where instruments become fantastic music worlds
+  title: Where musical instruments become fantastic worlds
   content: ''
   bg_image: "/uploads/mali-perfo.jpg"
   video_embed_url: https://youtube.com/embed/x1LRs161hfk
