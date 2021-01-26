@@ -1,7 +1,7 @@
 ---
 title: PatchXR opens the world of music to extended reality
 date: 2020-10-03T05:35:54.000+00:00
-image: "/uploads/automata.jpg"
+image: "uploads/automata.jpg"
 author: Ewen Chardronnet
 description: Published on Makery, the 3 October 2020 by Ewen Chardronnet
 type: featured
