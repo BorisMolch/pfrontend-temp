@@ -5,6 +5,7 @@
 <meta property="og:title" content="{{ .Title }}{{ if ne .Title .Site.Title }} {{ end }}" />
 <meta property="og:description" content="{{ .Site.Params.Description }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:type" content="website">
 {{ end }}
 {{ if .IsPage }}
 <!-- Required Open Graph Info -->
