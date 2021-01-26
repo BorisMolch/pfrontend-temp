@@ -65,7 +65,7 @@ Serge Vuille, director of Contrechamps, comments: “What will instrumental musi
 
 ### Convincing investors
 
-Buit in order to succeed in this adventure, the PatchXR start-up needs to convince investors. This might have been easier in 2016 or 2017. The public has been slow to adopt VR, and while some applications such as [BeatSaber](https://beatsaber.com/), [Tilt Brush](https://www.tiltbrush.com/) and more recently Alyx have emerged, the market remains niche, dominated by an audience of gamers and early adopters.
+But in order to succeed in this adventure, the PatchXR start-up needs to convince investors. This might have been easier in 2016 or 2017. The public has been slow to adopt VR, and while some applications such as [BeatSaber](https://beatsaber.com/), [Tilt Brush](https://www.tiltbrush.com/) and more recently Alyx have emerged, the market remains niche, dominated by an audience of gamers and early adopters.
 
 Still, Mélodie believes that “whether we like it or not, immersive technologies will forever transform the way we interface with digital worlds.” The team remains optimistic for the coming decade, as Eduardo says: “Our target professionals don’t exist yet, or are developing as we speak. We’re not trying to compete with Max or similar tools, we’re trying to introduce an expressive, visual and gestural dimension. By opening our system to [OSC](https://en.wikipedia.org/wiki/Open_Sound_Control), [MIDI](https://en.wikipedia.org/wiki/MIDI) and [Ableton Link](https://www.ableton.com/), we want to interface with these other digital and physical tools.”
 
