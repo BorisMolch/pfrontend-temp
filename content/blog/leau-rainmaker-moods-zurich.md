@@ -1,7 +1,7 @@
 ---
 title: Leau, Vol.2 - The Rainmaker - 01.12.2020 - Moods - Zurich
 date: 2020-11-27T17:00:00+00:00
-image: "uploads/leau.jpg"
+image: "/uploads/leau.jpg"
 author: Mélodie Mousset
 description: "Leau is the new transmedia project by multidisciplinary artist Georg Bleikolm, a musical and immersive journey that questions our symbiotic relationship with water with regard to climate change and the Antropocene. The concept album is released in three episodes. PatchXR is happy to be part of the second episode at Moods, Zurich"
 type: post
