@@ -3,7 +3,7 @@ disableLanguages = []
 paginate = "6"
 summaryLength = "10"
 theme = "patchxr-hugo"
-title = "PatchXR"
+title = "PatchXR - Sound of the Metaverse"
 [Languages.en]
 contentDir = "content/"
 home = "Home"
