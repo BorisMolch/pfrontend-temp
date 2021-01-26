@@ -1,11 +1,17 @@
 {{ "<!-- ENTERING partial seo-og.html (open graph) -->" | safeHTML }}
 {{ $baseurl := .Site.BaseURL }}
+{{ if .IsHome }}
+<meta property="og:image" content="http://patchxr.com{{ .Site.Params.og_image | relURL }}"/>
+<meta property="og:title" content="{{ .Title }}{{ if ne .Title .Site.Title }} {{ end }}" />
+<meta property="og:description" content="{{ .Site.Params.Description }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
+{{ end }}
 {{ if .IsPage }}
 <!-- Required Open Graph Info -->
 
-{{ if .Params.og_image }}
-<meta property="og:image" content="http://patchxr.com{{ .Params.og_image | relURL }}"/>
-<meta property="og:image:secure_url" content="{{ .Params.og_image | absURL }}"/>
+{{ if site.Params.og_image }}
+<meta property="og:image" content="http://patchxr.com{{ .Params.image | relURL }}"/>
+<meta property="og:image:secure_url" content="{{ .Params.image | absURL }}"/>
 {{ else }}
 {{ with .Params.image }}<meta property="og:image" content="{{ if in . "http" }}{{ . }}{{ else }}{{ $baseurl }}{{ . }}{{ end }}" />
 {{ end }}
