@@ -27,11 +27,7 @@ In PatchXR, a bit like in Minecraft or with Lego, you can create “sound machin
 
 Mélodie explains: “PatchXR is based on modular construction blocks, with steampunk fantasy esthetics. Visually, we didn’t want to simply reproduce virtual synths as we know them—we wanted to invent new forms for each module. Generally, we were looking for a style that was more artistic than technical. The connections are physical: you pick up an oscillator, you pull a cable, you plug in an effect… all this in a zero-gravity environment. You create an instrument like a sculpture, which you can further animate with LFO (low-frequency oscillators), where the animation changes the texture of the sound.”
 
-> Design is not just what it looks like and feels like. Design is how it works.
-
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+![](/uploads/patchxrteam-web.jpg)
 
 ### How to build your instrument in PatchXR 
 
