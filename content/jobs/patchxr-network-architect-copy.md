@@ -40,8 +40,6 @@ Are you a passionate 3D artist and graphics professional with interest in Unity 
 * Drawing/Painting
 * Visual FX / Shader programming skills.
 * Understanding of rendering pipeline.
-
-
 * Shader programing and capable of creating mobile optimized code
 * Linear algebra
 
