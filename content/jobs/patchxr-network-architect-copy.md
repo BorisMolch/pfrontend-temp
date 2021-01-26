@@ -1,7 +1,6 @@
 +++
 date = 2020-12-08T00:00:00Z
 description = "Creativity is intelligence having fun"
-draft = true
 title = "PatchWorld 3D Graphics Artist"
 
 +++
