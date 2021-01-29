@@ -99,7 +99,7 @@ testimonial:
   enable: true
   testimonial_item:
   - name: Ewen Chardronnet, Makery.info
-    image: ''
+    image: "/uploads/1517371976584.jpeg"
     content: 'We tested PatchXR in 2020 and were totally seduced. It’s a real game
       changer that opens the world of music to extended reality. The intuitive VR
       tool integrates all the complexity of modular synthesis while engaging the body
