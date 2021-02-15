@@ -194,3 +194,8 @@ company:
   address2city: 1432 Copenhagen
   address2country: Denmark
   email: info@patchxr.com
+support:
+  enable: true
+  discordlink: https://discord.com/invite/69MYjkef
+  redditlink: https://www.reddit.com/r/mux/
+
