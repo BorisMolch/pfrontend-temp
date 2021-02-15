@@ -67,15 +67,16 @@
   <div class="container">
     <div class="row border-top mt-5 pt-3 pb-3">
       <div class="col-md-6 mt-2">
-
+        
         <span class="text-light">&copy;{{ now.Format "2006"}} PatchXR AG. All rights reserved · <a style="font-size: 14px" href="/privacy-policy">Privacy Policy</a></span>
+        
       </div>
       
       <div class="col-md-6 mt-2 text-right">
         <ul class="social-icon list-inline">
           {{ range .Site.Params.social }}
           <li class="list-inline-item">
-            <a href="{{ .URL | safeURL }}"><i class="{{ .icon }}"></i></a>
+            <a href="{{ .URL | safeURL }}" target="_blank"><ion-icon name="{{ .icon }}" size="small"></ion-icon></a>
           </li>
           {{ end }}
         </ul>
@@ -121,3 +122,4 @@
 
 <script src="https://vjs.zencdn.net/7.8.4/video.js"></script>
 <script src="/plugins/youtube.js"></script>
+<script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>

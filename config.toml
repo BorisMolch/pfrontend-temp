@@ -92,19 +92,22 @@ enable = false
 preloader = "/images/logo-1.png"
 [[params.social]]
 URL = "https://www.facebook.com/patch.xr/"
-icon = "tf-ion-social-facebook"
+icon = "logo-facebook"
 [[params.social]]
 URL = "https://twitter.com/patch_xr"
-icon = "tf-ion-social-twitter"
+icon = "logo-twitter"
 [[params.social]]
 URL = "https://www.instagram.com/patch.xr/"
-icon = "tf-ion-social-instagram"
+icon = "logo-instagram"
 [[params.social]]
 URL = "https://www.youtube.com/channel/UCk_Ekjvy67qnNo-iM4-F_bA"
-icon = "tf-ion-social-youtube"
+icon = "logo-youtube"
 [[params.social]]
 URL = "https://www.linkedin.com/company/patch-xr/"
-icon = "tf-ion-social-linkedin"
+icon = "logo-linkedin"
 [[params.social]]
 URL = "https://www.twitch.tv/patchxr"
-icon = "tf-ion-social-twitch"
+icon = "logo-twitch"
+[[params.social]]
+URL = "https://www.twitch.tv/paddtchxr"
+icon = "logo-discord"
