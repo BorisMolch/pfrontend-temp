@@ -27,7 +27,8 @@ faq_list:
   - question: CAN I GET PATCH SOFTWARE?
     answer: Patch is not released yet, but we are giving some development licences
       to selected creators and universities. If you want to get a try, it's possible,
-      just contact us by mail.
+      just contact us by mail or by filling the form at → https://forms.gle/dsf9R3Upc8GvVjf28
+
   - answer: 'We are currently developing PATCHWORLD, a gamified version of our tool.
       A fantasia like environment to experience with procedural sound in VR. Patchworld
       will be released on the Quest in Q1 2022.
@@ -56,6 +57,6 @@ faq_list:
 - title: OTHER IMPORTANT QUESTIONS
   faq_item:
   - question: HOW TO FOLLOW US FOR MORE ?
-    answer: You can subscribe to our newsletter, follow us on Twitter and join the
+    answer: You can subscribe to our newsletter, follow us on Twitter, chat on Discord and join the
       Patchlab slack groups. All links are available in the footer of every page on
       this site.
