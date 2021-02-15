@@ -27,16 +27,18 @@
 
   
 </div>
-        <div class="col"><span class="footer-title">SUPPORT</span><bR>
+        
           {{ $data := index .Site.Data .Site.Language.Lang }}
           {{ if $data.homepage.support.enable }}
           {{ with $data.homepage.support }}
+          <div class="col"><span class="footer-title">SUPPORT</span><bR>
           <a href="{{ .discordlink }}" target="_blank">Discord</a><br>
           <a href="{{ .redditlink }}" target="_blank">Reddit</a><br>
           <a href="/contact">Contact Us</a><br>
+        </div>
           {{ end }}
           {{ end }}
-</div>
+
         <div class="col">
    
 
