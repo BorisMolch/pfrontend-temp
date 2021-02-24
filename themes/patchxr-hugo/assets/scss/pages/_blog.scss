@@ -1,3 +1,19 @@
+.work-title {
+	text-align: center;
+	h3 {
+		a {
+			color: $light;
+			font-size: 30px;
+
+			&:hover {
+				color: $primary-color;
+			}
+		}
+	}
+
+	margin-bottom: 15px;
+}
+
 .postdate {font-size: 12px;}
 
 .featured-article {
@@ -80,6 +96,8 @@
 
 		margin-bottom: 15px;
 	}
+
+	
 
 	&:hover {
 		.post-thumb {

@@ -1,0 +1,13 @@
+<div class="col-lg-6 col-md-12 mb-5">
+    {{ "<!-- Work -->" | safeHTML }}
+    <article class="post-sm">
+      <div class="work-thumbs">
+        <a href="{{ .Permalink }}"><img class="work-thumbs img-fluid" src="{{ .Params.Image | absURL }}" alt="{{ .Title }}" style="object-fit: cover;
+    object-position: center;"></a>
+      </div>
+      <div class="work-title">
+        <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+        <strong><h5 style="color: dimgray;">{{ .Params.what | title }}</h5></strong>
+      </div>
+    </article>
+  </div>
