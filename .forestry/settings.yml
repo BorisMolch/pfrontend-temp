@@ -18,6 +18,11 @@ sections:
 - type: document
   path: data/en/community.yml
   label: Community Info
+- type: directory
+  path: content/works
+  label: Works
+  create: all
+  match: "**/*"
 - type: document
   path: content/info/_index.md
   label: Works/Info
