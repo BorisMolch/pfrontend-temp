@@ -23,6 +23,7 @@ sections:
   label: Works
   create: all
   match: "**/*"
+  exclude: _index.md
 - type: document
   path: content/info/_index.md
   label: Works/Info
