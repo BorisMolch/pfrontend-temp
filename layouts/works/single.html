@@ -9,19 +9,13 @@
     <h1>{{ .Title }}</h1>
     <h3>{{ .Params.Description }}</h3>
 </div>
-
 <div class="col-md-6"> <h3 style="color: royalblue">{{ .Params.Platform }}</h3></div>
 <div class="col-md-6">
     <h3 style="color: royalblue">{{ .Params.Year }}</h3>
 </div>
-
-
-
     </div>
   </div>
-
   {{ "<!-- Hero Image Section -->" | safeHTML }}
-
 <section class="jellyworks section">
 	<div class="container">
 		<div class="row mt-5 text-center">
@@ -48,9 +42,6 @@
         <h1>{{ .Params.Title1 }}</h1>
         <p>{{ .Params.Text1 | markdownify }}</p>
     </div>
-
-
-
   </div>
 </div>
 </section>
@@ -85,7 +76,6 @@
           <p style="color: black;">{{ .Params.Text2 | markdownify }}</p>
       </div>
 
-      
 </div>
 <div class="mb-5">
 <img width="100%" src="/images/works/jellyscreen1.jpg">
@@ -123,22 +113,17 @@
             </div>
 <div class="row">
     <div class="col-md-6 ">
-
     </div>
 
     <div class="col-md-6">
-        <h1>{{ .Params.Quote }}</h1>
+        {{ if isset .Params "quote" }}  <h1>{{ .Params.Quote }}</h1>
         <p>{{ .Params.Quoteauthor | markdownify }}</p>
+        {{ end }}
     </div>
-
 </div>
 
 <div class="row border-bottom mb-5 mt-5">
-    
-    
     <img width="100%" src="/images/works/awards-strip.jpg">
-
-
 </div>
 
 <div class="row border-bottom">
@@ -148,28 +133,28 @@
 
     <div class="col-md-3 credits">
         
-           <p class="credits"> Co-director </p>
-           <p class="credits"> Co-director </p>
-           <p class="credits"> Interactive Audio Design </p>
-           <p class="credits"> Developer </p>
-           <p class="credits"> Environmental Artist </p>
-           <p class="credits"> Lead technical Artist </p>
+           <p class="credits"> {{ .Params.Role1}} </p>
+           <p class="credits"> {{ .Params.Role2}} </p>
+           <p class="credits"> {{ .Params.Role3}} </p>
+           <p class="credits"> {{ .Params.Role4}} </p>
+           <p class="credits"> {{ .Params.Role5}} </p>
+           <p class="credits"> {{ .Params.Role6}} </p>
            <p class="credits"> & </p>
-           <p class="credits"> Consultant </p>
-           <p class="credits">Additional Music</p>
+           <p class="credits"> {{ .Params.Role7}} </p>
+           <p class="credits">{{ .Params.Role8}}</p>
     </div>
 
         <div class="col-md-3 mb-5">
 
-            <p>Mélodie Mousset</p>
-            <p>Edo Fouilloux</p>
-            <p>Chris Heinrichs</p>
-            <p>Vinicius Pereira Faria</p>
-            <p>Tom Frackowiak</p>
-            <p>Victor Beaupuy</p>
+            <p>{{ .Params.Person1}}</p>
+            <p>{{ .Params.Person2}}</p>
+            <p>{{ .Params.Person3}}</p>
+            <p>{{ .Params.Person4}}</p>
+            <p>{{ .Params.Person5}}</p>
+            <p>{{ .Params.Person6}}</p>
             <p>&nbsp;</p>
-            <p>Morten Thorning</p>
-            <p>Moises Horta</p>
+            <p>{{ .Params.Person7}}</p>
+            <p>{{ .Params.Person8}}</p>
 
         </div>
 
