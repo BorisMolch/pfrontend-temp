@@ -5,18 +5,18 @@
   <div class="container">
     <div class="row">
 <div class="col-md-6"></div>
-<div class="col-md-6">
+<div class="col-md-6" data-aos="fade-up">
     <h1>{{ .Title }}</h1>
     <h3>{{ .Params.Description }}</h3>
 </div>
-<div class="col-md-6"> <h3 style="color: royalblue">{{ .Params.Platform }}</h3></div>
-<div class="col-md-6">
+<div class="col-md-6" data-aos="fade-up"> <h3 style="color: royalblue">{{ .Params.Platform }}</h3></div>
+<div class="col-md-6" data-aos="fade-up">
     <h3 style="color: royalblue">{{ .Params.Year }}</h3>
 </div>
     </div>
   </div>
   {{ "<!-- Hero Image Section -->" | safeHTML }}
-<section class="jellyworks section">
+<section class="jellyworks section" data-aos="fade-in">
 	<div class="container">
 		<div class="row mt-5 text-center">
 			<div class="col-lg-12 text-shadow">
@@ -30,7 +30,7 @@
 
 {{ "<!-- Single Article -->" | safeHTML }}
 <section class="section pt-0">
-  <div class="container">
+  <div class="container" data-aos="fade-up">
 
 
     <div class="row">
@@ -47,7 +47,7 @@
 </section>
 {{ "<!-- End of Single Article -->" | safeHTML }}
 
-<section class="section bg-white text-dark">
+<section class="section bg-white text-dark" data-aos="fade-in">
 
     <div class="container">
 
@@ -66,7 +66,7 @@
               </div>
         </div>
 
-    <div class="row">
+    <div class="row" data-aos="fade-up">
         <div class="col-md-6 ">
           <p style="color: black;">{{ .Params.Section2 }}</p>
       </div>
@@ -78,28 +78,28 @@
 
 </div>
 <div class="mb-5">
-<img width="100%" src="/images/works/jellyscreen1.jpg">
+<img width="100%" src="/images/works/jellyscreen1.jpg" data-aos="fade-in">
 </div>
 <div class="mb-5">
-<img width="100%" src="/images/works/jellyscreen1.jpg">
+<img width="100%" src="/images/works/jellyscreen1.jpg" data-aos="fade-in">
 </div>
 <div class="row">
 <div class="col-md-6 ">
 </div>
 
-<div class="col-md-6 mb-5">
+<div class="col-md-6 mb-5" data-aos="fade-up">
 
     <p style="color: black;">{{ .Params.Text3 | markdownify }}</p>
 </div>
 <div class="mb-5">
-    <img width="100%" src="/images/works/jellyscreen1.jpg">
+    <img width="100%" src="/images/works/jellyscreen1.jpg" data-aos="fade-in">
     </div>
 
-    <div class="col-md-6 ">
+    <div class="col-md-6" data-aos="fade-up">
         <p style="color: gray;">{{ .Params.Section4 }}</p>
     </div>
 
-    <div class="col-md-6 mb-5">
+    <div class="col-md-6 mb-5" data-aos="fade-up">
         <h1 style="color: black;">{{ .Params.Title4 }}</h1>
         <p style="color: black;">{{ .Params.Text4 | markdownify }}</p>
     </div>
@@ -109,24 +109,24 @@
 <section class="section">
     <div class="container">
         <div  style="position: relative; top: -100px">
-            <img width="100%" src="/images/works/jellyscreen1.jpg">
+            <img width="100%" src="/images/works/jellyscreen1.jpg" data-aos="fade-in">
             </div>
 <div class="row">
     <div class="col-md-6 ">
     </div>
 
-    <div class="col-md-6">
+    <div class="col-md-6" data-aos="fade-up">
         {{ if isset .Params "quote" }}  <h1>{{ .Params.Quote }}</h1>
         <p>{{ .Params.Quoteauthor | markdownify }}</p>
         {{ end }}
     </div>
 </div>
 
-<div class="row border-bottom mb-5 mt-5">
+<div class="row border-bottom mb-5 mt-5" data-aos="fade-in">
     <img width="100%" src="/images/works/awards-strip.jpg">
 </div>
 
-<div class="row border-bottom">
+<div class="row border-bottom" data-aos="fade-up">
     <div class="col-md-6 ">
 <p>CREDITS</p>
     </div>
@@ -160,7 +160,7 @@
 
     
     </div>
-    <img class="mb-5" width="100%" src="/images/works/logo-strip.jpg">
+    <img class="mb-5" width="100%" src="/images/works/logo-strip.jpg" data-aos="fade-in">
     <!-- paginator -->
 <div class="col-sm-6 pt-3">        {{ with .PrevInSection }}
     <a style="font-size:1em; line-height: 1.2em; font-weight: 600;" href="{{ .Permalink }}"><i class="tf-ion-chevron-left" style="font-size: 20px;"></i> PREVIOUS WORK</a>
