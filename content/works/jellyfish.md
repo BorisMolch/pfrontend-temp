@@ -29,10 +29,8 @@ text2: "You find yourself immersed in a serene aquatic soundscape. \nIn the dist
   he will swim away from you. \n\nWhen several persons sing at once next to each other,
   a choir forms, combining sounds of human voices and jellyfishes harmonies."
 image2: "/uploads/jellyscreen1.jpg"
-image3: "/images/works/jellyscreen1.jpg"
-text3: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. '
+image3: "/uploads/screen-jelly3.jpg"
+text3: "\n "
 image4: "/uploads/mayasing.jpg"
 section4: EXHIBITION FORMATS
 title4: A voice triggered experience
@@ -67,3 +65,17 @@ role8: Additional Music
 person8: Moises Horta
 
 ---
+* **Spatial Audio**
+
+
+* **Real-time Voice analyzer**
+
+Our  tailor-made synthesisers is driven by real-time voice analysis. measuring the immediate pitch amplitude, tonality and phrasing of the singer’s voice.This influence the surrounding soundscape affecting colors, animation, harmonic, rhythmic and spatial qualities. 
+
+* **Sing a color**
+
+Our system attributes a different color to each note on the scale, allowing the singer to visualize his voice and control and his tone by changing the sung color and experience the feeling of synesthesia.
+
+* **Synchronized Tempo clock** ( multiplayer only)
+
+Rhythmic elements are synchronised across all the headsets encouraging some togetherness to the choir of player.
