@@ -6,7 +6,7 @@ videothumb: "/images/works/jellyscreen1.jpg"
 what: Virtual Reality Experience
 description: An entire world inside your voice.
 platform: Oculus Quest
-video: YSYl-tm6Tdc
+video: yyVBRZ1sbvA
 year: "2021"
 section1: SYNOPSIS
 title1: Sing with Jellyfish
