@@ -78,4 +78,4 @@ Our system attributes a different color to each note on the scale, allowing the 
 
 * **Synchronized Tempo clock** ( multiplayer only)
 
-Rhythmic elements are synchronised across all the headsets encouraging some togetherness to the choir of player.
+Rhythmic elements are synchronized across all the headsets encouraging some togetherness to the choir of player.
