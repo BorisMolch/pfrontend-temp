@@ -2,7 +2,7 @@
 title: The Jellyfish
 date: 2020-11-10T12:35:54.000+06:00
 image: "/uploads/jellyfish-cover.jpg"
-videothumb: "/uploads/jellyfish-cover.jpg"
+videothumb: "/images/works/jellyscreen1.jpg"
 what: Virtual Reality Experience
 description: An entire world inside your voice.
 platform: Oculus Quest
@@ -15,9 +15,19 @@ text1: |-
   In a dream-like state underwater, players in a VR headset encounter ghostly marine creatures, glowing jellyfishes, beckoning for participants to sing through them.
 section2: THE EXPERIENCE
 title2: Sing with Jellyfish
-text2: |-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+text2: "You find yourself immersed in a serene aquatic soundscape. \nIn the distance,
+  you notice a marine life, composed of what look like jellyfishes, swimming smoothly
+  all around you. If you look at one of them, it comes closer to you.\n\nWith your
+  gaze, you can connect with a jellyfish. By moving your head and your body, you understand
+  that the jellyfish is acting like a mirror, following your every movement. If you
+  talk to it, you hear your own voice transformed.\n\nThe jellyfishes and their environment
+  react to your voice. A swarm of jellyfishes will start to echo and harmonize  with
+  your voice in a loose melody, encouraging you to start singing with them. You will
+  spawn baby jellyfishes and trigger rhythmic elements to accompany your chant.\n\nBy
+  interacting with a different jellyfish, you will discover that it will transform
+  your voice in a different way. If you remain silent again and ignore the jellyfish,
+  he will swim away from you. \n\nWhen several persons sing at once next to each other,
+  a choir forms, combining sounds of human voices and jellyfishes harmonies."
 image2: "/images/works/jellyscreen1.jpg"
 image3: "/images/works/jellyscreen1.jpg"
 text3: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
