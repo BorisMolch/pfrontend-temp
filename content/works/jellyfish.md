@@ -2,14 +2,14 @@
 title: The Jellyfish
 date: 2020-11-10T12:35:54.000+06:00
 image: "/uploads/jellyfish-cover.jpg"
-videothumb: "/images/works/jellyscreen1.jpg"
+videothumb: "/uploads/jellyfish-cover.jpg"
 what: Virtual Reality Experience
 description: An entire world inside your voice.
 platform: Oculus Quest
 video: yyVBRZ1sbvA
 year: "2021"
 section1: SYNOPSIS
-title1: Sing with Jellyfish
+title1: ''
 text1: |-
   The Jellyfish is a VR experience for the Oculus Quest released in 2021. It invites audiences to dive into the deep water of their consciousness in a mesmerizing, interactive virtual reality soundscape.
   In a dream-like state underwater, players in a VR headset encounter ghostly marine creatures, glowing jellyfishes, beckoning for participants to sing through them.
