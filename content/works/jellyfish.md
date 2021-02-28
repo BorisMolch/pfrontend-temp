@@ -33,12 +33,18 @@ image3: "/images/works/jellyscreen1.jpg"
 text3: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
   exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. '
-image4: "/images/works/jellyscreen1.jpg"
-section4: THE EXPERIENCE
+image4: "/uploads/mayasing.jpg"
+section4: EXHIBITION FORMATS
 title4: A voice triggered experience
-text4: |-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+text4: "Simple presentation\nThe Jellyfish is available for Oculus Quest and HTC Vive
+  and shown as\na standing, still position in an private or public exhibition space.
+  \n\n\nThe “choir” multi-user presentation\nA presentation with several visitors
+  singing in the same space is a desirable possibility ; each one creating their own
+  notes and harmonies, while outside onlookers observe this strange virtual choir,
+  harmonizing with virtual non-human entities. \n\nA large scale art installation
+  is being planned for production,\nwhich feature a large scale projection surrounding
+  headsets.\n\nRequired space: 1,5 sqm per 1 user\nSpectators per session: 1 to 20
+  concurrent sessions\nPerformance run :  10 minutes approx\n"
 image5: "/images/works/jellyscreen1.jpg"
 quote: The best thing I have ever heard in my life so good so good so goood I thought
   I was really there...
