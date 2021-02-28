@@ -30,7 +30,15 @@ text2: "You find yourself immersed in a serene aquatic soundscape. \nIn the dist
   a choir forms, combining sounds of human voices and jellyfishes harmonies."
 image2: "/uploads/jellyscreen1.jpg"
 image3: "/uploads/screen-jelly3.jpg"
-text3: "\n "
+text3: "\n Spatial Audio\n\nReal-time Voice analyzer\n\nOur  tailor-made synthesisers
+  is driven by real-time voice analysis. measuring the immediate pitch amplitude,
+  tonality and phrasing of the singer’s voice.This influence the surrounding soundscape
+  affecting colors, animation, harmonic, rhythmic and spatial qualities. \n\nSing
+  a color\n\nOur system attributes a different color to each note on the scale, allowing
+  the singer to visualize his voice and control and his tone by changing the sung
+  color and experience the feeling of synesthesia.\n\nSynchronized Tempo clock ( multiplayer
+  only)\n\nRhythmic elements are synchronized across all the headsets encouraging
+  some togetherness to the choir of player."
 image4: "/uploads/mayasing.jpg"
 section4: EXHIBITION FORMATS
 title4: A voice triggered experience
@@ -65,17 +73,3 @@ role8: Additional Music
 person8: Moises Horta
 
 ---
-* **Spatial Audio**
-
-
-* **Real-time Voice analyzer**
-
-Our  tailor-made synthesisers is driven by real-time voice analysis. measuring the immediate pitch amplitude, tonality and phrasing of the singer’s voice.This influence the surrounding soundscape affecting colors, animation, harmonic, rhythmic and spatial qualities. 
-
-* **Sing a color**
-
-Our system attributes a different color to each note on the scale, allowing the singer to visualize his voice and control and his tone by changing the sung color and experience the feeling of synesthesia.
-
-* **Synchronized Tempo clock** ( multiplayer only)
-
-Rhythmic elements are synchronized across all the headsets encouraging some togetherness to the choir of player.
