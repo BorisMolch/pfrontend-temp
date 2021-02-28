@@ -28,7 +28,7 @@ text2: "You find yourself immersed in a serene aquatic soundscape. \nIn the dist
   your voice in a different way. If you remain silent again and ignore the jellyfish,
   he will swim away from you. \n\nWhen several persons sing at once next to each other,
   a choir forms, combining sounds of human voices and jellyfishes harmonies."
-image2: "/images/works/jellyscreen1.jpg"
+image2: "/uploads/jellyscreen1.jpg"
 image3: "/images/works/jellyscreen1.jpg"
 text3: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
