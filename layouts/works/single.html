@@ -1,5 +1,7 @@
 {{ define "main" }}
 
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
 {{ "<!-- Page Title -->" | safeHTML }}
 <section class="section page-title">
   <div class="container">
@@ -123,16 +125,36 @@
 </div>
 
 <div class="row border-bottom mb-5 mt-5" data-aos="fade-in">
-    <img width="100%" src="/images/works/awards-strip.jpg">
+  <div class="col-lg-4">
+
+    1
+  </div>
+  {{ "<!-- Awards Slider -->" | safeHTML }}
+  <section class="section clients bg-black" data-aos="fade-in">
+    <div class="container">
+      <div class="row">
+        <div class="col-10 m-auto text-center"> 
+          <div class="client-slider owl-carousel owl-theme">
+            {{ with .Params }}
+            {{ range .awards }}
+            <div class="item">
+              <img src="{{ . | absURL }}" alt="awards-logo">
+            </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{ end }}
+  {{ "<!-- End of Awards Slider -->" | safeHTML }}
 </div>
 
 <div class="row border-bottom" data-aos="fade-up">
     <div class="col-md-6 ">
 <p>CREDITS</p>
     </div>
-
-    <div class="col-md-3 credits">
-        
+    <div class="col-md-3 credits"> 
            <p class="credits"> {{ .Params.Role1}} </p>
            <p class="credits"> {{ .Params.Role2}} </p>
            <p class="credits"> {{ .Params.Role3}} </p>
@@ -143,9 +165,7 @@
            <p class="credits"> {{ .Params.Role7}} </p>
            <p class="credits">{{ .Params.Role8}}</p>
     </div>
-
         <div class="col-md-3 mb-5">
-
             <p>{{ .Params.Person1}}</p>
             <p>{{ .Params.Person2}}</p>
             <p>{{ .Params.Person3}}</p>
@@ -155,12 +175,28 @@
             <p>&nbsp;</p>
             <p>{{ .Params.Person7}}</p>
             <p>{{ .Params.Person8}}</p>
-
         </div>
-
-    
     </div>
-    <img class="mb-5" width="100%" src="/images/works/logo-strip.jpg" data-aos="fade-in">
+{{ "<!-- Partners Slider -->" | safeHTML }}
+<section class="section clients bg-black" data-aos="fade-in">
+  <div class="container">
+    <div class="row">
+      <div class="col-10 m-auto text-center"> 
+        <div class="client-slider owl-carousel owl-theme">
+          {{ with .Params }}
+          {{ range .partners }}
+          <div class="item">
+            <img src="{{ . | absURL }}" alt="partner-logo">
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ "<!-- End of Partners Slider -->" | safeHTML }}
+
     <!-- paginator -->
 <div class="col-sm-6 pt-3">        {{ with .PrevInSection }}
     <a style="font-size:1em; line-height: 1.2em; font-weight: 600;" href="{{ .Permalink }}"><i class="tf-ion-chevron-left" style="font-size: 20px;"></i> PREVIOUS WORK</a>

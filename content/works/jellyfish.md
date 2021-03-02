@@ -71,5 +71,11 @@ role7: Consultant
 person7: Morten Thorning
 role8: Additional Music
 person8: Moises Horta
-
+awards:
+  - images/works/award-works.png
+  - images/works/award-works.png
+  - images/works/award-works.png
+partners:
+  - images/works/prohelvetia.png
+  - images/works/prohelvetia.png
 ---
