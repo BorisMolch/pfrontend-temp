@@ -136,7 +136,7 @@ a:hover {
   background: $primary-color;
 }
 
-.bg-white p { color: $black!important;} 
+.bg-white p,li { color: $black!important; list-style-type: square;} 
 
 .bg-1 {
   background-size: cover;
