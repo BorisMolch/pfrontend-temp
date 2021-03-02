@@ -136,6 +136,8 @@ a:hover {
   background: $primary-color;
 }
 
+.bg-white p { color: $black!important;} 
+
 .bg-1 {
   background-size: cover;
   background-repeat: no-repeat;
