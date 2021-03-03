@@ -55,6 +55,7 @@ image5: "/images/works/jellyscreen1.jpg"
 quote: The best thing I have ever heard in my life so good so good so goood I thought
   I was really there...
 quoteauthor: Melodie Mousset / head of her body
+booking: fabbula
 role1: Co-director
 person1: Mélodie Mousset
 role2: Co-director
