@@ -2,10 +2,10 @@
 title: The Jellyfish
 date: 2020-11-10T12:35:54.000+06:00
 image: "/uploads/jellyfish-cover.jpg"
-videothumb: "/images/works/jellyscreen1.jpg"
+videothumb: "/uploads/mayasing.jpg"
 what: Virtual Reality Experience
 description: An entire world inside your voice.
-platform: Oculus Quest
+platform: VR Experience
 video: yyVBRZ1sbvA
 year: "2021"
 section1: SYNOPSIS
