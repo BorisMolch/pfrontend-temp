@@ -78,5 +78,5 @@ awards:
   - images/works/award-works.png
 partners:
   - images/works/prohelvetia.png
-  - images/works/prohelvetia.png
+  - images/works/The-Animation-Workshop.png
 ---
