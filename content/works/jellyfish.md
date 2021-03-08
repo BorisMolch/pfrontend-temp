@@ -26,8 +26,7 @@ text2: "You find yourself immersed in a serene aquatic soundscape. \nIn the dist
   spawn baby jellyfishes and trigger rhythmic elements to accompany your chant.\n\nBy
   interacting with a different jellyfish, you will discover that it will transform
   your voice in a different way. If you remain silent again and ignore the jellyfish,
-  he will swim away from you. \n\nWhen several persons sing at once next to each other,
-  a choir forms, combining sounds of human voices and jellyfishes harmonies."
+  he will swim away from you."
 image2: "/uploads/jellyscreen1.jpg"
 image3: "/uploads/screen-jelly3.jpg"
 text3: "\n Spatial Audio\n\nReal-time Voice analyzer\n\nOur  tailor-made synthesisers
