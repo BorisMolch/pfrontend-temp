@@ -2,7 +2,7 @@
 title: The Jellyfish
 date: 2020-11-10T12:35:54.000+06:00
 image: "/uploads/jellyfish-cover.jpg"
-videothumb: "/uploads/mayasing.jpg"
+videothumb: "/uploads/jelly1.jpg"
 what: Virtual Reality Experience
 description: An entire world inside your voice.
 platform: VR Experience
@@ -34,11 +34,12 @@ text3: "\n Spatial Audio\n\nReal-time Voice analyzer\n\nOur  tailor-made synthes
   is driven by real-time voice analysis. measuring the immediate pitch amplitude,
   tonality and phrasing of the singer’s voice.This influence the surrounding soundscape
   affecting colors, animation, harmonic, rhythmic and spatial qualities. \n\n**Sing
-  a color**\n\nOur system attributes a different color to each note on the scale, allowing
-  the singer to visualize his voice and control and his tone by changing the sung
-  color and experience the feeling of synesthesia.\n\nSynchronized Tempo clock ( multiplayer
-  only)\n\nRhythmic elements are synchronized across all the headsets encouraging
-  some togetherness to the choir of player.\n\n* List\n* Test\n* Bullet points"
+  a color**\n\nOur system attributes a different color to each note on the scale,
+  allowing the singer to visualize his voice and control and his tone by changing
+  the sung color and experience the feeling of synesthesia.\n\nSynchronized Tempo
+  clock ( multiplayer only)\n\nRhythmic elements are synchronized across all the headsets
+  encouraging some togetherness to the choir of player.\n\n* List\n* Test\n* Bullet
+  points"
 image4: "/uploads/mayasing.jpg"
 section4: EXHIBITION FORMATS
 title4: A voice triggered experience
@@ -73,10 +74,11 @@ person7: Morten Thorning
 role8: Additional Music
 person8: Moises Horta
 awards:
-  - images/works/award-works.png
-  - images/works/award-works.png
-  - images/works/award-works.png
+- images/works/award-works.png
+- images/works/award-works.png
+- images/works/award-works.png
 partners:
-  - images/works/prohelvetia.png
-  - images/works/The-Animation-Workshop.png
+- images/works/prohelvetia.png
+- images/works/The-Animation-Workshop.png
+
 ---
