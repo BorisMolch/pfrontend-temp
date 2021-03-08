@@ -41,16 +41,14 @@ text3: "\n Spatial Audio\n\nReal-time Voice analyzer\n\nOur  tailor-made synthes
   points"
 image4: "/uploads/mayasing.jpg"
 section4: EXHIBITION FORMATS
-title4: A voice triggered experience
-text4: "Simple presentation\nThe Jellyfish is available for Oculus Quest and HTC Vive
-  and shown as\na standing, still position in an private or public exhibition space.
-  \n\n\nThe “choir” multi-user presentation\nA presentation with several visitors
-  singing in the same space is a desirable possibility ; each one creating their own
-  notes and harmonies, while outside onlookers observe this strange virtual choir,
-  harmonizing with virtual non-human entities. \n\nA large scale art installation
-  is being planned for production,\nwhich feature a large scale projection surrounding
-  headsets.\n\nRequired space: 1,5 sqm per 1 user\nSpectators per session: 1 to 20
-  concurrent sessions\nPerformance run :  10 minutes approx\n"
+title4: ''
+text4: "**Simple presentation**\nThe Jellyfish is available for Oculus Quest and HTC
+  Vive and shown as a standing, still position in an private or public exhibition
+  space. \n\n\n**The “choir” multi-user presentation**\nA presentation with several
+  visitors singing in the same space is a desirable possibility ; each one singing
+  in a strange virtual choir, harmonizing with virtual non-human entities. \n\nA large
+  scale art installation is being planned for production,\nwhich feature a large scale
+  projection surrounding headsets."
 image5: "/images/works/jellyscreen1.jpg"
 quote: The best thing I have ever heard in my life so good so good so goood I thought
   I was really there...
