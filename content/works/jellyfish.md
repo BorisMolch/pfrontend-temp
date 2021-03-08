@@ -5,7 +5,7 @@ image: "/uploads/jellyfish-cover.jpg"
 videothumb: "/uploads/jelly1.jpg"
 what: Virtual Reality Experience
 description: An entire world inside your voice.
-platform: VR Experience
+platform: Virtual Reality Experience
 video: yyVBRZ1sbvA
 year: "2021"
 section1: SYNOPSIS
