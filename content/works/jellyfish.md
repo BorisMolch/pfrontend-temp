@@ -39,7 +39,7 @@ text3: "\n***Spatial Audio**\n\n***Real-time voice analyzer**\n\nOur  tailor-mad
   across all the headsets encouraging some togetherness to the choir of player. "
 image4: "/uploads/mayasing.jpg"
 section4: EXHIBITION FORMATS
-title4: ''
+title4: A great piece for public spaces and homes
 text4: "**Simple presentation**\nThe Jellyfish is available for Oculus Quest and HTC
   Vive and shown as a standing, still position in an private or public exhibition
   space. \n\n\n**The “choir” multi-user presentation**\nA presentation with several
