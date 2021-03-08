@@ -28,7 +28,7 @@ text2: "You find yourself immersed in a serene aquatic soundscape. \nIn the dist
   your voice in a different way. If you remain silent again and ignore the jellyfish,
   he will swim away from you."
 image2: "/uploads/jellyscreen1.jpg"
-image3: "/uploads/screen-jelly3.jpg"
+image3: "/uploads/jellyscreens.jpg"
 text3: "\n Spatial Audio\n\nReal-time Voice analyzer\n\nOur  tailor-made synthesisers
   is driven by real-time voice analysis. measuring the immediate pitch amplitude,
   tonality and phrasing of the singer’s voice.This influence the surrounding soundscape
