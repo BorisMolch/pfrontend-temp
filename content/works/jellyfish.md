@@ -49,7 +49,7 @@ text4: "**Simple presentation**\nThe Jellyfish is available for Oculus Quest and
   in a strange virtual choir, harmonizing with virtual non-human entities. \n\nA large
   scale art installation is being planned for production,\nwhich feature a large scale
   projection surrounding headsets."
-image5: "/images/works/jellyscreen1.jpg"
+image5: "/uploads/screen-jelly3.jpg"
 quote: The best thing I have ever heard in my life so good so good so goood I thought
   I was really there...
 quoteauthor: Melodie Mousset / head of her body
