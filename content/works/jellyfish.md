@@ -29,16 +29,14 @@ text2: "You find yourself immersed in a serene aquatic soundscape. \nIn the dist
   he will swim away from you."
 image2: "/uploads/jellyscreen1.jpg"
 image3: "/uploads/jellyscreens.jpg"
-text3: "\n Spatial Audio\n\nReal-time Voice analyzer\n\nOur  tailor-made synthesisers
-  is driven by real-time voice analysis. measuring the immediate pitch amplitude,
-  tonality and phrasing of the singer’s voice.This influence the surrounding soundscape
-  affecting colors, animation, harmonic, rhythmic and spatial qualities. \n\n**Sing
-  a color**\n\nOur system attributes a different color to each note on the scale,
-  allowing the singer to visualize his voice and control and his tone by changing
-  the sung color and experience the feeling of synesthesia.\n\nSynchronized Tempo
-  clock ( multiplayer only)\n\nRhythmic elements are synchronized across all the headsets
-  encouraging some togetherness to the choir of player.\n\n* List\n* Test\n* Bullet
-  points"
+text3: "\n***Spatial Audio**\n\n***Real-time voice analyzer**\n\nOur  tailor-made
+  synthesizers is driven by real-time voice analysis. measuring the immediate pitch
+  amplitude, tonality and phrasing of the singer’s voice.This influence the surrounding
+  soundscape affecting colors, animation, harmonic, rhythmic and spatial qualities.
+  \n\n***Synestesis**\n\nOur system to \"sing colors\" attributes a different color
+  to each note on the scale, allowing the singer to visualize her voice and control
+  her tone.\n\n***Synchronized Tempo clock **\n\nRhythmic elements are synchronized
+  across all the headsets encouraging some togetherness to the choir of player. "
 image4: "/uploads/mayasing.jpg"
 section4: EXHIBITION FORMATS
 title4: ''
