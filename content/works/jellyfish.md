@@ -35,7 +35,10 @@ text3: "Our tailor-made
   synthesizers is driven by real-time voice analysis. measuring the immediate pitch
   amplitude, tonality and phrasing of the singer’s voice.This influence the surrounding
   soundscape affecting colors, animation, harmonic, rhythmic and spatial qualities.
-  \n* **Spatial Audio**\n\n* **Real-time voice analyzer**\n\n
+
+  # Real-time voice analyzer
+  
+  \n* **Spatial Audio**\n\n \n\n
   \n\n* **Synestesis**\n\nOur system to \"sing colors\" attributes a different color
   to each note on the scale, allowing the singer to visualize her voice and control
   her tone.\n\n* **Synchronized Tempo clock**\n\nRhythmic elements are synchronized
