@@ -33,13 +33,10 @@
 {{ "<!-- Single Article -->" | safeHTML }}
 <section class="section pt-0">
   <div class="container" data-aos="fade-up">
-
-
     <div class="row">
       <div class="col-md-6 ">
         <p style="color: gray;">{{ .Params.Section1 }}</p>
     </div>
-
     <div class="col-md-6 mb-5">
         <h1>{{ .Params.Title1 }}</h1>
         <p>{{ .Params.Text1 | markdownify }}</p>
@@ -49,12 +46,9 @@
 </section>
 {{ "<!-- End of Single Article -->" | safeHTML }}
 
-<section class="section bg-white text-dark" data-aos="fade-in">
-
+<section class="section bg-white blackonwhite" data-aos="fade-in">
     <div class="container">
-
         <div class="row">
-
             <div class="col-sm-12 m-auto">
                 <div style="position: relative; top: -100px" class="video">
                   <img class="img-fluid shadow" src="{{ .Params.Videothumb | absURL }}" alt="video-thumbnail">
@@ -63,50 +57,45 @@
                       <i class="tf-ion-play" data-video="https://www.youtube.com/embed/{{ .Params.video }}?autoplay=1"></i>
                     </a> 
                   </div>
-                </div>
-                
-              </div>
+                </div>   
+            </div>
         </div>
-
-    <div class="row" data-aos="fade-up">
-        <div class="col-md-6 ">
-          <p style="color: black;">{{ .Params.Section2 }}</p>
-      </div>
-  
-      <div class="col-md-6 mb-5">
-          <h1 style="color: black;">{{ .Params.Title2 }}</h1>
-          <p style="color: black;">{{ .Params.Text2 | markdownify }}</p>
-      </div>
-
-</div>
-<div class="mb-5">
-<img width="100%" src="{{ .Params.Image2 }}" data-aos="fade-in">
-</div>
-<div class="mb-5">
-<img width="100%" src="{{ .Params.Image3 }}" data-aos="fade-in">
-</div>
-<div class="row">
-<div class="col-md-6 ">
-  <p style="color: gray;">{{ .Params.Section3 }}</p>
-</div>
-
-<div class="col-md-6 mb-5 blackonwhite" data-aos="fade-up">
-  <h1 style="color: black;">{{ .Params.Title3 }}</h1>
-    <p style="color: black;">{{ .Params.Text3 | markdownify }}</p>
-</div>
-<div class="mb-5">
-    <img width="100%" src="{{ .Params.Image4 }}" data-aos="fade-in">
-    </div>
-
-    <div class="col-md-6" data-aos="fade-up">
-        <p style="color: gray;">{{ .Params.Section4 }}</p>
-    </div>
-
-    <div class="col-md-6 mb-5" data-aos="fade-up">
-        <h1 style="color: black;">{{ .Params.Title4 }}</h1>
-        <p style="color: black;">{{ .Params.Text4 | markdownify }}</p>
-    </div>
-</div>
+        <div class="row" data-aos="fade-up">
+          <div class="col-md-6 ">
+            <p style="color: black;">{{ .Params.Section2 }}</p>
+          </div>
+          <div class="col-md-6 mb-5">
+            <h1 style="color: black;">{{ .Params.Title2 }}</h1>
+            <p>{{ .Params.Text2 | markdownify }}</p>
+          </div>
+        </div>
+        <div class="row" data-aos="fade-in">
+          <div class="mb-5">
+            <img width="100%" src="{{ .Params.Image2 }}" data-aos="fade-in">
+             </div>
+            <div class="mb-5">
+              <img width="100%" src="{{ .Params.Image3 }}" data-aos="fade-in">
+            </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6 ">
+            <p style="color: gray;">{{ .Params.Section3 }}</p>
+          </div>
+          <div class="col-md-6 mb-5 " data-aos="fade-up">
+            <h1 style="color: black;">{{ .Params.Title3 }}</h1>
+             <p class="blackonwhite">{{ .Params.Text3 | markdownify }}</p>
+          </div>
+          <div class="mb-5">
+            <img width="100%" src="{{ .Params.Image4 }}" data-aos="fade-in">
+          </div>
+          <div class="col-md-6" data-aos="fade-up">
+             <p style="color: gray;">{{ .Params.Section4 }}</p>
+         </div>
+          <div class="col-md-6 mb-5" data-aos="fade-up">
+              <h1 style="color: black;">{{ .Params.Title4 }}</h1>
+              <p style="color: black;">{{ .Params.Text4 | markdownify }}</p>
+          </div>
+        </div>
 </section>
 
 <section class="section">

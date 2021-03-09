@@ -87,6 +87,10 @@ link = "plugins/aos/aos.js"
 link = "plugins/jquery.bootstrap-autohidingnavbar.js"
 [[params.plugins.js]]
 link = "plugins/highlight.js"
+[[params.plugins.js]]
+link = "plugins/jobalert.js"
+[[params.plugins.css]]
+link = "plugins/jobalert.css"
 [params.preloader]
 enable = false
 preloader = "/images/logo-1.png"

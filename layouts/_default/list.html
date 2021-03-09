@@ -18,7 +18,7 @@
 
 {{ "<!-- Featured Article -->" | safeHTML }}
 <section class="section featured-article">
-  <div class="container">
+  <div class="container whiteonblack">
     <div class="row">
       {{ range first 1 (where .Data.Pages "Type" "featured") }}
       <div class="col-md-12">
@@ -30,7 +30,7 @@
             <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
             <ul class="list-inline postdate">
               <li class="mb-0"><!--<i class="tf-ion-android-person mr-2"></i>By <a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author | title }}</a></li>-->
-              <li class="postdate mb-0">{{ .PublishDate.Format "January 02, 2006" }}</li>
+              <li class="postdate whiteonblack mb-0">{{ .PublishDate.Format "January 02, 2006" }}</li>
             </ul>
             <p>{{ .Summary }}</p>
             <a class="btn btn-main-sm" href="{{ .Permalink }}">{{ i18n "read_more" }}</a>

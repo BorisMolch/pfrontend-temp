@@ -26,7 +26,9 @@ h1{
 	font-family: $patchxr-font!important;
 }
 
-.blackonwhite h1,h2 {color: $black!important;}
+.blackonwhite * {color: $black!important;}
+
+.whiteonblack h1 h2 p li {color: $white!important;}
 
 .mega { font-size: 52px;}
 
