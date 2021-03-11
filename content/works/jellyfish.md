@@ -27,11 +27,8 @@ image3: "/uploads/jelly5.jpg"
 section3: FEATURES
 title3: Bespoke technology for rich immersion
 text3: |-
-  Our tailor-made synthesizers are driven by real-time voice analysis of the singer, measuring pitch, amplitude, and even nuances like tonality and phrasing. These sonic inputs transform a wide gamut of immersive parameters - the surrounding soundscape, harmonic and rhythmic details, colors, animation, and spatial qualities.
+  Our tailor-made synthesizers are driven by real-time voice analysis of the singer, measuring pitch, amplitude, and even nuances like tonality and phrasing. These sonic inputs transform a wide gamut of environmental parameters - the surrounding soundscape, harmonic and rhythmic details, colors, animation, and spatial qualities. All of this is realized in our original, fully-immersive three-dimensional sound system.
 
-  # Real-time voice analyzer
-
-  * **Spatial Audio**
 
   * **Synesthesia**
 
