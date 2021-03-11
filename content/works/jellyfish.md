@@ -4,45 +4,37 @@ date: 2020-11-10T12:35:54.000+06:00
 image: "/uploads/jellyfish-cover.jpg"
 videothumb: "/uploads/jelly1.jpg"
 what: Virtual Reality Experience
-description: An entire world inside your voice.
+description: A sea of possibilities, created from your voice.
 platform: Virtual Reality Experience
 video: yyVBRZ1sbvA
 year: "2021"
 section1: SYNOPSIS
 title1: ''
-text1: |-
-  The Jellyfish is a VR experience for the Oculus Quest released in 2021. It invites audiences to dive into the deep water of their consciousness in a mesmerizing, interactive virtual reality soundscape.
-  In a dream-like state underwater, players in a VR headset encounter ghostly marine creatures, glowing jellyfishes, beckoning for participants to sing through them.
+text1: "Dive into the watery depths of your consciousness in this mesmerizing, interactive
+  virtual reality soundscape for the Oculus Quest, released in 2021. \n\nUsing your
+  voice as input into the VR experience, glowing jellyfish and other ghostly marine
+  creatures in this dreamlike underwater world beckon for your song."
 section2: THE EXPERIENCE
 title2: Sing with Jellyfish
-text2: "You find yourself immersed in a serene aquatic soundscape. \nIn the distance,
-  you notice a marine life, composed of what look like jellyfishes, swimming smoothly
-  all around you. If you look at one of them, it comes closer to you.\n\nWith your
-  gaze, you can connect with a jellyfish. By moving your head and your body, you understand
-  that the jellyfish is acting like a mirror, following your every movement. If you
-  talk to it, you hear your own voice transformed.\n\nThe jellyfishes and their environment
-  react to your voice. A swarm of jellyfishes will start to echo and harmonize  with
-  your voice in a loose melody, encouraging you to start singing with them. You will
-  spawn baby jellyfishes and trigger rhythmic elements to accompany your chant.\n\nBy
-  interacting with a different jellyfish, you will discover that it will transform
-  your voice in a different way. If you remain silent again and ignore the jellyfish,
-  he will swim away from you."
+text2: |-
+  You find yourself immersed in a serene aquatic visual and sonic environment. In the distance, you notice fanciful marine life swimming around you. You gaze at one, and it approaches you.
+
+  As you move your head and body, this jellyfish reveals itself as connected to you, mirroring your every movement. Speak to it and you hear your own voice transformed.
+
+  With this vocal input, you engage in the environment. A jellyfish swarm echoes and loosely harmonizes your melody, so that you join in their chorus, triggering baby jellyfish spawning and other surprising chains of interactions. Lend your song to a different jellyfish, and discover a new character of transformation. Stay silent, and the jellyfish departs.
 image2: "/uploads/jellyscreen1.jpg"
 image3: "/uploads/jelly5.jpg"
-section3: "FEATURES"
-title3: "Incredible Features"
-text3: "Our tailor-made
-  synthesizers is driven by real-time voice analysis. measuring the immediate pitch
-  amplitude, tonality and phrasing of the singer’s voice.This influence the surrounding
-  soundscape affecting colors, animation, harmonic, rhythmic and spatial qualities.
-
-  # Real-time voice analyzer
-  
-  \n* **Spatial Audio**\n\n \n\n
-  \n\n* **Synestesis**\n\nOur system to \"sing colors\" attributes a different color
-  to each note on the scale, allowing the singer to visualize her voice and control
-  her tone.\n\n* **Synchronized Tempo clock**\n\nRhythmic elements are synchronized
-  across all the headsets encouraging some togetherness to the choir of player. "
+section3: FEATURES
+title3: Bespoke technology for rich immersion
+text3: "Our tailor-made synthesizers are driven by real-time voice analysis of the
+  singer, measuring pitch, amplitude, and even nuances like tonality and phrasing.
+  These sonic inputs transform a wide gamut of immersive parameters - the surrounding
+  soundscape, harmonic and rhythmic details, colors, animation, and spatial qualities.\n\n#
+  Real-time voice analyzer\n\n* **Spatial Audio**\n\n \n\n \n\n* **Synestesis**\n\nOur
+  system to \"sing colors\" attributes a different color to each note on the scale,
+  allowing the singer to visualize her voice and control her tone.\n\n* **Synchronized
+  Tempo clock**\n\nRhythmic elements are synchronized across all the headsets encouraging
+  some togetherness to the choir of player. "
 image4: "/uploads/mayasing.jpg"
 section4: EXHIBITION FORMATS
 title4: A great piece for public spaces and homes
