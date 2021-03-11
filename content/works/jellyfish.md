@@ -26,28 +26,33 @@ image2: "/uploads/jellyscreen1.jpg"
 image3: "/uploads/jelly5.jpg"
 section3: FEATURES
 title3: Bespoke technology for rich immersion
-text3: "Our tailor-made synthesizers are driven by real-time voice analysis of the
-  singer, measuring pitch, amplitude, and even nuances like tonality and phrasing.
-  These sonic inputs transform a wide gamut of immersive parameters - the surrounding
-  soundscape, harmonic and rhythmic details, colors, animation, and spatial qualities.\n\n#
-  Real-time voice analyzer\n\n* **Spatial Audio**\n\n \n\n \n\n* **Synestesis**\n\nOur
-  system to \"sing colors\" attributes a different color to each note on the scale,
-  allowing the singer to visualize her voice and control her tone.\n\n* **Synchronized
-  Tempo clock**\n\nRhythmic elements are synchronized across all the headsets encouraging
-  some togetherness to the choir of player. "
+text3: |-
+  Our tailor-made synthesizers are driven by real-time voice analysis of the singer, measuring pitch, amplitude, and even nuances like tonality and phrasing. These sonic inputs transform a wide gamut of immersive parameters - the surrounding soundscape, harmonic and rhythmic details, colors, animation, and spatial qualities.
+
+  # Real-time voice analyzer
+
+  * **Spatial Audio**
+
+  * **Synesthesia**
+
+  Drawing on a rich history of color/pitch synesthesia (and composers like Scriabin), each scale tone produces a distinct color, so a singer can visualize and control their tone as they vocalize.
+
+  * **Synchronized clock**
+
+  Rhythms are synced with one another at a shared tempo, strengthening the collective feeling of participation. With the soundscape pulsing away in time, multiplayer participants feel togetherness as they would in an experienced musical ensemble.
 image4: "/uploads/mayasing.jpg"
 section4: EXHIBITION FORMATS
-title4: A great piece for public spaces and homes
+title4: Perfectly suited both for public spaces and home use.
 text4: "**Simple presentation**\nThe Jellyfish is available for Oculus Quest and HTC
-  Vive and shown as a standing, still position in an private or public exhibition
-  space. \n\n\n**The “choir” multi-user presentation**\nA presentation with several
+  Vive. It can also be shown in a private or public exhibition space as a continuous
+  projection.\n\n\n**The “choir” multi-user presentation**\nA presentation with several
   visitors singing in the same space is a desirable possibility ; each one singing
-  in a strange virtual choir, harmonizing with virtual non-human entities. \n\nA large
-  scale art installation is being planned for production,\nwhich feature a large scale
-  projection surrounding headsets."
+  in a strange virtual choir, harmonizing with virtual non-human entities. \n\nA large-scale
+  art installation is planned for production, featuring oversized, wraparound projection
+  and walk-up-and-use headsets."
 image5: "/uploads/screen-jelly3.jpg"
-quote: The best thing I have ever heard in my life so good so good so goood I thought
-  I was really there...
+quote: The best thing I have ever heard in my life! so good so good so goood -- I
+  thought I was really there...
 quoteauthor: Melodie Mousset / head of her body
 booking: fabbula
 role1: Co-director
@@ -60,12 +65,12 @@ role4: Developer
 person4: Vinicius Pereira Faria
 role5: Environmental Artist
 person5: Tom Frackowiak
-role6: Lead technical Artist
+role6: Lead Technical Artist
 person6: Victor Beaupuy
 role7: Consultant
 person7: Morten Thorning
 role8: Additional Music
-person8: Moises Horta
+person8: Moisés Horta Valenzuela
 awards:
 - "/uploads/finalist-laurels-for-cannes-xr_white.png"
 partners: []
