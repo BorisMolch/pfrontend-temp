@@ -125,3 +125,5 @@ fields:
 - type: text
   name: person8
   label: person8
+pages:
+- content/works/hanahana.md
