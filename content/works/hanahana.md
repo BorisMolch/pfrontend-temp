@@ -1,5 +1,5 @@
 +++
-date = ""
+date = 2021-03-15T23:00:00Z
 description = ""
 draft = true
 image = "/uploads/hanahana-hero.jpg"
@@ -40,6 +40,6 @@ title4 = ""
 video = "0WgKCp19DhU"
 videothumb = "/uploads/hanahana-hero.jpg"
 what = "Multiplayer VR experience"
-year = ""
+year = nil
 
 +++
