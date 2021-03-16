@@ -40,6 +40,6 @@ title4 = ""
 video = "0WgKCp19DhU"
 videothumb = "/uploads/hanahana-hero.jpg"
 what = "Multiplayer VR experience"
-year = nil
+year = ""
 
 +++
