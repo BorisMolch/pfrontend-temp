@@ -4,32 +4,40 @@ date = 2021-03-17T23:00:00Z
 description = ""
 draft = true
 image = "/uploads/ensemble1.jpg"
-title = "The new chamber music: enabling VR collaboration with Ensembles Contrechamps, Liminar"
+title = "How PatchXR can connect classical musicians with the virtual - and across distances"
 type = "featured"
 
 +++
+Meet this millenium'ss new chamber music. Instead of a palace or concert hall, the chamber can be in a fanciful virtual space, as classical chops meet up with augmented digital dimensions.
+
+Held back by pandemic restrictions, renowned new music players Ensemble Contrechamps recently got to explore that new playground and see what they could discover. That included both a hands-on lab with the PatchXR team in the ensemble's home city of Geneva and a distance collaboration with Mexico City's Ensemble Liminar. When that tour couldn't take place in person, the two adventurous ensembles were able to meet in a shared space.
+
+Both events involved working directly with our developers to create inventive solutions to needs - bows, reeds, and code all in action. 
+
 **I think in concert music and performance we all are aware of what we've lost this year. So maybe you can talk about what is added - what did it mean to layer these additional environments and media on the work?**
 
 I don’t know if I would have dared to get involved with VR music without all the cancellations due to COVID-19. It was really a big learning curve for me, for our team and for the musicians - and we could do it because we had this tour to Mexico canceled, which we reworked as a Virtual Tour. I know it was also a lot of work for the Patch team to build instruments that matched the aesthetics of our groups, and to communicate both with Geneva and Mexico. But we really opened an interesting path - and found a meaningful way not only to continue working and making music but also to interact with an ensemble and musicians on another continent.
 
 **Perhaps you can narrate a bit what's going on in these images – especially with multiple layers of perception here! How did interactions work between the person wearing the VR headset and the musicians playing traditional instruments?**
 
-_\[in the Contrechamps LAB\]_ What we see in these images are three acoustic musicians improvising with a fourth musician playing PatchXR in VR. All are classically-trained musicians and were taking turns playing in VR.
+_\[In the Contrechamps LAB\]_ What we see in these images are three acoustic musicians improvising with a fourth musician playing PatchXR in VR. All of us are classically-trained musicians and we were taking turns playing in VR.
 
-We had video feedback in the room, but they mostly interacted based on the sound they were making. PatchXR is very new, while they have practiced their own instruments for decades. So it was often easier for acoustic \[instruments\] to play with Patch than the other way around -- at this stage, anyway.
+We had video feedback in the room, but we mostly interacted based on the sound they were making. PatchXR is very new, while we have practiced our own instruments for decades. So it was often easier for acoustic \[instrumentalists\] to play with Patch than the other way around -- at this stage, anyway.
 
-_\[Virtual Tour with Mexico City\]_ We were unfortunately not able to play synchronously between Geneva and Mexico. \[Instead\] one side recorded the first part of a duet, and the other side was able to record the second \[part\] while listening and watching the avatar of the first. So what you see is two avatars within the same VR space, and one was played by a musician in Mexico City, and the other one in Geneva. We also experimented with the idea of recording two distinct solos, and to bring them together in the same virtual space afterwards.
+We did go quite far in terms of getting agency in a short time.
+
+_\[Virtual tour with Mexico City\]_ We were unfortunately not able to play synchronously between Geneva and Mexico. \[Instead\] one side recorded the first part of a duet, and the other side was able to record the second \[part\] while listening and watching the avatar of the first. So what you see is two avatars within the same VR space, and one was played by a musician in Mexico City, and the other one in Geneva. We also experimented with the idea of recording two distinct solos, and to bring them together in the same virtual space afterwards.
 
   
- **It’s a new challenge for concert musicians to take cues from things happening in virtual space. What were they watching, and how were they responding?**
+**It’s a new challenge for concert musicians to take cues from things happening in virtual space. What were they watching, and how were they responding?**
 
-The main challenge for the musicians was to get a level of control over the VR instruments within Patch. They have classical training, and a lot of experience with experimental practices that allow them to get pretty much any sound out of their instrument in no time, without so much thinking about it. Physical gestures and musical thinking are linked in very direct ways.
+The main challenge for the musicians was to get a level of control over the VR instruments within Patch. WWe have classical training, and a lot of experience with experimental practices that allow them to get pretty much any sound out of their instrument in no time, without so much thinking about it. Physical gestures and musical thinking are linked in very direct ways.
 
-In VR, they had to get familiar with the instruments that the Patch team designed for us and learn to have some agency. The VR instruments are very responsive, with a wide range of possibilities. While movement in space is the main way to interact with them, the process of interaction makes them a mixture between a synthesizer and an instrument - which was fun to get to grip with.
+In VR, we had to get familiar with the instruments that the Patch team designed for us and learn to have some agency. The VR instruments are very responsive, with a wide range of possibilities. While movement in space is the main way to interact with them, the process of interaction makes them a mixture between a synthesizer and an instrument - which was fun to get to grip with.
 
 **What did it mean generally to add this VR space artistically? What do those visual materials mean to you, in terms of aesthetics or expression?**
 
-One thing that I find very interesting is to give a physical presence on stage to electronic music. We often work with live sound processing or electronic elements using Max/MSP or other software, but in the contemporary scene, the sound engineers are often at the back of the room. Also, when there is a synthesizer or computer for electronics on stage, it is much less physical. With Patch, the musician controlling the electronic part is on stage, with the same physical presence as the other instruments, which I find really nice.
+One thing that I find very interesting is to give a physical presence on stage to electronic music. We often work with live sound processing or electronic elements using [Cycling '74 Max](https://cycling74.com/) or other software, but in the contemporary scene, the sound engineers are often at the back of the room. Also, when there is a synthesizer or computer for electronics on stage, it is much less physical. With Patch, the musician controlling the electronic part is on stage, with the same physical presence as the other instruments, which I find really nice.
 
 _\[Contrechamps LAB\]_ Projecting the ‘inside’ of the VR headset for the audience to see brings a visual context to the performance that is directly linked with what’s happening. It’s not easy to add visuals to concert music in a coherent way but this really does. We also experimented with having a webcam \[to show the physical room to the player with the VR headset\], but it was hard to take into account while playing, in the end.
 
