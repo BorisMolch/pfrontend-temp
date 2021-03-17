@@ -20,3 +20,5 @@ fields:
 - type: text
   name: type
   label: type
+pages:
+- content/blog/the-new-chamber-music-enabling-vr-collaboration-with-ensemble-contrechamps.md
