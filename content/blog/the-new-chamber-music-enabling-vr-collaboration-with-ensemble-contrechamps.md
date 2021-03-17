@@ -71,13 +71,11 @@ I must say the collaboration at a distance between me, the Patch team, and the M
 
 Meeting Ensemble Liminar was fantastic in any event, even if after over two years of planning, first for a physical tour, then for this virtual tour, we didn’t get to meet physically. They were a perfect partner for this project, really open musically, with improvisation being part of their practice and also with members of the ensemble and team who are really quick with technology.
 
-**Watch the process in action with these additional videos from the ensembles:**
+**Watch the process in action with these additional videos from the musicians:**
 
 {{< youtube WeBxPxtgLW8 >}}
 
 {{< youtube mLTF-ouYIqc >}}
-
-{{< youtube m6Uy_Tocnsw >}}
 
 More on the ensembles:
 
