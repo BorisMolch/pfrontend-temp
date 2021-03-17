@@ -51,13 +51,13 @@ One thing that I find very interesting is to give a physical presence on stage t
 
 _\[Contrechamps LAB\]_ Projecting the ‘inside’ of the VR headset for the audience to see brings a visual context to the performance that is directly linked with what’s happening. It’s not easy to add visuals to concert music in a coherent way but this really does. We also experimented with having a webcam \[to show the physical room to the player with the VR headset\], but it was hard to take into account while playing, in the end.
 
-_\[Virtual Tour with Mexico\]_ It’s great to have creative visual input for experimental improvised music. The worlds that were developed are really coherent with the music, while quite far from our usual aesthetics. It makes me listen differently to the music -- gives it a different purpose, somehow.
+_\[Virtual tour with Mexico\]_ It’s great to have creative visual input for experimental improvised music. The worlds that were developed are really coherent with the music, while quite far from our usual aesthetics. It makes me listen differently to the music -- gives it a different purpose, somehow.
 
 {{< youtube m6Uy_Tocnsw >}}
 
 **What does that mean for the audience experience, to have this additional dimension?**
 
-_\[Virtual Tour with Mexico\]_ The videos from our virtual tours have been premiered today on YouTube, so it’s hard to tell, but I’m looking forward to getting feedback. We are planning to offer the VR experience with Oculus Rift before and after our concerts - that is, when we will have concerts with audiences…
+_\[Virtual tour with Mexico\]_ The videos from our virtual tours have been premiered today on YouTube, so it’s hard to tell, but I’m looking forward to getting feedback. We are planning to offer the VR experience with Oculus Rift before and after our concerts - that is, when we will have concerts with audiences…
 
 _\[Contrechamps LAB\]_ We had an invited audience to watch the work in progress. People were focusing on how the musician in VR, the avatar, and the sound they produced were matching up. There’s something magic about this. The fact that one musician was ‘blind’ and interacting somehow in isolation but that the four musicians together could still build a coherent improvisation was also fascinating.
 
@@ -65,7 +65,7 @@ _\[Contrechamps LAB\]_ We had an invited audience to watch the work in progress.
 
 **What was it like for you working with the PatchXR team and tools? How was the collaboration and how did that element work - also mixing technology with the medium of acoustic instrumentalists?**
 
-The Patch team was amazing to work with. We had quite specific requests and they developed several tools for us, as well as custom instruments for us to use. There was a tool \[that allowed us to\] record one player, and for another one to play together with \[playback from\] the first one. That was first tested by us a few minutes after it was developed. It was all very hands-on, and it felt like something was happening.
+The Patch team was amazing to work with. We had quite specific requests and they developed several tools for us, as well as custom instruments for us to use. There was a tool that allowed us to record one player, and for another one to play together with playback from the first one. That was first tested by us a few minutes after it was developed. It was all very hands-on, and it felt like something was happening.
 
 **One thing this metaverse does open up -- back to adding dimensions and not only losing them in this pandemic -- what's the experience like of collaborating across distance? How did it work with these other artists?**
 
