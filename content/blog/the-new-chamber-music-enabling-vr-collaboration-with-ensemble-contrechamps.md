@@ -79,3 +79,9 @@ Meeting Ensemble Liminar was fantastic in any event, even if after over two year
 {{< youtube mLTF-ouYIqc >}}
 
 {{< youtube m6Uy_Tocnsw >}}
+
+More on the ensembles:
+
+[https://contrechamps.ch](https://contrechamps.ch "https://contrechamps.ch")
+
+[http://liminar.mx/](http://liminar.mx/ "http://liminar.mx/")
