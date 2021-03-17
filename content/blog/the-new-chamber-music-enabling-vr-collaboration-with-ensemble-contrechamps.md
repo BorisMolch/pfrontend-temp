@@ -3,11 +3,11 @@ author = "Peter Kirn"
 date = 2021-03-17T23:00:00Z
 description = "Working with Patch means Liminar in Mexico City and Ensemble Contrechamps in Geneva are able to explore new worlds and connect over distances."
 image = "/uploads/ensemble1.jpg"
-title = "How PatchXR can connect classical musicians with the virtual - and across distances"
+title = "How PatchXR can connect classically trained musicians with the virtual - and across distances"
 type = "featured"
 
 +++
-Meet this millennium's new chamber music. Instead of a palace or concert hall, the chamber can be in a fanciful virtual space, as classical chops meet up with augmented digital dimensions.
+Meet this millennium's new chamber music. Instead of a palace or concert hall, the chamber can be in a fanciful virtual space, as new music instrumental chops meet up with augmented digital dimensions.
 
 Held back by pandemic restrictions, renowned new music players Ensemble Contrechamps recently got to explore that new playground and see what they could discover. That included both a hands-on lab with the PatchXR team in the ensemble's home city of Geneva and a distance collaboration with Mexico City's Liminar. When that tour couldn't take place in person, the two adventurous ensembles were able to meet in a shared space.
 
@@ -37,7 +37,7 @@ _\[Virtual tour with Mexico City\]_ We were unfortunately not able to play synch
 
 **It’s a new challenge for concert musicians to take cues from things happening in virtual space. What were they watching, and how were they responding?**
 
-The main challenge for the musicians was to get a level of control over the VR instruments within Patch. WWe have classical training, and a lot of experience with experimental practices that allow them to get pretty much any sound out of their instrument in no time, without so much thinking about it. Physical gestures and musical thinking are linked in very direct ways.
+The main challenge for the musicians was to get a level of control over the VR instruments within Patch. We have classical training, and a lot of experience with experimental practices that allow them to get pretty much any sound out of their instrument in no time, without so much thinking about it. Physical gestures and musical thinking are linked in very direct ways.
 
 In VR, we had to get familiar with the instruments that the Patch team designed for us and learn to have some agency. The VR instruments are very responsive, with a wide range of possibilities. While movement in space is the main way to interact with them, the process of interaction makes them a mixture between a synthesizer and an instrument - which was fun to get to grip with.
 
