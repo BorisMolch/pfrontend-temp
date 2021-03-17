@@ -70,6 +70,6 @@ role8: Additional Music
 person8: Moisés Horta Valenzuela
 awards:
 - "/uploads/finalist-laurels-for-cannes-xr_white.png"
-partners: []
+partners: ["/uploads/finalist-laurels-for-cannes-xr_white.png"]
 
 ---

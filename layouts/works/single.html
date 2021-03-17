@@ -1,211 +1,131 @@
 {{ define "main" }}
-
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
 {{ "<!-- Page Title -->" | safeHTML }}
-<section class="section page-title">
+<section class="section page-title" data-aos="fade-in">
   <div class="container">
     <div class="row">
-<div class="col-md-6"></div>
-<div class="col-md-6" data-aos="fade-up">
-    <h1>{{ .Title }}</h1>
-    <h3>{{ .Params.Description }}</h3>
-</div>
-<div class="col-md-6" data-aos="fade-up"> <h3 style="color: royalblue">{{ .Params.Platform }}</h3></div>
-<div class="col-md-6" data-aos="fade-up">
-    <h3 style="color: royalblue">
-        {{ .Params.Year }}    
-    </h3>
-</div>
+      <div class="col-md-6"></div>
+      <div class="col-md-6" data-aos="fade-up">
+        <h1>{{ .Title }}</h1>
+        <h3>{{ .Params.Description }}</h3>
+      </div>
+      <div class="col-md-6" data-aos="fade-up">
+        <h3 style="color: royalblue">{{ .Params.Platform }}</h3>
+      </div>
+      <div class="col-md-6" data-aos="fade-up">
+        <h3 style="color: royalblue">{{ .Params.Year }}</h3>
+      </div>
     </div>
   </div>
-  {{ "<!-- Hero Image Section -->" | safeHTML }}
+</section>
+
+{{ "<!-- Hero Image Section -->" | safeHTML }}
 <section class="jellyworks section" data-aos="fade-in">
-	<div class="container">
-		<div class="row mt-5 text-center">
-			<div class="col-lg-12 text-shadow">
-
-					</div>
-				</div>
-			</div>
+  <div class="container">
+    <div class="row text-center">
+      <div class="col-lg-12 text-shadow"></div>
+    </div>
+  </div>
 </section>
-</section>
-{{ "<!-- End of Page Title -->" | safeHTML }}
 
-{{ "<!-- Single Article -->" | safeHTML }}
-<section class="section pt-0">
+{{ "<!-- Section 1 -->" | safeHTML }}
+<section class="section pt-5" data-aos="fade-in">
   <div class="container" data-aos="fade-up">
     <div class="row">
       <div class="col-md-6 ">
         <p style="color: gray;">{{ .Params.Section1 }}</p>
-    </div>
-    <div class="col-md-6 mb-5">
+      </div>
+      <div class="col-md-6 mb-5">
         <h1>{{ .Params.Title1 }}</h1>
         <p>{{ .Params.Text1 | markdownify }}</p>
+      </div>
     </div>
   </div>
-</div>
 </section>
-{{ "<!-- End of Single Article -->" | safeHTML }}
 
+{{ "<!-- Video and Textblocks Section -->" | safeHTML }}
 <section class="section bg-white blackonwhite" data-aos="fade-in">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12 m-auto">
-                <div style="position: relative; top: -100px" class="video">
-                  <img class="img-fluid shadow" src="{{ .Params.Videothumb | absURL }}" alt="video-thumbnail">
-                  <div class="video-button video-box">
-                    <a href="javascript:void(0)">
-                      <i class="tf-ion-play" style="color: white!important" data-video="https://www.youtube.com/embed/{{ .Params.video }}?autoplay=1"></i>
-                    </a> 
-                  </div>
-                </div>   
-            </div>
-        </div>
-        <div class="row" data-aos="fade-up">
-          <div class="col-md-6 ">
-            <p style="color: black;">{{ .Params.Section2 }}</p>
-          </div>
-          <div class="col-md-6 mb-5">
-            <h1 style="color: black;">{{ .Params.Title2 }}</h1>
-            <p>{{ .Params.Text2 | markdownify }}</p>
-          </div>
-        </div>
-        <div class="row" data-aos="fade-in">
-          <div class="mb-5">
-            <img width="100%" src="{{ .Params.Image2 }}" data-aos="fade-in">
-             </div>
-            <div class="mb-5">
-              <img width="100%" src="{{ .Params.Image3 }}" data-aos="fade-in">
-            </div>
-        </div>
-        <div class="row">
-          <div class="col-md-6 ">
-            <p style="color: gray;">{{ .Params.Section3 }}</p>
-          </div>
-          <div class="col-md-6 mb-5 " data-aos="fade-up">
-            <h1 style="color: black;">{{ .Params.Title3 }}</h1>
-             <p class="blackonwhite">{{ .Params.Text3 | markdownify }}</p>
-          </div>
-          <div class="mb-5">
-            <img width="100%" src="{{ .Params.Image4 }}" data-aos="fade-in">
-          </div>
-          <div class="col-md-6" data-aos="fade-up">
-             <p style="color: gray;">{{ .Params.Section4 }}</p>
-         </div>
-          <div class="col-md-6 mb-5" data-aos="fade-up">
-              <h1 style="color: black;">{{ .Params.Title4 }}</h1>
-              <p style="color: black;">{{ .Params.Text4 | markdownify }}</p>
-          </div>
-        </div>
-</section>
-
-<section class="section">
-    <div class="container">
-        <div  style="position: relative; top: -100px">
-            <img width="100%" src="{{ .Params.Image5 }}" data-aos="fade-in">
-            </div>
-<div class="row">
-    <div class="col-md-6 ">
-    </div>
-
-    <div class="col-md-6" data-aos="fade-up">
-        {{ if isset .Params "quote" }}  <h1>{{ .Params.Quote }}</h1>
-        <p>{{ .Params.Quoteauthor | markdownify }}</p>
-        {{ end }}
-    </div>
-</div>
-
-<div class="row border-bottom mb-5 mt-5" data-aos="fade-in">
-  <div class="col-lg-4">
-
-    
-  </div>
-  {{ "<!-- Awards Slider -->" | safeHTML }}
-  <section class="section clients bg-black" data-aos="fade-in">
-    <div class="container">
-      <div class="row">
-        <div class="col-10 m-auto text-center"> 
-          <div class="client-slider owl-carousel owl-theme">
-            
-            {{ with .Params }}
-            {{ range .awards }}
-            <div class="item">
-              <img src="{{ . | absURL }}" alt="awards-logo">
-            </div>
-            {{ end }}
-            
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  {{ end }}
-  {{ "<!-- End of Awards Slider -->" | safeHTML }}
-</div>
-
-<div class="row border-bottom" data-aos="fade-up">
-    <div class="col-md-6 mb-5">
-      <p>CREDITS</p>
-    </div>
-    <div class="col-md-3 credits"> 
-           <p class="credits"> {{ .Params.Role1}} </p>
-           <p class="credits"> {{ .Params.Role2}} </p>
-           <p class="credits"> {{ .Params.Role3}} </p>
-           <p class="credits"> {{ .Params.Role4}} </p>
-           <p class="credits"> {{ .Params.Role5}} </p>
-           <p class="credits"> {{ .Params.Role6}} </p>
-           <p class="credits"> & </p>
-           <p class="credits"> {{ .Params.Role7}} </p>
-           <p class="credits"> {{ .Params.Role8}} </p>
-    </div>
-        <div class="col-md-3 mb-5">
-            <p>{{ .Params.Person1}}</p>
-            <p>{{ .Params.Person2}}</p>
-            <p>{{ .Params.Person3}}</p>
-            <p>{{ .Params.Person4}}</p>
-            <p>{{ .Params.Person5}}</p>
-            <p>{{ .Params.Person6}}</p>
-            <p>&nbsp;</p>
-            <p>{{ .Params.Person7}}</p>
-            <p>{{ .Params.Person8}}</p>
-        </div>
-    </div>
-
-    <div class="row border-bottom" data-aos="fade-up">
-      <div class="col-md-6 mt-5 mb-5">
-    
-       
-         
-
-
-      </div>
-      <div class="col-md-3 credits mt-5 mb-5"> 
-        <p class="credits"> Touring and Licensing</p>
-        <p class="small">Enquire about touring and licensing with Fabbula at hello@fabbula.com</p>
-       
-       
-      </div>
-          <div class="col-md-3 mt-5 mb-5">
-            <p class="credits"> &nbsp;</p>
-            <a href="https://www.fabbula.com" target="_blank"><img src="/images/partners/fabbula.png" width="150px"></a>
-            
-          </div>
-      </div>
-
-{{ "<!-- Partners Slider -->" | safeHTML }}
-<section class="section clients bg-black" data-aos="fade-in">
   <div class="container">
     <div class="row">
-      <div class="col-10 m-auto text-center"> 
-        <div class="client-slider owl-carousel owl-theme">
-          {{ if isset .Params "partners" }}
-          {{ with .Params }}
-          {{ range .partners }}
-          <div class="item">
-            <img src="{{ . | absURL }}" alt="partner-logo">
+      <div class="col-sm-12 m-auto">
+        <div style="position: relative; top: -100px" class="video">
+          <img class="img-fluid shadow" src="{{ .Params.Videothumb | absURL }}" alt="video-thumbnail">
+          <div class="video-button video-box">
+            <a href="javascript:void(0)">
+              <i class="tf-ion-play" style="color: white!important"
+                data-video="https://www.youtube.com/embed/{{ .Params.video }}?autoplay=1"></i>
+            </a>
           </div>
-          {{ end }}
+        </div>
+      </div>
+    </div>
+    <div class="row" data-aos="fade-up">
+      <div class="col-md-6 ">
+        <p style="color: black;">{{ .Params.Section2 }}</p>
+      </div>
+      <div class="col-md-6 mb-5">
+        <h1 style="color: black;">{{ .Params.Title2 }}</h1>
+        <p>{{ .Params.Text2 | markdownify }}</p>
+      </div>
+    </div>
+    <div class="row" data-aos="fade-in">
+      <div class="mb-5">
+        <img width="100%" src="{{ .Params.Image2 }}" data-aos="fade-in">
+      </div>
+      <div class="mb-5">
+        <img width="100%" src="{{ .Params.Image3 }}" data-aos="fade-in">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6 ">
+        <p style="color: gray;">{{ .Params.Section3 }}</p>
+      </div>
+      <div class="col-md-6 mb-5 " data-aos="fade-up">
+        <h1 style="color: black;">{{ .Params.Title3 }}</h1>
+        <p class="blackonwhite">{{ .Params.Text3 | markdownify }}</p>
+      </div>
+      <div class="mb-5">
+        <img width="100%" src="{{ .Params.Image4 }}" data-aos="fade-in">
+      </div>
+      <div class="col-md-6" data-aos="fade-up">
+        <p style="color: gray;">{{ .Params.Section4 }}</p>
+      </div>
+      <div class="col-md-6 mb-5" data-aos="fade-up">
+        <h1 style="color: black;">{{ .Params.Title4 }}</h1>
+        <p style="color: black;">{{ .Params.Text4 | markdownify }}</p>
+      </div>
+    </div>
+</section>
+
+{{ "<!-- Negative padding image + Quote Section -->" | safeHTML }}
+<section class="section">
+  <div class="container">
+    <div style="position: relative; top: -100px">
+      <img width="100%" src="{{ .Params.Image5 }}" data-aos="fade-in">
+    </div>
+    <div class="row">
+      <div class="col-md-6 "></div>
+      <div class="col-md-6" data-aos="fade-up">
+        {{ if isset .Params "quote" }} <h1>{{ .Params.Quote }}</h1>
+        <p>{{ .Params.Quoteauthor | markdownify }}</p>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ "<!-- Awards Slider -->" | safeHTML }}
+<section class="section clients bg-black border-bottom" data-aos="fade-in">
+  <div class="container">
+    <div class="row">
+      <div class="col-10 m-auto text-center">
+        <div class="client-slider owl-carousel owl-theme">
+          {{ with .Params }}
+          {{ range .awards }}
+          <div class="item">
+            <img src="{{ . | absURL }}" alt="awards-logo">
+          </div>
           {{ end }}
         </div>
       </div>
@@ -213,22 +133,92 @@
   </div>
 </section>
 {{ end }}
-{{ "<!-- End of Partners Slider -->" | safeHTML }}
 
-    <!-- paginator -->
-<div class="col-sm-6 pt-3">        {{ with .PrevInSection }}
-    <a style="font-size:1em; line-height: 1.2em; font-weight: 600;" href="{{ .Permalink }}"><i class="tf-ion-chevron-left" style="font-size: 20px;"></i> PREVIOUS WORK</a>
-  {{ end }}</div>
-  <div class="col-sm-6 pt-3 text-right">    
-    {{ with .NextInSection }}
-    <a style="font-size:1em; font-weight: 600; line-height: 1.2em;" href="{{ .Permalink }}">NEXT WORK <i class="tf-ion-chevron-right" style="font-size: 20px;"></i></a>
-  {{ end }}</div>
-  <!-- /paginator -->
-</div>
-
-</div>
+{{ "<!-- Credits Section -->" | safeHTML }}
+<section class="section clients bg-black border-bottom " data-aos="fade-in">
+  <div class="container">
+    <div class="row " data-aos="fade-up">
+      <div class="col-md-6 mb-5">
+        <span style="color:whitesmoke ;font-size:2em; font-weight: 600; line-height: 1.2em;">{{ .Params.Title }}</span><br>
+        <span style="color: grey ;font-size:1.5em; font-weight: 600; line-height: 1.2em;">{{ .Params.Year }}</span><br>
+      </div>
+      <div class="col-md-3 credits">
+        <p class="credits"> {{ .Params.Role1}} </p>
+        <p class="credits"> {{ .Params.Role2}} </p>
+        <p class="credits"> {{ .Params.Role3}} </p>
+        <p class="credits"> {{ .Params.Role4}} </p>
+        <p class="credits"> {{ .Params.Role5}} </p>
+        <p class="credits"> {{ .Params.Role6}} </p>
+        <p class="credits"> & </p>
+        <p class="credits"> {{ .Params.Role7}} </p>
+        <p class="credits"> {{ .Params.Role8}} </p>
+      </div>
+      <div class="col-md-3 mb-5">
+        <p>{{ .Params.Person1}}</p>
+        <p>{{ .Params.Person2}}</p>
+        <p>{{ .Params.Person3}}</p>
+        <p>{{ .Params.Person4}}</p>
+        <p>{{ .Params.Person5}}</p>
+        <p>{{ .Params.Person6}}</p>
+        <p>&nbsp;</p>
+        <p>{{ .Params.Person7}}</p>
+        <p>{{ .Params.Person8}}</p>
+      </div>
+    </div>
+    <div class="row" data-aos="fade-up">
+      <div class="col-md-6 mt-5 mb-5">&nbsp;</div>
+      <div class="col-md-3 credits mt-5 mb-5">
+        <p class="credits">Touring and Licensing</p>
+        <p class="small">Enquire about touring and licensing with Fabbula at hello@fabbula.com</p>
+      </div>
+      <div class="col-md-3 mt-5 mb-5">
+        <p class="credits">&nbsp;</p>
+        <a href="https://www.fabbula.com" target="_blank"><img src="/images/partners/fabbula.png" width="150px"></a>
+      </div>
+    </div>
+  </div>
 </section>
 
+{{ "<!-- Partners Slider -->" | safeHTML }}
+<section class="section clients bg-black" data-aos="fade-in">
+    <div class="container">
+      <div class="row">
+        <div class="col-10 m-auto text-center">
+          <div class="client-slider owl-carousel owl-theme">
+            {{ if isset .Params "partners" }}
+              {{ with .Params }}
+                {{ range .partners }}
+                  <div class="item">
+                    <img src="{{ . | absURL }}" alt="partner-logo">
+                  </div>
+                {{ end }}
+              {{ end }}
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
 
+{{ "<!-- Works Paginator -->" | safeHTML }}
+<section data-aos="fade-in" class="border-top">
+    <div class="container">
+      <div class="row mt-5 mb-5">
+        <div class="col-sm-6 pt-3"> 
+          {{ with .PrevInSection }}
+          <span style="color: dimgray; font-size:1.5em; font-weight: 600; line-height: 1.2em;">More Works</span><br>
+            <a style="font-size:2em; line-height: 1.2em; font-weight: 600;" href="{{ .Permalink }}"><i class="tf-ion-chevron-left"></i> {{ .Title }}</a>
+          {{ end }}
+        </div>
+        <div class="col-sm-6 pt-3 text-right">
+          {{ with .NextInSection }}
+          <span style="color: dimgray; font-size:1.5em; font-weight: 600; line-height: 1.2em;">More Works</span><br>
+            <a style="font-size:2em; font-weight: 600; line-height: 1.2em;" href="{{ .Permalink }}">
+              {{ .Title }} <i class="tf-ion-chevron-right" ></i></a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+</section>
 
 {{ end }}

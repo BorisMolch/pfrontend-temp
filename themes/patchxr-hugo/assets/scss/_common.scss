@@ -130,7 +130,7 @@ a:hover {
   background: $dark;
 }
 
-.credits {font-weight: 600!important;}
+.credits {font-weight: 600!important; color: dimgray}
 
 .bg-blue {
   background: $primary-color;
@@ -147,10 +147,10 @@ a:hover {
 }
 
 .border-bottom {
-  border-bottom: 1px solid #495057!important;}
+  border-bottom: 1px solid #131415!important;}
 
   .border-top {
-    border-top: 1px solid #495057!important;}
+    border-top: 1px solid#131415!important;}
 
 .bg-coming-soon {
   background: url(../images/background/comming-soon.jpg) fixed no-repeat;
