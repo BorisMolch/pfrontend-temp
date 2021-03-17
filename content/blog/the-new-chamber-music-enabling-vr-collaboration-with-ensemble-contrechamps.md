@@ -1,7 +1,7 @@
 +++
 author = "Peter Kirn"
 date = 2021-03-17T23:00:00Z
-description = ""
+description = "Working with Patch means Liminar in Mexico City and Ensemble Contrechamps in Geneva are able to explore new worlds - and connect over distances."
 draft = true
 image = "/uploads/ensemble1.jpg"
 title = "How PatchXR can connect classical musicians with the virtual - and across distances"
@@ -10,7 +10,7 @@ type = "featured"
 +++
 Meet this millennium's new chamber music. Instead of a palace or concert hall, the chamber can be in a fanciful virtual space, as classical chops meet up with augmented digital dimensions.
 
-Held back by pandemic restrictions, renowned new music players Ensemble Contrechamps recently got to explore that new playground and see what they could discover. That included both a hands-on lab with the PatchXR team in the ensemble's home city of Geneva and a distance collaboration with Mexico City's Ensemble Liminar. When that tour couldn't take place in person, the two adventurous ensembles were able to meet in a shared space.
+Held back by pandemic restrictions, renowned new music players Ensemble Contrechamps recently got to explore that new playground and see what they could discover. That included both a hands-on lab with the PatchXR team in the ensemble's home city of Geneva and a distance collaboration with Mexico City's Liminar. When that tour couldn't take place in person, the two adventurous ensembles were able to meet in a shared space.
 
 Both events involved working directly with our developers to create inventive solutions to needs - bows, reeds, and code all in action. 
 
