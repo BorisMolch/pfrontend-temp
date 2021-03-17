@@ -8,11 +8,15 @@ title = "How PatchXR can connect classical musicians with the virtual - and acro
 type = "featured"
 
 +++
-Meet this millenium'ss new chamber music. Instead of a palace or concert hall, the chamber can be in a fanciful virtual space, as classical chops meet up with augmented digital dimensions.
+Meet this millennium's new chamber music. Instead of a palace or concert hall, the chamber can be in a fanciful virtual space, as classical chops meet up with augmented digital dimensions.
 
 Held back by pandemic restrictions, renowned new music players Ensemble Contrechamps recently got to explore that new playground and see what they could discover. That included both a hands-on lab with the PatchXR team in the ensemble's home city of Geneva and a distance collaboration with Mexico City's Ensemble Liminar. When that tour couldn't take place in person, the two adventurous ensembles were able to meet in a shared space.
 
 Both events involved working directly with our developers to create inventive solutions to needs - bows, reeds, and code all in action. 
+
+Serge Vuille of Ensemble Contrechamps has shared extensive behind-the-scenes documentation of what took place - and talks to us about the process.
+
+![](/uploads/tour1.jpg)
 
 **I think in concert music and performance we all are aware of what we've lost this year. So maybe you can talk about what is added - what did it mean to layer these additional environments and media on the work?**
 
@@ -28,7 +32,8 @@ We did go quite far in terms of getting agency in a short time.
 
 _\[Virtual tour with Mexico City\]_ We were unfortunately not able to play synchronously between Geneva and Mexico. \[Instead\] one side recorded the first part of a duet, and the other side was able to record the second \[part\] while listening and watching the avatar of the first. So what you see is two avatars within the same VR space, and one was played by a musician in Mexico City, and the other one in Geneva. We also experimented with the idea of recording two distinct solos, and to bring them together in the same virtual space afterwards.
 
-  
+![](/uploads/ensemble2.jpg)
+
 **It’s a new challenge for concert musicians to take cues from things happening in virtual space. What were they watching, and how were they responding?**
 
 The main challenge for the musicians was to get a level of control over the VR instruments within Patch. WWe have classical training, and a lot of experience with experimental practices that allow them to get pretty much any sound out of their instrument in no time, without so much thinking about it. Physical gestures and musical thinking are linked in very direct ways.
@@ -48,6 +53,8 @@ _\[Virtual Tour with Mexico\]_ It’s great to have creative visual input for ex
 _\[Virtual Tour with Mexico\]_ The videos from our virtual tours have been premiered today on YouTube, so it’s hard to tell, but I’m looking forward to getting feedback. We are planning to offer the VR experience with Oculus Rift before and after our concerts - that is, when we will have concerts with audiences…
 
 _\[Contrechamps LAB\]_ We had an invited audience to watch the work in progress. People were focusing on how the musician in VR, the avatar, and the sound they produced were matching up. There’s something magic about this. The fact that one musician was ‘blind’ and interacting somehow in isolation but that the four musicians together could still build a coherent improvisation was also fascinating.
+
+![](/uploads/tour2.jpg)
 
 **What was it like for you working with the PatchXR team and tools? How was the collaboration and how did that element work - also mixing technology with the medium of acoustic instrumentalists?**
 
