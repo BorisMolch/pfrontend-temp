@@ -30,6 +30,8 @@ We had video feedback in the room, but we mostly interacted based on the sound t
 
 We did go quite far in terms of getting agency in a short time.
 
+{{< youtube zL8zb80e7Qw >}}
+
 _\[Virtual tour with Mexico City\]_ We were unfortunately not able to play synchronously between Geneva and Mexico. \[Instead\] one side recorded the first part of a duet, and the other side was able to record the second \[part\] while listening and watching the avatar of the first. So what you see is two avatars within the same VR space, and one was played by a musician in Mexico City, and the other one in Geneva. We also experimented with the idea of recording two distinct solos, and to bring them together in the same virtual space afterwards.
 
 ![](/uploads/ensemble2.jpg)
@@ -40,6 +42,8 @@ The main challenge for the musicians was to get a level of control over the VR i
 
 In VR, we had to get familiar with the instruments that the Patch team designed for us and learn to have some agency. The VR instruments are very responsive, with a wide range of possibilities. While movement in space is the main way to interact with them, the process of interaction makes them a mixture between a synthesizer and an instrument - which was fun to get to grip with.
 
+{{< youtube IvSxePWfjDU >}}
+
 **What did it mean generally to add this VR space artistically? What do those visual materials mean to you, in terms of aesthetics or expression?**
 
 One thing that I find very interesting is to give a physical presence on stage to electronic music. We often work with live sound processing or electronic elements using [Cycling '74 Max](https://cycling74.com/) or other software, but in the contemporary scene, the sound engineers are often at the back of the room. Also, when there is a synthesizer or computer for electronics on stage, it is much less physical. With Patch, the musician controlling the electronic part is on stage, with the same physical presence as the other instruments, which I find really nice.
@@ -47,6 +51,8 @@ One thing that I find very interesting is to give a physical presence on stage t
 _\[Contrechamps LAB\]_ Projecting the ‘inside’ of the VR headset for the audience to see brings a visual context to the performance that is directly linked with what’s happening. It’s not easy to add visuals to concert music in a coherent way but this really does. We also experimented with having a webcam \[to show the physical room to the player with the VR headset\], but it was hard to take into account while playing, in the end.
 
 _\[Virtual Tour with Mexico\]_ It’s great to have creative visual input for experimental improvised music. The worlds that were developed are really coherent with the music, while quite far from our usual aesthetics. It makes me listen differently to the music -- gives it a different purpose, somehow.
+
+{{< youtube m6Uy_Tocnsw >}}
 
 **What does that mean for the audience experience, to have this additional dimension?**
 
@@ -66,4 +72,10 @@ I must say the collaboration at a distance between me, the Patch team, and the M
 
 Meeting Ensemble Liminar was fantastic in any event, even if after over two years of planning, first for a physical tour, then for this virtual tour, we didn’t get to meet physically. They were a perfect partner for this project, really open musically, with improvisation being part of their practice and also with members of the ensemble and team who are really quick with technology.
 
-**Watch the process in action with these videos from the ensembles:**
+**Watch the process in action with these additional videos from the ensembles:**
+
+{{< youtube WeBxPxtgLW8I >}}
+
+{{< youtube mLTF-ouYIqc >}}
+
+{{< youtube m6Uy_Tocnsw >}}
