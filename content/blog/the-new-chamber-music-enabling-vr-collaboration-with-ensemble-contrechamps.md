@@ -9,11 +9,13 @@ type = "featured"
 +++
 Meet this millennium's new chamber music. Instead of a palace or concert hall, the chamber can be in a fanciful virtual space, as new music instrumental chops meet up with augmented digital dimensions.
 
-Held back by pandemic restrictions, renowned new music players Ensemble Contrechamps recently got to explore that new playground and see what they could discover. That included both a hands-on lab with the PatchXR team in the ensemble's home city of Geneva and a distance collaboration with Mexico City's Liminar. When that tour couldn't take place in person, the two adventurous ensembles were able to meet in a shared space.
+Held back by pandemic restrictions, renowned new music players Ensemble Contrechamps recently got to explore that new playground and see what they could discover. That included two events in October: a hands-on lab with the PatchXR team in the ensemble's home city of Geneva and a distance collaboration  with Mexico City's Liminar.
+
+The lab was a chance for players in Switzerland to experiment in the same room with the team, and try simultaneous virtual/physical interactions. The "virtual tour" was a chance to unite Mexico and Switzerland. When that tour couldn't take place in person, the two adventurous ensembles were able to meet in a shared space.
 
 Both events involved working directly with our developers to create inventive solutions to needs - bows, reeds, and code all in action.
 
-Serge Vuille of Ensemble Contrechamps has shared extensive behind-the-scenes documentation of what took place - and talks to us about the process.
+Serge Vuille of Ensemble Contrechamps has shared extensive behind-the-scenes documentation of what took place - and talks to us about the process. We catch up with Serge to tell us more.
 
 ![](/uploads/tour1.jpg)
 
@@ -23,9 +25,9 @@ I don’t know if I would have dared to get involved with VR music without all t
 
 **Perhaps you can narrate a bit what's going on in these images – especially with multiple layers of perception here! How did interactions work between the person wearing the VR headset and the musicians playing traditional instruments?**
 
-_\[In the Contrechamps LAB\]_ What we see in these images are three acoustic musicians improvising with a fourth musician playing PatchXR in VR. All of us are classically-trained musicians and we were taking turns playing in VR.
+_\[In the Contrechamps LAB\]_ What we see in these images are three acoustic musicians improvising with a fourth musician playing PatchXR in VR. Contrechamps players are classically-trained and were taking turns playing in VR.
 
-We had video feedback in the room, but we mostly interacted based on the sound they were making. PatchXR is very new, while we have practiced our own instruments for decades. So it was often easier for acoustic \[instrumentalists\] to play with Patch than the other way around -- at this stage, anyway.
+We had video feedback in the room, but the players mostly interacted based on the sound they were making. PatchXR is very new, while they have practiced their own instruments for decades. So it was often easier for acoustic instrumentalists to play with Patch than the other way around -- at this stage, anyway.
 
 We did go quite far in terms of getting agency in a short time.
 
