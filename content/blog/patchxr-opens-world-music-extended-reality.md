@@ -4,7 +4,7 @@ date: 2020-10-03T05:35:54.000+00:00
 image: "/uploads/automata.jpg"
 author: Ewen Chardronnet
 description: Published on Makery, the 3 October 2020 by Ewen Chardronnet
-type: featured
+type: post
 
 ---
 ## **Born one year ago from the fruitful encounter of three artists, PatchXR is an engine for creating musical instruments in virtual reality. This intuitive VR tool integrates all the complexity of modular synthesis, while engaging the body in a gestural experience that channels acoustic instruments. We met its creators.**
