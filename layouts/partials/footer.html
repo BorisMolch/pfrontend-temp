@@ -10,8 +10,8 @@
           <a href="/press">Press Room</a><br>
           <a href="/partners">Partners</a><br>
 
-          
-          
+
+
         </div>
         <!--<div class="col"><span class="footer-title">WORKS</span><bR>
           <a href="/works#patch">Patchworld</a><br>
@@ -21,15 +21,15 @@
 
         </div>-->
         <div class="col"><span class="footer-title">RESOURCES</span><bR>
-          <a href="https://forms.gle/dsf9R3Upc8GvVjf28" target="_blank">Patch Software access</a><br>
-          <a href="https://forms.gle/pf3N7HEUEchdtQUP6" target="_blank">PatchWorld Beta</a><br>
+          <a href="http://eepurl.com/hnagUr" target="_blank">Patch Software access</a><br>
+          <a href="http://eepurl.com/hnagUr" target="_blank">PatchWorld Beta</a><br>
           <a href="/documentation">Documentation</a><br>
           <a href="/downloads">Downloads</a><br>
           <a href="/faq">FAQ</a>
 
-  
+
 </div>
-        
+
           {{ $data := index .Site.Data .Site.Language.Lang }}
           {{ if $data.homepage.support.enable }}
           {{ with $data.homepage.support }}
@@ -42,12 +42,12 @@
           {{ end }}
 
         <div class="col">
-   
+
 
           {{ $data := index .Site.Data .Site.Language.Lang }}
           {{ if $data.homepage.company.enable }}
           {{ with $data.homepage.company }}
-          
+
           <span class="small"><b>{{ .address1title }}</b></span><br>
           <span class="small">{{ .address1street }}</span><br>
           <span class="small">{{ .address1extra }}</span><br>
@@ -59,7 +59,7 @@
           <span class="small"> {{ .address2extra }}</span>
           <span class="small">{{ .address2city }}</span><br>
           <span class="small">{{ .address2country }}</span><br>
-          
+
           {{ end }}
           {{ end }}
 
@@ -69,11 +69,11 @@
   <div class="container">
     <div class="row  mt-5 pt-3 pb-3">
       <div class="col-md-6 mt-2">
-        
+
         <span class="text-light">&copy;{{ now.Format "2006"}} PatchXR AG. All rights reserved · <a style="font-size: 14px" href="/privacy-policy">Privacy Policy</a></span>
-        
+
       </div>
-      
+
       <div class="col-md-6 mt-2 text-right">
         <ul class="social-icon list-inline">
           {{ range .Site.Params.social }}
@@ -84,7 +84,7 @@
         </ul>
 </div>
 
-  
+
     </div>
   </div>
 </footer>
