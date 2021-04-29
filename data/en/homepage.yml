@@ -185,8 +185,8 @@ company:
   enable: true
   address1title: Zurich
   address1street: Chriesbaumstrasse 6
-  address1extra: ''
-  address1city: 8604 Volketswil
+  address1extra: "8604"
+  address1city: " Volketswil"
   address1country: Switzerland
   address2title: Copenhaguen
   address2street: Refshalevej 209
