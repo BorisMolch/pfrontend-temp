@@ -184,18 +184,17 @@ usp:
 company:
   enable: true
   address1title: Zurich
-  address1street: Limmatstrasse 181
-  address1extra: c/o Mélodie Mousset
-  address1city: 8005 Zürich
+  address1street: Chriesbaumstrasse 6
+  address1extra: ''
+  address1city: 8604 Volketswil
   address1country: Switzerland
   address2title: Copenhaguen
   address2street: Refshalevej 209
   address2extra: 
   address2city: 1432 Copenhagen
   address2country: Denmark
-  email: info@patchxr.com
+  email: contact@patchxr.com
 support:
   enable: true
   discordlink: https://discord.gg/s3AjXepvWR
   redditlink: https://www.reddit.com/r/mux/
-
