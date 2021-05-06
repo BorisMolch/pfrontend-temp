@@ -4,7 +4,7 @@ date = 2021-05-06T01:00:00Z
 description = "A mind trip, a body trip. In the brain-bending imagination of CNDSD aka Malitin Cortes and Iván Abreu, worlds, timbres, and perception warp, glitch, and pulsate. The Mexico City-based duo is now unleashing their retina-popping visuals and rapid-fire percussions and musical textures on a hybrid MUTEK MX + JP audience for the second time. "
 image = "/uploads/desierta-mutek-06.jpg"
 title = "CNDSD & Ivan Abreau: Expanding mind, self, and music in digital realms"
-type = ""
+type = "featured"
 
 +++
 A mind trip, a body trip. In the brain-bending imagination of CNDSD aka Malitin Cortes and Iván Abreu, worlds, timbres, and perception warp, glitch, and pulsate. The Mexico City-based duo is now unleashing their retina-popping visuals and rapid-fire percussions and musical textures on a hybrid MUTEK MX + JP audience for the second time.
