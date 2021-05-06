@@ -3,7 +3,7 @@ author = "Peter Kirn"
 date = 2021-05-06T01:00:00Z
 description = "A mind trip, a body trip. In the brain-bending imagination of CNDSD aka Malitin Cortes and Iván Abreu, worlds, timbres, and perception warp, glitch, and pulsate. The Mexico City-based duo is now unleashing their retina-popping visuals and rapid-fire percussions and musical textures on a hybrid MUTEK MX + JP audience for the second time. "
 image = "/uploads/desierta-mutek-06.jpg"
-title = "CNDSD & Ivan Abreau: Expanding mind, self, and music in digital realms"
+title = "CNDSD & Iván Abreu: Expanding mind, self, and music in digital realms"
 type = "featured"
 
 +++
@@ -80,3 +80,11 @@ I can't wait to be able to do this with a bigger audience, We imagine so many fo
 I must be very honest; the artist's experience within the virtual world is simply incredible. It's like uniting your video game experience and playing electronic music at the same time. For us musicians, that’s a damn drug. What I always think is how the public can share that immersive experience.
 
 We’ll discover what will happen now in the residence **_on the fly_**; we’re honored to develop a visual and sound immersion in the magnificent dome and laboratory of ZKM. We wonder things like - where is the screen? Where do we place viewers? How do we spatialize the experience? Or if, in a more radical way, we record everything inside the lenses so that the user can navigate with their own glasses in that world and discover that they’re about to witness a concert full of underwater architecture and prehistoric whales. It’s exciting; we have many conjectures still unanswered.
+
+More:
+
+[https://www.ivanabreu.net/](https://www.ivanabreu.net/ "https://www.ivanabreu.net/")
+
+[https://virtual.mutek.org/en/es-ar-2021](https://virtual.mutek.org/en/es-ar-2021 "https://virtual.mutek.org/en/es-ar-2021")
+
+[https://www.instagram.com/cndsd/](https://www.instagram.com/cndsd/ "https://www.instagram.com/cndsd/")
