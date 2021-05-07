@@ -11,9 +11,9 @@ The Mexico City-based duo is now unleashing their retina-popping visuals and rap
 
 We got to speak to Mali virtually as the MUTEK session prepares - and catch up after seeing what this duo dazzled us with a fantastic set at last summer's collaborative Patchathon. As CNDSD, Mali is also known in live coding circles - working with environments that involve typing program code to spawn sonic materials - meaning this was also a chance to understand how that flat programming approach contrasts with physicality and spatiality.
 
-![](/uploads/desierta-mutek-01.jpg)
-
 {{< vimeo 497847561 >}}
+
+![](/uploads/capture-d-ecran-2021-05-07-a-11-17-27.jpg "Live coding mixed with Patch XR.")
 
 **Tell us what you're doing for MUTEK's edition? How does it relate to past iterations?**
 
@@ -67,7 +67,7 @@ They are two contrasting positions. So we like and the game of having one foot i
 
 **Ivan:** For me, it was like making an ensemble where the avatar (Mali) improvised with me, while I manipulated the video, providing synesthesia with the music. Now in the new interactions, the incidence of the encoder with the virtual world is greater. I can modify some parts of its reality from the outside. Personally, I wish that Mali could also execute its code from some objects within the XR patch in a physical way; we will see if it is possible.
 
-![](/uploads/cyberlivecoder-1.jpg)
+![](/uploads/desierta-mutek-01.jpg)
 
 **For so many people in the pandemic, live performance has been reduced to really primitive stuff like performing over Zoom. So I wonder how it has impacted you working in VR when doing these remote and online performances?**
 
