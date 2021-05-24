@@ -31,7 +31,7 @@ We had video feedback in the room, but the players mostly interacted based on th
 
 We did go quite far in terms of getting agency in a short time.
 
-{{< youtube zL8zb80e7Qw >}}
+{{< youtube vcvtTA6A0tg >}}
 
 _\[Virtual tour with Mexico City\]_ We were unfortunately not able to play synchronously between Geneva and Mexico. \[Instead\] one side recorded the first part of a duet, and the other side was able to record the second \[part\] while listening and watching the avatar of the first. So what you see is two avatars within the same VR space, and one was played by a musician in Mexico City, and the other one in Geneva. We also experimented with the idea of recording two distinct solos, and to bring them together in the same virtual space afterwards.
 
