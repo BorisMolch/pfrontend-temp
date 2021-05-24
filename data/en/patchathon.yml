@@ -17,7 +17,7 @@ promo:
   video_thumb: images/patchxrtv.jpg
   video_embed_url: https://www.youtube.com/embed/dAheG6W3QAE?autoplay=1
 gallery:
-  enable: false
+  enable: true
   gallery_item:
   - image: "/uploads/faces2.jpg"
   - image: images/patchathon1.jpg
