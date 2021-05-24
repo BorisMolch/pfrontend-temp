@@ -10,6 +10,6 @@ link2 = "https://soundcloud.com/cndsd"
 location = "Mexico"
 title = "Cyberlivecoder"
 twitter = "https://twitter.com/cndsd_?lang=en"
-video = "c_FKC2pUZ-8"
+video = "gY8UGyWWDLo"
 
 +++
