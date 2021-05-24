@@ -45,7 +45,7 @@ quote_slider:
   - quote: Concerts
     quote_by: Perform live in and out VR, online and on stage
 download:
-  enable: true
+  enable: false
   title: Available soon...
   subtitle: PatchXR will be available on the following VR platforms
   download_buttons:
@@ -90,7 +90,7 @@ feature:
       your performance to your web channel and invite your fans and friends to step
       inside your worlds.
 promo_video:
-  enable: true
+  enable: false
   title: Where musical instruments become fantastic worlds
   content: ''
   bg_image: "/uploads/mali-perfo.jpg"
