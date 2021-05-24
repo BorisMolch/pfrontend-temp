@@ -8,7 +8,7 @@ intro:
   enable: true
   subtitle: Check out our event list for our upcoming events!
 promo:
-  enable: true
+  enable: false
   title: 'PATCHATHON #1 @ A MAZE. / Berlin 2020 - Total Digital'
   content: |+
     The first-ever, week-long virtual Patchathon used our sonic engine spatial tools to create new inventions at the world renowned A MAZE gaming festival. Ten internationally multimedia artists were selected from an open call to join the PatchXR team mentored by Peter Kirn (Founder, CDM.link). Then, working together for the first time  in a six-day workshop, each produced an original audiovisual experience, building musical instruments, and creating artistic performances in VR using our authoring tools. The judging panel led by Muki Kulhan gathered technology, music, art, and spatial-interactive design experts: Oisin Lunny (Audio Matters Podcast), Rafi Nizam (Rafianimates), and Karim Fanous (Abbey Road Red).
