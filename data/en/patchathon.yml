@@ -1,29 +1,70 @@
 ---
 intro:
-  megatitle: "PATCHATHON #02"
-  title: An online hand-on week Hacklab to build music worlds in VR
-  description: So, you’re a visual/media artist, a developer, a composer, a sound
-    designer, a DIY producer, or you are simply interested in exploring the potential
-    of VR/XR? Take part in our next Patchathon to learn your way around our sonic
-    engine, then create your own instruments and interactive musical worlds
+  megatitle: 'PATCHATHON #02'
+  title: Create instruments and interactive musical worlds in a week-long intensive!
+  description: Free open call - build your own VR musical performance in our Patchathon.
+    Then share your work at A MAZE. Festival Berlin! Artists, composers, technologists
+    - apply by 14 June.
   enable: true
-  banner: /images/patchathon2_hero1.jpg
-  title1: DESCRIPTION 
-  section1: So, you’re a visual/media artist, a developer, a composer, a sound
-    designer, a DIY producer, or you are simply interested in exploring the potential
-    of VR/XR? Take part in our next Patchathon to learn your way around our sonic
-    engine, then create your own instruments and interactive musical worlds
+  banner: "/images/patchathon2_hero1.jpg"
+  title1: WHAT IS THE PATCHATHON?
+  section1: "Go from being a VR consumer to a creator, in an environment that’s fully
+    musical and modular. Patch is a complete, immersive environment made for producing
+    new music, sounds, and visuals and a new way of making music. And now you can
+    join us in an intensive laboratory to learn Patch from the team that created it
+    - then make your own unique VR instruments and performances to share with A MAZE.
+    Berlin 2021. \n\nOne worldwide online lab will connect the Patch team, developers,
+    technologists, and artists to venture into new dimensions. Beginning with boot-camp
+    instruction and regular skills mini-workshops, the participants will work intensively
+    in self-driven creative exploration, but with access to the developers and artists
+    who built the Patch platform. \n\nAnd as the world presents both new chances for
+    getting closer, our second Patchathon will focus on new ways of collaborating
+    in hybrid spaces. That means a new focus on team creation and duo and multiplayer
+    performance.\n\nThe end goal: make a wild performance project and play together,
+    joining an evening hybrid-online as part of A MAZE.\n"
   title2: WHO SHOULD APPLY?
-  section2: Molestias voluptate voluptatem et sunt at ipsa assumenda molestiae. Quae ullam esse sequi maxime odit. Quia facilis voluptatem non nostrum quas id et ad. Ut incidunt quis ea natus consequuntur vel aliquid magni. Voluptas quibusdam qui et et tempore mollitia soluta. Facilis eum enim in deserunt alias quo sequi.
-  title3: WHEN/WHERE
-  section3: Molestias voluptate voluptatem et sunt at ipsa assumenda molestiae. Quae ullam esse sequi maxime odit. Quia facilis voluptatem non nostrum quas id et ad. Ut incidunt quis ea natus consequuntur vel aliquid magni. Voluptas quibusdam qui et et tempore mollitia soluta. Facilis eum enim in deserunt alias quo sequi.
-  title4: SECTION4
-  section4: Molestias voluptate voluptatem et sunt at ipsa assumenda molestiae. Quae ullam esse sequi maxime odit. Quia facilis voluptatem non nostrum quas id et ad. Ut incidunt quis ea natus consequuntur vel aliquid magni. Voluptas quibusdam qui et et tempore mollitia soluta. Facilis eum enim in deserunt alias quo sequi.
+  section2: |-
+    - Visual/media artists
+    - VR/XR artists and creators
+    - Musicians and vocalists
+    - Composers and electronic music producers
+    - Sound designers
+    - Architects
+    - Movement researchers
+    - Interactive developers
+
+    ... and anyone interested in exploring the potential of VR for music, sound, and live performance. Application and participation are free.
+  title3: WHERE AND WHEN
+  section3: |
+    Apply by 14 June
+    16-24 July working sessions
+    Final presentation 24 July
+
+    Berlin + online, hybrid - but we encourage you to participate from anywhere in the world
+
+    Patchathon will take place in a hybrid format. We will fully support online international artists. In addition, depending on regulations and safety in Berlin at the time, we may also open up a physical presence for use by online performers and a limited number of artists local to Berlin.
+  title4: WHAT YOU'LL NEED
+  section4: "*Access to a VR headset:* HTC Vive (any model), Oculus Rift S, Oculus
+    Quest/Quest 2.\n*Standalone headset* If you have Quest / Quest 2, you can participate
+    without a PC.\n\n*PC:* For use with a tethered headset (Quest/Quest 2 with Oculus
+    Link, or HTC Vive with a supported connection):\n*Minimum-spec PC:* Windows 10
+    64-bit, Intel Core i5-2500K, dedicated GPU (GeForce GTX 970), 8GB RAM, or better\n*Recommended:*
+    Intel Core i7-6700K, GeForce GTX 1070 or better\n\nWe will provide a temporary
+    full, free license for the Beta Patch tools, to use on your machine. \n"
 promo:
   enable: true
   title: 'PATCHATHON #1 @ A MAZE. / Berlin 2020 - Total Digital'
-  content: |+
-    The first-ever, week-long virtual Patchathon used our sonic engine spatial tools to create new inventions at the world renowned A MAZE gaming festival. Ten internationally multimedia artists were selected from an open call to join the PatchXR team mentored by Peter Kirn (Founder, CDM.link). Then, working together for the first time  in a six-day workshop, each produced an original audiovisual experience, building musical instruments, and creating artistic performances in VR using our authoring tools. The judging panel led by Muki Kulhan gathered technology, music, art, and spatial-interactive design experts: Oisin Lunny (Audio Matters Podcast), Rafi Nizam (Rafianimates), and Karim Fanous (Abbey Road Red).
+  content: 'The first-ever, week-long virtual Patchathon used our sonic engine spatial
+    tools to create new inventions at the world renowned A MAZE gaming festival. Ten
+    internationally multimedia artists were selected from an open call to join the
+    PatchXR team mentored by Peter Kirn (Founder, CDM.link). Then, working together
+    for the first time  in a six-day workshop, each produced an original audiovisual
+    experience, building musical instruments, and creating artistic performances in
+    VR using our authoring tools. The judging panel led by Muki Kulhan gathered technology,
+    music, art, and spatial-interactive design experts: Oisin Lunny (Audio Matters
+    Podcast), Rafi Nizam (Rafianimates), and Karim Fanous (Abbey Road Red).
+
+'
   video_thumb: images/patchathon1.jpg
   video_embed_url: https://www.youtube.com/embed/dAheG6W3QAE?autoplay=1
 gallery:
