@@ -2,25 +2,22 @@
 intro:
   megatitle: 'PATCHATHON #02'
   title: Create instruments and interactive musical worlds in a week-long intensive!
-  widetext: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  widetext: 'Patch is a complete, immersive environment made for producing new music,
+    sounds, and visuals and a new way of making music. And now you can join us in
+    an intensive laboratory to learn Patch from the team that created it - then make
+    your own unique VR instruments and performances to share with A MAZE. / Berlin
+    2021. '
   enable: true
   formlink: https://forms.gle/jcBQu4t1m6enerev9
   banner: "/images/patchathon2_hero1.jpg"
   title1: WHAT IS THE PATCHATHON?
-  section1: "Go from being a VR consumer to a creator, in an environment that’s fully
-    musical and modular. Patch is a complete, immersive environment made for producing
-    new music, sounds, and visuals and a new way of making music. And now you can
-    join us in an intensive laboratory to learn Patch from the team that created it
-    - then make your own unique VR instruments and performances to share with A MAZE.
-    Berlin 2021. \n\nOne worldwide online lab will connect the Patch team, developers,
-    technologists, and artists to venture into new dimensions. Beginning with boot-camp
-    instruction and regular skills mini-workshops, the participants will work intensively
-    in self-driven creative exploration, but with access to the developers and artists
-    who built the Patch platform. \n\nAnd as the world presents both new chances for
-    getting closer, our second Patchathon will focus on new ways of collaborating
-    in hybrid spaces. That means a new focus on team creation and duo and multiplayer
-    performance.\n\nThe end goal: make a wild performance project and play together,
-    joining an evening hybrid-online as part of A MAZE.\n"
+  section1: 'Beginning with boot-camp instruction and regular skills mini-workshops,
+    the participants will work intensively in self-driven creative exploration, with
+    direct access to the developers and artists who built the Patch platform. As the
+    world presents both new chances for getting closer, our second Patchathon will
+    focus on new ways of collaborating in hybrid spaces. That means a new focus on
+    team creation and duo and multiplayer performance. The end goal: make a wild performance
+    project and play together, joining an evening hybrid-online as part of A MAZE.'
   title2: WHO SHOULD APPLY?
   section2: |-
     - Visual/media artists
