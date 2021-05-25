@@ -51,8 +51,8 @@ intro:
 promo:
   enable: true
   video_thumb: images/faces2.jpg
-  videotitle: LISTEN TO OUR FIRST PARTICIPANT
-  communitytitle: WATCH WHAT THEY MADE
+  videotitle: HEAR FROM PATCHATHON 2020 PARTICIPANTS
+  communitytitle: WORK MADE DURING PATCHATHON 2020
   video_embed_url: https://www.youtube.com/embed/dAheG6W3QAE?autoplay=1
 gallery:
   enable: false
