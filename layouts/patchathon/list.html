@@ -101,7 +101,7 @@
 <h2 class="cool" data-aos="fade-up">{{ .communitytitle }}</h2>
 {{ end }}
     <div class="row" data-aos="fade-in">
-      {{ range last 6 ( where .Site.Pages "Type" "community"  ) }}
+      {{ range last 3 ( where .Site.Pages "Type" "community"  ) }}
       {{ .Render "patch"}}
       {{ end }}
     </div>
