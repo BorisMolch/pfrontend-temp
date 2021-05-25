@@ -52,6 +52,8 @@ intro:
 promo:
   enable: true
   video_thumb: images/patchathon1.jpg
+  videotitle: LISTEN TO OUR FIRST PARTICIPANT
+  communitytitle: WATCH WHAT THEY MADE
   video_embed_url: https://www.youtube.com/embed/dAheG6W3QAE?autoplay=1
 gallery:
   enable: false
