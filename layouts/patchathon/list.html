@@ -38,20 +38,20 @@
 <div class="container">
 <div class="row mt-5" data-aos="fade-up">
   <div class="col-md-6 "><h2 class="cool">{{ .title1 }}</h2></div>
-  <div class="col-md-6 mb-5"><p>{{ .section1 }}</p>
+  <div class="col-md-6 mb-5"><p>{{ .section1 | markdownify  }}</p>
 </div>
 </div>
 <div class="row" data-aos="fade-up">
   <div class="col-md-6 "><h2 class="cool">{{ .title2 }}</h2></div>
-  <div class="col-md-6 mb-5"><p>{{ .section2 }}</p></div>
+  <div class="col-md-6 mb-5"><p>{{ .section2 | markdownify  }}</p></div>
 </div>
 <div class="row" data-aos="fade-up">
   <div class="col-md-6 "><h2 class="cool">{{ .title3 }}</h2></div>
-  <div class="col-md-6 mb-5"><p>{{ .section3 }}</p></div>
+  <div class="col-md-6 mb-5"><p>{{ .section3 | markdownify }}</p></div>
 </div>
 <div class="row" data-aos="fade-up">
   <div class="col-md-6 "><h2 class="cool">{{ .title4 }}</h2></div>
-  <div class="col-md-6 mb-5"><p>{{ .section4 }}</p></div>
+  <div class="col-md-6 mb-5"><p>{{ .section4 | markdownify }}</p></div>
 </div>
 </div>
 
