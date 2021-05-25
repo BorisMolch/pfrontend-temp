@@ -22,7 +22,7 @@
     <div class="col-12 col-lg-12 m-auto text-center">
       <h1 class="mt-5">{{ .megatitle }}</h1>
     <h2 class="text-center mb-5">{{ .title }}</h2>
-     <a href="#"> <button type="submit" class="btn btn-main-md">{{ i18n "apply" }}</button></a>
+     <a href="{{ .formlink }}" target="_blank"> <button type="submit" class="btn btn-main-md">{{ i18n "apply" }}</button></a>
     </div>
   </div>
 </div>
@@ -116,7 +116,7 @@
 <div class="col-12 col-lg-12 m-auto text-center" data-aos="fade-in">
   <h1 >{{ .megatitle }}</h1>
   <h1 class="text-center mb-5">{{ .title }}</h1>
-   <a href="#"> <button type="submit" class="btn btn-main-md mb-5">{{ i18n "apply" }}</button></a>
+   <a href="{{ .formlink }}" target="_blank"> <button type="submit" class="btn btn-main-md mb-5">{{ i18n "apply" }}</button></a>
   </div>
 
 </div></div>
@@ -149,7 +149,7 @@
 {{ if $data.patchathon.event.enable }}
 {{ with $data.patchathon.event }}
 <section class="job-list section pt-0">
-  <div class="container">
+  <div class="container" >
     <div class="row">
       <div class="col-12 col-lg-12 m-auto">
         <div class="block">
@@ -159,7 +159,7 @@
           {{ $.Scratch.Set "counter" 0 }}
           {{ range .event_post }}
           {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
-          <div class="job" data-aos="fade-in">
+          <div class="job">
             <div class="content">
               <h3>{{ .title }}</h3>
               <p>{{ .location | markdownify }}</p>
