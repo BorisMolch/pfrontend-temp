@@ -135,9 +135,9 @@ testimonial:
       compositions in the future. "
 patchworld:
   enable: true
-  title: Join our community of creators!
-  subtitle: 'You are a music producer, sound engineer, media artist, game designer,
-    or you run an educational program in this field? Contact us now!'
+  title: Registration to our next community event are open till June 14th !!!
+  subtitle: You are a music producer, sound engineer, media artist, a performer, a
+    game designer, a fashion designer, a maker, a hacker, an explorer...
   download_buttons:
   - label: Join now
     icon: tf-ion-none
