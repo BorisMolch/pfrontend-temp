@@ -2,34 +2,74 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
+<style>
+
+.bannerhero img {
+  padding-top: 60px;
+  width: 100%;
+  height: auto;
+}
+
+.cool { color: deeppink!important}
+
+</style>
 {{ with $data.patchathon.intro }}
-{{ "<!-- Page Title -->" | safeHTML }}
-<section class="section page-title">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12 m-auto">
-        <h1>{{ .title }}</h1>
-        <p>{{ .description }}</p><br>
-        <p>{{ .subtitle}}</p>
-      </div>
+<!-- Hero image -->
+<div class="container">
+<div class="row">
+  <div class="bannerhero">
+    <img src="{{ .banner }}" data-aos="fade-in" >
+    <div class="col-12 text-center">
+    <h1 style="font-size: 88px!important;">{{ .megatitle }}</h1>
+    <h1 class="text-center mb-5">{{ .title }}</h1>
+     <a href="#"> <button type="submit" class="btn btn-main-md">{{ i18n "apply" }}</button></a>
     </div>
   </div>
-</section>
-{{ "<!-- End of Page Title -->" | safeHTML }}
+</div>
+</div>
+
+
+
+
+<!-- Social Share buttons -->
+<!-- <h3 class="text-center mt-3">Share buttons</h3> -->
+
+<!-- 2 column blocks -->
+<div class="container">
+<div class="row mt-5" data-aos="fade-up">
+  <div class="col-md-6 "><h2 class="cool">{{ .title1 }}</h2></div>
+  <div class="col-md-6 mb-5"><p>{{ .section1 }}</p>
+</div>
+</div>
+<div class="row" data-aos="fade-up">
+  <div class="col-md-6 "><h2 class="cool">{{ .title2 }}</h2></div>
+  <div class="col-md-6 mb-5"><p>{{ .section2 }}</p></div>
+</div>
+<div class="row" data-aos="fade-up">
+  <div class="col-md-6 "><h2 class="cool">{{ .title3 }}</h2></div>
+  <div class="col-md-6 mb-5"><p>{{ .section3 }}</p></div>
+</div>
+<div class="row" data-aos="fade-up">
+  <div class="col-md-6 "><h2 class="cool">{{ .title4 }}</h2></div>
+  <div class="col-md-6 mb-5"><p>{{ .section4 }}</p></div>
+</div>
+</div>
+
 {{ end }}
+
+<!-- Participant video -->
+
 
 {{ "<!-- Patchathon -->" | safeHTML }}
 {{ if $data.patchathon.promo.enable }}
 {{ with $data.patchathon.promo }}
-<section class="section career-featured pt-0">
+
+  
   <div class="container">
+    <h2 class="cool mb-3">LISTEN TO OUR FIRST PARTICIPANT</h2>
     <div class="row">
       <div class="col-md-12">
         <div class="block">
-          <div class="content">
-            <h2>{{ .title | markdownify }}</h2>
-            <p>{{ .content | markdownify }}</p>
-          </div>
           <div class="video">
             <img class="img-fluid shadow" src="{{ .video_thumb_webp | absURL }}"
               onerror="this.onerror=null;this.src='{{ .video_thumb | absURL }}'" alt="video-thumbnail">
@@ -44,11 +84,44 @@
       </div>
     </div>
   </div>
-</section>
+
 {{ end }}
 {{ end }}
 {{ "<!-- End of Patchathon -->" | safeHTML }}
 
+
+
+
+<!-- Community works -->
+
+{{ "<!-- Community -->" | safeHTML }}
+<section class="section related-articles bg-gray">
+  <div class="container">
+<h2 class="cool">WATCH WHAT THEY MADE</h2>
+    <div class="row">
+      {{ range last 3 ( where .Site.Pages "Type" "community"  ) }}
+      {{ .Render "patch"}}
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ "<!-- End of Community -->" | safeHTML }}
+
+<!-- Apply Button -->
+{{ with $data.patchathon.intro }}
+<div class="container"><div class="row">
+
+<div class="col-12 text-center">
+  <h1 style="font-size: 88px!important;">{{ .megatitle }}</h1>
+  <h1 class="text-center mb-5">{{ .title }}</h1>
+   <a href="#"> <button type="submit" class="btn btn-main-md">{{ i18n "apply" }}</button></a>
+  </div>
+
+</div></div>
+{{ end}}
+
+<!-- Event Calendar -->
+<!-- Body copy -->
 
 {{ "<!-- Gallery -->" | safeHTML }}
 {{ if $data.patchathon.gallery.enable }}

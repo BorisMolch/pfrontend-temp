@@ -1,23 +1,33 @@
 ---
 intro:
-  title: WE ORGANIZE COLLABORATIVE HACKLABS TO BUILD SOUND IN VR
+  megatitle: "PATCHATHON #02"
+  title: An online hand-on week Hacklab to build music worlds in VR
   description: So, you’re a visual/media artist, a developer, a composer, a sound
     designer, a DIY producer, or you are simply interested in exploring the potential
     of VR/XR? Take part in our next Patchathon to learn your way around our sonic
     engine, then create your own instruments and interactive musical worlds
   enable: true
-  subtitle: Check out our event list for our upcoming events!
+  banner: /images/patchathon2_hero1.jpg
+  title1: DESCRIPTION 
+  section1: So, you’re a visual/media artist, a developer, a composer, a sound
+    designer, a DIY producer, or you are simply interested in exploring the potential
+    of VR/XR? Take part in our next Patchathon to learn your way around our sonic
+    engine, then create your own instruments and interactive musical worlds
+  title2: WHO SHOULD APPLY?
+  section2: Molestias voluptate voluptatem et sunt at ipsa assumenda molestiae. Quae ullam esse sequi maxime odit. Quia facilis voluptatem non nostrum quas id et ad. Ut incidunt quis ea natus consequuntur vel aliquid magni. Voluptas quibusdam qui et et tempore mollitia soluta. Facilis eum enim in deserunt alias quo sequi.
+  title3: WHEN/WHERE
+  section3: Molestias voluptate voluptatem et sunt at ipsa assumenda molestiae. Quae ullam esse sequi maxime odit. Quia facilis voluptatem non nostrum quas id et ad. Ut incidunt quis ea natus consequuntur vel aliquid magni. Voluptas quibusdam qui et et tempore mollitia soluta. Facilis eum enim in deserunt alias quo sequi.
+  title4: SECTION4
+  section4: Molestias voluptate voluptatem et sunt at ipsa assumenda molestiae. Quae ullam esse sequi maxime odit. Quia facilis voluptatem non nostrum quas id et ad. Ut incidunt quis ea natus consequuntur vel aliquid magni. Voluptas quibusdam qui et et tempore mollitia soluta. Facilis eum enim in deserunt alias quo sequi.
 promo:
-  enable: false
+  enable: true
   title: 'PATCHATHON #1 @ A MAZE. / Berlin 2020 - Total Digital'
   content: |+
     The first-ever, week-long virtual Patchathon used our sonic engine spatial tools to create new inventions at the world renowned A MAZE gaming festival. Ten internationally multimedia artists were selected from an open call to join the PatchXR team mentored by Peter Kirn (Founder, CDM.link). Then, working together for the first time  in a six-day workshop, each produced an original audiovisual experience, building musical instruments, and creating artistic performances in VR using our authoring tools. The judging panel led by Muki Kulhan gathered technology, music, art, and spatial-interactive design experts: Oisin Lunny (Audio Matters Podcast), Rafi Nizam (Rafianimates), and Karim Fanous (Abbey Road Red).
-
-
-  video_thumb: images/patchxrtv.jpg
+  video_thumb: images/patchathon1.jpg
   video_embed_url: https://www.youtube.com/embed/dAheG6W3QAE?autoplay=1
 gallery:
-  enable: true
+  enable: false
   gallery_item:
   - image: "/uploads/faces2.jpg"
   - image: images/patchathon1.jpg
@@ -26,6 +36,22 @@ event:
   enable: true
   title: Patchathon event calendar
   event_post:
+  - title: 'A MAZE. / Total Digital 2021 / Patchathon #2'
+    location: 15 - 21 July 2021, Online
+    deadlines:
+    - '11 July: Application deadline, 23:59 Berlin CET.'
+    - '13 July: Participants notified.'
+    - '17-23 July: Workshop, online on Twitch.'
+    - '25 July: Live performances streamed at A MAZE.'
+    details: Visual/media artists, VR/XR artists and developers, Musicians, Composers
+      and electronic music producers, Sound designers.
+    form_action: "#"
+    points:
+    - 'VR headset: HTC Vive, Oculus Rift S, Oculus Quest'
+    - 'PC Minimum-specs: Win 10 64-bit, Intel i5-2500K, dedicated GPU (GTX970), 8GB
+      RAM, or better.'
+    - A problem solving mindset and some knowledge of digital music creation.
+    - Don’t worry - you will not need to do any coding!
   - title: 'A MAZE. / Total Digital 2020 / Patchathon #1'
     location: 17 - 23 July 2020, Online
     deadlines:

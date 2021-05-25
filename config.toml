@@ -73,14 +73,14 @@ link = "plugins/bootstrap/bootstrap.min.css"
 link = "plugins/themefisher-font/themefisher-font.min.css"
 [[params.plugins.css]]
 link = "plugins/owl-carousel/owl.carousel.min.css"
+[[params.plugins.js]]
+link = "plugins/owl-carousel/owl.carousel.min.js"
 [[params.plugins.css]]
 link = "plugins/aos/aos.css"
 [[params.plugins.js]]
 link = "plugins/jquery/jquery.js"
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
-[[params.plugins.js]]
-link = "plugins/owl-carousel/owl.carousel.min.js"
 [[params.plugins.js]]
 link = "plugins/aos/aos.js"
 [[params.plugins.js]]
