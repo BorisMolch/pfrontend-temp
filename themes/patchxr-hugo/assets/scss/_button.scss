@@ -29,12 +29,16 @@
 
 .btn-main-md{
     padding: 17px 38px;
-    border-radius: 3px;
+    border-radius: 50px;
+    border: 2px solid deeppink;
     background: $primary-color;
     color: $light;
     outline: none;
     &:hover{
         color: $light;
+        background: $black;
+        border: 2px solid deeppink;
+        color: deeppink;
     }
     &:focus{
         color: $light;
