@@ -6,7 +6,7 @@
     <div class="row">
 
       <div class="col-sm-12 m-auto">
-        <div class="video">
+        <div class="video" data-aos="fade-in">
           <img class="img-fluid shadow" src="{{ .Params.Image | absURL }}" alt="video-thumbnail">
           <div class="video-button video-box">
             <a href="javascript:void(0)">
@@ -37,14 +37,14 @@
 
 
       
-      <div class="col-md-8 ">
-        <h1>{{ .Title }}</h1>
+      <div class="col-md-8" data-aos="fade-in">
+        <h1 class="newstitle">{{ .Title }}</h1>
         
         <p>{{ .Params.Description }}</p>
 
     </div>
 
-    <div class="col-md-4" style="border-left: 1px solid white;">
+    <div class="col-md-4" style="border-left: 1px solid white;" data-aos="fade-in">
 
       <div class="post-body">
         <div class="content">

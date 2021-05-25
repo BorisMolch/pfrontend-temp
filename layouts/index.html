@@ -162,7 +162,7 @@
 			</div>
 			<div class="col-lg-6 align-top {{if not (modBool $i 2)}}order-lg-1{{end}}">
 				<div class="feature-content ">
-					<h1><strong>{{ .title }}</strong></h1>
+					<h1 class="newstitle"><strong>{{ .title }}</strong></h1>
 					<p class="desc">{{ .content }}</p>
 				</div>
 
@@ -251,7 +251,7 @@
   <div class="container">
     <div class="row">
 			<div class="col-12 title mt-5 text-center">
-				<h1>{{ i18n "latest" }}</h1>
+				<h1 class="newstitle">{{ i18n "latest" }}</h1>
 			</div>
       {{ range first 1 (where .Site.Pages "Type" "featured") }}
       <div class="col-md-12">
@@ -281,7 +281,7 @@
   <div class="container">
     <div class="row">
       <div class="col-12 title text-center">
-        <h1>{{ i18n "relatedcommunity" }}</h1>
+        <h1 class="newstitle">{{ i18n "relatedcommunity" }}</h1>
       </div>
     </div>
     <div class="row">
@@ -307,7 +307,7 @@
 				<ul class="list-inline">
 					{{ range .download_buttons }}
 					<li class="list-inline-item" data-aos="fade-up">
-						<a href="{{ .link | safeURL }}" class="btn btn-light">
+						<a href="{{ .link | safeURL }}" class="btn btn-main-md">
 							<i class="{{ .icon }}"></i>
 							{{ .label }}
 						</a>

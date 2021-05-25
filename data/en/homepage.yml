@@ -96,7 +96,7 @@ promo_video:
   bg_image: "/uploads/mali-perfo.jpg"
   video_embed_url: https://youtube.com/embed/x1LRs161hfk
 testimonial:
-  enable: true
+  enable: false
   testimonial_item:
   - name: Ewen Chardronnet, Makery.info
     image: "/uploads/1517371976584.jpeg"
@@ -137,9 +137,7 @@ patchworld:
   enable: true
   title: Join our community of creators!
   subtitle: 'You are a music producer, sound engineer, media artist, game designer,
-    or you run an educational program in this field? Contact us now!
-
-'
+    or you run an educational program in this field? Contact us now!'
   download_buttons:
   - label: Join now
     icon: tf-ion-none

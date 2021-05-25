@@ -12,6 +12,7 @@ body{
 	-webkit-font-smoothing: antialiased;
 }
 
+b, strong { font-weight: 600;}
 // Headings
 h1,h2,h3,h4,h5,h6{
 	font-family: $tertiary-font;
@@ -24,6 +25,14 @@ h1{
 	font-weight:600;
 	letter-spacing: -1px;
 	font-family: $patchxr-font!important;
+}
+
+.newstitle  {
+	font-size: 55px!important;
+	font-weight:600;
+	letter-spacing: -1px;
+	font-family: $primary-font!important;
+	
 }
 
 .blackonwhite * {color: $black!important;}
