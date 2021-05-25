@@ -11,18 +11,6 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 6
-[[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 5
-[[menu.footer]]
-URL = "info"
-name = "Info"
-weight = 1
-[[menu.footer]]
 URL = "privacy-policy"
 name = "Privacy"
 weight = 4
@@ -30,29 +18,36 @@ weight = 4
 URL = "blog"
 name = "Blog"
 weight = 3
-
-[[menu.main]]
-URL = "community"
-name = "community"
-weight = 2
-[[menu.main]]
-URL = "about"
-name = "about"
-weight = 3
-[[menu.main]]
-URL = "works"
-name = "works"
-weight = 4
-[[menu.main]]
-URL = "blog"
-name = "blog"
+[[menu.footer]]
+URL = "info"
+name = "Info"
+weight = 1
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
 weight = 5
+[[menu.footer]]
+URL = "faq"
+name = "FAQ"
+weight = 6
 [[menu.main]]
 URL = "contact"
 name = "contact"
-weight = 6
-
+weight = 4
+[[menu.main]]
+URL = "about"
+name = "about"
+weight = 2
+[[menu.main]]
+URL = "blog"
+name = "blog"
+weight = 3
+[[menu.main]]
+URL = "community"
+name = "community"
+weight = 1
 [params]
+ISO8601 = "2006-01-02T15:04:05JST"
 address = "Physical Address?"
 author = "PatchXR"
 contact_form_action = "#"
@@ -63,9 +58,8 @@ home = "Home"
 logo = "images/patchXR-logo-final-white.png"
 logo_1 = "images/logo-1.png"
 logo_2 = "images/logo-2.png"
-logotype = "images/patchXR-SOUNDmetaverse-grey.svg"
 logo_light = "images/logo-alt.png"
-ISO8601 = "2006-01-02T15:04:05JST"
+logotype = "images/patchXR-SOUNDmetaverse-grey.svg"
 og_image = "images/screenshot.jpg"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
@@ -73,10 +67,12 @@ link = "plugins/bootstrap/bootstrap.min.css"
 link = "plugins/themefisher-font/themefisher-font.min.css"
 [[params.plugins.css]]
 link = "plugins/owl-carousel/owl.carousel.min.css"
-[[params.plugins.js]]
-link = "plugins/owl-carousel/owl.carousel.min.js"
 [[params.plugins.css]]
 link = "plugins/aos/aos.css"
+[[params.plugins.css]]
+link = "plugins/jobalert.css"
+[[params.plugins.js]]
+link = "plugins/owl-carousel/owl.carousel.min.js"
 [[params.plugins.js]]
 link = "plugins/jquery/jquery.js"
 [[params.plugins.js]]
@@ -89,8 +85,6 @@ link = "plugins/jquery.bootstrap-autohidingnavbar.js"
 link = "plugins/highlight.js"
 [[params.plugins.js]]
 link = "plugins/jobalert.js"
-[[params.plugins.css]]
-link = "plugins/jobalert.css"
 [params.preloader]
 enable = false
 preloader = "/images/logo-1.png"
