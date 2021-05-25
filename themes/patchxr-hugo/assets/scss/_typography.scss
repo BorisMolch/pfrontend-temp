@@ -27,6 +27,13 @@ h1{
 	font-family: $patchxr-font!important;
 }
 
+.patchathon_title {
+	font-size: 64px!important;
+	@include mobile {
+		font-size: 28px!important;
+	}
+}
+
 .newstitle  {
 	font-size: 55px!important;
 	font-weight:600;
