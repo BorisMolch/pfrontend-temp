@@ -31,14 +31,14 @@
     padding: 17px 38px;
     font-size: 23px;
     border-radius: 50px;
-    border: 2px solid deeppink;
+    border: 4px solid deeppink;
     background: $primary-color;
     color: $light;
     outline: none;
     &:hover{
         color: $light;
         background: $black;
-        border: 2px solid deeppink;
+        border: 4px solid deeppink;
         color: deeppink;
     }
     &:focus{
