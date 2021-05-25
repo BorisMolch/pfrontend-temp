@@ -32,6 +32,10 @@ h1{
 	@include mobile {
 		font-size: 28px!important;
 	}
+	@include tablet {
+		font-size: 64px!important;
+	}
+
 }
 
 .newstitle  {
