@@ -120,8 +120,9 @@
 <h2 class="cool" data-aos="fade-up">{{ .communitytitle }}</h2>
 {{ end }}
     <div class="row" data-aos="fade-in">
+
       {{ range last 3 ( where .Site.Pages "Type" "community"  ) }}
-      {{ .Render "patch"}}
+      {{ .Render "patchathon"}} 
       {{ end }}
     </div>
 <!--     <h2 class="cool" data-aos="fade-up">WATCH THE FULL LIVESHOW >></h2> -->
@@ -241,5 +242,4 @@
 {{ end }}
 {{ end }}
 {{ "<!-- End of Event lists -->" | safeHTML }}
-
 {{ end }}

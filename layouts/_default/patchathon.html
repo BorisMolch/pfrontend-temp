@@ -1,0 +1,28 @@
+<div class="col-lg-4 col-md-6 mb-5">
+    {{ "<!-- Patch -->" | safeHTML }}
+    <article class="post-sm">
+      <div >
+        <div class="video" data-aos="fade-in">
+            <img class="img-fluid shadow" src="{{ .Params.Image | absURL }}" alt="video-thumbnail" >
+            <div class="video-button video-box">
+              <a href="javascript:void(0)">
+                <i class="tf-ion-play" data-video="https://www.youtube.com/embed/{{ .Params.video }}?autoplay=1"></i>
+              </a> 
+            </div>
+          </div>
+      </div>
+      <div class="post-title pt-3">
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <h6>{{ .Params.Patchevent }}</h6>
+      </div>
+      <div class="post-meta">
+        <ul class="list-inline">
+          <li class="mb-0"><!--<a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">--><strong><h5>{{ .Params.Author | title }}</h5></strong><!--</a>--></li>
+          <li class="mb-0"><h6>{{ .Params.Location }}</h6></li>
+        </ul>
+      </div>
+    <!--  <div class="post-details">
+        <p>{{ .Summary }}</p>
+      </div>-->
+    </article>
+  </div>
