@@ -63,7 +63,8 @@
 
 .job-list{
 	.block{
-		padding: 50px 80px;
+		padding-left: 5%;
+		padding-right: 5%;
 		background: $dark;
 		@extend .shadow;
 		h2{

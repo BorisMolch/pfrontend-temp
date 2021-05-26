@@ -186,6 +186,14 @@ a:hover {
   margin-bottom: 80px;
 }
 
+.hyperhyper {
+  font-size: 128px; 
+  color: deeppink;
+  @include mobile {
+      font-size: 64px;
+  }
+}
+
 .page-title {
   text-align: left;
   margin-top: 40px;
