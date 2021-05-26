@@ -43,8 +43,14 @@ intro:
     without a PC.\n\nSee [Patch FAQ](https://patchxr.com/faq/) for details on Patch
     and what we recommend for a VR-capable PC.\n\nWe will provide a temporary full,
     free license for the Beta Patch tools, to use on your machine. \n"
-  title5: PARTNERS
-  section5: 'Patchathon #02 is proudly co-hosted with A MAZE. / Berlin 2021, the international
+  title5: "title 5"
+  section5: "section text 5"
+  title6: "title 6"
+  section6: "section text 6"
+  title7: "title 7"
+  section7: "section text 7"
+  title8: PARTNERS
+  section8: 'Patchathon #02 is proudly co-hosted with A MAZE. / Berlin 2021, the international
     festival of games and playful media.'
 promo:
   enable: true
