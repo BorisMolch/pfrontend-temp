@@ -47,8 +47,8 @@ intro:
     64-bit, Intel Core i5-2500K, dedicated GPU (GeForce GTX 970), 8GB RAM, or better\n*Recommended:*
     Intel Core i7-6700K, GeForce GTX 1070 or better\n\nWe will provide a temporary
     full, free license for the Beta Patch tools, to use on your machine. \n"
-  title5: TITLE HERE
-  section5: "section 5 text here"
+  title5: PARTNERS
+  section5: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 promo:
   enable: true
   video_thumb: images/faces2.jpg
