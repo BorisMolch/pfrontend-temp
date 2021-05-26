@@ -6,10 +6,16 @@
 <meta property="og:description" content="{{ .Site.Params.Description }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:type" content="website">
+{{ else }}
+<!-- PAGE-->
+<meta property="og:image" content="http://patchxr.com{{ .Site.Params.og_image | relURL }}"/>
+<meta property="og:title" content="{{ .Title }}{{ if ne .Title .Site.Title }} {{ end }}" />
+<meta property="og:description" content="{{ .Site.Params.Description }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:type" content="website">
 {{ end }}
-{{ if in .Title "patchathon" }}
-<!-- Required Open Graph Info -->
-<!-- PAGE-->hello
+
+
 {{ if site.Params.og_image }}
 <meta property="og:image" content="http://patchxr.com{{ .Params.image | relURL }}"/>
 <meta property="og:image:secure_url" content="{{ .Params.image | absURL }}"/>
@@ -17,7 +23,7 @@
 {{ with .Params.image }}<meta property="og:image" content="{{ if in . "http" }}{{ . }}{{ else }}{{ $baseurl }}{{ . }}{{ end }}" />
 {{ end }}
 
-{{ end }}
+
 
 <meta property="og:title" content="{{ .Title }}{{ if ne .Title .Site.Title }} : {{ .Site.Title }}{{ end }}" />
 

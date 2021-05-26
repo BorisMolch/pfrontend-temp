@@ -1,7 +1,7 @@
 ---
-title: "Patchathon II"
+title: "Patchathon #02"
 draft: false
-description : ""
+description : "Create your own interactive music worlds, in a online, week-long playground!"
 ---
 #### A MAZE. 2021
  
