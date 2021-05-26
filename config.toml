@@ -61,6 +61,7 @@ logo_2 = "images/logo-2.png"
 logo_light = "images/logo-alt.png"
 logotype = "images/patchXR-SOUNDmetaverse-grey.svg"
 og_image = "images/screenshot.jpg"
+og_image2 = "images/patchathon2_hero1.jpg"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]

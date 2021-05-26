@@ -8,9 +8,9 @@
 <meta property="og:type" content="website">
 {{ else }}
 <!-- PAGE-->
-<meta property="og:image" content="http://patchxr.com{{ .Site.Params.og_image | relURL }}"/>
+<meta property="og:image" content="http://patchxr.com{{ .Site.Params.og_image2 | relURL }}"/>
 <meta property="og:title" content="{{ .Title }}{{ if ne .Title .Site.Title }} {{ end }}" />
-<meta property="og:description" content="{{ .Site.Params.Description }}" />
+<meta property="og:description" content="{{ .Description }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:type" content="website">
 {{ end }}
