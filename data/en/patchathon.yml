@@ -1,8 +1,8 @@
 ---
 intro:
   megatitle: 'PATCHATHON #02'
-  hypertitle: 'PATCH & PLAY'
-  title: Create instruments and interactive musical worlds in a week-long intensive!
+  hypertitle: PATCH & PLAY
+  title: Create your own interactive music worlds, in a online, week-long playground!
   widetext: 'Patch is a complete, immersive environment made for producing new music,
     sounds, and visuals and a new way of making music. And now you can join us in
     an intensive laboratory to learn Patch from the team that created it - then make
@@ -12,14 +12,11 @@ intro:
   formlink: https://forms.gle/jcBQu4t1m6enerev9
   banner: "/images/patchathon2_hero1.jpg"
   title1: WHAT IS THE PATCHATHON?
-  section1: 'Make your own musical world, then perform with it live online, as part
-    of the evening hybrid program for A MAZE. / Berlin 2021. Beginning with boot-camp
-    instruction and regular skills mini-workshops, the participants will work intensively
-    in self-driven creative exploration, with direct access to the developers and
-    artists who built the Patch platform. As we look forward to our world growing
-    closer again, our second Patchathon will focus on new ways of collaborating in
-    hybrid spaces. That means a new focus on team creation and duo and multiplayer
-    performance. '
+  section1: 'Make your own musical world, then perform with it live online for an
+    audience at A MAZE. / Berlin 2021. Learn direct from the developers and artists
+    who built the Patch platform, hone your skills, then explore and perform. For
+    our second edition, we''re excited to focus on team creation and collaboration
+    - to get closer to one another again. '
   title2: WHO SHOULD APPLY?
   section2: |-
     - Visual/media artists
@@ -49,8 +46,8 @@ intro:
     Intel Core i7-6700K, GeForce GTX 1070 or better\n\nWe will provide a temporary
     full, free license for the Beta Patch tools, to use on your machine. \n"
   title5: PARTNERS
-  section5: "Patchathon #02 is proudly co-hosted with A MAZE. / Berlin 2021, the international
-    festival of games and playful media."
+  section5: 'Patchathon #02 is proudly co-hosted with A MAZE. / Berlin 2021, the international
+    festival of games and playful media.'
 promo:
   enable: true
   video_thumb: images/faces2.jpg
