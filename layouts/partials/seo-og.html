@@ -7,9 +7,9 @@
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:type" content="website">
 {{ end }}
-{{ if .IsPage }}
+{{ if in .Title "patchathon" }}
 <!-- Required Open Graph Info -->
-
+<!-- PAGE-->hello
 {{ if site.Params.og_image }}
 <meta property="og:image" content="http://patchxr.com{{ .Params.image | relURL }}"/>
 <meta property="og:image:secure_url" content="{{ .Params.image | absURL }}"/>
