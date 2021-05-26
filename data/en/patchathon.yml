@@ -1,6 +1,7 @@
 ---
 intro:
   megatitle: 'PATCHATHON #02'
+  hypertitle: 'PATCH & PLAY'
   title: Create instruments and interactive musical worlds in a week-long intensive!
   widetext: 'Patch is a complete, immersive environment made for producing new music,
     sounds, and visuals and a new way of making music. And now you can join us in
@@ -49,12 +50,7 @@ intro:
     full, free license for the Beta Patch tools, to use on your machine. \n"
   title5: PARTNERS
   section5: "Patchathon #02 is proudly co-hosted with A MAZE. / Berlin 2021, the international
-    festival of games and playful media. \n\n#AMaze2021 #playfulmedia\n[amaze-berlin.de](https://amaze-berlin.de)\nFacebook:
-    [amaze.festival](https://www.facebook.com/amaze.festival)\nInsta: [a_mazefest](https://instagram.com/a_mazefest)\nTwitter:
-    [@AMazeFest](https://twitter.com/AMazeFest)\n[Discord channel](https://discord.gg/ff3t7ufvkM)\n\nGot
-    questions about the Patchathon - what happens, whether you should apply, what
-    to put in the application? [Join our Discord](https://discord.gg/s3AjXepvWR) and
-    chat with us."
+    festival of games and playful media."
 promo:
   enable: true
   video_thumb: images/faces2.jpg

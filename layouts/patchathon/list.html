@@ -57,8 +57,21 @@
 <div class="row" data-aos="fade-up">
   <div class="col-md-6 "><h2 class="cool">{{ .title5 }}</h2></div>
   <div class="col-md-6 mb-5">
-    <img src="/images/a-maze-white.svg" width="50%">
-    <p>{{ .section5 | markdownify }}</p></div>
+    <img src="/images/a-maze-white.svg" width="50%" class="mb-3">
+    <p>{{ .section5 | markdownify }}</p>
+    <p><a href="https://amaze-berlin.de" target="_blank">amaze-berlin.de</a>
+      #AMaze2021 #playfulmedia<br>
+      
+      <a href="https://www.facebook.com/amaze.festival" target="_blank"><ion-icon name="logo-facebook" size="small"></ion-icon></a>
+      <a href="https://instagram.com/a_mazefest" target="_blank"><ion-icon name="logo-instagram" size="small"></ion-icon></a> 
+      <a href="https://twitter.com/AMazeFest" target="_blank">
+      <ion-icon name="logo-twitter" size="small"></ion-icon></a>
+      <a href="https://discord.gg/ff3t7ufvkM" target="_blank"><ion-icon name="logo-discord" size="small"></ion-icon></a><br>
+
+    </p>
+  
+  </div>
+
 </div>
 </div>
 
@@ -111,6 +124,7 @@
       {{ .Render "patch"}}
       {{ end }}
     </div>
+    <h2 class="cool" data-aos="fade-up">WATCH THE FULL LIVESHOW >></h2>
   </div>
 </section>
 {{ "<!-- End of Community -->" | safeHTML }}
@@ -121,13 +135,13 @@
 <section class="section ">
 <div class="container border-bottom">
   <div class="row">
-
+    <hr style="border:1px solid deeppink; width: 100%">
 <div class="col-12 col-lg-12 m-auto text-center" data-aos="fade-in">
-  <h1 >{{ .megatitle }}</h1>
-  <h2 class="text-center mb-5">{{ .title }}</h2>
+  <h1 style="font-size: 128px; color: deeppink">{{ .hypertitle }}</h1>
+
    <a href="{{ .formlink }}" target="_blank"> <button type="submit" class="btn btn-main-md mb-5">{{ i18n "apply" }}</button></a>
   </div>
-
+  <hr style="border:1px solid deeppink; width: 100%">
 </div></div>
 </section>
 {{ end}}
