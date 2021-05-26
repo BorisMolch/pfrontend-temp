@@ -135,13 +135,13 @@ testimonial:
       compositions in the future. "
 patchworld:
   enable: true
-  title: Registration to our next community event are open till June 14th !!!
-  subtitle: You are a music producer, sound engineer, media artist, a performer, a
-    game designer, a fashion designer, a maker, a hacker, an explorer...
+  title: Registration to our next online Hacklab is open till June 14th !!!
+  subtitle: 'You are a music producer, sound engineer, media artist, a performer,
+    a game designer, a fashion designer, a maker, a hacker, a metaverse  explorer... '
   download_buttons:
-  - label: Join now
+  - label: APPLY NOW
     icon: tf-ion-none
-    link: "/community"
+    link: "/patchathon"
 patchathon:
   enable: false
   title: Check out what the community is making
