@@ -12,11 +12,11 @@ intro:
   formlink: https://forms.gle/jcBQu4t1m6enerev9
   banner: "/uploads/patchathon-2_herotext.jpg"
   title1: WHAT'S PATCHATHON?
-  section1: 'Make your own musical world, then perform with it live online for an
-    audience at A MAZE. / Berlin 2021. Learn direct from the developers and artists
-    who built the Patch platform, hone your skills, then explore and perform. For
-    our second edition, we''re excited to focus on team creation and collaboration
-    - to get closer to one another again. '
+  section1: Make your own musical world, then perform with it live online for an audience
+    at A MAZE. / Berlin 2021. Learn direct from the developers and artists who built
+    the Patch platform, hone your skills, then explore and perform. For our second
+    edition, we're excited to focus on team creation and collaboration - to get closer
+    to one another again.
   title2: WHAT'S PATCH?
   section2: Patch is a complete, immersive environment to create interactive music
     world and instruments using VR technology. While game engine are disrupting the
@@ -25,7 +25,7 @@ intro:
     new art forms, blending sound, visual and gesture.
   title3: WHO SHOULD APPLY?
   section3: |-
-    - Visual/media artists
+    - Visual/Media artists
     - Musicians and vocalists
     - Composers and electronic music producers
     - Sound designers
@@ -35,18 +35,21 @@ intro:
 
     ... and anyone passionate about exploring the potential of XR for music, sound, and live performance. Application and participation are free.
   title4: WHERE AND WHEN
-  section4: "Apply by 14 June\n\n16-24 July working sessions (on-site in Berlin 21-24.07)\n\n24
-    July Final presentation \n\nBerlin + online, hybrid - but we encourage you to
-    participate from anywhere in the world\n\nPatchathon #2 will take place in a hybrid
-    format. We will fully support online international artists. In addition, depending
-    on regulations and safety in Berlin at the time, we may also open-up a physical
-    presence for use by online performers and a limited number of artists local to
-    Berlin."
+  section4: |-
+    Apply by 14 June
+
+    16-24 July Online working sessions (on-site in Berlin 21-24.07)
+
+    24 July Final live show at A MAZE Festival
+
+    Berlin + online, hybrid - but we encourage you to participate from anywhere in the world
+
+    Patchathon #2 will take place in a hybrid format. We will fully support online international artists. In addition, depending on regulations and safety in Berlin at the time, we may also open-up a physical presence for use by online performers and a limited number of artists local to Berlin.
   title5: WHAT YOU'LL NEED
-  section5: "*Access to a VR headset:* HTC Vive (any model), Oculus Rift S, Oculus
-    Quest/Quest 2.  *Standalone headset* If you have Quest / Quest 2, you can participate
-    without a PC.  See [Patch FAQ](https://patchxr.com/faq/) for details on Patch
-    and what we recommend for a VR-capable PC."
+  section5: "*Access to a VR headset:*  PC VR (recommended): HTC Vive, Oculus Rift
+    S, Oculus Quest + Link. Standalone : Oculus Quest 1 & 2 Minimum-spec PC: Windows
+    10, 64-bit, Intel Core i5-2500K, GPU (GeForce GTX 970), 8GB RAM. Coding skills
+    are not needed, but some experience with digital music creation is essential."
   title6: WHAT YOU'LL GET
   section6: 'We will provide a temporary full, free license for the Beta Patch tools,
     to use on your machine. '
