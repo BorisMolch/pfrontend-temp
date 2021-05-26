@@ -188,6 +188,7 @@ a:hover {
 
 .hyperhyper {
   font-size: 128px; 
+  font-family: $patchxr-font!important;
   color: deeppink;
   @include mobile {
       font-size: 64px;
