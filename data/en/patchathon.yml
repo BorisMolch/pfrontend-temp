@@ -2,7 +2,7 @@
 intro:
   megatitle: 'PATCHATHON #02'
   hypertitle: PATCH & PLAY
-  title: Create your own interactive music worlds, in a online, week-long playground!
+  title: Create your own interactive sonic world, in an online, week-long playground!
   widetext: 'Patch is a complete, immersive environment made for producing new music,
     sounds, and visuals and a new way of making music. And now you can join us in
     an intensive laboratory to learn Patch from the team that created it - then make
@@ -11,18 +11,18 @@ intro:
   enable: true
   formlink: https://forms.gle/jcBQu4t1m6enerev9
   banner: "/images/patchathon2_hero1.jpg"
-  title1: WHAT IS THE PATCHATHON?
+  title1: WHAT'S PATCHATHON?
   section1: 'Make your own musical world, then perform with it live online for an
     audience at A MAZE. / Berlin 2021. Learn direct from the developers and artists
     who built the Patch platform, hone your skills, then explore and perform. For
     our second edition, we''re excited to focus on team creation and collaboration
     - to get closer to one another again. '
-  title2: WHAT IS THE PATCH?
+  title2: WHAT'S PATCH?
   section2: Patch is a complete, immersive environment to create interactive music
     world and instruments using VR technology. While game engine are disrupting the
     entire entertainment and music industry , the PatchXR team is coming up with a
     tool to enable DIY creators to express themselves in this new era and to imagine
-    new Art forms, blending sound, visual and gesture.
+    new art forms, blending sound, visual and gesture.
   title3: WHO SHOULD APPLY?
   section3: |-
     - Visual/media artists
@@ -32,7 +32,7 @@ intro:
     - Sound designers
     - Architects
     - Movement researchers
-    - Interactive developers
+    - Game developers
 
     ... and anyone passionate about exploring the potential of VR for music, sound, and live performance. Application and participation are free.
   title4: WHERE AND WHEN
