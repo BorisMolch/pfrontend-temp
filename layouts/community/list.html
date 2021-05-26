@@ -6,7 +6,7 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-12 m-auto">
-        <h1 class="mega">{{ .title }}</h1>
+        <h1 class="newstitle">{{ .title }}</h1>
         <p>{{ .description }}</p>
   <!--      <p>{{ .Content }}</p>-->
       </div>
@@ -124,7 +124,7 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-12 m-auto">
-          <h1>{{ .title }}</h1>
+          <h1 class="newstitle">{{ .title }}</h1>
           <p>{{ .description }}</p><br>
           <p>{{ .subtitle}}</p>
         </div>
@@ -137,15 +137,12 @@
   {{ "<!-- Patchathon -->" | safeHTML }}
   {{ if $data.patchathon.promo.enable }}
   {{ with $data.patchathon.promo }}
-  <section class="section career-featured pt-0">
+  <section class="section career-featured ">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <div class="block">
-            <div class="content">
-              <h2>{{ .title | markdownify }}</h2>
-              <p>{{ .content | markdownify }}</p>
-            </div>
+          
+
             <div class="video">
               <img class="img-fluid shadow" src="{{ .video_thumb_webp | absURL }}"
                 onerror="this.onerror=null;this.src='{{ .video_thumb | absURL }}'" alt="video-thumbnail">
@@ -156,7 +153,7 @@
               </div>
             </div>
 
-          </div>
+      
         </div>
       </div>
     </div>
@@ -246,29 +243,7 @@
                         <div class="form-title">
                           <h3>{{ i18n "apply" }}</h3>
                         </div>
-                        <form name="patchathon" data-netlify="true" action="{{ .form_action }}">
-                          <div class="row">
-                            <div class="col-lg-6 col-md-12">
-                              <input class="form-control main" type="text" placeholder="Name" name="Name" required>
-                            </div>
-                            <div class="col-lg-6 col-md-12">
-                              <input class="form-control main" type="email" placeholder="Email Address" name="Email Address" required>
-                            </div>
-                            <div class="col-lg-6 col-md-12">
-                              <input class="form-control main" type="text" placeholder="Portfolio Website Link" name="Portfolio Website Link" required>
-                            </div>
-                            <div class="col-lg-6 col-md-12">
-                              <input class="form-control main" type="text" placeholder="Github/Stackoverflow Link" name="Github/Stackoverflow Link" required>
-                            </div>
-                            <div class="col-md-12">
-                              <textarea class="form-control main" name="about" id="" rows="10"
-                                placeholder="Write Something About You"></textarea>
-                            </div>
-                            <div class="col-12 text-right">
-                              <button type="submit" class="btn btn-main-md">{{ i18n "apply" }}</button>
-                            </div>
-                          </div>
-                        </form>
+
                       </div>
                     </div>
                   </div>
