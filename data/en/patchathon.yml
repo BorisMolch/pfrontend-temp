@@ -3,11 +3,9 @@ intro:
   megatitle: 'PATCHATHON #02'
   hypertitle: PATCH & PLAY
   title: Create your own interactive sonic world, in an online, week-long playground!
-  widetext: 'Patch is a complete, immersive environment made for producing new music,
-    sounds, and visuals and a new way of making music. And now you can join us in
-    an intensive laboratory to learn Patch from the team that created it - then make
-    your own unique VR instruments and performances to share with A MAZE. / Berlin
-    2021. '
+  widetext: 'Join us in an intensive laboratory to learn Patch from the team that
+    created it - then make your own unique VR instruments and performances to share
+    with A MAZE. / Berlin 2021. '
   enable: true
   formlink: https://forms.gle/jcBQu4t1m6enerev9
   banner: "/uploads/patchathon-2_herotext.jpg"
@@ -33,18 +31,16 @@ intro:
     - Movement researchers
     - Game developers
 
-    ... and anyone passionate about exploring the potential of XR for music, sound, and live performance. Application and participation are free.
+    ... and anyone passionate about multi sensory exploration or about making the best party in the Metaverse. Application and participation are free.
   title4: WHERE AND WHEN
   section4: |-
     Apply by 14 June
 
     16-24 July Online working sessions (on-site in Berlin 21-24.07)
 
-    24 July Final live show at A MAZE Festival
+    24 July final live show at A MAZE Festival (Berlin + streamed online)
 
-    Berlin + online, hybrid - but we encourage you to participate from anywhere in the world
-
-    Patchathon #2 will take place in a hybrid format. We will fully support online international artists. In addition, depending on regulations and safety in Berlin at the time, we may also open-up a physical presence for use by online performers and a limited number of artists local to Berlin.
+    Patchathon #2 will take place in a hybrid format. We will fully support online international artists. In addition, depending on regulations and safety at the time, we may also open-up a physical presence for use by online performers and a limited number of artists local to Berlin.
   title5: WHAT YOU'LL NEED
   section5: "*Access to a VR headset:*  PC VR (recommended): HTC Vive, Oculus Rift
     S, Oculus Quest + Link. Standalone : Oculus Quest 1 & 2 Minimum-spec PC: Windows
@@ -52,15 +48,15 @@ intro:
     are not needed, but some experience with digital music creation is essential."
   title6: WHAT YOU'LL GET
   section6: You’ll get access to the full, free license for the Beta Patch tools,
-    to keep using on your machine. Get the know-how via intensive remote workshops
-    with the creators of the tool. Chat and team-up with a selected group of international
-    cutting-edge artists. Get personalized support from the PatchXR team to help you
-    create something awesome. And finish with a completed musical VR performance to
-    share and show off !
-  title7: WANT TO KNOW MORE?
-  section7: Wonder whether you should apply? What to put in the application? Or if
-    you are looking for some team mates. Follow us on our channels and join our Discord
-    to chat with us.  - Discord - Facebook - Instagram - Twitter
+    to use on your machine. Learn the know-how via intensive remote workshops with
+    the PatchXR team. Mingle and team-up with a group of international cutting-edge
+    artists. Get individual support to let you create something truly awesome. And
+    finish with a completed musical VR performance to share and show off !
+  title7: MORE INFO ?
+  section7: You still wonder what can be done with Patch and whether you should apply?
+    You are looking for some mates to team-up? Or you just want to chat with us? Follow-us
+    on our channels and join our Discord to chat with us.  - Discord - Facebook -
+    Instagram - Twitter
   title8: PARTNERS
   section8: 'Patchathon #02 is proudly co-hosted with A MAZE. / Berlin 2021, the international
     festival of games and playful media.'
