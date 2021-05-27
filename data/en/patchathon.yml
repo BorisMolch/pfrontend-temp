@@ -64,8 +64,8 @@ intro:
 promo:
   enable: true
   video_thumb: images/faces2.jpg
-  videotitle: HEAR FROM PATCHATHON 2020 PARTICIPANTS
-  communitytitle: WORK MADE DURING PATCHATHON 2020
+  videotitle: HEAR FROM THE LAST PARTICIPANTS
+  communitytitle: WATCH THE WORKS THEY MADE
   video_embed_url: https://www.youtube.com/embed/dAheG6W3QAE?autoplay=1
 gallery:
   enable: false
