@@ -37,17 +37,25 @@
 {{ $url := printf "%s" .Permalink }}
 {{ $body := "Make your own musical world, then perform with it live online for an audience at A MAZE. / Berlin 2021. \n\n https://www.patchxr.com/ " }}
 
-<h3 class="text-center mt-3"><a href="https://twitter.com/intent/tweet?hashtags=patchathon,amaze2021,playfulmedia&amp;url={{ .Permalink }}&amp;text=Make your own musical world, then perform with it live online for an audience at A MAZE. / Berlin 2021. https://www.patchxr.com/ " target="_blank" rel="noopener" aria-label="Share on Twitter" class="share-btn twitter">
+<h3 class="text-center mt-3">
+  <a href="https://twitter.com/intent/tweet?hashtags=patchathon,amaze2021,playfulmedia&amp;url={{ .Permalink }}&amp;text=Make your own musical world, then perform with it live online for an audience at A MAZE. / Berlin 2021. https://www.patchxr.com/ " target="_blank" rel="noopener" aria-label="Share on Twitter" class="share-btn twitter">
   <ion-icon name="logo-twitter" size="large"></ion-icon>
   </a>
 
-  <a href="https://www.facebook.com/sharer.php?u=https://www.patchxr.com" target="_blank" rel="noopener" aria-label="Share on Facebook" class="share-btn facebook">
+  <a href="https://www.facebook.com/sharer.php?u=https://www.patchxr.com/patchathon" target="_blank" rel="noopener" aria-label="Share on Facebook" class="share-btn facebook">
     <ion-icon name="logo-facebook" size="large"></ion-icon>
     </a>
+
+    <a href="https://www.reddit.com/submit?url=https://www.patchxr.com/patchathon" target="_blank" rel="noopener" aria-label="Share on Reddit" class="share-btn reddit">
+      <ion-icon name="logo-reddit" size="large"></ion-icon>
+      </a>
+
     <a href="mailto:?subject=Patchathon #02 - {{ .title }}.&amp;body={{ $body }}" target="_blank" class="share-btn email">
       <ion-icon name="mail-outline" size="large"></ion-icon>
-    </a><br>Share!<br> 
+    </a><br>Share with friends!<br> 
 </h3> 
+
+
 
 <!-- 2 column blocks -->
 <div class="container">
