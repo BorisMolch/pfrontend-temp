@@ -53,6 +53,10 @@ sections:
   path: data/en/faq.yml
   label: FAQ
 - type: document
+  path: content/contact/**/*
+  label: Contact
+  match: "**/*"
+- type: document
   path: i18n/en.yaml
   label: i18n Strings
 upload_dir: static/uploads
