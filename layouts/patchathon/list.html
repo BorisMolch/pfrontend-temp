@@ -10,8 +10,15 @@
   height: auto;
 }
 
-.cool { color: deeppink!important}
+.cool { 
+  color: deeppink!important
+}
 
+.hoverin a:hover {
+
+  color: yellow!important
+
+}
 </style>
 {{ with $data.patchathon.intro }}
 <!-- Hero image -->
@@ -105,7 +112,7 @@
     </p>
   
   </div>
-
+  <hr class="mb-5" style="border:1px solid deeppink; width: 100%">
 </div>
 </div>
 
@@ -135,7 +142,9 @@
           </div>
 
         </div>
+        
       </div>
+      
     </div>
   </div>
 
@@ -159,7 +168,7 @@
       {{ .Render "patchathon"}} 
       {{ end }}
     </div>
-<!--     <h2 class="cool" data-aos="fade-up">WATCH THE FULL LIVESHOW >></h2> -->
+    <a href="/community" data-aos="fade-right">WATCH MORE >></a>
   </div>
 </section>
 {{ "<!-- End of Community -->" | safeHTML }}
