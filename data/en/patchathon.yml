@@ -3,10 +3,10 @@ intro:
   megatitle: 'PATCHATHON #02'
   hypertitle: PATCH & PLAY
   title: Create your own interactive sonic world, in an online, week-long playground!
-  widetext: 'A MAZE FESTIVAL & PATCH.XR are thrilled to invite you to participate
-    in an intensive laboratory to learn Patch from the team that created it - then
-    make your own unique VR instruments and performances to share with A MAZE. / Berlin
-    2021. '
+  widetext: A MAZE FESTIVAL & PATCH.XR are thrilled to invite you to participate in
+    an intensive laboratory. Learn Patch from the team that created it - then make
+    your own unique VR instruments and performances to share with A MAZE. / Berlin
+    2021.
   enable: true
   formlink: https://forms.gle/jcBQu4t1m6enerev9
   banner: "/uploads/patchathon-2_herotext.jpg"
@@ -17,14 +17,14 @@ intro:
     edition, we're excited to focus on team creation and collaboration - to get closer
     to one another again.
   title2: WHAT'S PATCH?
-  section2: Patch is a complete, immersive environment to create interactive music
-    world and instruments using VR technology. While game engine are disrupting the
-    entire entertainment and music industry , the PatchXR team is coming up with a
-    tool to enable DIY creators to express themselves in this new era and to imagine
-    new art forms, blending sound, visual and gesture.
-  title3: WHO SHOULD APPLY?
+  section2: Patch is a complete, immersive environment to create an interactive music
+    world and instruments using VR technology. As game engines disrupt the entire
+    entertainment and music industries, the PatchXR team have built a tool to enable
+    DIY creators to express themselves in this new era. Use it to imagine new art
+    forms and blend sound, visuals, and full-body gestures.
+  title3: WHO SHOULD APPLY
   section3: |-
-    - Visual/Media artists
+    - Visual/media artists
     - Musicians and vocalists
     - Composers and electronic music producers
     - Sound designers
@@ -32,7 +32,7 @@ intro:
     - Movement researchers
     - Game developers
 
-    ... and anyone passionate about multi sensory exploration or about making the best party in the Metaverse. Application and participation are free.
+    ... and anyone passionate about multi-sensory exploration and ready to make the best party in the Metaverse. Application and participation are free.
   title4: WHERE AND WHEN
   section4: |-
     Apply by 14 June
@@ -41,23 +41,24 @@ intro:
 
     24 July final live show at A MAZE Festival (Berlin + streamed online)
 
-    Patchathon #2 will take place in a hybrid format. We will fully support online international artists. And depending on regulations and safety at the time, we may also open-up a physical presence for use by online performers and a limited number of artists local to Berlin.
+    Patchathon #2 will take place in a hybrid format. We will fully support online international artists. Depending on regulations and safety at the time, we may also open up a physical presence for use by online performers and a limited number of artists local to Berlin.
   title5: WHAT YOU'LL NEED
-  section5: "*Access to a VR headset:*  PC VR (recommended): HTC Vive, Oculus Rift
-    S, Oculus Quest + Link. Standalone : Oculus Quest 1 & 2 Minimum-spec PC: Windows
-    10, 64-bit, Intel Core i5-2500K, GPU (GeForce GTX 970), 8GB RAM. Coding skills
-    are not needed, but some experience with digital music creation is essential."
+  section5: |-
+    *Access to a VR headset:*  PC VR (recommended): HTC Vive, Oculus Rift S, Oculus Quest + Link.
+    *Standalone:* Oculus Quest 1 & 2
+    *Minimum-spec PC:* Windows 10, 64-bit, Intel Core i5-2500K, GPU (GeForce GTX 970), 8GB RAM.
+    Coding skills are not needed, but some experience with digital music creation is essential.
   title6: WHAT YOU'LL GET
-  section6: You’ll get access to the full, free license for the Beta Patch tools,
-    to use on your machine. Learn the know-how via intensive remote workshops with
-    the PatchXR team. Mingle and team-up with a group of international cutting-edge
-    artists. Get individual support to let you create something truly awesome. And
-    finish with a completed musical VR performance to share and show off !
-  title7: MORE INFO ?
-  section7: "You have questions? You still wonder what can be done with Patch and whether
-    you should apply? \n\n You are looking for some mates to team-up? Or you just want
-    to chat with us? \n\n Check the FAQ page, follow-us on our channels, and join our Discord
-    to chat with us."
+  section6: You’ll get access to the full, free license for the Beta Patch tools to
+    use on your machine. Learn via intensive remote workshops with the PatchXR team.
+    Mingle and team up with a group of international cutting-edge artists. Get individual
+    support to let you create something truly awesome. And finish with a completed
+    musical VR performance to share with the public!
+  title7: GOT QUESTIONS?
+  section7: |-
+    Wondering what Patch and the Patchathon are about, and whether you should apply? Looking for collaborators? Or want to chat and meet the team?
+
+    Check the Patch FAQ, follow us on our channels, and join our Discord to chat with the community and ask us anything.
   title8: PARTNERS
   section8: 'Patchathon #02 is proudly co-hosted with A MAZE. / Berlin 2021, the international
     festival of games and playful media.'
