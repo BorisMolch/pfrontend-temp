@@ -53,9 +53,8 @@ sections:
   path: data/en/faq.yml
   label: FAQ
 - type: document
-  path: content/contact/**/*
+  path: content/contact/_index.md
   label: Contact
-  match: "**/*"
 - type: document
   path: i18n/en.yaml
   label: i18n Strings
