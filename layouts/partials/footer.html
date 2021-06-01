@@ -2,87 +2,90 @@
 <footer class="footer-main">
   <div class="container text-light">
     <div class="row footer-links">
-        <div class="col"><span class="footer-title">COMPANY</span><bR>
-          <a href="/about">About</a><br>
-          <a href="/jobs">Careers</a><span class="bubble">WE'RE HIRING</span><br>
-          <a href="/internships">Internships</a><br>
-          <a href="/blog">Blog</a><br>
-          <a href="/press">Press Room</a><br>
-          <a href="/partners">Partners</a><br>
+      
+      <!-- Column 1 -->
+      <div class="col-lg-3">
+         <a href="https://patchxr.com/"><img src="/images/PatchXR-big-white.png" class="pt-5" style="width: 100%"></a><br>
+      </div>
 
+      <!-- Column 2 -->
+      <div class="col-lg-3"><div class="footer-title">QUICK LINKS</div>
+        <a href="https://patchxr.com">Home</a><br>
+        <a href="/about">About</a><br>
+        <a href="/jobs">Careers</a><span class="bubble">WE'RE HIRING</span><br>
+        <a href="/blog">Blog</a><br>
+        <!-- <a href="/press">Press Room</a><br> -->
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSclGNupdrQz7q37WGlCtb5jzXghsnByTz56CC-kbPaXIeKOmw/viewform?usp=sf_link" target="_blank">Access Beta</a><br>
+        <a href="/contact">Contact Us</a><br>
+        <a href="/faq">FAQ</a><br>
+        {{ $data := index .Site.Data .Site.Language.Lang }}
+        {{ if $data.homepage.support.enable }}
+        {{ with $data.homepage.support }}
 
+<!--         <a href="{{ .discordlink }}" target="_blank">Discord</a><br>
+        <a href="{{ .redditlink }}" target="_blank">Reddit</a><br> -->
 
-        </div>
-        <!--<div class="col"><span class="footer-title">WORKS</span><bR>
-          <a href="/works#patch">Patchworld</a><br>
-          <a href="/works#patchworld">PatchEngine / Patchita</a><br>
-          <a href="/works#singing-with-medusa">Jellyfish</a><br>
+    
+        {{ end }}
+      </div>
+      <!-- Column 3 -->
+      <div class="col-lg-3"><div class="footer-title">GET IN TOUCH</div>
+      <div class="footer-sep pb-3">EMAIL</div>
+      info@patchxr.com<br>
 
+      <div class="footer-sep pt-3 pb-3">MAILING ADDRESS</div>
 
-        </div>-->
-        <div class="col"><span class="footer-title">RESOURCES</span><bR>
-          <a href="http://eepurl.com/hnagUr" target="_blank">Patch Software access</a><br>
-          <a href="http://eepurl.com/hnagUr" target="_blank">PatchWorld Beta</a><br>
-          <a href="/documentation">Documentation</a><br>
-          <a href="/downloads">Downloads</a><br>
-          <a href="/faq">FAQ</a>
-
-
-</div>
-
-          {{ $data := index .Site.Data .Site.Language.Lang }}
-          {{ if $data.homepage.support.enable }}
-          {{ with $data.homepage.support }}
-          <div class="col"><span class="footer-title">SUPPORT</span><bR>
-          <a href="{{ .discordlink }}" target="_blank">Discord</a><br>
-          <a href="{{ .redditlink }}" target="_blank">Reddit</a><br>
-          <a href="/contact">Contact Us</a><br>
-        </div>
-          {{ end }}
           {{ end }}
 
-        <div class="col">
 
 
           {{ $data := index .Site.Data .Site.Language.Lang }}
           {{ if $data.homepage.company.enable }}
           {{ with $data.homepage.company }}
 
-          <span class="small"><b>{{ .address1title }}</b></span><br>
-          <span class="small">{{ .address1street }}</span><br>
-          <span class="small">{{ .address1extra }}</span><br>
-          <span class="small">{{ .address1city }}</span><br>
-          <span class="small">{{ .address1country }}</span><br>
+
+      
+          <span>{{ .address1extra }}</span><br>
+          <span>{{ .address1city }}</span><br>
+          <span>{{ .address1country }}</span><br>
           <hr>
-          <span class="small"><b>{{ .address2title }}</b></span><br>
-          <span class="small">{{ .address2street }}</span><br>
-          <span class="small"> {{ .address2extra }}</span>
-          <span class="small">{{ .address2city }}</span><br>
-          <span class="small">{{ .address2country }}</span><br>
+
+          <span> {{ .address2extra }}</span><br>
+          <span>{{ .address2city }}</span><br>
+          <span>{{ .address2country }}</span><br> 
 
           {{ end }}
           {{ end }}
+        </div>
 
-</div>
+          <!-- Column 4 -->
+        <div class="col-lg-3">
+
+          <div class="footer-title">STAY UP TO DATE</div>
+            Join our mailing list to stay up to date with announcements and more!
+          {{ if isset .Site.Params "mailchimpurl" }}
+          {{ partial "mailchimp-signup" . }}{{ end }}
+          <div class="text-center mt-5">
+            <ul class="social-icon list-inline">
+              {{ range .Site.Params.social }}
+              <li class="list-inline-item">
+                <a href="{{ .URL | safeURL }}" target="_blank"><ion-icon name="{{ .icon }}" size="small"></ion-icon></a>
+              </li>
+              {{ end }}
+            </ul>
+          </div>
+
     </div>
 </div>
   <div class="container">
     <div class="row  mt-5 pt-3 pb-3">
-      <div class="col-md-6 mt-2">
+      <div class="col-md-12 mt-2 text-center">
 
-        <span class="text-light">&copy;{{ now.Format "2006"}} PatchXR AG. All rights reserved · <a style="font-size: 14px" href="/privacy-policy">Privacy Policy</a></span>
+        <span class="text-dark">Copyright &copy; {{ now.Format "2006"}} PatchXR AG. All rights reserved.</span>
 
       </div>
 
-      <div class="col-md-6 mt-2 text-right">
-        <ul class="social-icon list-inline">
-          {{ range .Site.Params.social }}
-          <li class="list-inline-item">
-            <a href="{{ .URL | safeURL }}" target="_blank"><ion-icon name="{{ .icon }}" size="small"></ion-icon></a>
-          </li>
-          {{ end }}
-        </ul>
-</div>
+
 
 
     </div>

@@ -39,7 +39,7 @@
         color: $light;
         background: $black;
         border: 4px solid deeppink;
-        color: deeppink;
+        color: #fa33f3;
     }
     &:focus{
         color: $light;
@@ -56,6 +56,62 @@
     font-size: 14px;
     &:hover{
         color: $light;
+    }
+    &:focus{
+        color: $light;
+        box-shadow: none;
+    }
+}
+
+.email { 
+    width: 100%;
+    background-color: #0d0d0d!important;
+    color: deeppink;
+    border-bottom: 2px solid $white;
+    border-top: 0px solid $black;
+    border-left: 0px solid $black;
+    border-right: 0px solid $black;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    @include tablet { width: 50%!important;}
+    @include desktop { width: 50%!important;}
+
+     }
+
+     ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+        color: $blue;
+        opacity: 1; /* Firefox */
+        text-align: center;
+      }
+      
+      :-ms-input-placeholder { /* Internet Explorer 10-11 */
+        color: $blue;
+        text-align: center;
+      }
+      
+      ::-ms-input-placeholder { /* Microsoft Edge */
+        color: $blue;
+        text-align: center;
+      }
+
+.btn-main-mail{
+    margin-top: 5px;
+    padding: 10px;
+    width: 100%;
+    border-radius: 50px;
+    border: 2px solid $light;
+    background: $black;
+    color: $light;
+    outline: none;
+    @include tablet { width: 50%!important;}
+    @include desktop { width: 50%!important;}
+    letter-spacing: 2px;
+    &:hover{
+        color: $light;
+        background: $black;
+        border: 2px solid deeppink;
+        color: deeppink;
     }
     &:focus{
         color: $light;
