@@ -313,13 +313,14 @@
 
 	.patchworld::before {
 		content: "";
-		background-image: url("/images/patchxr-wave.png") ;
+		background-image: url("/images/patchathon-bg.jpg") ;
 		position: absolute;
+		background-position: center;
 		-webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
 	  background-size: cover;
-	opacity: 20%;
+	opacity: 60%;
 		top: 0px;
     right: 0px;
     bottom: 0px;

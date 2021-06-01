@@ -139,7 +139,7 @@ patchworld:
   subtitle: 'You are a music producer, sound engineer, media artist, a performer,
     a game designer, a fashion designer, a maker, a hacker, a metaverse  explorer... '
   download_buttons:
-  - label: APPLY NOW
+  - label: MORE INFO
     icon: tf-ion-none
     link: "/patchathon"
 patchathon:
