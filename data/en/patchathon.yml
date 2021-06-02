@@ -3,10 +3,9 @@ intro:
   megatitle: 'PATCHATHON #02'
   hypertitle: PATCH & PLAY
   title: Create your own interactive sonic world, in an online, week-long playground!
-  widetext: A MAZE FESTIVAL & PATCH.XR are thrilled to invite you to participate in
-    an intensive laboratory. Learn Patch from the team that created it - then make
-    your own unique VR instruments and performances to share with A MAZE. / Berlin
-    2021. Apply by 21 June!
+  widetext: 'A MAZE FESTIVAL & PATCH XR are thrilled to announce Patchathon #2. A
+    week-long workshop to make your own fantastic instrument in VR and perform it
+    at A MAZE. / Berlin 2021.'
   enable: true
   formlink: https://forms.gle/jcBQu4t1m6enerev9
   banner: "/uploads/patchathon-2_herotext.jpg"
