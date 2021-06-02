@@ -14,12 +14,7 @@
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:type" content="website">
 {{ end }}
-
-
-
-
 <meta property="og:title" content="{{ .Title }}{{ if ne .Title .Site.Title }} : {{ .Site.Title }}{{ end }}" />
-
 <meta property="og:url" content="{{ .Permalink }}" />
 <!-- Optional Open Graph Info -->
 <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}" />
@@ -53,5 +48,4 @@
 {{ end }}{{ end }}
 {{ else if eq .Type "aboutpage" }}
 {{ end }}
-
 {{ "<!-- LEAVING partial seo-og.html -->" | safeHTML }}

@@ -9,7 +9,7 @@
 <meta name="twitter:creator" content="@patch_xr"/>
 <meta name="twitter:domain" content="patchxr.com"/>
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="{{ .Site.Params.og_image | absURL }}"/>
+<meta property="twitter:image" content="{{ .Site.Params.og_image | absURL }}"/>
 {{ end }}
 {{ if .IsPage }}
 <!-- Twitter Card data -->
@@ -24,13 +24,13 @@
 {{ else }}
 <!-- Twitter Card data -->
 <meta name="twitter:title" content="{{ .Title }}{{ if ne .Title .Site.Title }} : {{ .Site.Title }}{{ end }}"/>
-<meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}"/>
+<meta property="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}"/>
 <meta name="twitter:site" content="@patch_xr"/>
 <meta name="twitter:domain" content="patchxr.com"/>
 <meta name="twitter:creator" content="@patch_xr"/>
 <meta name="twitter:url" content="{{ .Permalink }}">
 <!-- Twitter summary card with large image must be at least 280x150px -->
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="{{ .Site.Params.og_image2 | absURL }}"/>
+<meta property="twitter:image" content="{{ .Site.Params.og_image2 | absURL }}"/>
 {{ end }}
 {{ "<!-- LEAVING partial seo-twittercard.html -->" | safeHTML }}
