@@ -19,6 +19,8 @@
 <meta name="twitter:domain" content="patchxr.com"/>
 <meta name="twitter:creator" content="@patch_xr"/>
 <meta name="twitter:url" content="{{ .Permalink }}">
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="{{ .Site.Params.og_image2 | absURL }}"/>
 {{ else }}
 <!-- Twitter Card data -->
 <meta name="twitter:title" content="{{ .Title }}{{ if ne .Title .Site.Title }} : {{ .Site.Title }}{{ end }}"/>
@@ -27,12 +29,8 @@
 <meta name="twitter:domain" content="patchxr.com"/>
 <meta name="twitter:creator" content="@patch_xr"/>
 <meta name="twitter:url" content="{{ .Permalink }}">
-{{ with .Params.image }}
 <!-- Twitter summary card with large image must be at least 280x150px -->
-	<meta name="twitter:card" content="summary_large_image"/>
-	<meta name="twitter:image" content="{{ . | absURL }}"/>
-{{ else }}
-	<meta name="twitter:card" content="summary"/>
-{{ end }}
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="{{ .Site.Params.og_image2 | absURL }}"/>
 {{ end }}
 {{ "<!-- LEAVING partial seo-twittercard.html -->" | safeHTML }}
