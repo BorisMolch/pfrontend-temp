@@ -2,9 +2,9 @@
 alert:
   enable: true
   type: light
-  title: We are Hiring!
-  text: Check out our jobs page.
-  link: jobs
+  title: Open Call for Entries
+  text: Check out our Patchathon page.
+  link: patchathon
 banner:
   enable: true
   title: patchXR
