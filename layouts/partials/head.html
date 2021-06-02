@@ -13,12 +13,11 @@
 <head>
   <link href="https://vjs.zencdn.net/7.8.4/video-js.css" rel="stylesheet" />
   <meta charset="utf-8">
-  <title>{{ .Site.Title }}</title>
-
+  <title>{{ .Title }} | {{ .Site.Title }}</title>
+  
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description"
-    content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
   {{ with .Site.Params.author }}
   <meta name="author" content="{{ . }}">{{ end }}
   {{ hugo.Generator }}
