@@ -13,8 +13,12 @@
 <head>
   <link href="https://vjs.zencdn.net/7.8.4/video-js.css" rel="stylesheet" />
   <meta charset="utf-8">
+  {{ if .IsHome }}
+  <title>{{ .Site.Title }}</title>
+  {{ else }}
   <title>{{ .Title }} | {{ .Site.Title }}</title>
-  
+  {{ end }}
+
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
