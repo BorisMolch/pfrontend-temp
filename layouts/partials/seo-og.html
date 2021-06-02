@@ -16,13 +16,6 @@
 {{ end }}
 
 
-{{ if site.Params.og_image }}
-<meta property="og:image" content="http://patchxr.com{{ .Params.image | relURL }}"/>
-<meta property="og:image:secure_url" content="{{ .Params.image | absURL }}"/>
-{{ else }}
-{{ with .Params.image }}<meta property="og:image" content="{{ if in . "http" }}{{ . }}{{ else }}{{ $baseurl }}{{ . }}{{ end }}" />
-{{ end }}
-
 
 
 <meta property="og:title" content="{{ .Title }}{{ if ne .Title .Site.Title }} : {{ .Site.Title }}{{ end }}" />
@@ -60,5 +53,5 @@
 {{ end }}{{ end }}
 {{ else if eq .Type "aboutpage" }}
 {{ end }}
-{{ end }}
+
 {{ "<!-- LEAVING partial seo-og.html -->" | safeHTML }}
