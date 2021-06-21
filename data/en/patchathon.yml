@@ -33,7 +33,9 @@ intro:
     12 applicants (or collectives) will be selected by a jury of experts to participate and showcase their work at A MAZE. / Berlin 2021
   title4: WHERE AND WHEN
   section4: |-
-    Apply by 21 June (notification by 23 June)
+    *DEADLINE EXTENDED!*
+    Apply by Wednesday 23 June, 23:59 CET
+    (notification by Friday 25 June)
 
     16-24 July Online working sessions (on-site in Berlin 21-24.07)
 
@@ -41,11 +43,14 @@ intro:
 
     Patchathon #2 will take place in a hybrid format. We will fully support online international artists. Depending on regulations and safety at the time, we may also open up a physical presence for use by online performers and a limited number of artists local to Berlin.
   title5: WHAT YOU'LL NEED
-  section5: |-
-    *Access to a VR headset:*  PC VR (recommended): HTC Vive, Oculus Rift S, Oculus Quest + Link.
-    *Standalone:* Oculus Quest 1 & 2
-    *Minimum-spec PC:* Windows 10, 64-bit, Intel Core i5-2500K, GPU (GeForce GTX 970), 8GB RAM.
-    Coding skills are not needed, but some experience with digital music creation is essential.
+  section5: "*Access to a VR headset:*  PC VR (recommended): HTC Vive, Oculus Rift
+    S, Oculus Quest + Link.\n*Standalone:* Oculus Quest 1 & 2\n*Minimum-spec PC:*
+    Windows 10, 64-bit, Intel Core i5-2500K, GPU (GeForce GTX 970), 8GB RAM.\nCoding
+    skills are not needed, but some experience with digital music creation is essential.\n\nWith
+    the help of Oculus, we are giving away 3 VR headsets to Patchathon participants
+    who currently don't have access to one. If you don't have a VR Headset, but want
+    to apply to this year's Patchathon, you will also be able to apply for a headset
+    in this form. "
   title6: WHAT YOU'LL GET
   section6: You’ll get access to the full, free license for the beta Patch tools to
     use on your machine. Learn via intensive remote workshops with the PatchXR team.
@@ -79,8 +84,8 @@ event:
   - title: 'A MAZE. / Total Digital 2021 / Patchathon #2'
     location: 16 - 24 July 2021, Online
     deadlines:
-    - '21 June: Application deadline, 23:59 Berlin CET.'
-    - '23 June: Participants notified.'
+    - '23 June: Application deadline, 23:59 Berlin CET.'
+    - '25 June: Participants notified.'
     - '16-24 July: Workshop, online/virtual.'
     - '24 July: Live performances streamed at A MAZE.'
     details: Visual/media artists, VR/XR artists and developers, Musicians, Composers
