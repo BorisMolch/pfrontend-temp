@@ -14,6 +14,8 @@ So where better to show off where we're going than at GDC, the world-leading gam
 
 PatchWorld will incorporate rich musical environments we're calling EPs - as in music EPs. And after intensive months in development, we have some fantastical worlds for you to explore. Here's one short snippet, a fantasy jam under the sea:
 
+{{< youtube 5fkb7IKJuHU >}}
+
 So mark your calendars - if GDC isn't there already. The online event runs 19-23 July 2021. It's the full week-long event, but online.
 
 [https://gdconf.com/](https://gdconf.com/ "https://gdconf.com/")
