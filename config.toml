@@ -78,8 +78,6 @@ link = "plugins/aos/aos.css"
 [[params.plugins.css]]
 link = "plugins/jobalert.css"
 [[params.plugins.js]]
-link = "plugins/owl-carousel/owl.carousel.min.js"
-[[params.plugins.js]]
 link = "plugins/jquery/jquery.js"
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
@@ -91,6 +89,8 @@ link = "plugins/jquery.bootstrap-autohidingnavbar.js"
 link = "plugins/highlight.js"
 [[params.plugins.js]]
 link = "plugins/jobalert.js"
+[[params.plugins.js]]
+link = "plugins/owl-carousel/owl.carousel.min.js"
 [params.preloader]
 enable = false
 preloader = "/images/logo-1.png"

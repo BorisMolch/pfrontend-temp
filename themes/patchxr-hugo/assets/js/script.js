@@ -16,6 +16,7 @@
         margin: 20,
         dots: true,
         autoplay: true,
+        autoplayTimeout:15000,
         responsive: {
           0: {
             items: 1
@@ -27,7 +28,7 @@
             items: 1
           },
           1000: {
-            items: 2
+            items: 1
           }
         }
       });

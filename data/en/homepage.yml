@@ -10,7 +10,7 @@ banner:
   title: patchXR
   logotype: images/patchXR-SOUNDmetaverse-grey.svg
   content: 
-  videotext: 'Watch a short video clip:'
+  bannertext: 'Available soon...'
   videourl: https://www.youtube.com/embed/HsCuMkXGfrg
   gif: "1"
 intro:
@@ -45,7 +45,7 @@ quote_slider:
   - quote: Concerts
     quote_by: Perform live in and out VR, online and on stage
 download:
-  enable: false
+  enable: true
   title: Available soon...
   subtitle: PatchXR will be available on the following VR platforms
   download_buttons:
@@ -96,43 +96,23 @@ promo_video:
   bg_image: "/uploads/mali-perfo.jpg"
   video_embed_url: https://youtube.com/embed/x1LRs161hfk
 testimonial:
-  enable: false
+  enable: true
   testimonial_item:
   - name: Ewen Chardronnet, Makery.info
     image: "/uploads/1517371976584.jpeg"
-    content: 'We tested PatchXR in 2020 and were totally seduced. It’s a real game
-      changer that opens the world of music to extended reality. The intuitive VR
-      tool integrates all the complexity of modular synthesis while engaging the body
-      in a gestural experience that channels acoustic instruments: the field of possibilities
-      is wide open!'
+    content: 'We tested PatchXR in 2020 and were totally seduced. It’s a real game changer that opens the world of music to extended reality. The intuitive VR tool integrates all the complexity of modular synthesis while engaging the body in a gestural experience that channels acoustic instruments: the field of possibilities is wide open!'
   - name: Peter Kirn, CDM
     image: "/uploads/pkirn_sq_veralinnik.jpg"
-    content: PatchXR takes VR beyond passive consumption. This isn't a game with tons
-      of guardrails and pre-defined paths. It's a toolbox, an open playground where
-      you make your own rules. That blows the potential for musical imagination wide
-      open.
+    content: PatchXR takes VR beyond passive consumption. This isn't a game with tons of guardrails and pre-defined paths. It's a toolbox, an open playground where you make your own rules. That blows the potential for musical imagination wide open.
   - name: PortraitXO, Sound Obsessed
     image: "/uploads/portrait-xo-ai-square-1000x1000-1.jpg"
-    content: The future of technology will keep moving things forward into augmented,
-      virtual, and mixed realities.  Music making in PatchXR with 3D audiovisual capabilities
-      opens up new possibilities of creating immersive experiences for both virtual
-      and real life. This will help produce 3D sonic environments and open new ways
-      of creating physical installations with 3D audiovisuals.
+    content: The future of technology will keep moving things forward into augmented, virtual, and mixed realities.  Music making in PatchXR with 3D audiovisual capabilities opens up new possibilities of creating immersive experiences for both virtual and real life. This will help produce 3D sonic environments and open new ways of creating physical installations with 3D audiovisuals.
   - name: Malitzin Cortés, CNDSD
     image: "/uploads/img_2678.jpg"
-    content: Patch has been one of the most incredible discoveries that I have made
-      as an architect and musician. The tool simply fulfills the dream of creating
-      impossible worlds in which it is possible to compose music. This environment
-      is contributing to the emergence of new forms of art and questions regarding
-      the body, performance and the hybrid haptic experience.
+    content: Patch has been one of the most incredible discoveries that I have made as an architect and musician. The tool simply fulfills the dream of creating impossible worlds in which it is possible to compose music. This environment is contributing to the emergence of new forms of art and questions regarding the body, performance and the hybrid haptic experience.
   - name: Georg Bleikolm, RAVE U R
     image: "/uploads/georgface.jpg"
-    content: "PATCH XR is probably the most exciting instrument and music interface
-      I was given to try in 2020. \nWe came up with the fun idea to entangle digital
-      and physical worlds in an instrument. Integrating compositions from Ableton
-      live and interaction with Arduino devices over MAX/MSP worked seamlessly. I
-      will definitely use PATCH XR to develop new ways to control and interpret my
-      compositions in the future. "
+    content: "PATCH XR is probably the most exciting instrument and music interface I was given to try in 2020. We came up with the fun idea to entangle digital and physical worlds in an instrument. Integrating compositions from Ableton live and interaction with Arduino devices over MAX/MSP worked seamlessly. I will definitely use PATCH XR to develop new ways to control and interpret my compositions in the future. "
 patchworld:
   enable: true
   title: Registration to our next online Hacklab is open till June 14th !!!
@@ -149,7 +129,7 @@ patchathon:
     creators for a 6 days online Patchathon. To get inspired, check out their work
     and discover what’s possible to make in Patchworld in only a few days.
 usp:
-  enable: true
+  enable: false
   title: What Makes Patch Unique?
   subtitle: Our audio engine combined with immersive 3D worlds create a truly otherworldly
     VR experience
