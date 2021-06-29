@@ -32,7 +32,7 @@
               <li class="mb-0"><!--<i class="tf-ion-android-person mr-2"></i>By <a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author | title }}</a></li>-->
               <li class="postdate whiteonblack mb-0">{{ .PublishDate.Format "January 02, 2006" }}</li>
             </ul>
-            <p>{{ .Summary }}</p>
+            <p>{{ .Description }}</p>
             <a class="btn btn-main-sm" href="{{ .Permalink }}">{{ i18n "read_more" }}</a>
           </div>
         </article>

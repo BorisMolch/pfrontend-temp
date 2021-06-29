@@ -234,9 +234,9 @@
 			<div class="col-8 m-auto">
 				<div class="col-12 title mt-5 text-center">
 					<h1 class="newstitle">{{ i18n "testimonials" }}</h1>
-				</div> 
+				</div>
 				<div class="testimonial-slider owl-carousel owl-theme">
-					
+
 					{{ range .testimonial_item }}
 					{{ "<!-- Testimonial 01 -->" | safeHTML }}
 
@@ -246,7 +246,7 @@
 							<div class="image">
 								<img src="{{ .image | absURL }}" alt="{{ .name }}">
 							</div>
-							
+
 							<cite>{{ .name }}</cite>
 						</div>
 					</div>
@@ -296,7 +296,7 @@
               <li class="mb-0"><!--<i class="tf-ion-android-person mr-2"></i>By <a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author | title }}</a></li>-->
               <li class="postdate mb-0">{{ .PublishDate.Format "January 02, 2006" }}</li>
             </ul>
-            <p>{{ .Summary }}</p>
+            <p>{{ .Description }}</p>
             <!--<a class="btn btn-main-sm" href="{{ .Permalink }}">{{ i18n "read_more" }}</a>-->
           </div>
         </article>
