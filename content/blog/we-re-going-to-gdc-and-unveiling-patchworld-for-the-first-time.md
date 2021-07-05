@@ -1,14 +1,15 @@
 +++
 author = "PatchXR"
-date = 2021-06-28T22:04:00Z
-description = "PatchXR is part of the SwissGames delegation to this year's edition of the Game Developers Conference (GDC), that highlight of the gaming year. And it's a big moment: for the first time, we'll publicly demo PatchWorld, our social musical metaverse."
-image = "/uploads/purple.jpg"
-title = "We're joining GDC - and unveiling PatchWorld for the first time"
-type = "post"
-featured = "true"
 cta = "true"
 ctalink = "https://forms.gle/ywxr1TChjiU376ax6"
 ctatext = "Join the Beta"
+date = 2021-06-28T22:04:00Z
+description = "PatchXR is part of the SwissGames delegation to this year's edition of the Game Developers Conference (GDC), that highlight of the gaming year. And it's a big moment: for the first time, we'll publicly demo PatchWorld, our social musical metaverse."
+featured = "true"
+image = "/uploads/keyart-small.jpg"
+title = "We're joining GDC - and unveiling PatchWorld for the first time"
+type = "post"
+
 +++
 After years of experience in audio engines and music VR, PatchWorld is the next leap forward - and GDC is the perfect showcase. Due to release at the start of 2022 on Oculus Platform, PatchWorld takes all the musical powers of the Patch engine and opens them to musicians and non-musicians alike. It's more social - so not only can you create your own custom instruments to play, but you can collaborate and play together, and share sounds and ideas, all with a powerful toolset. It's a whole new, fantastic level of deep play for your musical imagination.
 
@@ -22,6 +23,6 @@ So mark your calendars - if GDC isn't there already. The online event runs 19-23
 
 [**https://gdconf.com/**](https://gdconf.com/ "https://gdconf.com/")
 
-[SwissGames at GDC 2021 online](https://swissgames.ch/2021/06/25/swissgames-at-gdc-2021-online/) \[ProHelvetia\]
+[**SwissGames at GDC 2021 online**](https://swissgames.ch/2021/06/25/swissgames-at-gdc-2021-online/) \[ProHelvetia\]
 
 And keep an eye out here and on Patch's social channels for more details of what PatchWorld has in store.
