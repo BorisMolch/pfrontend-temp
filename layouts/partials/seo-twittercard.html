@@ -1,6 +1,9 @@
 
 {{ "<!-- ENTERING partial seo-twittercard.html -->" | safeHTML }}
 {{ $baseurl := .Site.BaseURL }}
+{{ if eq .Type "post" }}
+<meta property="twitter:image" content="{{ .Params.image | absURL }}"/>
+{{ end }}
 {{ if .IsHome }}
 <meta property="twitter:title" content="{{ .Title }}{{ if ne .Title .Site.Title }} {{ end }}" />
 <meta property="twitter:description" content="{{ .Site.Params.Description }}" />
@@ -20,7 +23,7 @@
 <meta name="twitter:creator" content="@patch_xr"/>
 <meta name="twitter:url" content="{{ .Permalink }}">
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="{{ .Site.Params.og_image2 | absURL }}"/>
+<meta name="twitter:image" content="{{ .Params.image | absURL }}"/>
 {{ else }}
 <!-- Twitter Card data -->
 <meta name="twitter:title" content="{{ .Title }}{{ if ne .Title .Site.Title }} : {{ .Site.Title }}{{ end }}"/>
@@ -31,6 +34,6 @@
 <meta name="twitter:url" content="{{ .Permalink }}">
 <!-- Twitter summary card with large image must be at least 280x150px -->
 <meta name="twitter:card" content="summary_large_image"/>
-<meta property="twitter:image" content="{{ .Site.Params.og_image2 | absURL }}"/>
+<meta property="twitter:image" content="{{ .Params.image | absURL }}"/>
 {{ end }}
 {{ "<!-- LEAVING partial seo-twittercard.html -->" | safeHTML }}
