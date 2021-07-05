@@ -48,14 +48,18 @@
 }
 
 .btn-main-sm{
-    padding: 15px 35px;
-    border-radius: 3px;
+    padding: 5px 10px;
+    font-size: 18px;
+    border-radius: 50px;
+    border: 2px solid deeppink;
     background: $primary-color;
     color: $light;
     outline: none;
-    font-size: 14px;
     &:hover{
         color: $light;
+        background: $black;
+        border: 2px solid deeppink;
+        color: deeppink;
     }
     &:focus{
         color: $light;
@@ -63,7 +67,7 @@
     }
 }
 
-.email { 
+.email {
     width: 100%;
     background-color: #0d0d0d!important;
     color: deeppink;
@@ -84,12 +88,12 @@
         opacity: 1; /* Firefox */
         text-align: center;
       }
-      
+
       :-ms-input-placeholder { /* Internet Explorer 10-11 */
         color: $blue;
         text-align: center;
       }
-      
+
       ::-ms-input-placeholder { /* Microsoft Edge */
         color: $blue;
         text-align: center;

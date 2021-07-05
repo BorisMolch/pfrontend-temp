@@ -26,13 +26,23 @@
             </div>
             <div class="content whiteonblack">
               {{ .Content }}
+              {{ if (isset .Params "cta") }}
+              <a href="{{ .Params.ctalink }}" target="_blank">
+                <button class="btn btn-main-sm"> {{ .Params.Ctatext }}</button>
+              </a>
+              {{ end }}
             </div>
           </div>
         </article>
+        {{ $data := index .Site.Data .Site.Language.Lang }}
+        {{ with $data.blog.about }}
         <div class="about-author">
-          <h2>About {{ .Site.Params.author }}</h2>
-          <p class="text-light">{{ .Site.Params.description }}</p>
+          <h2>{{ .title }}</h2>
+          <p class="text-light">{{ .description }}</p>
+          <p class="text-light"><a href="https://patchxr.com/">{{ .linktext }} <i class="tf-ion-android-arrow-forward"></i></a></p>
         </div>
+        {{ end }}
+
       </div>
     </div>
   </div>

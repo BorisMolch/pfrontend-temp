@@ -20,7 +20,7 @@
 <section class="section featured-article">
   <div class="container whiteonblack">
     <div class="row">
-      {{ range first 1 (where .Data.Pages "Type" "featured") }}
+      {{ range first 1 (where .Data.Pages "Type" "post") }}
       <div class="col-md-12">
         <article class="featured">
           <div class="image">
@@ -47,7 +47,7 @@
   <div class="container">
     <div class="row">
       {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
-      {{ range $paginator.Pages }}
+      {{ range (after 1 $paginator.Pages ) }}
       {{ .Render "post" }}
       {{ end }}
       <div class="col-12">

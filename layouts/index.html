@@ -284,7 +284,7 @@
 			<div class="col-12 title mt-5 text-center">
 				<h1 class="newstitle">{{ i18n "latest" }}</h1>
 			</div>
-      {{ range first 1 (where .Site.Pages "Type" "featured") }}
+      {{ range first 1 (where .Site.Pages "Type" "post") }}
       <div class="col-md-12">
         <article class="featured">
           <div class="image">
