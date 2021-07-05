@@ -20,6 +20,18 @@ fields:
 - type: text
   name: type
   label: type
+- name: ctalink
+  type: text
+  config:
+    required: false
+  label: CTA Link
+  description: link for call to action
+- name: ctatext
+  type: text
+  config:
+    required: false
+  label: CTA text
+  description: Link text for CTA
 pages:
 - content/blog/cndsd-ivan-abreau-expanding-mind-self-and-music-in-digital-realms.md
 - content/blog/the-new-chamber-music-enabling-vr-collaboration-with-ensemble-contrechamps.md
