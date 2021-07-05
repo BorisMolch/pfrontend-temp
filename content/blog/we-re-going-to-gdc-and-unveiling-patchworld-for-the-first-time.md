@@ -23,6 +23,6 @@ So mark your calendars - if GDC isn't there already. The online event runs 19-23
 
 [**https://gdconf.com/**](https://gdconf.com/ "https://gdconf.com/")
 
-[SwissGames at GDC 2021 online](https://swissgames.ch/2021/06/25/swissgames-at-gdc-2021-online/) \[ProHelvetia\]
+[**SwissGames at GDC 2021 online**](https://swissgames.ch/2021/06/25/swissgames-at-gdc-2021-online/) \[ProHelvetia\]
 
 And keep an eye out here and on Patch's social channels for more details of what PatchWorld has in store.
