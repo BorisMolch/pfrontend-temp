@@ -31,31 +31,30 @@ URL = "faq"
 name = "FAQ"
 weight = 6
 [[menu.main]]
-URL = "contact"
-name = "contact"
-weight = 5
-[[menu.main]]
-URL = "about"
-name = "about"
-weight = 3
-[[menu.main]]
-URL = "blog"
-name = "blog"
-weight = 4
+URL = "patchathon"
+name = "patchathon"
+weight = 1
 [[menu.main]]
 URL = "community"
 name = "community"
 weight = 2
 [[menu.main]]
-URL = "patchathon"
-name = "patchathon"
-weight = 1
+URL = "blog"
+name = "blog"
+weight = 4
+[[menu.main]]
+URL = "about"
+name = "about"
+weight = 3
+[[menu.main]]
+URL = "contact"
+name = "contact"
+weight = 5
 [params]
 ISO8601 = "2006-01-02T15:04:05JST"
 address = "Physical Address?"
 author = "PatchXR"
 contact_form_action = "#"
-mailchimpURL = "https://patchxr.us7.list-manage.com/subscribe/post?u=b7bf7d4a7c9e42a6b4c2d1df1&amp;id=e2163949b5"
 description = "Patch is a native VR authoring tool that lets you build brand new digital instruments and play electronic music in a 3D space like never before."
 email = "info@patchxr.com"
 google_analytics_id = "UA-171710509-1"
@@ -65,6 +64,7 @@ logo_1 = "images/logo-1.png"
 logo_2 = "images/logo-2.png"
 logo_light = "images/logo-alt.png"
 logotype = "images/patchXR-SOUNDmetaverse-grey.svg"
+mailchimpURL = "https://patchxr.us7.list-manage.com/subscribe/post?u=b7bf7d4a7c9e42a6b4c2d1df1&amp;id=e2163949b5"
 og_image = "images/screenshot.jpg"
 og_image2 = "images/patchathon2-social.jpg"
 [[params.plugins.css]]
