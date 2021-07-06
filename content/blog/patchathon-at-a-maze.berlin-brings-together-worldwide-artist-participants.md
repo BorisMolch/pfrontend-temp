@@ -45,3 +45,7 @@ Ted Pallas (US)
 Tomson Fauster \[BitNet01\] (IT)  
 Victoria Volokitina + Valeria Kolmogorova (RU)  
 Vincent Cellucci (NL)
+
+Hear from last year's participants:
+
+dAheG6W3QAE
