@@ -11,10 +11,6 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[menu.footer]]
-name = "Presskit"
-url = "#"
-weight = 7
-[[menu.footer]]
 URL = "privacy-policy"
 name = "Privacy"
 weight = 4
