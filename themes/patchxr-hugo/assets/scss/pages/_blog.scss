@@ -97,7 +97,7 @@
 		margin-bottom: 15px;
 	}
 
-	
+
 
 	&:hover {
 		.post-thumb {
@@ -236,14 +236,15 @@ blockquote {
 				width: 40px;
 				line-height: 40px;
 				text-align: center;
-				border-color: transparent;
+				border-color: $white;
+				background-color: $dark;
 				box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.1);
-				color: $text-color;
+				color: $white;
 				transition: .3s ease-in;
 
 				&:hover {
 					background-color: $primary-color;
-					color: $dark;
+					color: $white;
 					border-color: transparent;
 				}
 			}
