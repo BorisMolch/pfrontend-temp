@@ -46,7 +46,7 @@ Tomson Fauster \[BitNet01\] (IT)
 Victoria Volokitina + Valeria Kolmogorova (RU)  
 Vincent Cellucci (NL)
 
-Image featured here is from the summer 2020 edition, \["Planetario Ancestral Futurista"\](https://patchxr.com/community/planetario-ancestral-futurista/) by Hexorcismos aka Moisés Horta Valenzuela.
+Image featured here is from the summer 2020 edition, \[Planetario Ancestral Futurista\](https://patchxr.com/community/planetario-ancestral-futurista/) by Hexorcismos aka Moisés Horta Valenzuela.
 
 Hear from last year's participants:
 
