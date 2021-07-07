@@ -4,8 +4,7 @@ ctalink = ""
 ctatext = ""
 date = 2021-07-06T16:00:00Z
 description = "It’s a global metaverse intensive lab. We’re excited to announce the participants of our second-ever Patchathon, returning to A MAZE. / Berlin in July!"
-draft = true
-image = ""
+image = "/uploads/moises-still.jpg"
 title = "Patchathon at A MAZE. Berlin brings together worldwide artist participants"
 type = "Featured"
 
@@ -46,6 +45,8 @@ Tonal Huldra (UK)
 Tomson Fauster \[BitNet01\] (IT)  
 Victoria Volokitina + Valeria Kolmogorova (RU)  
 Vincent Cellucci (NL)
+
+Image featured here is from the summer 2020 edition, \["Planetario Ancestral Futurista"\](https://patchxr.com/community/planetario-ancestral-futurista/) by Hexorcismos aka Moisés Horta Valenzuela.
 
 Hear from last year's participants:
 
