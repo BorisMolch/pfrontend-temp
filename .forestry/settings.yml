@@ -56,6 +56,10 @@ sections:
   path: content/contact/_index.md
   label: Contact
 - type: document
+  path: content/presskit/_index.md
+  label: Presskit
+  match: "**/*"
+- type: document
   path: i18n/en.yaml
   label: i18n Strings
 upload_dir: static/uploads
