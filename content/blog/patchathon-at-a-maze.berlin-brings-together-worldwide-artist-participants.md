@@ -15,11 +15,11 @@ An overwhelming number of people applied from across 22 countries; we’ve selec
 
 But you don’t have to be left out. You can follow us on Twitch to watch exclusive tutorials on new Patch features throughout the whole program:
 
-[https://www.twitch.tv/patchxr](https://www.twitch.tv/patchxr "https://www.twitch.tv/patchxr")
+[**https://www.twitch.tv/patchxr**](https://www.twitch.tv/patchxr "https://www.twitch.tv/patchxr")
 
 And don’t miss the final performance presentations on Saturday evening 24.07 as part of the A MAZE. / Berlin 2021 program - tune in from wherever you are in the world:
 
-[https://2021.amaze-berlin.de/how-to-festival/](https://2021.amaze-berlin.de/how-to-festival/ "https://2021.amaze-berlin.de/how-to-festival/")
+[**https://2021.amaze-berlin.de/how-to-festival/**](https://2021.amaze-berlin.de/how-to-festival/ "https://2021.amaze-berlin.de/how-to-festival/")
 
 We’re excited to be spending time again with the incredible international games and playful media festival in its 10th anniversary year. Our team will be partly on-site in Berlin at Urban Spree, immersed in this unique independent game and media environment.
 
@@ -28,25 +28,25 @@ This edition's participants, who will collaborate together in teams of creator-a
 Alexandria Rowan (US)  
 Corey Bertelsen (US)  
 Damian T. Dziwis (DE)  
-Francesco Corvi \[nesso\] (IT)  
+Francesco Corvi \[Nesso\] (IT)  
 Gilbert Nouno \[Til Berg\] (CH)  
 Juan Orjuela (DE)  
 Laura Luna Castillo (US)  
-Louis-Louise Kay (FR)  
+Louise Nornes \[Tonal Huldra\] (UK)  
+Louis-Louise Kay \[Mowukis\] (FR)  
 Malitzin Cortes & Ivan Abreu (MX)  
 Matias Vilaplana (US)  
-Neslob \[Warja Rybakova\] (DE)  
+Warja Rybakova & Irina Shutova \[Neslob\] (DE)  
 Patrick Hartono (AU)  
 Paula OS (AR)  
 Ramiro N. Alvarez (AR)  
 Robbie Lynn (US)  
 Ted Pallas (US)  
-Tonal Huldra (UK)  
 Tomson Fauster \[BitNet01\] (IT)  
-Victoria Volokitina + Valeria Kolmogorova (RU)  
+Victoria Volokitina & Valeria Kolmogorova (RU)  
 Vincent Cellucci (NL)
 
-Image featured here is from the summer 2020 edition, [Planetario Ancestral Futurista](https://patchxr.com/community/planetario-ancestral-futurista/) by Hexorcismos aka Moisés Horta Valenzuela.
+\*Image featured here is from the summer 2020 edition, [Planetario Ancestral Futurista](https://patchxr.com/community/planetario-ancestral-futurista/) by Hexorcismos aka Moisés Horta Valenzuela.
 
 Hear from last year's participants:
 
