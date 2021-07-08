@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+
+{{ "<!-- Page Title -->" | safeHTML }}
+<section class="section page-title bg-white blackonwhite">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-4">
+        <h3>Factsheet</h3>
+      </div>
+      <div class=" content col-sm-8 m-auto">
+        <!-- <h1>{{ .Title }}</h1>
+        <p>{{ .Description }}</p> -->
+        <p>{{ .Content }}</p>
+      </div>
+    </div>
+  </div>
+</section>
+{{ "<!-- End of Page Title -->" | safeHTML }}
+
+
+
+{{ end }}
