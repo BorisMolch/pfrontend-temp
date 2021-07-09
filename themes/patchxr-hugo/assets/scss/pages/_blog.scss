@@ -291,21 +291,22 @@ blockquote {
     max-width: 100%;
     margin-bottom: 1rem;
 
-    border: 1px solid #dee2e6;
+    border: 0px solid #dee2e6;
 
     th,
     td {
       padding: .75rem;
       vertical-align: top;
-      border: 1px solid #dee2e6
+      border: 0px solid #dee2e6
     }
 
     thead {
-      background: darken($color: $gray, $amount: 2);
-    }
+      //background: darken($color: $gray, $amount: 2);
+			background: none;
+		}
 
     tbody {
-      background: $gray;
+      background: none;
 
       td {
         text-align: left !important;
