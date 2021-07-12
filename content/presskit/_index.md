@@ -5,11 +5,32 @@ description : "Presskit Description"
 ---
 ![](/images/Patchworld-black.png)
 
-<!-- ![](http://localhost:1313/uploads/keyart-small.jpg) -->
+![](http://localhost:1313/uploads/keyart-small.jpg)
 
 **PatchWorld : Where musical instruments become fantastic worlds.**
 
 An upcoming music playground for the Oculus Platform by PatchXR.
+
+---
+
+**Developer:** PatchXR - Based in Zurich (CH) and Copenhagen (D)
+
+**Release date:**
+TBA
+
+**Platforms:**
+PC VR, Oculus Quest
+
+**Website:**
+https://www.patchxr.com
+
+**Regular Price:**
+TBA
+
+**Press / Business contact:**
+melo@patchxr.com
+
+---
 
 # A new experience
 
