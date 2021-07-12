@@ -103,10 +103,7 @@ PatchXR is a Swiss/Danish creative studio made up of an international coalition 
 After joining forces with Swiss artist and VR veteran Melodie Mousset and her team in 2019, the company established its headquarters in Zurich in 2020 and entered the Innosuisse State program. The Studio currently counts 10 exceptional engineers and artists working from the Copenhagen office and remotely from Switzerland, France, Malta, Denmark, Russia, Germany, Spain, and Brazil.
 
 # More information
-More information on PatchXR is on our website, our logo & relevant media are available here.
-
-
-# Honorable Mentions and Showcase:
+More information on PatchXR is on our [website](https://patchxr.com), our logo & relevant media are available [here](https://patchxr.com/presskit).
 
 
 # PatchWorld Credits
@@ -114,12 +111,14 @@ More information on PatchXR is on our website, our logo & relevant media are ava
 ## Management
 
 **Executive Director** Eduardo Fouilloux
+
 **Art Director**		Melodie Mousset
+
 **Audio director**	 	Christian Heinrichs
 
 **Operation manager**	Nicholas Borkowski
 
-### Production
+## Production
 
 **Technical lead**		Victor Beaupuy
 
@@ -137,7 +136,7 @@ More information on PatchXR is on our website, our logo & relevant media are ava
 
 **Web developer** Daniel F. Wehleit 	
 
-### Communication
+## Communication
 
 **Community development** Peter Kirn		
 
@@ -172,26 +171,3 @@ http://patchxr.com
 #MadeInPatch
 #SoundOfTheMetaverse
 #BuildSound
-
-
-
-
-## PARTNERS & COLLABORATORS
-
-
-
-
-HanaHana GMBH
-
-www.hanahana.world
-
-
-info@hanahana.world
-
-Gasometerstrasse 32
-
-8005 Zurich
-
-+41 787686624
-
-+33 681940501
