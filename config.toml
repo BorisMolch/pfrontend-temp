@@ -4,6 +4,8 @@ paginate = "6"
 summaryLength = "10"
 theme = "patchxr-hugo"
 title = "PatchXR - Sound of the Metaverse"
+[markup.goldmark.renderer]
+hardWraps = true
 [Languages.en]
 contentDir = "content/"
 home = "Home"

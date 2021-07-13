@@ -1,0 +1,8 @@
+gallery:
+  enable: false
+  gallery_item:
+  - image: /images/press_1.jpg
+  - image: /images/press_2.jpg
+  - image: /images/press_3.jpg
+  - image: /images/press_5.jpg
+  - image: /images/press_6.jpg

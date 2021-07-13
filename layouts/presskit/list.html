@@ -1,7 +1,12 @@
 {{ define "main" }}
 
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
 <style>
-  a {text-decoration: underline;}
+  a {text-decoration: underline;font-size: 16px;}
+  p, li {font-size: 16px;
+      line-height: 20px;}
+      li { max-width: 80%; list-style: circle!important;}
   </style>
 
 {{ "<!-- Page Title -->" | safeHTML }}
@@ -14,7 +19,7 @@
         <a href="#features">Features</a><br>
         <a href="#videos">Videos</a><br>
         <a href="#images">Images</a><br>
-        <a href="#selected">Articles</a><br>
+        <a href="#articles">Articles</a><br>
         <a href="#videos">Videos</a><br>
 
         {{ range .Site.Params.social }}
@@ -27,6 +32,27 @@
         <!-- <h1>{{ .Title }}</h1>
         <p>{{ .Description }}</p> -->
         <p>{{ .Content }}</p>
+
+
+        {{ "<!-- Gallery -->" | safeHTML }}
+        {{ if $data.pressphotos.gallery.enable }}
+        {{ with $data.pressphotos.gallery }}
+        <section class="gallery">
+          <div class="container-fluid p-0" data-aos="fade-in">
+            <div class="row">
+              {{ range .gallery_item }}
+              <div class="col-md-4">
+                <img class="img-fluid" src="{{ .image | absURL }}">
+              </div>
+              {{ end }}
+            </div>
+          </div>
+        </section>
+        {{ end }}
+        {{ end }}
+        {{ "<!-- End of Gallery -->" | safeHTML }}
+
+
       </div>
     </div>
   </div>
