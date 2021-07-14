@@ -57,6 +57,14 @@
 <meta property="og:type" content="website">
 {{ end }}
 
+{{ if eq .Type "stream" }}
+<meta property="og:image" content="https://patchxr.com{{ .Site.Params.og_image | relURL }}"/>
+<meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />
+<meta property="og:description" content="{{ .Description }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:type" content="website">
+{{ end }}
+
 {{ if eq .Type "community" }}
 <meta property="og:image" content="https://patchxr.com{{ .Site.Params.og_image | relURL }}"/>
 <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />

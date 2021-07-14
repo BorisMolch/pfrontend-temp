@@ -1,5 +1,5 @@
 ---
 title: "Stream"
 draft: false
-description : "Stream"
+description : "PatchXR Twitch Livestream"
 ---
