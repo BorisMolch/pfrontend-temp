@@ -5,7 +5,7 @@ description : "Presskit Description"
 ---
 ![](/images/Patchworld-black.png)
 
-![](http://localhost:1313/uploads/keyart-small.jpg)
+![](/uploads/keyart-small.jpg)
 
 # PatchWorld
 ## Where musical instruments become fantastic worlds.
