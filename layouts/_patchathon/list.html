@@ -1,0 +1,352 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<style>
+
+.bannerhero img {
+  padding-top: 60px;
+  width: 100%;
+  height: auto;
+}
+
+.cool {
+  color: deeppink!important
+}
+
+.hoverin a:hover {
+
+  color: yellow!important
+
+}
+</style>
+{{ with $data._patchathon.intro }}
+<!-- Hero image -->
+<div class="container">
+<div class="row">
+  <div class="bannerhero">
+
+
+    <style>
+
+      @media screen and (min-width: 850px) {
+        .twitch {
+          position: relative;
+        }
+
+        .twitch .twitch-video {
+          width: 75%;
+          /* padding-top: 42.1875%; */
+          height: 75vh;
+        }
+
+        .twitch .twitch-chat {
+          width: 25%;
+          height: auto;
+          position: absolute;
+          top: 0;
+          right: 0;
+          bottom: 0;
+        }
+      }
+
+      </style>
+
+
+    <div class="twitch">
+      <div class="twitch-video">
+        <iframe
+          src="https://player.twitch.tv/?channel=patchxr&parent=patchxr.com&autoplay=false"
+          frameborder="0"
+          scrolling="no"
+          allowfullscreen="true"
+          height="100%"
+          width="100%">
+        </iframe>
+      </div>
+      <div class="twitch-chat">
+        <iframe
+          frameborder="0"
+          scrolling="no"
+          src="https://www.twitch.tv/embed/patchxr/chat?parent=patchxr.com"
+          height="100%"
+          width="100%">
+        </iframe>
+      </div>
+    </div>
+
+
+
+    <!-- <img src="{{ .banner }}" data-aos="fade-in" > -->
+    <div class="col-12 col-lg-12 m-auto text-center">
+      <h1 class="mt-3 patchathon_title">{{ .megatitle }}</h1>
+    <h2 class="text-center">{{ .title }}</h2>
+    <p class=" mb-5">{{ .widetext }} </p>
+      </div>
+  </div>
+</div>
+</div>
+
+
+
+
+<!-- Social Share buttons -->
+{{ $title := .Title }}
+{{ $url := printf "%s" .Permalink }}
+{{ $body := "Make your own musical world, then perform with it live online for an audience at A MAZE. / Berlin 2021. \n\n https://www.patchxr.com/ " }}
+
+<h3 class="text-center mt-3">
+  <a href="https://twitter.com/intent/tweet?hashtags=patchathon,amaze2021,playfulmedia&amp;url={{ .Permalink }}&amp;text=Make your own musical world, then perform with it live online for an audience at A MAZE. / Berlin 2021. @patch_xr @AMazeFest
+   https://www.patchxr.com/patchathon" target="_blank" rel="noopener" aria-label="Share on Twitter" class="share-btn twitter">
+  <ion-icon name="logo-twitter" size="large"></ion-icon>
+  </a>
+
+  <a href="https://www.facebook.com/sharer.php?u=https://www.patchxr.com/patchathon" target="_blank" rel="noopener" aria-label="Share on Facebook" class="share-btn facebook">
+    <ion-icon name="logo-facebook" size="large"></ion-icon>
+    </a>
+
+    <a href="https://www.reddit.com/submit?url=https://www.patchxr.com/patchathon" target="_blank" rel="noopener" aria-label="Share on Reddit" class="share-btn reddit">
+      <ion-icon name="logo-reddit" size="large"></ion-icon>
+      </a>
+
+      <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.patchxr.com/patchathon" target="_blank" rel="noopener" aria-label="Share on LinkedIn" class="share-btn linkedin">
+        <ion-icon name="logo-linkedin" size="large"></ion-icon>
+        </a>
+
+    <a href="mailto:?subject=Patchathon #02 - {{ .title }}.&amp;body={{ $body }}" target="_blank" class="share-btn emaillink">
+      <ion-icon name="mail-outline" size="large"></ion-icon>
+    </a><br>Share with friends!<br>
+</h3>
+
+
+
+<!-- 2 column blocks -->
+<div class="container">
+<div class="row mt-5" data-aos="fade-up">
+  <div class="col-md-6 "><h2 class="cool">{{ .title1 }}</h2></div>
+  <div class="col-md-6 mb-5" style="padding-top: 20px"><p>{{ .section1 | markdownify  }}</p>
+</div>
+</div>
+<div class="row" data-aos="fade-up">
+  <div class="col-md-6 "><h2 class="cool">{{ .title2 }}</h2></div>
+  <div class="col-md-6 mb-5"><p>{{ .section2 | markdownify  }}</p></div>
+</div>
+<div class="row" data-aos="fade-up">
+  <div class="col-md-6 "><h2 class="cool">{{ .title3 }}</h2></div>
+  <div class="col-md-6 mb-5"><p>{{ .section3 | markdownify }}</p></div>
+</div>
+<!-- <div class="row" data-aos="fade-up">
+  <div class="col-md-6 "><h2 class="cool">{{ .title4 }}</h2></div>
+  <div class="col-md-6 mb-5"><p>{{ .section4 | markdownify }}</p></div>
+</div>
+<div class="row" data-aos="fade-up">
+  <div class="col-md-6 "><h2 class="cool">{{ .title5 }}</h2></div>
+  <div class="col-md-6 mb-5"><p>{{ .section5 | markdownify }}</p></div>
+</div>
+<div class="row" data-aos="fade-up">
+  <div class="col-md-6 "><h2 class="cool">{{ .title6 }}</h2></div>
+  <div class="col-md-6 mb-5"><p>{{ .section6 | markdownify }}</p></div>
+</div> -->
+<div class="row" data-aos="fade-up">
+  <div class="col-md-6 "><h2 class="cool">{{ .title7 }}</h2></div>
+  <div class="col-md-6 mb-5"><p>{{ .section7 | markdownify }}</p>
+    <!--PatchXR Social media-->
+  <a href="https://www.facebook.com/patch.xr/" target="_blank"><ion-icon name="logo-facebook" size="large"></ion-icon></a>
+  <a href="https://www.instagram.com/patch.xr/" target="_blank"><ion-icon name="logo-instagram" size="large"></ion-icon></a>
+  <a href="https://twitter.com/patch_xr" target="_blank">
+  <ion-icon name="logo-twitter" size="large"></ion-icon></a>
+  <a href="https://discord.gg/s3AjXepvWR" target="_blank"><ion-icon name="logo-discord" size="large"></ion-icon></a><br>
+</div>
+</div>
+<div class="row" data-aos="fade-up">
+  <div class="col-md-6 "><h2 class="cool">{{ .title8 }}</h2></div>
+  <div class="col-md-6 mb-5">
+     <!--A MAZE. Social media-->
+    <img src="/images/a-maze-white.svg" width="50%" style="padding-top: 20px" class="mb-3">
+    <p>{{ .section8 | markdownify }}</p>
+    <p><a href="https://amaze-berlin.de" target="_blank">amaze-berlin.de</a>
+      #AMaze2021 #playfulmedia<br>
+
+      <a href="https://www.facebook.com/amaze.festival" target="_blank"><ion-icon name="logo-facebook" size="large"></ion-icon></a>
+      <a href="https://instagram.com/a_mazefest" target="_blank"><ion-icon name="logo-instagram" size="large"></ion-icon></a>
+      <a href="https://twitter.com/AMazeFest" target="_blank">
+      <ion-icon name="logo-twitter" size="large"></ion-icon></a>
+      <a href="https://discord.gg/ff3t7ufvkM" target="_blank"><ion-icon name="logo-discord" size="large"></ion-icon></a><br>
+
+    </p>
+
+  </div>
+  <hr class="mb-5" style="border:1px solid deeppink; width: 100%">
+</div>
+</div>
+
+{{ end }}
+
+<!-- Participant video -->
+
+
+{{ "<!-- Patchathon -->" | safeHTML }}
+{{ if $data.patchathon.promo.enable }}
+{{ with $data.patchathon.promo }}
+
+
+  <div class="container">
+    <h2 class="cool mb-3" data-aos="fade-up">{{ .videotitle }}</h2>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <div class="video" data-aos="fade-in">
+            <img class="img-fluid shadow" src="{{ .video_thumb_webp | absURL }}"
+              onerror="this.onerror=null;this.src='{{ .video_thumb | absURL }}'" alt="video-thumbnail">
+            <div class="video-button video-box">
+              <a href="javascript:void(0)">
+                <i class="tf-ion-play" data-video="{{ .video_embed_url }}"></i>
+              </a>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+
+{{ end }}
+{{ end }}
+{{ "<!-- End of Patchathon -->" | safeHTML }}
+
+
+
+
+<!-- Community works -->
+{{ with $data.patchathon.promo }}
+{{ "<!-- Community -->" | safeHTML }}
+<section class="section related-articles bg-gray">
+  <div class="container">
+<h2 class="cool" data-aos="fade-up">{{ .communitytitle }}</h2>
+{{ end }}
+    <div class="row" data-aos="fade-in">
+
+      {{ range last 3 ( where .Site.Pages "Type" "community"  ) }}
+      {{ .Render "patchathon"}}
+      {{ end }}
+    </div>
+    <a href="/community" data-aos="fade-right">WATCH MORE >></a>
+  </div>
+</section>
+{{ "<!-- End of Community -->" | safeHTML }}
+
+
+<!-- Apply Button -->
+{{ with $data.patchathon.intro }}
+<section class="section ">
+<div class="container">
+  <div class="row">
+    <hr style="border:1px solid deeppink; width: 100%">
+<div class="col-12 col-lg-12 m-auto text-center" data-aos="fade-in">
+  <h1 class="hyperhyper">{{ .hypertitle }}</h1>
+
+   <a href="{{ .formlink }}" target="_blank"> <button type="submit" class="btn btn-main-md mb-5">{{ i18n "apply" }}</button></a>
+  </div>
+  <hr style="border:1px solid deeppink; width: 100%">
+</div></div>
+</section>
+{{ end}}
+
+<!-- Event Calendar -->
+<!-- Body copy -->
+
+{{ "<!-- Gallery -->" | safeHTML }}
+{{ if $data.patchathon.gallery.enable }}
+{{ with $data.patchathon.gallery }}
+<section class="gallery">
+  <div class="container-fluid p-0" data-aos="fade-in">
+    <div class="row no-gutters">
+      {{ range .gallery_item }}
+      <div class="col-md-4">
+        <img class="img-fluid" src="{{ .image | absURL }}">
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{ "<!-- End of Gallery -->" | safeHTML }}
+
+
+{{ "<!-- Patchathon Event lists -->" | safeHTML }}
+{{ if $data.patchathon.event.enable }}
+{{ with $data.patchathon.event }}
+<section class="job-list section pt-0">
+  <div class="container" >
+    <div class="row">
+      <div class="col-12 col-lg-12 m-auto">
+        <div class="block">
+          <div class="title text-center" data-aos="fade-up">
+            <h2>{{ .title }}</h2>
+          </div>
+          {{ $.Scratch.Set "counter" 0 }}
+          {{ range .event_post }}
+          {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+          <div class="job">
+            <div class="content">
+              <h3>{{ .title }}</h3>
+              <p>{{ .location | markdownify }}</p>
+            </div>
+            <div class="apply-button">
+              <a href="#" class="" data-toggle="modal"
+                data-target="#job-{{$.Scratch.Get `counter`}}">{{ i18n "view_details" }} ></a>
+              {{ "<!-- Modal -->" | safeHTML }}
+              <div class="modal fade jd-modal" id="job-{{$.Scratch.Get `counter`}}" tabindex="-1">
+                <div class="modal-dialog modal-lg">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title">{{ .title }}</h5>
+                      <button type="button" class="close" data-dismiss="modal">
+                        <span>&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      <div class="block-2">
+                        <div class="title">
+                          <p>{{ i18n "deadlines" }}</p>
+                        </div>
+                        <div class="details">
+                          <ul>
+                            {{ range .deadlines }}
+                            <li><span class="tf-ion-ios-arrow-forward"></span>{{ . | markdownify }}</li>
+                            {{ end }}
+                          </ul>
+                        </div>
+                      </div>
+
+                      <div class="block-2">
+                        <div class="title">
+                          <p>{{ i18n "experience_title"}}</p>
+                        </div>
+                        <div class="details">
+                          <ul>
+                            {{ range .points }}
+                            <li><span class="tf-ion-ios-arrow-forward"></span>{{ . | markdownify }}</li>
+                            {{ end }}
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{ "<!-- End of Event lists -->" | safeHTML }}
+{{ end }}
