@@ -1,0 +1,74 @@
+---
+intro:
+  megatitle: ''
+  hypertitle: PATCH & PLAY
+  title: Create your own interactive sonic world, in an online, week-long playground!
+  widetext: 'A MAZE FESTIVAL & PATCH XR are thrilled to announce Patchathon #2. A
+    week-long workshop to make your own fantastic instrument in VR and perform it
+    at A MAZE. / Berlin 2021.'
+  enable: true
+  formlink: https://docs.google.com/forms/d/e/1FAIpQLSclGNupdrQz7q37WGlCtb5jzXghsnByTz56CC-kbPaXIeKOmw/viewform
+  banner: "/uploads/pathathon-lastcall.jpg"
+  title1: LIST OF PARTICIPANTS
+  section1: "Names list here"
+  title2: WHO IS THE JURY?
+  section2: "Jury names list here"
+  title3: WHAT IS A PATCHATHON?
+  section3: "Wondering what Patch and Patchathon are about...."
+  
+  title7: GOT QUESTIONS?
+  section7: |-
+    Wondering what Patch and the Patchathon are about, and whether you should apply? Looking for collaborators? Or want to chat and meet the team?
+
+    Check the [Patch FAQ](https://patchxr.com/faq) and [join our Discord](https://discord.gg/s3AjXepvWR) to chat with the community and ask us anything.
+  title8: PARTNERS
+  section8: 'Patchathon #02 is proudly co-hosted with [A MAZE. / Berlin 2021](https://amaze-berlin.de),
+    the international festival of games and playful media.'
+promo:
+  enable: true
+  video_thumb: images/faces2.jpg
+  videotitle: HEAR FROM LAST YEAR PARTICIPANTS
+  communitytitle: WATCH THE WORKS THEY MADE
+  video_embed_url: https://www.youtube.com/embed/dAheG6W3QAE?autoplay=1
+gallery:
+  enable: false
+  gallery_item:
+  - image: "/uploads/faces2.jpg"
+  - image: images/patchathon1.jpg
+  - image: images/patch2.png
+event:
+  enable: true
+  title: Patchathon event calendar
+  event_post:
+  - title: 'A MAZE. / Total Digital 2021 / Patchathon #2'
+    location: 16 - 24 July 2021, Online
+    deadlines:
+    - '23 June: Application deadline, 23:59 Berlin CET.'
+    - '25 June: Participants notified.'
+    - '16-24 July: Workshop, online/virtual.'
+    - '24 July: Live performances streamed at A MAZE.'
+    details: Visual/media artists, VR/XR artists and developers, Musicians, Composers
+      and electronic music producers, Sound designers.
+    form_action: "#"
+    points:
+    - 'VR headset: HTC Vive, Oculus Rift S, Oculus Quest'
+    - 'PC Minimum-specs: Win 10 64-bit, Intel i5-2500K, dedicated GPU (GTX970), 8GB
+      RAM, or better.'
+    - A problem solving mindset and some knowledge of digital music creation.
+    - Don’t worry - you will not need to do any coding!
+  - title: 'A MAZE. / Total Digital 2020 / Patchathon #1'
+    location: 17 - 23 July 2020, Online
+    deadlines:
+    - '11 July: Application deadline, 23:59 Berlin CET.'
+    - '13 July: Participants notified.'
+    - '17-23 July: Workshop, online on Twitch.'
+    - '25 July: Live performances streamed at A MAZE.'
+    details: Visual/media artists, VR/XR artists and developers, Musicians, Composers
+      and electronic music producers, Sound designers.
+    form_action: "#"
+    points:
+    - 'VR headset: HTC Vive, Oculus Rift S, Oculus Quest'
+    - 'PC Minimum-specs: Win 10 64-bit, Intel i5-2500K, dedicated GPU (GTX970), 8GB
+      RAM, or better.'
+    - A problem solving mindset and some knowledge of digital music creation.
+    - Don’t worry - you will not need to do any coding!
