@@ -33,7 +33,6 @@ sections:
 - type: document
   path: data/en/livepatchathon.yml
   label: Patchathon Live Stream
-  match: "**/*"
 - type: document
   path: data/en/about.yml
   label: About

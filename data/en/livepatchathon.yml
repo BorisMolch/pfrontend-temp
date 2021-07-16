@@ -3,27 +3,45 @@ intro:
   megatitle: ''
   hypertitle: PATCH & PLAY
   title: Create your own interactive sonic world, in an online, week-long playground!
-  widetext: 'A MAZE FESTIVAL & PATCH XR are thrilled to announce Patchathon #2. A
-    week-long workshop to make your own fantastic instrument in VR and perform it
-    at A MAZE. / Berlin 2021.'
+  widetext: 'A MAZE FESTIVAL & PATCH XR are thrilled to announce that Patchathon #2
+    is live and running from July16th to 24th. Follow classes and discover with the
+    participants how to make fantastic instrument and worlds in VR with Patch here
+    . Don''t miss the Final performance at the online live show at A MAZE. / Berlin
+    2021.'
   enable: true
   formlink: https://docs.google.com/forms/d/e/1FAIpQLSclGNupdrQz7q37WGlCtb5jzXghsnByTz56CC-kbPaXIeKOmw/viewform
   banner: "/uploads/pathathon-lastcall.jpg"
-  title1: LIST OF PARTICIPANTS
-  section1: "Names list here"
-  title2: WHO IS THE JURY?
-  section2: "Jury names list here"
+  title1: THE SELECTED PARTICIPANTS
+  section1: "Alexandria Rowan [Dozier] (US) \nCorey Bertelsen (US)\nDamian T. Dziwis
+    (DE)\nFrancesco Corvi [Nesso] (IT)\nGilbert Nouno [Til Berg] (CH)\nJuan Orjuela
+    (CO/DE)\nLaura Luna Castillo (MX/US)\nLouise Nornes [ Tonal Huldra ] (NO/UK)\nLouis-Louise
+    Kay [ MOWUKIS ] (FR)\nMalitzin Cortes [ CNDSD ] & Ivan Abreu (MX)\nMatias Vilaplana
+    (CL/US)\nWarja Rybakova & Irina Shutova [ Neslob ] (RS /DE)\nPatrick Hartono (ID/AU)\nPaula
+    OS (AR)\nRamiro N. Alvarez (AR)\nRobbie Lynn (US)\nTed Pallas (US)\nTomson Fauster
+    [ BitNet01 ] (IT)\nVictoria Volokitina & Valeria Kolmogorova (RU)\nVincent Cellucci
+    (NL)"
+  title2: THE JURY MEMBERS
+  section2: TBA
   title3: WHAT IS A PATCHATHON?
-  section3: "Wondering what Patch and Patchathon are about...."
-  
+  section3: PATCHATHON are hand-on hacklab to experiment and prototype cool things
+    in and around Patch. We regularly send out open calls, and select international
+    participants from various field, media artist, fashion designer, props makers,
+    audio engineers, game designer, music producers, 3D artists, poets… and brings
+    them together with our one-of-a-kind VR tool. You get connected with PatchXR team
+    so you can get the most out of your creative experience and we invite high class
+    mentors to guide you through your process. Together, we want to bring the next
+    generation of computer-generated music to life and bring technology to the service
+    of artistic exploration. IMMERSIVE, INTERACTIVE, VISUAL MUSIC in 3D space is the
+    beginning of a new genre.
   title7: GOT QUESTIONS?
   section7: |-
-    Wondering what Patch and the Patchathon are about, and whether you should apply? Looking for collaborators? Or want to chat and meet the team?
+    Wondering what Patch and the Patchathon are about, and whether you should apply to the next one? Looking for new artistic chalenges ? Or want to chat and meet the team?
 
-    Check the [Patch FAQ](https://patchxr.com/faq) and [join our Discord](https://discord.gg/s3AjXepvWR) to chat with the community and ask us anything.
+     [join our Discord](https://discord.gg/s3AjXepvWR) to chat with the community and ask us anything.
   title8: PARTNERS
-  section8: 'Patchathon #02 is proudly co-hosted with [A MAZE. / Berlin 2021](https://amaze-berlin.de),
-    the international festival of games and playful media.'
+  section8: 'Patchathon #02 is proudly co-hosted by Peter Kirn with [A MAZE. / Berlin
+    2021](https://amaze-berlin.de), the international festival of games and playful
+    media.'
 promo:
   enable: true
   video_thumb: images/faces2.jpg
