@@ -31,6 +31,10 @@ sections:
   path: data/en/patchathon.yml
   label: Patchathon
 - type: document
+  path: data/en/livepatchathon.yml
+  label: Patchathon Live Stream
+  match: "**/*"
+- type: document
   path: data/en/about.yml
   label: About
 - type: directory
@@ -58,7 +62,6 @@ sections:
 - type: document
   path: content/presskit/_index.md
   label: Presskit
-  match: "**/*"
 - type: document
   path: i18n/en.yaml
   label: i18n Strings
