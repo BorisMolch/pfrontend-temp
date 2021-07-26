@@ -1,6 +1,6 @@
 ---
 alert:
-  enable: true
+  enable: false
   type: light
   title: Open Call for Entries
   text: Check out our Patchathon page.
@@ -9,7 +9,7 @@ banner:
   enable: true
   title: patchXR
   logotype: images/patchXR-SOUNDmetaverse-grey.svg
-  content: 
+  content:
   bannertext: Available soon...
   videourl: https://www.youtube.com/embed/HsCuMkXGfrg
   gif: "1"
