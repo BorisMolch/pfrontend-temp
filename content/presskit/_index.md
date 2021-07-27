@@ -135,8 +135,8 @@ More information on PatchXR is on our [website](https://patchxr.com), our logo &
 
 ### Management
 
-**Executive Director** Eduardo Fouilloux
-**Art Director**		Melodie Mousset
+**Executive director** Eduardo Fouilloux   
+**Art director**		Melodie Mousset
 **Audio director**	 	Christian Heinrichs
 **Operation manager**	Nicholas Borkowski
 
@@ -174,7 +174,7 @@ https://www.facebook.com/patch.xr/
 
 https://www.instagram.com/patch.xr/
 
-### LinkedIn
+### Linkedin
 
 https://www.linkedin.com/company/patch-xr/
 
