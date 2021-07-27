@@ -93,9 +93,9 @@ Player testimonial
 
 | | |
 --- | --- |
-| ![](/images/press_1.jpg) | ![](/images/press_2.jpg) |
-| ![](/images/press_3.jpg) | ![](/images/press_5.jpg) |
-| ![](/images/press_2.jpg) | |
+| ![](/keyart.jpg) | ![](/keyart.jpg) |
+| ![](/uploads/keyart.jpg) | ![](/uploads/keyart.jpg) |
+| ![](/uploads/keyart.jpg) | |
 
 ***
 
