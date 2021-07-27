@@ -91,11 +91,11 @@ Player testimonial
 
 [Download Image pack](https://drive.google.com/drive/folders/1sSQT_Hk-9xOzmsTqDZR1lFi68K6cVI8i?usp=sharing)
 
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
+| | |
+--- | --- |
+| ![](/images/press_1.jpg) | ![](/images/press_2.jpg) |
+| ![](/images/press_3.jpg) | ![](/images/press_5.jpg) |
+| ![](/images/press_2.jpg) | |
 
 ***
 
@@ -103,11 +103,9 @@ Player testimonial
 
 [Download logo pack](https://drive.google.com/drive/folders/1uvMkd9QYqqFg4kJTDp_EPqsDX2EQ4Yij?usp=sharing)
 
-| Logo 1 | Logo 2 |
-| --- | --- |
-|  |  |
-| .png | .svg |
-|  |  |
+|Logo 1 |Logo 2  |
+--- | --- |
+|![](/images/Patchworld-black.png)|![](/images/Patchworld-black.png)|
 
 ***
 
