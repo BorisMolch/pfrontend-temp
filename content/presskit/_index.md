@@ -93,7 +93,7 @@ Player testimonial
 
 | | |
 --- | --- |
-| ![](/uploads/keyart.jpg) | ![](/uploads/avatar-instruments.jpg) |
+| ![](/uploads/keyart.jpg) | ![](/uploads/avatar.jpg) |
 | ![](/uploads/fish-instrument.jpg) | ![](/uploads/patchworld-fantasy.jpg) |
 | ![](/uploads/purple-1.jpg) | ![](/uploads/nudi.jpg) | |
 
