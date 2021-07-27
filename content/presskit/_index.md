@@ -94,7 +94,7 @@ Player testimonial
 | | |
 --- | --- |
 | ![](/uploads/keyart.jpg) | ![](/uploads/avatar-instruments.jpg) |
-| ![](/uploads/ep2_alpha_ingameshot-3.jpg) | ![](/uploads/patchworld-fantasy.jpg) |
+| ![](/uploads/fish-instrument.jpg) | ![](/uploads/patchworld-fantasy.jpg) |
 | ![](/uploads/purple-1.jpg) | ![](/uploads/nudi.jpg) | |
 
 ***
