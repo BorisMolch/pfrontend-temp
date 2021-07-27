@@ -93,7 +93,7 @@ Player testimonial
 
 | | |
 --- | --- |
-| ![](/keyart.jpg) | ![](/keyart.jpg) |
+| ![](/uploads/keyart.jpg) | ![](/uploads/keyart.jpg) |
 | ![](/uploads/keyart.jpg) | ![](/uploads/keyart.jpg) |
 | ![](/uploads/keyart.jpg) | |
 
