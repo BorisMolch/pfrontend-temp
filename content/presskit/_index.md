@@ -70,6 +70,9 @@ Production has begun and the release date is set for Q1 2022.
 
 ## Videos
 
+PatchWorld pre-announcement teaser  
+{{< youtube 1tYujNv98fs >}}
+
 Jam in Fluid Echoes(EP1)
 {{< youtube Z_MTSixk1Xg >}}
 
@@ -82,7 +85,7 @@ Patch in short
 Studio Vision
 {{< youtube 9KK8q1MniBU >}}
 
-Player testimonial
+Creators testimonial   
 {{< youtube dAheG6W3QAE >}}
 
 ***
@@ -91,11 +94,11 @@ Player testimonial
 
 [Download Image pack](https://drive.google.com/drive/folders/1sSQT_Hk-9xOzmsTqDZR1lFi68K6cVI8i?usp=sharing)
 
-| | |
---- | --- |
-| ![](/uploads/keyart.jpg) | ![](/uploads/avatar.jpg) |
-| ![](/uploads/fish-instrument.jpg) | ![](/uploads/ep2_alpha_ingameshot-3.jpg) |
-| ![](/uploads/purple-1.jpg) | ![](/uploads/nudi.jpg) | | ![](/uploads/ep1-ingame.jpg) | | ![](/uploads/nudi1.jpg) | |
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
 
 ***
 
@@ -103,9 +106,9 @@ Player testimonial
 
 [Download logo pack](https://drive.google.com/drive/folders/1uvMkd9QYqqFg4kJTDp_EPqsDX2EQ4Yij?usp=sharing)
 
-|Logo 1 |Logo 2  |
---- | --- |
-|![](/images/Patchworld-black.png)|![](/images/Patchworld-black.png)|
+| Logo 1 | Logo 2 |
+| --- | --- |
+|  |  |
 
 ***
 
@@ -133,7 +136,7 @@ More information on PatchXR is on our [website](https://patchxr.com), our logo &
 
 ### Management
 
-**Executive director** Eduardo Fouilloux   
+**Executive director** Eduardo Fouilloux  
 **Art director**		Melodie Mousset
 **Audio director**	 	Christian Heinrichs
 **Operation manager**	Nicholas Borkowski
