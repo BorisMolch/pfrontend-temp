@@ -106,7 +106,7 @@ Creators testimonial
 
 [Download logo pack](https://drive.google.com/drive/folders/1uvMkd9QYqqFg4kJTDp_EPqsDX2EQ4Yij?usp=sharing)
 
-| Logo 1 | Logo 2 |
+| Logo 1 |
 | --- | --- |
 |  |  |
 
