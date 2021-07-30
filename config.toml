@@ -4,34 +4,43 @@ paginate = "6"
 summaryLength = "10"
 theme = "patchxr-hugo"
 title = "PatchXR - Sound of the Metaverse"
+# [taxonomies]
+#   author = "authors"
+#   creator = "creators"
+#   tag = "tags"
+#   category = "categories"
 [markup.goldmark.renderer]
-hardWraps = true
+  hardWraps = true
 [Languages.en]
-contentDir = "content/"
-home = "Home"
-languageCode = "en-us"
-languageName = "En"
-weight = 1
+  contentDir = "content/"
+  home = "Home"
+  languageCode = "en-us"
+  languageName = "En"
+  weight = 1
 [[menu.footer]]
-URL = "privacy-policy"
-name = "Privacy"
-weight = 4
+  URL = "privacy-policy"
+  name = "Privacy"
+  weight = 4
 [[menu.footer]]
-URL = "blog"
-name = "Blog"
-weight = 3
+  URL = "blog"
+  name = "Blog"
+  weight = 3
 [[menu.footer]]
-URL = "info"
-name = "Info"
-weight = 1
+  URL = "info"
+  name = "Info"
+  weight = 1
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 5
 [[menu.footer]]
+URL = "presskit"
+name = "Presskit"
+weight = 6
+[[menu.footer]]
 URL = "faq"
 name = "FAQ"
-weight = 6
+weight = 7
 [[menu.main]]
 URL = "patchathon"
 name = "patchathon"
