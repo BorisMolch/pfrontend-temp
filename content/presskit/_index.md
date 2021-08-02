@@ -7,7 +7,7 @@ description: Presskit Description
 
 ![](/uploads/keyart-small.jpg)
 
-# PatchWorld
+# PatchWorld : Patch, Play,  Share
 
 ## Where musical instruments become fantastic worlds.
 
@@ -40,7 +40,7 @@ melo@patchxr.com
 
 ## Synopsis
 
-PatchWorld makes you a sonic traveler in the metaverse of interactive music and sound, in environments transformed and expanded together by its players. Journeying in VR through this sensory audiovisual playground, you can explore, play, customize, build and share -- fully immersed in music and fantasy.
+PatchWorld makes you a sonic traveler in the metaverse of interactive music and sound, in environments transformed and expanded together by its players. Journeying in VR through this sensory audiovisual playground, you can play, build and share -- fully immersed in music and fantasy.
 
 ## An unprecedented toolset
 
@@ -85,7 +85,7 @@ Patch in short
 Studio Vision
 {{< youtube 9KK8q1MniBU >}}
 
-Creators testimonial   
+Creators testimonial  
 {{< youtube dAheG6W3QAE >}}
 
 ***
@@ -96,11 +96,10 @@ Creators testimonial
 
 |  |  |
 | --- | --- |
-| ![](/uploads/keyart.jpg) | ![](/uploads/avatar.jpg) |
-| ![](/uploads/fish-instrument.jpg) | ![](/uploads/ep2_alpha_ingameshot-3.jpg) |
-| ![](/uploads/purple-1.jpg) | ![](/uploads/nudi.jpg) |
-| ![](/uploads/ep1-ingame.jpg) | ![](/uploads/nudi1.jpg) |
-
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 ***
 
@@ -109,8 +108,8 @@ Creators testimonial
 [Download logo pack](https://drive.google.com/drive/folders/1uvMkd9QYqqFg4kJTDp_EPqsDX2EQ4Yij?usp=sharing)
 
 | Logo 1 |
-| --- | --- |
-|![](/images/Patchworld-black.png)|![](/images/Patchworld-black.png)|
+| --- |
+|  |
 
 ***
 
