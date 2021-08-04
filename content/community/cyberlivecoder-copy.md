@@ -1,16 +1,15 @@
 +++
-author = "CNDSD"
-bio = "CNDSD is a musician and programmer, her work is developed between live coding, VR, Generative art, experimental music and sound art. She has performed at the Medialab Prado, Vorspiel, Spektrum Berlin,Transpiksel, ISEA, CYLAND MediaArtLab, MUTEK Montreal and San Francisco. CNDSD's sound proposal is conceived in an experimental environment through styles such as noise, ambient, data, drone, glitch, breakcore generating cross-border musical exercises: granular landscapes, and hypnotic noise improvisations."
-date = 2019-01-10T06:35:54Z
-description = "A humanoid machine, it is offering a concert of live coding and 3D oscillators in a city where only wild animals can hear it, perhaps other cyborgs will join in listening."
-draft = true
-image = "/uploads/cyberlivecoder.jpg"
+author = "Vincent Cellucci"
+bio = "Vincent Cellucci is a writer, educator, and digital media enthusiast searching for synergies of the three at the TU Delft Library. He performed Diamonds in Dystopia--an interactive poetry web app--internationally and at SXSW Interactive in 2017. The poem was anthologized in Best American Experimental Writing 2018 and it’s also contained in his most recent book: Absence Like Sun."
+date = 2020-07-24T05:35:54Z
+description = "Using Patch to begin realizing an interactive form for presenting an Event Map poem-documentary with 360 video, field recordings, and audio sample performance tool."
+image = "/uploads/washington.jpg"
 item = "patch"
-link1 = "https://www.instagram.com/cndsd/?hl=en"
-link2 = "https://soundcloud.com/cndsd"
-location = "Mexico"
-title = "Cyberlivecoder-(copy)"
-twitter = "https://twitter.com/cndsd_?lang=en"
-video = "gY8UGyWWDLo"
+link1 = ""
+link2 = "http://www.vincentacellucci.com"
+location = "Delft "
+title = "2 Washington Sq : A pre-covid ode"
+twitter = "https://twitter.com/theexceptionali"
+video = "VOjxpO090Hc"
 
 +++
