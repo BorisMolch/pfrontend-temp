@@ -1,17 +1,16 @@
 +++
-author = "Corey Bertelsen"
-bio = "Corey Bertelsen is an audio designer, game developer, and educator based in Brooklyn, NY.  His work has appeared at festivals such as the Independent Games Festival, the Experimental Gameplay Workshop, and Indiecade."
+author = "Til Berg"
+bio = "Til Berg is a multidisciplinary artist who lives and works in Basel and Paris. He explores synesthetic relationships between particular fields, focusing on how analogue and digital technologies interfere with our vision and thinking about the artistic medium. Til Berg draws minimalist abstract forms and movements from music and sound with digital and traditional means. Most of all, he's curious. Just like you."
 date = 2021-08-23T22:00:00Z
-description = "The artist aim was to make a serene sound installation space, without getting too bogged down in a complex signal flow. At the same time, I has been toying with making StyleGAN videos, doing a kind of AI scrapbooking from train rides and everyday scenes. He felt like these melty videos had a home in this little cave, accompanied by field recordings, vibraphone samples, and the occasional plinks of synthetic wires and pans."
-draft = true
+description = "Sound Clouds is a poetic space where speakers are moving and playing - a dream of mine in real life ! - controlled by the avatar, both to watch and to listen to, with a few samples triggered by a generative rhythm. I wanted to question on different levels the spatialization of sound and \"real\" movements in a VR environment, which is here an interesting issue and one that I will certainly explore more and more."
 event = "Patchathon #1"
-image = "/uploads/little-island.jpg"
+image = "/uploads/soundclouds.jpg"
 item = "patch"
-link1 = "https://www.8ude.com/"
+link1 = ""
 link2 = ""
-location = "New York"
+location = "Basel/Berlin"
 title = "Sound Clouds"
-twitter = "@super8ude"
-video = "ETslMj485sg"
+twitter = ""
+video = "WdTl5uuWaso"
 
 +++
