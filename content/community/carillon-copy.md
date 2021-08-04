@@ -1,17 +1,16 @@
 +++
-author = "Commonolithic and Chris Wratt"
-bio = "Commonolithic is an artist based in Montreal. He uses 3D scanning to explore the imaginative dimension of materiality; using virtual reality to offer embodied encounters of fabrication calling upon our imaginative capacity & how this is shaped by the material world we inhabit IRL/URL   instagram.com/commonolithic  Chris Wratt is a Berlin-based audio programmer, sound artist, and game developer from Te-Whanganui-a-Tara, Aotearoa. In their time working in audio they have, among other things, toured with a gameboy punk band, performed in a mechatronic sloth orchestra, made an ep from fridge hum sounds, and unsuccessfully circuit bent every keyboard they've ever owned. Chris currently performs music solo as the Chiptune/Gabba/Noise act Hex-Ex"
-date = 2020-10-10T06:35:54Z
-description = "Carillon is produced by two artists who's sheer love of the instrument, the carillon, has brought this project into existence. The work uses a 3d scan of a cast bronze bell complete with photographic textures accurate to its real world surface. Our carillon is tuned to just intonation and we physically model foundry bells in order to create the sound."
-draft = true
+author = "Corey Bertelsen"
+bio = "Corey Bertelsen is an audio designer, game developer, and educator based in Brooklyn, NY.  His work has appeared at festivals such as the Independent Games Festival, the Experimental Gameplay Workshop, and Indiecade."
+date = 2021-08-23T22:00:00Z
+description = "The artist aim was to make a serene sound installation space, without getting too bogged down in a complex signal flow. At the same time, I has been toying with making StyleGAN videos, doing a kind of AI scrapbooking from train rides and everyday scenes. He felt like these melty videos had a home in this little cave, accompanied by field recordings, vibraphone samples, and the occasional plinks of synthetic wires and pans."
 event = "Patchathon #1"
-image = "/uploads/carillon.jpg"
+image = "/uploads/little-island.jpg"
 item = "patch"
-link1 = "instagram.com/commonolithic"
-link2 = "soundcloud.com/hex_ed)"
-location = "Berlin / Quebec"
-title = "Carillon-(copy)"
-twitter = ""
-video = "c_FKC2pUZ-8"
+link1 = "https://www.8ude.com/"
+link2 = ""
+location = "New York"
+title = "Little island"
+twitter = "@super8ude"
+video = "ETslMj485sg"
 
 +++
