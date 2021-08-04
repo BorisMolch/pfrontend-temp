@@ -1,17 +1,16 @@
 +++
-author = "Corey Bertelsen"
-bio = "Corey Bertelsen is an audio designer, game developer, and educator based in Brooklyn, NY.  His work has appeared at festivals such as the Independent Games Festival, the Experimental Gameplay Workshop, and Indiecade."
+author = "Mowukis"
+bio = "MOWUKIS aka Louis-Louise Kay  is a french singer song writer and composer.."
 date = 2021-08-23T22:00:00Z
-description = "The artist aim was to make a serene sound installation space, without getting too bogged down in a complex signal flow. At the same time, I has been toying with making StyleGAN videos, doing a kind of AI scrapbooking from train rides and everyday scenes. He felt like these melty videos had a home in this little cave, accompanied by field recordings, vibraphone samples, and the occasional plinks of synthetic wires and pans."
-draft = true
+description = "This experimentation is meant as an exploration of scale and intimacy. Although the video does convey the visual and sonic elements of the attempt, it doesn't quite capture the disturbing nature of seeing confusingly delicate sounds like noisy notes of flutes and very light pianos spinning organic planetoid sized shapes around and above you physically. The song itself is voluntarily slow paced, it leaves a lot of empty space to keep the experience imbalanced and fragile."
 event = "Patchathon #1"
-image = "/uploads/little-island.jpg"
+image = "/uploads/where-when-how.jpg"
 item = "patch"
-link1 = "https://www.8ude.com/"
+link1 = "https://mowukis.bandcamp.com"
 link2 = ""
-location = "New York"
+location = "Montpellier"
 title = "Where, When, How"
-twitter = "@super8ude"
-video = "ETslMj485sg"
+twitter = "https://twitter.com/MOWUKIS"
+video = "lIrtAMASNGE"
 
 +++
