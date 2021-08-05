@@ -22,6 +22,26 @@ The results covered the full gamut of imaginative possibility. You'll see reinte
 
 Artists exploited everything in their training and background, collaborating with one another and our development team. Singers found ways of integrating vocals. Musicians looked for live performance interactions, practicing in their headsets. Visual artists worked on workflows for importing 3D assets and working across media with music and sound.
 
+### The works
+
+The results are stunning even after just one week - and we expect even more in the future. Some selections:
+
+**_Where, When, How_ by MOWUKIS + Ted Pallas**
+
+![](/uploads/where-when-how-win.jpg)
+
+{{< youtube K-_EO9-D5EA >}}
+
+**Parallel Metaverses by LauraLuCas + Nesso + Ivan Abreu + CNDSD**
+
+![](/uploads/parralele-metaverse-win.jpg)
+
+{{< youtube QqzcGTwlr3g >}} 
+
+You can check out all the participants' creations - along with last year's Patchathon productions - on our community page:
+
+[https://patchxr.com/community/](https://patchxr.com/community/ "https://patchxr.com/community/")
+
 ### Hands-on with the developers
 
 Patchathons are a chance to push the development and documentation teams, too. Each day's check-in on Discord invariably involved chatter between developers and artists, pushing new builds and deploying fixes and features, adding docs. And our team worked on new video tutorials, which we've shared online so you can explore, too. It's a rare chance to get a walkthrough directly from the folks who conceived and coded a lot of what you see shown.
@@ -43,10 +63,6 @@ Check all the [current tutorials on our YouTube channel](https://www.youtube.com
 The big night was Saturday, as we all joined live on Zoom to present the participants' work, show off to the public, and celebrate - with host Peter in front of a green screen in Berlin with the A MAZE. visual team, Melodie and Edo looking on, with everyone else connected online. The full presentation is available from A MAZE., at the end of day four:
 
 {{< youtube pSCgRWXNjtk?t=32555>}}
-
-You can check out all the participants' creations - along with last year's Patchathon productions - on our community page:
-
-[https://patchxr.com/community/](https://patchxr.com/community/ "https://patchxr.com/community/")
 
 Participants (nearly all of whom showed final works):
 
