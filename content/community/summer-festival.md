@@ -1,7 +1,7 @@
 ---
 item: patch
 title: Summer Festival
-date: 2019-02-28T12:35:54.000+06:00
+date: 2021-08-03T05:35:54+00:00
 image: images/uploads/summer-festival.jpg
 video: TDFkuwj-R10
 author: Ferran Bertomeu Castells & YenTing Lo
