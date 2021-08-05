@@ -1,6 +1,6 @@
 ---
 title: Holofrenia
-date: 2019-01-28T12:35:54.000+06:00
+date: 2019-01-28T06:35:54+00:00
 image: "/uploads/holofrenia-win.jpg"
 video: dwXqqi5O-1Q
 author: Julian Bonequi
