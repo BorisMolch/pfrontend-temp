@@ -67,7 +67,7 @@ feature:
       avater: images/testimonial/feature-testimonial-thumb.jpg
       comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua.
-  - title: Build sound
+  - title: Build Sound
     image: "/uploads/newfish.gif"
     image_webp: images/feature/feature-new-02.webp
     content: 'Become an architect of the PatchWorld metaverse : Get down on the circuits
