@@ -6,7 +6,7 @@ date = 2021-08-04T22:00:00Z
 description = "Across eight time zones, artists from poets to singers to visual artists and technologists created a dizzying array of new worlds in Patch in July."
 image = "/uploads/patchathon-still.jpg"
 title = "Watch as Patchathon participants push the envelope of what Patch can be"
-type = ""
+type = "post"
 
 +++
 It's our second-ever Patchathon - returning to the virtual/hybrid A MAZE. Berlin "international games and playful media festival." And we're all still basking in the glow of the results. An incredible gathering of international artists got to learn new skills and explore ideas with one another and expand our image of what Patch can do.
