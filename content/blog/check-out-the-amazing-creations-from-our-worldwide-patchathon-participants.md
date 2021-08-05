@@ -90,3 +90,12 @@ Ted Pallas (US)
 Tomson Fauster \[BitNet01\] (IT)  
 Victoria Volokitina & Valeria Kolmogorova (RU)  
 Vincent Cellucci (NL)
+
+And our expert jury:
+
+Muki Kulhan (SXSW, MTV, BBC), Jury president  
+Marie-Laure Saidani (Music curator, MUTEK)  
+Joshua Hodge (Founder, theaudioprogrammer.com)  
+Fabien Siouffi (Founder, Fabbula)  
+Yannick Hofmann (Head of Hertz-Lab, ZKM)  
+Michael Connor, (Art director, Rhizome)
