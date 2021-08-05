@@ -3,17 +3,15 @@ label: Patch post
 hide_body: true
 fields:
 - type: text
-  name: type
-  label: type
-- type: text
-  name: item
-  label: item
-- type: text
   name: title
   label: title
 - type: datetime
   name: date
   label: date
+- name: featured_patch
+  type: boolean
+  label: Featured Patch
+  description: Turn this on to display patch on the front-page
 - type: file
   name: image
   label: image
