@@ -92,7 +92,7 @@ Creators testimonial
 
 ## Images
 
-[Download Image pack](https://drive.google.com/drive/folders/1sSQT_Hk-9xOzmsTqDZR1lFi68K6cVI8i?usp=sharing).
+[Download Image pack](https://drive.google.com/drive/folders/1sSQT_Hk-9xOzmsTqDZR1lFi68K6cVI8i?usp=sharing)
 
 | | |
 --- | --- |
@@ -104,9 +104,9 @@ Creators testimonial
 
 ## Logo & Icon
 
-[Download logo pack](https://drive.google.com/drive/folders/1uvMkd9QYqqFg4kJTDp_EPqsDX2EQ4Yij?usp=sharing).
+[Download logo pack](https://drive.google.com/drive/folders/1uvMkd9QYqqFg4kJTDp_EPqsDX2EQ4Yij?usp=sharing)
 
-|Logo 1 |  |
+|Logo  |  |
 --- | --- |
 |![](/images/Patchworld-black.png)||
 
