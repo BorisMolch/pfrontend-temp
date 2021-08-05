@@ -1,14 +1,14 @@
-############################ our story ##############################
+---
 intro:
   enable: true
-  title : "Check out what the community is making"
-  description : "PatchXR teamed up with artists, sound engineers, producers, builders and other creators for a 6 days online Patchathon. To get inspired, check out their work and discover what’s possible to make in Patchworld in only a few days."
+  title: Check out what the community is making
+  description: 'Our tools to produce visual music in the metaverse is still in beta,
+    but our growing community of artists, makers, sound engineers, producers, builders
+    is already making super cool stuff. '
   image_slider:
-    - image : "images/automata.jpg"
-      image_webp : "images/about/slider-1.webp"
-
-    - image : "images/automata.jpg"
-      image_webp : "images/about/slider-2.webp"
-
-    - image : "images/automata.jpg"
-      image_webp : "images/about/slider-3.webp"
+  - image: images/automata.jpg
+    image_webp: images/about/slider-1.webp
+  - image: images/automata.jpg
+    image_webp: images/about/slider-2.webp
+  - image: images/automata.jpg
+    image_webp: images/about/slider-3.webp
