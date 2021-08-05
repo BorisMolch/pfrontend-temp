@@ -9,7 +9,7 @@ item = "patch"
 link1 = "https://www.8ude.com/"
 link2 = ""
 location = "New York"
-title = "Little island"
+title = "Little Island"
 twitter = "@super8ude"
 video = "ETslMj485sg"
 
