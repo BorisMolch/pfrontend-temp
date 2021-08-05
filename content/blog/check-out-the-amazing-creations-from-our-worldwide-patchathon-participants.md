@@ -37,3 +37,26 @@ Check all the tutorials on the channel.
 The big night was Saturday, as we all joined live on Zoom to present the participants' work, show off to the public, and celebrate - with host Peter in front of a green screen in Berlin with the A MAZE. visual team, Melodie and Edo looking on, with everyone else connected online. The full presentation is available from A MAZE.:
 
 Here are all the individual participant videos for your enjoyment:
+
+Participants (nearly all of whom showed final works):
+
+Alexandria Rowan (US)  
+Corey Bertelsen (US)  
+Damian T. Dziwis (DE)  
+Francesco Corvi \[Nesso\] (IT)  
+Gilbert Nouno \[Til Berg\] (CH)  
+Juan Orjuela (DE)  
+Laura Luna Castillo (US)  
+Louise Nornes \[Tonal Huldra\] (UK)  
+Louis-Louise Kay \[Mowukis\] (FR)  
+Malitzin Cortes & Ivan Abreu (MX)  
+Matias Vilaplana (US)  
+Warja Rybakova & Irina Shutova \[Neslob\] (DE)  
+Patrick Hartono (AU)  
+Paula OS (AR)  
+Ramiro N. Alvarez (AR)  
+Robbie Lynn (US)  
+Ted Pallas (US)  
+Tomson Fauster \[BitNet01\] (IT)  
+Victoria Volokitina & Valeria Kolmogorova (RU)  
+Vincent Cellucci (NL)
