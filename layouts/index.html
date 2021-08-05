@@ -271,9 +271,15 @@
       </div>
     </div>
     <div class="row">
-      {{ range last 3 ( where .Site.Pages "Type" "community"  ) }}
+      {{ range ( where .Site.Pages "Type" "community"  ) }} 
+	  {{ if isset .Params "featured_patch" }}
+		
       {{ .Render "patch"}}
-      {{ end }}
+	  
+	  {{ end }}
+	  {{ end }}
+	  
+     
     </div>
   </div>
 </section>

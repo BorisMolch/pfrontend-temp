@@ -12,5 +12,6 @@ location = "Cologne / Edgewater"
 title = "A.BLOK"
 twitter = ""
 video = "PF9A-viIQyg"
+featured_patch = true
 
 +++
