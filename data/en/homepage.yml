@@ -83,13 +83,14 @@ feature:
       avater: images/testimonial/feature-testimonial-thumb.jpg
       comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua.
-  - title: Share without borders
+  - title: Share in the metaverse and beyond
     image: "/uploads/avatar-web-1.jpg"
     quote: ''
-    content: Create amazing music video in no-time thanks to our intuitive recording
-      suite. Share your worlds and sound patches, perform live or in VR and broadcast
-      your performance to your web channel and invite your fans and friends to step
-      inside your worlds.
+    content: 'Publish your creations and invite your fans and friends to step inside
+      your worlds. Jam, make a virtual band, throw a party. Broadcast, record, remix
+      and share your performances in the metaverse and on social media.
+
+'
 promo_video:
   enable: false
   title: Where musical instruments become fantastic worlds
