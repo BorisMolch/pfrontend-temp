@@ -35,7 +35,7 @@ The results are stunning even after just one week - and we expect even more in t
 
 ![](/uploads/parralele-metaverse-win.jpg)
 
-{{< youtube QqzcGTwlr3g >}} 
+{{< youtube QqzcGTwlr3g >}}
 
 **_Digital Garden_ by Alexandria Rowan + Matias Villaplanas**
 
@@ -63,9 +63,7 @@ Check all the [current tutorials on our YouTube channel](https://www.youtube.com
 
 ### The big dance
 
-The big night was Saturday, as we all joined live on Zoom to present the participants' work, show off to the public, and celebrate - with host Peter in front of a green screen in Berlin with the A MAZE. visual team, Melodie and Edo looking on, with everyone else connected online. The full presentation is available from A MAZE., at the end of day four:
-
-{{< youtube pSCgRWXNjtk?t=32555>}}
+The big night was Saturday, as we all joined live on Zoom to present the participants' work, show off to the public, and celebrate - with host Peter in front of a green screen in Berlin with the A MAZE. visual team, Melodie and Edo looking on, with everyone else connected online. The full presentation is available from A MAZE., at the end of day four ([cued up to the start for you](https://www.youtube.com/watch?v=pSCgRWXNjtk?t=32555)).
 
 Participants (nearly all of whom showed final works):
 
