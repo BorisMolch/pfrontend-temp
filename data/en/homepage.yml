@@ -70,11 +70,13 @@ feature:
   - title: Build sound
     image: "/uploads/newfish.gif"
     image_webp: images/feature/feature-new-02.webp
-    content: Transform noise into music in no time and explore the wonders of sound
-      synthesis in VR, where you can feel, see and interact with sound in 3D space.
-      Crafted for first timer to the experimented patchers in Max MSP or Pure Data,
-      our VR tool let you create without physical limitation. Assemble Patch’s sonic
-      modules and interactive powerblocks to shape unique sounds and worlds.
+    content: 'Become an architect of the PatchWorld metaverse : Get down on the circuits
+      level, and build your own instruments and worlds from the wire-up. Discover
+      and learn all about the wonders of sound synthesis in VR, where you can feel,
+      see and interact with sound in 3D space. Crafted for first timer to the experimented
+      patchers in Max MSP or Pure Data, our native VR tool let you create without
+      physical limitation. Assemble Patch’s sonic modules and interactive powerblocks
+      to shape unique sounds and world.'
     quote:
       enable: false
       name: Jonathon Andrew , 1xN.org
