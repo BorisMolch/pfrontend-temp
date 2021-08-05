@@ -10,13 +10,13 @@ title = "Watch as Patchathon participants push the envelope of what Patch can be
 type = ""
 
 +++
-It's our second-ever Patchathon - returning to the virtual/hybrid A MAZE. Berlin "international games and playful media festival." And we're all still basking in the glow of the results. An incredible gathering of international artists got to learn new skills and explore ideas with one another but also expanded our image of what Patch can do.
+It's our second-ever Patchathon - returning to the virtual/hybrid A MAZE. Berlin "international games and playful media festival." And we're all still basking in the glow of the results. An incredible gathering of international artists got to learn new skills and explore ideas with one another and expanded our image of what Patch can do.
 
 In a period of just a few days, these artists discovered Patch - some of them donning VR headsets for the first time in their lives - and built fantastic new instruments and environments. By the end of the week, their mission was to build their own tools for a live performance, and capture roughly three minutes of themselves playing live to share with the A MAZE. festival audience.
 
 The results covered the full gamut of imaginative possibility. You'll see reinterpretations of Russian poetry, evocative futuristic alien audiovisual etudes, ambient landscapes echoing with vocal performances, trippy bassline generators, four-player integrated ensembles with live coding interwoven with VR, and field-recorded videos and ephemera and 360-degree perspectives melded into the virtual. Just watch:
 
-foJYu1vQOEo
+{{< youtube foJYu1vQOEo >}}
 
 Artists exploited everything in their training and background, collaborating with one another and our development team. Singers found ways of integrating vocals. Musicians looked for live performance interactions, practicing in their headsets. Visual artists worked on workflows for importing 3D assets and working across media with music and sound.
 
@@ -26,17 +26,21 @@ Those are all on our YouTube channel, but here are some highlights.
 
 The development team worked with participants on all elements of getting started, producing sound, and making elaborate custom visuals. A good glimpse into all of that is this tutorial on effects - like having a VR-native effect pedalboard:
 
-c1ml94b1W1k
+{{< youtube c1ml94b1W1k >}}
 
 For all Patch can do, there's really no comparing with the power of Duckie and interactive, uh, squeaking. Now you definitely see the potential of subpatches:
 
-uCbSO04IwO4
+{{< youtube uCbSO04IwO4>}}
 
-Check all the tutorials on the channel.
+Check all the [current tutorials on our YouTube channel](https://www.youtube.com/playlist?list=PLZ3huGd9vL1KM3Xjg-KeFzlrKOXFMlbxk).
 
-The big night was Saturday, as we all joined live on Zoom to present the participants' work, show off to the public, and celebrate - with host Peter in front of a green screen in Berlin with the A MAZE. visual team, Melodie and Edo looking on, with everyone else connected online. The full presentation is available from A MAZE.:
+The big night was Saturday, as we all joined live on Zoom to present the participants' work, show off to the public, and celebrate - with host Peter in front of a green screen in Berlin with the A MAZE. visual team, Melodie and Edo looking on, with everyone else connected online. The full presentation is available from A MAZE., at the end of day four:
 
-Here are all the individual participant videos for your enjoyment:
+{{< youtube pSCgRWXNjtk?t=32555>}}
+
+You can check out all the participants' creations - along with last year's Patchathon productions - on our community page:
+
+[https://patchxr.com/community/](https://patchxr.com/community/ "https://patchxr.com/community/")
 
 Participants (nearly all of whom showed final works):
 
