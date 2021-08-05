@@ -92,24 +92,24 @@ Creators testimonial
 
 ## Images
 
-[Download Image pack](https://drive.google.com/drive/folders/1sSQT_Hk-9xOzmsTqDZR1lFi68K6cVI8i?usp=sharing)
+[Download Image pack](https://drive.google.com/drive/folders/1sSQT_Hk-9xOzmsTqDZR1lFi68K6cVI8i?usp=sharing).
 
 |  |  |
 | --- | --- |
-| ![](/uploads/keyart.jpg) | ![](/uploads/avatar.jpg) |
-| ![](/uploads/fish-instrument.jpg) | ![](/uploads/ep2_alpha_ingameshot-3.jpg) |
-| ![](/uploads/purple-1.jpg) | ![](/uploads/nudi.jpg) |
-| ![](/uploads/ep1-ingame.jpg) | ![](/uploads/nudi1.jpg) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 ***
 
 ## Logo & Icon
 
-[Download logo pack](https://drive.google.com/drive/folders/1uvMkd9QYqqFg4kJTDp_EPqsDX2EQ4Yij?usp=sharing)
+[Download logo pack](https://drive.google.com/drive/folders/1uvMkd9QYqqFg4kJTDp_EPqsDX2EQ4Yij?usp=sharing).
 
-|Logo 1 | |
---- | --- |
-|![](/images/Patchworld-black.png)|![](/images/Patchworld-black.png)|
+| Logo 1 |  |
+| --- | --- |
+|  |  |
 
 ***
 
