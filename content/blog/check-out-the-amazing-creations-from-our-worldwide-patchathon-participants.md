@@ -29,13 +29,16 @@ The results are stunning even after just one week - and we expect even more in t
 
 {{< youtube K-_EO9-D5EA >}}
 
+
 **_Parallel Metaverses_ by LauraLuCas + Nesso + Ivan Abreu + CNDSD**
 
 {{< youtube QqzcGTwlr3g >}}
 
+
 **_Digital Garden_ by Alexandria Rowan + Matias Villaplanas**
 
 {{< youtube vzUCjptwzaw >}}
+
 
 You can check out all the participants' creations - along with last year's Patchathon productions - on our community page:
 
