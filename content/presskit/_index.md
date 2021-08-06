@@ -73,17 +73,17 @@ Production has begun and the release date is set for Q1 2022.
 PatchWorld pre-announcement teaser  
 {{< youtube 0aZWFCNQF4c >}}
 
+PatchXR in short
+{{< youtube HsCuMkXGfrg >}}
+
+Listen to our creator community  
+{{< youtube dAheG6W3QAE >}}
+
 Jam in Bouncy Beat (Ep2)
 {{< youtube BbuOObvi5dk >}}
 
-Patch in short
-{{< youtube HsCuMkXGfrg >}}
-
 Studio Vision
 {{< youtube 9KK8q1MniBU >}}
-
-Listen to our community  
-{{< youtube dAheG6W3QAE >}}
 
 ***
 
@@ -95,7 +95,7 @@ Listen to our community
 --- | --- |
 | ![](/uploads/keyart.jpg) | ![](/uploads/avatar.jpg) |
 | ![](/uploads/fish-instrument.jpg) | ![](/uploads/ep2_alpha_ingameshot-3.jpg) |
-| ![](/uploads/purple-1.jpg) | ![](/uploads/nudi.jpg) | | ![](/uploads/ep1-ingame.jpg) | | ![](/uploads/nudi1.jpg) | |
+| ![](/uploads/purple-1.jpg) | ![](/uploads/ep1-ingame.jpg) | | ![](/uploads/nudi1.jpg) | |
 
 ***
 
