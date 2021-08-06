@@ -9,8 +9,7 @@ sections:
   label: Homepage
 - type: document
   path: data/en/blog.yml
-  label: Blog Settings
-  match: "**/*"
+  label: Blog settings
 - type: directory
   path: content/community
   label: Community
