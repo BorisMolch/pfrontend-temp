@@ -95,7 +95,7 @@ Studio Vision
 --- | --- |
 | ![](/uploads/keyart.jpg) | ![](/uploads/avatar.jpg) |
 | ![](/uploads/fish-instrument.jpg) | ![](/uploads/ep2_alpha_ingameshot-3.jpg) |
-| ![](/uploads/purple-1.jpg) | ![](/uploads/nudi.jpg) | | ![](/uploads/ep1-ingame.jpg) | | ![](/uploads/nudi1.jpg) | |
+| ![](/uploads/purple-1.jpg) | ![](/uploads/ep1-ingame.jpg) | | ![](/uploads/nudi1.jpg) | |
 
 ***
 
