@@ -9,7 +9,7 @@ location: Berlin / Quebec
 link1: instagram.com/commonolithic
 link2: soundcloud.com/hex_ed)
 twitter: ''
-event: "Patchathon #1"
+event: 'Patchathon #1'
 description: Carillon is produced by two artists who's sheer love of the instrument,
   the carillon, has brought this project into existence. The work uses a 3d scan of
   a cast bronze bell complete with photographic textures accurate to its real world
@@ -24,5 +24,6 @@ bio: Commonolithic is an artist based in Montreal. He uses 3D scanning to explor
   a gameboy punk band, performed in a mechatronic sloth orchestra, made an ep from
   fridge hum sounds, and unsuccessfully circuit bent every keyboard they've ever owned.
   Chris currently performs music solo as the Chiptune/Gabba/Noise act Hex-Ex
-featured_patch : true
+featured_patch: false
+
 ---
