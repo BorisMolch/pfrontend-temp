@@ -27,13 +27,13 @@ The results are stunning even after just one week - and we expect even more in t
 
 **_Where, When, How_ by MOWUKIS + Ted Pallas**
 
-![](/uploads/where-when-how-win.jpg)
+![](/uploads/where-when-how-winner.jpg)
 
 {{< youtube K-_EO9-D5EA >}}
 
 **_Parallel Metaverses_ by LauraLuCas + Nesso + Ivan Abreu + CNDSD**
 
-![](/uploads/parralele-metaverse-win.jpg)
+![](/uploads/parralele-metaverse-winner.jpg)
 
 {{< youtube QqzcGTwlr3g >}}
 
