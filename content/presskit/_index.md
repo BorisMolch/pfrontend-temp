@@ -73,9 +73,6 @@ Production has begun and the release date is set for Q1 2022.
 PatchWorld pre-announcement teaser  
 {{< youtube 0aZWFCNQF4c >}}
 
-Jam in Fluid Echoes(EP1)
-{{< youtube Z_MTSixk1Xg >}}
-
 Jam in Bouncy Beat (Ep2)
 {{< youtube BbuOObvi5dk >}}
 
@@ -85,7 +82,7 @@ Patch in short
 Studio Vision
 {{< youtube 9KK8q1MniBU >}}
 
-Creators testimonial  
+Listen to our community  
 {{< youtube dAheG6W3QAE >}}
 
 ***
