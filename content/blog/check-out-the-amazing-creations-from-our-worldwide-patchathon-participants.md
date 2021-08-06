@@ -26,19 +26,16 @@ Artists exploited everything in their training and background, collaborating wit
 The results are stunning even after just one week - and we expect even more in the future. Some selections:
 
 **_Where, When, How_ by MOWUKIS + Ted Pallas**
-
 {{< youtube K-_EO9-D5EA >}}
 
 ###
 
 **_Parallel Metaverses_ by LauraLuCas + Nesso + Ivan Abreu + CNDSD**
-
 {{< youtube QqzcGTwlr3g >}}
 
 ###
 
 **_Digital Garden_ by Alexandria Rowan + Matias Villaplanas**
-
 {{< youtube vzUCjptwzaw >}}
 
 
