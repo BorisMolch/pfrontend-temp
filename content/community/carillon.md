@@ -24,6 +24,6 @@ bio: Commonolithic is an artist based in Montreal. He uses 3D scanning to explor
   a gameboy punk band, performed in a mechatronic sloth orchestra, made an ep from
   fridge hum sounds, and unsuccessfully circuit bent every keyboard they've ever owned.
   Chris currently performs music solo as the Chiptune/Gabba/Noise act Hex-Ex
-featured_patch: false
+
 
 ---

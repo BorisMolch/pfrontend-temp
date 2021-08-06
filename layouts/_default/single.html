@@ -9,7 +9,7 @@
         <h2>News</h2>
       
         <h1 class="newstitle mt-5 mb-3">{{ .Title }}</h1>
-        <p class="text-white  border-top" style="font-size:0.9em; padding-top: 5px;">By PatchXR | {{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} of {{ .Date.Format "January 2006" }}
+        <p class="text-pink  border-top" style="font-size:0.9em; padding-top: 5px;">By PatchXR | {{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} of {{ .Date.Format "January 2006" }}
         </p>
         <h2 class="text-white " style="padding-top: 0em!important">{{ .Params.Description }}</h2>
 

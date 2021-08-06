@@ -4,6 +4,8 @@ paginate = "6"
 summaryLength = "10"
 theme = "patchxr-hugo"
 title = "PatchXR - Sound of the Metaverse"
+
+
 # [taxonomies]
 #   author = "authors"
 #   creator = "creators"
@@ -11,6 +13,7 @@ title = "PatchXR - Sound of the Metaverse"
 #   category = "categories"
 [markup.goldmark.renderer]
   hardWraps = true
+  unsafe = true
 [Languages.en]
   contentDir = "content/"
   home = "Home"

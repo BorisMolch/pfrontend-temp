@@ -3,7 +3,7 @@ author = "Alexandria Rowan + Matias Villaplanas"
 bio = ""
 date = 2021-08-03T05:35:54Z
 description = "A Sci-fi forest world + generative ambient piece using sound machines and sequencers"
-featured_patch = false
+
 image = "/uploads/digitalgarden.jpg"
 link1 = ""
 link2 = ""
