@@ -146,9 +146,9 @@
 	.about-author {
 		h2 {
 			padding-bottom: 15px;
-			border-bottom: 1px solid $border-color;
-			margin-bottom: 30px;
-			font-size: 30px;
+			border-top: 1px solid $border-color;
+			font-weight: 600;
+			font-size: 2.5em;
 
 			@include mobile {
 				text-align: center;

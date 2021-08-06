@@ -11,5 +11,5 @@ location = "Spain / Iran"
 title = "RTTT"
 twitter = "https://twitter.com/_mohsenzz"
 video = "I7DhW2VknOY"
-featured_patch = true
+
 +++

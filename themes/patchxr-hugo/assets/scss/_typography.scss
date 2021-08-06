@@ -42,11 +42,11 @@ h1{
 }
 
 .newstitle  {
-	font-size: 48px!important;
+	font-size: 3.3em!important;
 	font-weight:600;
 	letter-spacing: -1px;
 	font-family: $primary-font!important;
-	line-height: 0.95em;
+	line-height: 1em;
 	
 }
 
@@ -67,8 +67,11 @@ h2{
 
 
 h3{
-	font-size: 20px;
+	font-size: 2em;
+	font-weight: 600;
 	line-height: 30px;
+	margin-top: 2em;
+	margin-bottom: 2em;
 }
 
 h4{font-size: 32px;}
