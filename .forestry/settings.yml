@@ -7,6 +7,10 @@ sections:
 - type: document
   path: data/en/homepage.yml
   label: Homepage
+- type: document
+  path: data/en/blog.yml
+  label: Blog Settings
+  match: "**/*"
 - type: directory
   path: content/community
   label: Community
