@@ -4,12 +4,12 @@
 <section class="section page-title">
   <div class="container">
     <div class="row">
-      <div class="col-md-12 m-auto">
+      <div class="col-md-10 m-auto">
     
         <h2>News</h2>
       
         <h1 class="newstitle mt-5 mb-3">{{ .Title }}</h1>
-        <p class="text-white  border-top" style="font-size:0.9em;">By PatchXR | {{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} of {{ .Date.Format "January 2006" }}
+        <p class="text-white  border-top" style="font-size:0.9em; padding-top: 5px;">By PatchXR | {{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} of {{ .Date.Format "January 2006" }}
         </p>
         <h2 class="text-white " style="padding-top: 0em!important">{{ .Params.Description }}</h2>
 
@@ -20,7 +20,7 @@
 {{ $body := "Make your own musical world, then perform with it live online for an audience at A MAZE. / Berlin 2021. \n\n https://www.patchxr.com/ " }}
 
 <p class="text-white " style="font-size:0.9em;">
-  Share this! <a href="https://twitter.com/intent/tweet?hashtags=PatchXR,Patchworld&amp;url={{ .Permalink }}&amp;text={{ .Params.Title }} @patch_xr @AMazeFest
+  Share this <a href="https://twitter.com/intent/tweet?hashtags=PatchXR,Patchworld&amp;url={{ .Permalink }}&amp;text={{ .Params.Title }} @patch_xr @AMazeFest
   " target="_blank" rel="noopener" aria-label="Share on Twitter" class="share-btn twitter">
   <ion-icon name="logo-twitter" size="small"></ion-icon>
   </a>

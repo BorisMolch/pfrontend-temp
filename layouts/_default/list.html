@@ -27,13 +27,13 @@
             <a href="{{ .Permalink }}"><img class="img-fluid" src="{{ .Params.Image | absURL }}" alt="{{ .Title }}"></a>
           </div>
           <div class="content">
-            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <h2><a href="{{ .Permalink }}"><strong>{{ .Title }}</strong></a></h2>
             <ul class="list-inline postdate">
               <li class="mb-0"><!--<i class="tf-ion-android-person mr-2"></i>By <a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author | title }}</a></li>-->
               <li class="postdate whiteonblack mb-0">{{ .PublishDate.Format "January 02, 2006" }}</li>
             </ul>
             <p>{{ .Description }}</p>
-            <a class="btn btn-main-sm" href="{{ .Permalink }}">{{ i18n "read_more" }}</a>
+            <a class="" href="{{ .Permalink }}">{{ i18n "read_more" }} <i class="tf-ion-android-arrow-forward"></i></a>
           </div>
         </article>
       </div>
