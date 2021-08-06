@@ -73,17 +73,17 @@ Production has begun and the release date is set for Q1 2022.
 PatchWorld pre-announcement teaser  
 {{< youtube 0aZWFCNQF4c >}}
 
+PatchXR in short
+{{< youtube HsCuMkXGfrg >}}
+
+Listen to our creator community  
+{{< youtube dAheG6W3QAE >}}
+
 Jam in Bouncy Beat (Ep2)
 {{< youtube BbuOObvi5dk >}}
 
-Patch in short
-{{< youtube HsCuMkXGfrg >}}
-
 Studio Vision
 {{< youtube 9KK8q1MniBU >}}
-
-Listen to our community  
-{{< youtube dAheG6W3QAE >}}
 
 ***
 
