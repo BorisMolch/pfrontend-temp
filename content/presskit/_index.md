@@ -131,7 +131,7 @@ More information on PatchXR is on our [website](https://patchxr.com), our logo &
 
 ***
 
-### PatchWorld Credits
+# PatchWorld Credits
 
 ## Management
 
@@ -156,7 +156,9 @@ More information on PatchXR is on our [website](https://patchxr.com), our logo &
 **Community development** Peter Kirn		
 **Marketing** Louise Nornes
 
-### Contact
+***
+
+# Contact
 
 ## Inquiries
 
