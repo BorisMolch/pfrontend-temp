@@ -129,16 +129,18 @@ After joining forces with Swiss artist and VR veteran Melodie Mousset and her te
 
 More information on PatchXR is on our [website](https://patchxr.com), our logo & relevant media are available [here](https://patchxr.com/presskit).
 
-## PatchWorld Credits
+***
 
-### Management
+### PatchWorld Credits
+
+## Management
 
 **Executive director** Eduardo Fouilloux  
 **Art director**		Melodie Mousset
 **Audio director**	 	Christian Heinrichs
 **Operation manager**	Nicholas Borkowski
 
-### Production
+## Production
 
 **Technical lead**		Victor Beaupuy
 **Engine architect**		Aleksey Sarapulov
@@ -149,34 +151,34 @@ More information on PatchXR is on our [website](https://patchxr.com), our logo &
 **Platform architect** Jonah Fox 		
 **Web developer** Daniel F. Wehleit
 
-### Communication
+## Communication
 
 **Community development** Peter Kirn		
 **Marketing** Louise Nornes
 
-## Contact
+### Contact
 
-### Inquiries
+## Inquiries
 
 contact@patchxr.com
 
-### Twitter
+## Twitter
 
 https://twitter.com/patch_xr
 
-### Facebook
+## Facebook
 
 https://www.facebook.com/patch.xr/
 
-### Insta
+## Insta
 
 https://www.instagram.com/patch.xr/
 
-### Linkedin
+## Linkedin
 
 https://www.linkedin.com/company/patch-xr/
 
-### Web
+## Web
 
 http://patchxr.com
 
