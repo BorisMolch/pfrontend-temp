@@ -1,8 +1,8 @@
 ---
 title: Holofrenia
-date: 2019-01-28T06:35:54+00:00
+date: 2019-01-28T06:35:54.000+00:00
 image: "/uploads/holofrenia-win.jpg"
-video: dwXqqi5O-1Q
+video: kzxdm1j82dI
 author: Julian Bonequi
 location: Mexico/Berlin
 link1: teatroholofrenico.bandcamp.com
