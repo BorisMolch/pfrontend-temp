@@ -17,7 +17,7 @@ In a period of just a few days, these artists discovered Patch - some of them do
 
 The results covered the full gamut of imaginative possibility. You'll see reinterpretations of Russian poetry, evocative futuristic alien audiovisual etudes, ambient landscapes echoing with vocal performances, trippy bassline generators, four-player integrated ensembles with live coding interwoven with VR, and field-recorded videos and ephemera and 360-degree perspectives melded into the virtual. Just watch:
 
-{{< youtube foJYu1vQOEo >}}
+{{< youtube jc2IhIgizcw >}}
 
 Artists exploited everything in their training and background, collaborating with one another and our development team. Singers found ways of integrating vocals. Musicians looked for live performance interactions, practicing in their headsets. Visual artists worked on workflows for importing 3D assets and working across media with music and sound.
 
