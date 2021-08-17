@@ -79,10 +79,13 @@ PatchXR in short
 Listen to our creator community  
 {{< youtube dAheG6W3QAE >}}
 
+Watch what they make with the Beta
+{{< youtube jc2IhIgizcw >}}
+
 Jam in Bouncy Beat (Ep2)
 {{< youtube BbuOObvi5dk >}}
 
-Studio Vision
+Creator tool 
 {{< youtube 9KK8q1MniBU >}}
 
 ***
