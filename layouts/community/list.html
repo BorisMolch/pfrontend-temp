@@ -137,7 +137,7 @@
   {{ "<!-- Patchathon -->" | safeHTML }}
   {{ if $data.patchathon.promo.enable }}
   {{ with $data.patchathon.promo }}
-  <section class="section career-featured ">
+  <!-- <section class="section career-featured ">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
@@ -157,7 +157,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
   {{ end }}
   {{ end }}
   {{ "<!-- End of Patchathon -->" | safeHTML }}
@@ -180,6 +180,24 @@
   {{ end }}
   {{ end }}
   {{ "<!-- End of Gallery -->" | safeHTML }}
+
+  <!-- Apply Button -->
+  {{ with $data.community.cta }}
+  <section class="section ">
+  <div class="container">
+    <div class="row">
+      <!-- <hr style="border:1px solid deeppink; width: 100%"> -->
+  <div class="col-8 col-lg-8 m-auto text-left" data-aos="fade-in">
+    <!-- <h1 class="hyperhyper">{{ .hypertitle }}</h1> -->
+<h2 class="text-white" style="vertical-align:middle;">{{ .text }}</h2>
+      </div>
+
+  <div class="col-4 col-lg-4 m-auto text-right pt-5" data-aos="fade-in">
+    <a href="{{ .link }}" target="_blank"> <button type="submit" class="btn btn-main-md mb-5">{{ .button }}</button></a>
+
+  </div></div>
+  </section>
+  {{ end}}
 
 
 

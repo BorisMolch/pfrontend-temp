@@ -12,3 +12,8 @@ intro:
     image_webp: images/about/slider-2.webp
   - image: images/automata.jpg
     image_webp: images/about/slider-3.webp
+cta:
+  enable: true
+  text: "Join the Beta waitlist and subscribe to the mailing list to know what the community is doing."
+  button: "Join the community"
+  link: "https://docs.google.com/forms/d/e/1FAIpQLSclGNupdrQz7q37WGlCtb5jzXghsnByTz56CC-kbPaXIeKOmw/viewform?usp=sf_link"
