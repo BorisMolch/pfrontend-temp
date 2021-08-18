@@ -118,8 +118,8 @@
     </div>
   </div>
 </section>
-  {{ with $data.patchathon.intro }}
-  {{ "<!-- Page Title -->" | safeHTML }}
+  <!-- {{ with $data.patchathon.intro }}
+
   <section class="section page-title">
     <div class="container">
       <div class="row">
@@ -131,8 +131,8 @@
       </div>
     </div>
   </section>
-  {{ "<!-- End of Page Title -->" | safeHTML }}
-  {{ end }}
+
+  {{ end }} -->
 
   {{ "<!-- Patchathon -->" | safeHTML }}
   {{ if $data.patchathon.promo.enable }}
@@ -141,7 +141,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          
+
 
             <div class="video">
               <img class="img-fluid shadow" src="{{ .video_thumb_webp | absURL }}"
@@ -153,7 +153,7 @@
               </div>
             </div>
 
-      
+
         </div>
       </div>
     </div>
@@ -182,88 +182,5 @@
   {{ "<!-- End of Gallery -->" | safeHTML }}
 
 
-  {{ "<!-- Patchathon Event lists -->" | safeHTML }}
-  {{ if $data.patchathon.event.enable }}
-  {{ with $data.patchathon.event }}
-  <section class="job-list section pt-0">
-    <div class="container">
-      <div class="row">
-        <div class="col-12 col-lg-12 m-auto">
-          <div class="block">
-            <div class="title text-center">
-              <h2>{{ .title }}</h2>
-            </div>
-            {{ $.Scratch.Set "counter" 0 }}
-            {{ range .event_post }}
-            {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
-            <div class="job">
-              <div class="content">
-                <h3>{{ .title }}</h3>
-                <p>{{ .location | markdownify }}</p>
-              </div>
-              <div class="apply-button">
-                <a href="#" class="btn btn-main-md" data-toggle="modal"
-                  data-target="#job-{{$.Scratch.Get `counter`}}">{{ i18n "view_details" }}</a>
-                {{ "<!-- Modal -->" | safeHTML }}
-                <div class="modal fade jd-modal" id="job-{{$.Scratch.Get `counter`}}" tabindex="-1">
-                  <div class="modal-dialog modal-lg">
-                    <div class="modal-content">
-                      <div class="modal-header">
-                        <h5 class="modal-title">{{ .title }}</h5>
-                        <button type="button" class="close" data-dismiss="modal">
-                          <span>&times;</span>
-                        </button>
-                      </div>
-                      <div class="modal-body">
-                        <div class="block-2">
-                          <div class="title">
-                            <p>{{ i18n "deadlines" }}</p>
-                          </div>
-                          <div class="details">
-                            <ul>
-                              {{ range .deadlines }}
-                              <li><span class="tf-ion-ios-arrow-forward"></span>{{ . | markdownify }}</li>
-                              {{ end }}
-                            </ul>
-                          </div>
-                        </div>
-
-                        <div class="block-2">
-                          <div class="title">
-                            <p>{{ i18n "experience_title"}}</p>
-                          </div>
-                          <div class="details">
-                            <ul>
-                              {{ range .points }}
-                              <li><span class="tf-ion-ios-arrow-forward"></span>{{ . | markdownify }}</li>
-                              {{ end }}
-                            </ul>
-                          </div>
-                        </div>
-                        <div class="form-title">
-                          <h3>{{ i18n "apply" }}</h3>
-                        </div>
-
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            {{ end }}
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  {{ end }}
-  {{ end }}
-  {{ "<!-- End of Event lists -->" | safeHTML }}
-
-
-
-
-
-</section>
 
 {{ end }}
