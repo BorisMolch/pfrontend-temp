@@ -10,7 +10,7 @@
   height: auto;
 }
 
-.cool { 
+.cool {
   color: deeppink!important
 }
 
@@ -64,8 +64,8 @@
 
     <a href="mailto:?subject=Patchathon #02 - {{ .title }}.&amp;body={{ $body }}" target="_blank" class="share-btn emaillink">
       <ion-icon name="mail-outline" size="large"></ion-icon>
-    </a><br>Share with friends!<br> 
-</h3> 
+    </a><br>Share with friends!<br>
+</h3>
 
 
 
@@ -101,7 +101,7 @@
   <div class="col-md-6 mb-5"><p>{{ .section7 | markdownify }}</p>
     <!--PatchXR Social media-->
   <a href="https://www.facebook.com/patch.xr/" target="_blank"><ion-icon name="logo-facebook" size="large"></ion-icon></a>
-  <a href="https://www.instagram.com/patch.xr/" target="_blank"><ion-icon name="logo-instagram" size="large"></ion-icon></a> 
+  <a href="https://www.instagram.com/patch.xr/" target="_blank"><ion-icon name="logo-instagram" size="large"></ion-icon></a>
   <a href="https://twitter.com/patch_xr" target="_blank">
   <ion-icon name="logo-twitter" size="large"></ion-icon></a>
   <a href="https://discord.gg/s3AjXepvWR" target="_blank"><ion-icon name="logo-discord" size="large"></ion-icon></a><br>
@@ -115,15 +115,15 @@
     <p>{{ .section8 | markdownify }}</p>
     <p><a href="https://amaze-berlin.de" target="_blank">amaze-berlin.de</a>
       #AMaze2021 #playfulmedia<br>
-      
+
       <a href="https://www.facebook.com/amaze.festival" target="_blank"><ion-icon name="logo-facebook" size="large"></ion-icon></a>
-      <a href="https://instagram.com/a_mazefest" target="_blank"><ion-icon name="logo-instagram" size="large"></ion-icon></a> 
+      <a href="https://instagram.com/a_mazefest" target="_blank"><ion-icon name="logo-instagram" size="large"></ion-icon></a>
       <a href="https://twitter.com/AMazeFest" target="_blank">
       <ion-icon name="logo-twitter" size="large"></ion-icon></a>
       <a href="https://discord.gg/ff3t7ufvkM" target="_blank"><ion-icon name="logo-discord" size="large"></ion-icon></a><br>
 
     </p>
-  
+
   </div>
   <hr class="mb-5" style="border:1px solid deeppink; width: 100%">
 </div>
@@ -138,7 +138,7 @@
 {{ if $data.patchathon.promo.enable }}
 {{ with $data.patchathon.promo }}
 
-  
+
   <div class="container">
     <h2 class="cool mb-3" data-aos="fade-up">{{ .videotitle }}</h2>
     <div class="row">
@@ -153,11 +153,8 @@
               </a>
             </div>
           </div>
-
         </div>
-        
       </div>
-      
     </div>
   </div>
 
@@ -178,7 +175,7 @@
     <div class="row" data-aos="fade-in">
 
       {{ range last 3 ( where .Site.Pages "Type" "community"  ) }}
-      {{ .Render "patchathon"}} 
+      {{ .Render "patchathon"}}
       {{ end }}
     </div>
     <a href="/community" data-aos="fade-right">WATCH MORE >></a>

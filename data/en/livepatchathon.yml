@@ -63,6 +63,8 @@ promo:
   videotitle: HEAR FROM LAST YEAR'S PARTICIPANTS
   communitytitle: WATCH THE WORKS THEY MADE
   video_embed_url: https://www.youtube.com/embed/dAheG6W3QAE?autoplay=1
+twitch:
+  enable: false
 gallery:
   enable: false
   gallery_item:
