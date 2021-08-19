@@ -59,7 +59,7 @@ intro:
 promo:
   enable: true
   video_thumb: images/faces2.jpg
-  videotitle: HEAR FROM LAST YEAR PARTICIPANTS
+  videotitle: HEAR FROM LAST YEAR'S PARTICIPANTS
   communitytitle: WATCH THE WORKS THEY MADE
   video_embed_url: https://www.youtube.com/embed/dAheG6W3QAE?autoplay=1
 gallery:
@@ -94,15 +94,16 @@ event:
     - Tomson Fauster [ BitNet01 ] (IT)
     - Vincent Cellucci (NL)
     - Warja Rybakova & Irina Shutova [ Neslob ] (RS)
-    details: Visual/media artists, VR/XR artists and developers, Musicians, Composers
-      and electronic music producers, Sound designers.
+    details: ''
     form_action: "#"
     points:
-    - 'VR headset: HTC Vive, Oculus Rift S, Oculus Quest'
-    - 'PC Minimum-specs: Win 10 64-bit, Intel i5-2500K, dedicated GPU (GTX970), 8GB
-      RAM, or better.'
-    - A problem solving mindset and some knowledge of digital music creation.
-    - Don’t worry - you will not need to do any coding!
+    - Muki Kulhan, jury president
+    - Marie-Laure Saidani (Music curator at @MUTEK)
+    - Joshua Hodge (Founder @The Audio Programmer)
+    - Fabien Siouffi (Founder @Fabbula)
+    - Yannick Hofmann (Head of Hertz-Lab ZKM)
+    - Michael Connor (Art director @Rhizome )
+    - Karim Fanous (Innovation Manager @Abbey Road Red)
   - title: 'A MAZE. / Total Digital 2020 / Patchathon #1'
     location: 17 - 23 July 2020, Online
     deadlines:
