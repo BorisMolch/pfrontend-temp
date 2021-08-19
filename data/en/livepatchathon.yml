@@ -36,11 +36,8 @@ intro:
     ... and anyone passionate about pushing the boundaries of sound, and multi-sensory integrated performances.
 
     Thanks to our pioneering partner, A MAZE. Berlin international games and playful media festival.
-  title7: GOT QUESTIONS?
-  section7: |-
-    Wondering what Patch and the Patchathon are about, and whether you should apply - or partner with us on an event? Or want to chat and meet the team?
-
-    Check the [Patch FAQ](https://patchxr.com/faq) and [join our Discord](https://discord.gg/s3AjXepvWR) to chat with the community and ask us anything.
+  title7: ''
+  section7: ''
   title8: ''
   section8: ''
   description: Create your own interactive sonic world, in an online, week-long playground!
@@ -56,6 +53,10 @@ intro:
   section5: We’re continuously exploring new contexts for Patchathon. Check out past
     events and upcoming events as they’re announced.
   title6: GOT QUESTIONS?
+  section6: |-
+    Wondering what Patch and the Patchathon are about, and whether you should apply - or partner with us on an event? Or want to chat and meet the team?
+
+    Check the [Patch FAQ](https://patchxr.com/faq) and [join our Discord](https://discord.gg/s3AjXepvWR) to chat with the community and ask us anything.
 promo:
   enable: true
   video_thumb: images/faces2.jpg
