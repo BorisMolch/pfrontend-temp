@@ -17,7 +17,7 @@ In a period of just a few days, these artists discovered Patch - some of them do
 
 The results covered the full gamut of imaginative possibility. You'll see reinterpretations of Russian poetry, evocative futuristic alien audiovisual etudes, ambient landscapes echoing with vocal performances, trippy bassline generators, four-player integrated ensembles with live coding interwoven with VR, and field-recorded videos and ephemera and 360-degree perspectives melded into the virtual. Just watch:
 
-{{< youtube jc2IhIgizcw >}}
+{{< youtube _ShWUMx-NiU >}}
 
 Artists exploited everything in their training and background, collaborating with one another and our development team. Singers found ways of integrating vocals. Musicians looked for live performance interactions, practicing in their headsets. Visual artists worked on workflows for importing 3D assets and working across media with music and sound.
 
@@ -28,16 +28,15 @@ The results are stunning even after just one week - and we expect even more in t
 **_Where, When, How_ by MOWUKIS + Ted Pallas**
 {{< youtube K-_EO9-D5EA >}}
 
-###
+### 
 
 **_Parallel Metaverses_ by LauraLuCas + Nesso + Ivan Abreu + CNDSD**
 {{< youtube QqzcGTwlr3g >}}
 
-###
+### 
 
 **_Digital Garden_ by Alexandria Rowan + Matias Villaplanas**
 {{< youtube vzUCjptwzaw >}}
-
 
 You can check out all the participants' creations - along with last year's Patchathon productions - on our community page:
 
@@ -82,7 +81,7 @@ Paula OS (AR)
 Ramiro N. Alvarez (AR)  
 Robbie Lynn (US)  
 Ted Pallas (US)  
-Tomson Fauster \[BitNet01\] (IT)   
+Tomson Fauster \[BitNet01\] (IT)  
 Vincent Cellucci (NL)
 
 And our expert jury:
