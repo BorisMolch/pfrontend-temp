@@ -2,53 +2,60 @@
 intro:
   megatitle: ''
   hypertitle: PATCH & PLAY
-  title: 'PATCHATHON #2 IS LIVE FROM JULY 16TH TO 24TH'
-  widetext: 'A MAZE FESTIVAL & PATCH XR are thrilled to announce that Patchathon #2
-    is live and running from July16th to 24th. 20 artists from 13 different countries
-    will collaborate to patch and play for a week long hacklab. Follow the classes
-    and discover with the participants how to make fantastic instrument and worlds
-    in VR with Patch here . Don''t miss the Final performance at the online live show
-    at A MAZE. / Berlin 2021.'
-  enable: true
+  title: 'PATCHATHON: PATCH & PLAY'
+  widetext: Create your own interactive sonic world, in an online, week-long playground!
+    Two Patchathons have already expanded our minds (summer 2020, summer 2021) - with
+    more to come. Watch this space.
+  enable: false
   formlink: https://docs.google.com/forms/d/e/1FAIpQLSclGNupdrQz7q37WGlCtb5jzXghsnByTz56CC-kbPaXIeKOmw/viewform
   banner: "/uploads/pathathon-lastcall.jpg"
-  title1: THE SELECTED PARTICIPANTS
-  section1: "Alexandria Rowan [Dozier] (US) \nCorey Bertelsen (US)\nDamian T. Dziwis
-    (PL)\nFrancesco Corvi [Nesso] (IT)\nGilbert Nouno [Til Berg] (CH)\nJuan Orjuela
-    (CO)\nLaura Luna Castillo (MX)\nLouise Nornes [ Tonal Huldra ] (NO)\nLouis-Louise
-    Kay [ MOWUKIS ] (FR)\nMalitzin Cortes [ CNDSD ] & Ivan Abreu (MX)\nMatias Vilaplana
-    (CL)\nWarja Rybakova & Irina Shutova [ Neslob ] (RS)\nPatrick Hartono (ID)\nPaula
-    OS (AR)\nRamiro N. Alvarez (AR)\nRobbie Lynn (US)\nTed Pallas (US)\nTomson Fauster
-    [ BitNet01 ] (IT)\nVincent Cellucci (NL)"
-  title2: THE JURY MEMBERS
-  section2: |-
-    Muki Kulhan is returning as our Jury president with:
-    Marie-Laure Saidani (Music curator at @MUTEK)
-    Joshua Hodge (Founder @The Audio Programmer)
-    Fabien Siouffi (Founder @Fabbula)
-    Yannick Hofmann (Head of Hertz-Lab ZKM)
-    Michael Connor (Art director @Rhizome )
-    Karim Fanous (Innovation Manager @Abbey Road Red)
-  title3: WHAT IS A PATCHATHON?
-  section3: PATCHATHON are hand-on hacklab to experiment and prototype cool things
-    in and around Patch. We regularly send out open calls, and select international
-    participants from various field, media artist, fashion designer, props makers,
-    audio engineers, game designer, music producers, 3D artists, poets… and brings
-    them together with our one-of-a-kind VR tool. You get connected with PatchXR team
-    so you can get the most out of your creative experience and we invite high class
-    mentors to guide you through your process. Together, we want to bring the next
-    generation of computer-generated music to life and bring technology to the service
-    of artistic exploration. IMMERSIVE, INTERACTIVE, VISUAL MUSIC in 3D space is the
-    beginning of a new genre.
+  title1: WHAT’S PATCHATHON?
+  section1: "Patchathon is a unique, hands-on format for exploring Patch, collaborating,
+    and learning, which we’re touring with event partners. Invited artists get a singular
+    experience in the metaverse.\n\nMake your own musical world in VR, then perform
+    with it live online for an audience. Learn direct from the developers who built
+    the Patch platform, hone your skills, and create amazing new work. "
+  title2: WHAT'S PATCH?
+  section2: 'Patch is a complete, immersive environment to create interactive music
+    worlds and instruments in VR. As game engines disrupt the whole entertainment
+    landscape, the PatchXR team is building a tool to enable DIY creators to express
+    themselves in this new era. Get your hands on it and let''s start building the
+    future of media together: blending sound, visuals, and full-body gestures in mixed
+    realities.'
+  title3: WHO CAN JOIN A PATCHATHON?
+  section3: |-
+    We’re open to working with event partners across the arts, creative media, gaming, and expression to make Patchathon work for different audiences. Poets and singers, instrumentalists and coders, 3D artists and hackers - we’ve already had our minds expanded by the full spectrum of artists working in our space.
+
+    It could be you or your audience:
+
+     Visual/media artists
+    - Musicians and vocalists
+    - Sound designers, Composers and Music producers
+    - Movement researchers
+    - Game developers
+    ... and anyone passionate about pushing the boundaries of sound, and multi-sensory integrated performances.
+
+    Thanks to our pioneering partner, A MAZE. Berlin international games and playful media festival.
   title7: GOT QUESTIONS?
   section7: |-
-    Wondering what Patch and the Patchathon are about, and whether you should apply to the next one? Looking for new artistic chalenges ? Or want to chat and meet the team?
+    Wondering what Patch and the Patchathon are about, and whether you should apply - or partner with us on an event? Or want to chat and meet the team?
 
-     [join our Discord](https://discord.gg/s3AjXepvWR) to chat with the community and ask us anything.
-  title8: PARTNERS
-  section8: 'Patchathon #02 is proudly co-hosted by Peter Kirn with [A MAZE. / Berlin
-    2021](https://amaze-berlin.de), the international festival of games and playful
-    media.'
+    Check the [Patch FAQ](https://patchxr.com/faq) and [join our Discord](https://discord.gg/s3AjXepvWR) to chat with the community and ask us anything.
+  title8: ''
+  section8: ''
+  description: Create your own interactive sonic world, in an online, week-long playground!
+  title4: WHAT YOU’LL GET
+  section4: 'You’ll get access to the full, free license for the beta Patch tools
+    to use on your machine. Learn via intensive remote workshops with the PatchXR
+    team. Mingle and team up with like-minded artists, hackers, and creatives. Get
+    individual support to let you create something truly awesome. And finish with
+    a completed musical VR performance to share with the public!
+
+'
+  title5: WHEN IS PATCHATHON?
+  section5: We’re continuously exploring new contexts for Patchathon. Check out past
+    events and upcoming events as they’re announced.
+  title6: GOT QUESTIONS?
 promo:
   enable: true
   video_thumb: images/faces2.jpg
