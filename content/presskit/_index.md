@@ -114,7 +114,9 @@ Creator tool
 
 ## Articles
 
-[PatchXR opens the world of music to extended reality](https://www.makery.info/en/2020/10/03/patchxr-ouvre-le-monde-de-la-musique-a-la-realite-etendue/) _Makery (2020)_
+[Worlds as instruments, as artists collaborate in VR using modular metaverse Patch](https://cdm.link/2021/08/worlds-as-instruments-as-artists-collaborate-in-vr-using-modular-metaverse-patch/?fbclid=IwAR1lBpA708t6EsVTv7L_6COugPuSKsHWxNy5w2dCxpCyDofKv973tlOjZpM) _CDM (2021)_
+
+[PatchXR opens the world of music to extended reality](https://www.makery.info/en/2020/10/03/patchxr-ouvre-le-monde-de-la-musique-a-la-realite-etendue/) _Makery (2021)_
 
 [PatchXR for Gig Life Pro](https://giglifepro.com/articles/virtual-reality-patchxr-with-melodie-mousset-and-edo-fouilloux) _Giglifepro (2020)_
 
