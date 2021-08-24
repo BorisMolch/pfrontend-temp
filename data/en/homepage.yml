@@ -100,6 +100,12 @@ promo_video:
 testimonial:
   enable: true
   testimonial_item:
+  - name: Tigermaster_ Audio engineer
+    image: ''
+    content: WOOOAA I've tried simulating the Glorious TB-303 waveforms shaping the
+      Patch Oscillator, well... I HAVE A FUCKING 303 ON MY QUEST !!! Results are spectacular
+      !!! PatchXR engine is rock solid and very powerful, that kind of shaping is
+      not easy to handle, i can't sleep i'm too excited damnit!!
   - name: Ewen Chardronnet, Makery.info
     image: "/uploads/1517371976584.jpeg"
     content: 'We tested PatchXR in 2020 and were totally seduced. It’s a real game
