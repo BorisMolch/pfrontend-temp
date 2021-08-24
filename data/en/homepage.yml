@@ -137,11 +137,11 @@ testimonial:
       compositions in the future. '
 patchworld:
   enable: true
-  title: Registration to our next online Hacklab is open till June 14th !!!
-  subtitle: 'You are a music producer, sound engineer, media artist, a performer,
-    a game designer, a fashion designer, a maker, a hacker, a metaverse  explorer... '
+  title: S
+  subtitle: 'You are a music producer, audio engineer, a media artist, a performer,
+    a game designer, a maker, a hacker... '
   download_buttons:
-  - label: MORE INFO
+  - label: JOIN THE BETA
     icon: tf-ion-none
     link: "/patchathon"
 patchathon:
