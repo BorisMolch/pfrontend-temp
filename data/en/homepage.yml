@@ -9,7 +9,7 @@ banner:
   enable: true
   title: patchXR
   logotype: images/patchXR-SOUNDmetaverse-grey.svg
-  content: 
+  content:
   bannertext: Available soon...
   videourl: https://www.youtube.com/embed/HsCuMkXGfrg
   gif: "1"
@@ -143,6 +143,7 @@ testimonial:
       compositions in the future. '
 patchworld:
   enable: true
+  heading: "PATCHATHON #02"
   title: Join the first creators and PatchXR to shape the sound of the metaverse
   subtitle: 'You are a music producer, audio engineer, a media artist, a performer,
     a game designer, a maker, a hacker... '
