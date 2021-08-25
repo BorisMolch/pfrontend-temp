@@ -150,7 +150,7 @@ patchworld:
   download_buttons:
   - label: JOIN THE BETA
     icon: tf-ion-none
-    link: "/patchathon"
+    link: https://docs.google.com/forms/d/e/1FAIpQLSclGNupdrQz7q37WGlCtb5jzXghsnByTz56CC-kbPaXIeKOmw/viewform?usp=sf_link
 patchathon:
   enable: false
   title: Check out what the community is making
