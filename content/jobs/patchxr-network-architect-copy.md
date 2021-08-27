@@ -13,12 +13,12 @@ Together, we aim to build a new sonic dimension. A new way to build, think, and 
 
 ## What will you be doing?
 
-* Create and deliver delightful ergonomic VR interfaces and relevant icons.
+* Develop high-quality and functional graphical user interfaces.
+* Collaborate with our game and interface designers and artists to create the UI solution for a feature.
 * Actively propose visual enhancements to our games, tools interfaces and document style in order to improve the accessibility of our games (icons’ understanding, color-blindness adjustments, motion design…)
 * Produce wireframe and prototype for PatchXR’s dev team to review and iteration towards implementation.
 * Help gather and evaluate users requirements, iterate with the design team and refine the game to create interfaces that are easy to use, effective and understandable for players.
 * Understand Players/Games interactions, define models and perform playtests, task flow and UI specifications
-* Collaborate with teams to keep content user-friendly.
 * Oversee the player onboarding process, from high level design to tutorial implementation, taking into account accessibility, progression, and player research results.
 
 ## What is your profile?
