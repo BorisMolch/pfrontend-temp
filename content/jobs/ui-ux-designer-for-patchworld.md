@@ -26,7 +26,6 @@ You will help us create the best user experience for our players, working hand i
 * 5 years of practical UX design experience in games or game-related projects
 * Excellence in graphic design, artful use of fonts and typography
 * Good knowledge of ergonomic principles applied to VR video games and interaction
-* Strong interest in communication, with a sense of autonomy, attention to detail, and robust organizational skills
 * Up-to-date on the latest UI/UX trends, techniques, and technologies.
 * Proficient with Adobe Photoshop, Adobe Illustrator or FIGMA, Axure or Adobe XD
 * Fluent in English
