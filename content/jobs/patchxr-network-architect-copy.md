@@ -1,7 +1,7 @@
 +++
 date = 2021-08-26T22:00:00Z
-description = "UI DESIGNER NEEDED FOR PATCHWORLD"
-title = "PatchXR UI/UX Designer"
+description = "UI/UX DESIGNER NEEDED FOR PATCHWORLD"
+title = "UI/UX Designer"
 
 +++
 ## **UI/UX Designer**
