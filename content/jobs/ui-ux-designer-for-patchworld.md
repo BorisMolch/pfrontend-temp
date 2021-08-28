@@ -1,7 +1,7 @@
 +++
 date = 2021-08-27T22:00:00Z
 description = "FREELANCE / REMOTE"
-title = "UI/UX Designer for PatchWorld"
+title = "UI/UX Designer"
 
 +++
 # Objective
