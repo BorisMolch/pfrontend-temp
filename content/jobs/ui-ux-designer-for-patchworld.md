@@ -13,31 +13,32 @@ You will help us create the best user experience for our players, working hand i
 ### What you'll do
 
 * Develop high-quality and functional graphical user interfaces.
-* Actively propose visual enhancements to our game, tools interfaces, and document style. (icon understandability, color-blindness adjustments, motion design…)
-* Produce wireframes and prototypes for PatchXR’s dev team to review and iterate implementations.
+* Design and implement modifications, extensions, and optimizations to our existing UI framework
 * Understand player/game interactions, define models, and perform playtests, task flow, and UI specifications.
-* Oversee the player onboarding process, from high-level design to tutorial implementation, taking into account accessibility, progression, and player research results.
+* Source, filter, and implement player feedback from PatchWorlds’s community
+* Work autonomously and iteratively to improve the player experience.
+* Collaborate with other teams and disciplines.
 
 ### Your profile
 
 **Required experience & skills**
 
-* About 5 years of practical UX design experience in games or game-related projects
-* User-oriented with strong creative skills
+* 5 years of practical UX design experience in games or game-related projects
 * Excellence in graphic design, artful use of fonts and typography
 * Good knowledge of ergonomic principles applied to VR video games and interaction
 * Strong interest in communication, with a sense of autonomy, attention to detail, and robust organizational skills
 * Up-to-date on the latest UI/UX trends, techniques, and technologies.
-* Flexible and adaptable
 * Proficient with Adobe Photoshop, Adobe Illustrator or FIGMA, Axure or Adobe XD
 * Fluent in English
+* Comfortable working in a fast-paced, autonomous, and ambiguous environment
 
 **Very welcome bonuses!**
 
-* VR experience
 * Basics in Unity
-* C# understanding
-* Passionate about music (playing and listening!)
+* Passionate about music and procedural audio
+* Strong background in Virtual Reality technologies (e.g., PSVR, Steam VR, Oculus Rift, etc.)
+* Experience working with localization and internationalization systems
+* Experience with analytics gathering and A/B testing
 * Experience with programs like Logic, Reason, Ableton Live, FL Studio, Max, Pure Data, GarageBand
 
 ### More about us
