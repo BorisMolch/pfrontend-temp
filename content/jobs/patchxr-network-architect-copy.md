@@ -1,20 +1,14 @@
 +++
 date = 2021-08-26T22:00:00Z
-description = "UI/UX DESIGNER NEEDED FOR PATCHWORLD"
-title = "UI/UX Designer"
+description = "FREELANCE / REMOTE OR AT OUR COPENHAGEN OFFICE"
+title = "UI/UX Designer for PatchWorld"
 
 +++
-## **UI/UX Designer**
-
-##### Freelance contract
-
-##### Location: Work remotely or from our Copenhagen office
-
 ## Objective
 
-**We are looking** for a UI/UX designer with a strong emphasis on visual communication. Working across teams, you will guide our transformative new interfaces for playful musical interaction in VR.
+**We are looking** for a UI/UX designer with a strong emphasis on visuals. Working across teams, you will guide our transformative new interfaces for playful musical interaction in VR and overall navigation in the PatchWorld Metaverse.
 
-You will help us create the best user experience for our players, working hand in hand with our UI/UX team, Lead Designer, Artists, and Developers. Together, we aim to explore a new sonic and graphical dimension - an unprecedented way to build, think about, and experience music visually. UI/UX design is integral to tackling that challenge.
+You will help us create the best user experience for our players, working hand in hand with our UI/UX team, Lead Artists, and Developers. Together, we aim to explore a new sonic and graphical dimension - an unprecedented way to build, think about, and experience music visually. UI/UX design is integral to tackling that challenge.
 
 ## What you'll do
 
