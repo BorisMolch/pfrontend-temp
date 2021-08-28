@@ -1,6 +1,6 @@
 +++
 date = 2021-08-27T22:00:00Z
-description = "FREELANCE / REMOTE / NOW"
+description = "@PATCHXR : FREELANCE / REMOTE / NOW"
 title = "UI/UX Designer "
 
 +++
