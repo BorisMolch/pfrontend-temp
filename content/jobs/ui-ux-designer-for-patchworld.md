@@ -4,6 +4,8 @@ description = "FREELANCE / REMOTE"
 title = "UI/UX Designer for PatchWorld"
 
 +++
+# The Job
+
 ## Objective
 
 **We are looking for** a UI/UX designer with a strong emphasis on visuals. Working across teams, you will guide our transformative new interfaces for playful musical interaction in VR and overall navigation in the PatchWorld Metaverse.
