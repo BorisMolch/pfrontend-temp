@@ -4,7 +4,7 @@ alert:
   type: light
   title: 'We are Hiring ! '
   text: 'We are looking for a UI/UX Designer '
-  link: "/jobs/ui-ux-designer-for-patchworld/"
+  link: patchathon
 banner:
   enable: true
   title: patchXR
