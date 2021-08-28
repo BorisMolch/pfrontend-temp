@@ -50,3 +50,5 @@ We are currently working on PatchWorld, an advanced electronic music creation pl
 Our close relationship with the community is a core pillar of the studio’s philosophy. Our custom-built audio engine helps keep us versatile regarding the implementation of new features regarding music creation.
 
 Our goal is to change the way we interact with computers and computer music by taking advantage of immersive and XR technologies. The goal is to escape the limitations of screen-mouse interactions and provide standardized ways of working with physical, full-body gestures, touch, sound, and vision.
+
+{{< youtube gvUXPecgNK8 >}}
