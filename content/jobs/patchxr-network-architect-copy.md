@@ -1,6 +1,7 @@
 +++
 date = 2021-08-26T22:00:00Z
 description = "FREELANCE / REMOTE OR AT OUR COPENHAGEN OFFICE"
+draft = true
 title = "UI/UX Designer for PatchWorld"
 
 +++
