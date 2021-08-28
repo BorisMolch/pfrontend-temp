@@ -1,10 +1,10 @@
 ---
-title: "PatchXR Network Architect"
-draft: false
-description : "Creativity is intelligence having fun"
-date: 2020-12-08 
+title: PatchXR Network Architect
+description: Creativity is intelligence having fun
+date: 2020-12-08
+draft: true
+
 ---
- 
 **We are looking for the person to make a social playground for people to play, build and share interactive music worlds remotely in real-time - to empower a community to exchange interactive venues, musical instruments, concerts and more!**
 
 Together, we aim to build a new sonic dimension where our surroundings become shareable interactive music, where you can play with an infinite library of worlds. A new way to build, think, and enjoy music.
@@ -54,4 +54,3 @@ Our goal is to change the way we interact with computers and computer music by t
 {{< youtube gvUXPecgNK8 >}}
 
 Get in touch. Let's Talk!
-
