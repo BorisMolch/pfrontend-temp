@@ -45,12 +45,10 @@ You will help us create the best user experience for our players, working hand i
 
 PatchXR is a team of experienced, quality-driven music lovers and developers. Founded in 2020, we are a team of 11 developers and artists based in Copenhagen and Zurich with an international team hailing from all over the world.
 
-We are currently working on our first release PatchWorld, an advanced electronic music creation platform bundled with playful musical ‘EPs’ - unique VR worlds that encourage play.
+We are currently working on PatchWorld, an advanced electronic music creation platform bundled with playful musical ‘EPs’ - unique VR worlds that encourage play.
 
-We’re best known for our earlier work on MuX, a spiritual predecessor to PatchWorld. As our tools open up in limited beta, we've held intensive Patchathons in which users collaborate and make fantastical worlds using our platform.
+Our close relationship with the community is a core pillar of the studio’s philosophy. Our custom-built audio engine helps keep us versatile regarding the implementation of new features regarding music creation.
 
-Our close relationship with the community is a core feature of the studio’s philosophy. We’re proud of the way we get inspiration from users of our app and platform. Our custom-built audio engine helps keep us versatile regarding the implementation of new features regarding music creation.
-
-Our goal is to change the way we interact with computers and computer music by taking advantage of immersive and extended-reality technologies. The goal is to escape the limitations of screen-mouse interactions and provide standardized ways of working with physical, full-body gestures, touch, sound, and vision.
+Our goal is to change the way we interact with computers and computer music by taking advantage of immersive and XR technologies. The goal is to escape the limitations of screen-mouse interactions and provide standardized ways of working with physical, full-body gestures, touch, sound, and vision.
 
 {{< youtube gvUXPecgNK8 >}}
