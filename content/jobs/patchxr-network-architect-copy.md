@@ -32,9 +32,9 @@ You will help us create the best user experience for our players, working hand i
 **Required experience & skills**
 
 * About 5 years of practical UX design experience in games or game-related projects
-* Skill in producing compelling icons
-* Excellence in graphic design, artful use of fonts and typography
 * User-oriented with strong creative skills
+* Excellence in graphic design, artful use of fonts and typography
+* Skill in producing compelling icons
 * Good knowledge of ergonomic principles applied to VR video games and interaction
 * Strong interest in communication, with a sense of autonomy, attention to detail, and robust organizational skills
 * Natural ability to work effectively on a team and interact with a large variety of profiles (developers, designers, artists…) through an understanding of their strengths and limitations
@@ -61,6 +61,6 @@ We’re best known for our earlier work on MuX, a spiritual predecessor to Patch
 
 Our close relationship with the community is a core feature of the studio’s but it's philosophy. We’re proud of the way we get inspiration from users of our app and platform. Our custom-built audio engine helps keep us versatile regarding the implementation of new features regarding music creation.
 
-Our goal is to change the way we interact with computers and computer music by taking advantage of immersive and extended-reality technologies. The goal is to escape limitations of screen-mouse interactions and provide standardized ways of working with physical, full-body gestures, touch, sound, and vision.
+Our goal is to change the way we interact with computers and computer music by taking advantage of immersive and extended-reality technologies. The goal is to escape the limitations of screen-mouse interactions and provide standardized ways of working with physical, full-body gestures, touch, sound, and vision.
 
 {{< youtube gvUXPecgNK8 >}}
