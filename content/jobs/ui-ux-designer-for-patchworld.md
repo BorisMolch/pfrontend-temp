@@ -4,15 +4,13 @@ description = "FREELANCE / REMOTE"
 title = "UI/UX Designer for PatchWorld"
 
 +++
-# The Job
-
-## Objective
+# Objective
 
 **We are looking for** a UI/UX designer with a strong emphasis on visuals. Working across teams, you will guide our transformative new interfaces for playful musical interaction in VR and overall navigation in the PatchWorld Metaverse.
 
 You will help us create the best user experience for our players, working hand in hand with our UI/UX team, Lead Artists, and Developers. Together, we aim to explore a new sonic and graphical dimension - an unprecedented way to build, think about, and experience music visually. UI/UX design is integral to tackling that challenge.
 
-## What you'll do
+# What you'll do
 
 * Develop high-quality and functional graphical user interfaces.
 * Collaborate with our game and interface designers and artists to translate features into effective UI solutions.
@@ -21,7 +19,7 @@ You will help us create the best user experience for our players, working hand i
 * Understand player/game interactions, define models, and perform playtests, task flow, and UI specifications.
 * Oversee the player onboarding process, from high-level design to tutorial implementation, taking into account accessibility, progression, and player research results.
 
-## Your profile
+# Your profile
 
 **Required experience & skills**
 
