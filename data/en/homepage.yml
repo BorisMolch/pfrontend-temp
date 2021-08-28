@@ -4,7 +4,7 @@ alert:
   type: light
   title: Open Call for Entries
   text: Check out our Patchathon page.
-  link: patchathon
+  link: jobs/patchxr-network-architect-copy/
 banner:
   enable: true
   title: patchXR
