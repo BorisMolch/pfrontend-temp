@@ -5,17 +5,19 @@ draft = true
 title = "PatchXR UI/UX Designer"
 
 +++
-**UI/UX Designer  
-**Freelance contract  
-Location: Work remotely or from our Copenhagen office
+## **UI/UX Designer**
 
-**We are looking** for a UI/UX designer to make our interface look and feel cool as fuck.
+##### Freelance contract
 
-You will help us create the best user experience for our players. This team member will work hand in hand with our UI/UX team, Lead Designer, Artists, and Developers.
+##### Location: Work remotely or from our Copenhagen office
 
-Together, we aim to create a new sonic dimension - an unprecedented way to build, think about, and experience music visually. UI/UX design is integral to tackling that challenge.
+## Objective
 
-## What will you be doing?
+**We are looking** for a UI/UX designer with a strong emphasis on visual communication. Working across teams, you will guide our transformative new interfaces for playful musical interaction in VR.
+
+You will help us create the best user experience for our players, working hand in hand with our UI/UX team, Lead Designer, Artists, and Developers. Together, we aim to explore a new sonic and graphical dimension - an unprecedented way to build, think about, and experience music visually. UI/UX design is integral to tackling that challenge.
+
+## What you'll do
 
 * Develop high-quality and functional graphical user interfaces.
 * Collaborate with our game and interface designers and artists to translate features into effective UI solutions.
@@ -25,12 +27,13 @@ Together, we aim to create a new sonic dimension - an unprecedented way to build
 * Understand player/game interactions, define models, and perform playtests, task flow, and UI specifications.
 * Oversee the player onboarding process, from high-level design to tutorial implementation, taking into account accessibility, progression, and player research results.
 
-## What is your profile?
+## Your profile
 
 **Required experience & skills**
 
 * About 5 years of practical UX design experience in games or game-related projects
-* Able to create compelling icons
+* Skill in producing compelling icons
+* Excellence in graphic design, artful use of fonts and typography
 * User-oriented with strong creative skills
 * Good knowledge of ergonomic principles applied to VR video games and interaction
 * Strong interest in communication, with a sense of autonomy, attention to detail, and robust organizational skills
@@ -42,7 +45,6 @@ Together, we aim to create a new sonic dimension - an unprecedented way to build
 
 **Very welcome bonuses!**
 
-* Mastery of fonts and typography
 * VR experience
 * Basics in Unity
 * Passionate about music (playing and listening!)
