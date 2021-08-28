@@ -13,7 +13,7 @@ You will help us create the best user experience for our players, working hand i
 ### What you'll do
 
 * Develop high-quality and functional graphical user interfaces.
-* Actively propose visual enhancements to our games, tools interfaces, and document style in order to improve the accessibility of our games. (icon understandability, color-blindness adjustments, motion design…)
+* Actively propose visual enhancements to our game, tools interfaces, and document style. (icon understandability, color-blindness adjustments, motion design…)
 * Produce wireframes and prototypes for PatchXR’s dev team to review and iterate implementations.
 * Understand player/game interactions, define models, and perform playtests, task flow, and UI specifications.
 * Oversee the player onboarding process, from high-level design to tutorial implementation, taking into account accessibility, progression, and player research results.
