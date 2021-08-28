@@ -1,7 +1,6 @@
 +++
 date = 2021-08-26T22:00:00Z
 description = "UI DESIGNER NEEDED FOR PATCHWORLD"
-draft = true
 title = "PatchXR UI/UX Designer"
 
 +++
