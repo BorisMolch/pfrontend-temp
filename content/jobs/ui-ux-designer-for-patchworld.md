@@ -1,7 +1,7 @@
 +++
 date = 2021-08-27T22:00:00Z
 description = "FREELANCE / REMOTE"
-title = "UI/UX Designer"
+title = "UI/UX Designer "
 
 +++
 ### Objective
@@ -13,6 +13,8 @@ You will help us create the best user experience for our players, working hand i
 ### What you'll do
 
 * Develop high-quality and functional graphical user interfaces.
+
+
 * Collaborate with our game and interface designers and artists to translate features into effective UI solutions.
 * Actively propose visual enhancements to our games, tools interfaces, and document style in order to improve the accessibility of our games. (icon understandability, color-blindness adjustments, motion design…)
 * Produce wireframes and prototypes for PatchXR’s dev team to review and iterate implementations.
