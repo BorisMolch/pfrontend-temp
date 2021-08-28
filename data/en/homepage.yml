@@ -3,7 +3,7 @@ alert:
   enable: true
   type: light
   title: 'We are Hiring ! '
-  text: 'UI/UX Designer '
+  text: 'We are looking for a UI/UX Designer '
   link: jobs/ui-ux-designer-for-patchworld/
 banner:
   enable: true
