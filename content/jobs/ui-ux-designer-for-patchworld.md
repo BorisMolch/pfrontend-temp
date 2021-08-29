@@ -1,21 +1,22 @@
 +++
 date = 2021-08-27T22:00:00Z
-description = "@PATCHXR : FREELANCE / REMOTE / NOW"
+description = "AT PATCHXR : FREELANCE / REMOTE / NOW"
 title = "UI/UX Designer "
 
 +++
 ### Description
 
-**We are looking for** a UI/UX designer with a strong emphasis on visuals. Working across teams, you will guide our transformative new interfaces for playful musical interaction in VR and overall navigation in the PatchWorld Metaverse.
+**PatchWorld** is the Metaverse to build and play music together in VR. Hang out, Jam, Surf the vibe and discover TONES of player-created worlds and shows, or build something new and amazing to share with all!! We are looking for a UI/UX designer to work on our graphical interfaces, and improving the general players and creators experiences across the entire game. In this role, you will guide our transformative new interfaces for playful musical interaction in VR.
 
-You will help us create the best user experience for our players, working hand in hand with our UI/UX team, Lead Artists, and Developers. Together, we aim to explore a new sonic and graphical dimension - an unprecedented way to build, think about, and experience music visually. UI/UX design is integral to tackling that challenge.
+Together, we aim to explore a new sonic and graphical dimension - an unprecedented way to build, think about, and experience music visually. UI/UX design is integral to tackling that challenge.
 
 ### What you'll do
 
 * Develop high-quality and functional graphical user interfaces.
 * Design and implement modifications, extensions, and optimizations to our existing UI framework
+* Be involved in decisions about our brand, design, culture and processes.
 * Understand player/game interactions, define models, and perform playtests, task flow, and UI specifications.
-* Source, filter, and implement player feedback from PatchWorlds’s community
+* Source, filter, and implement feedback directly from PatchWorlds’s community
 * Work autonomously and iteratively to improve the player experience.
 * Collaborate with other teams and disciplines.
 
@@ -31,7 +32,7 @@ You will help us create the best user experience for our players, working hand i
 * Fluent in English
 * Comfortable working in a fast-paced, autonomous, and ambiguous environment
 
-**Very welcome bonuses!**
+**Bonus points!**
 
 * Basics in Unity
 * Passionate about music and procedural audio
@@ -42,7 +43,7 @@ You will help us create the best user experience for our players, working hand i
 
 ### More about us
 
-PatchXR is a team of experienced, quality-driven music lovers and developers. Founded in 2020, we are a team of 11 developers and artists based in Copenhagen and Zurich with an international team hailing from all over the world.
+PatchXR is a team of experienced, quality-driven music lovers and developers. Founded in 2020, we are a fast growing **early stage startup**  in the **Creator Economy**. We are an international team of 11, working from our offices in Zurich and Copenhagen, and remotely from all over the world. 
 
 We are currently working on PatchWorld, an advanced electronic music creation platform bundled with playful musical ‘EPs’ - unique VR worlds that encourage play.
 
