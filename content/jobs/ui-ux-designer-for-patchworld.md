@@ -6,7 +6,7 @@ title = "UI/UX Designer "
 +++
 ### Description
 
-**PatchWorld** is the Metaverse to build and play music together in VR. Hang out, Jam, Surf the vibe and discover TONES of player-created worlds and shows, or build something new and amazing to share with all!! We are looking for a UI/UX designer to work on our graphical interfaces, and improving the general players and creators experiences across the entire game. In this role, you will guide our transformative new interfaces for playful musical interaction in VR.
+**PatchWorld** is the Metaverse to build instruments and play music together in VR. Hang out, Jam, patch, surf the vibes and discover TONES of player-created worlds and shows, or build something new to share with all!! We are looking for a UI/UX designer to work on our graphical interfaces, and improving the general players and creators experiences across the entire game.
 
 Together, we aim to explore a new sonic and graphical dimension - an unprecedented way to build, think about, and experience music visually. UI/UX design is integral to tackling that challenge.
 
