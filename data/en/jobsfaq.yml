@@ -1,0 +1,17 @@
+---
+intro:
+  title: Frequently Asked Questions
+  description: The important thing is never to stop questioning.
+faq_list:
+- title: SECTION TITLE
+  faq_item:
+  - question: QUESTION 1 ?
+    answer: Answer 1
+  - question: QUESTION 2 ?
+    answer: Answer 2
+- title: SECTION TITLE
+  faq_item:
+  - question: QUESTION 1 ?
+    answer: Answer 1
+  - question: QUESTION 2 ?
+    answer: Answer 2

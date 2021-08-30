@@ -37,7 +37,7 @@ h1{
 	@include tablet {
 		font-size: 32px!important;
 	}
-	
+
 
 }
 
@@ -47,7 +47,7 @@ h1{
 	letter-spacing: -1px;
 	font-family: $primary-font!important;
 	line-height: 1em;
-	
+
 }
 
 .blackonwhite * {color: $black!important;}
@@ -80,12 +80,12 @@ p, a, li, blockquote, label{
 	font-size: 18px;
 	font-weight: 300;
 	letter-spacing: 0;
-	line-height: 30px;
+	line-height: 25px;
 	color: $light;
 	// margin-bottom: 0;
 }
 
-
+.content ul li { margin-bottom: 0px!important;}
 
 
 .gradient blockquote p {background: linear-gradient(90deg,#2a65f8,#3bd86d) !important;

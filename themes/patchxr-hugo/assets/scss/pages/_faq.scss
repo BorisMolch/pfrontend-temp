@@ -1,10 +1,12 @@
 .faq {
 	.block {
-		padding: 50px;
+		padding: 10px;
 
 		@include mobile {
 			padding: 30px;
 		}
+
+
 
 		.faq-item {
 			.faq-item-title {
