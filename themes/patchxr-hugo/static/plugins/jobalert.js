@@ -25,7 +25,7 @@
     // When clicking on the agree button, create a 1 year
     // cookie to remember user's choice and close the banner
     dismissJob.addEventListener("click", function () {
-        setCookie("dismissJob", true, 365);
+        setCookie("dismissJob", true, 30);
         jobAlert.classList.remove("show");
 
         // dispatch the accept event
