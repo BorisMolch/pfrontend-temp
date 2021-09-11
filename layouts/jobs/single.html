@@ -6,15 +6,13 @@
 <section class="section page-title">
   <div class="container">
     <div class="row border-bottom">
-
         <div class="col-8">
-        <h1>{{ .Title }}</h1>
-        <p>{{ .Params.Description }}</p>
+          <h1>{{ .Title }}</h1>
+          <p>{{ .Params.Description }}</p>
         </div>
         <div class="col-4" style="text-align: right">
             <a href="/contact" class="btn btn-main-md2">Apply</a>
-            </div>
-  <!--      <p>{{ .Content }}</p>-->
+        </div>
     </div>
   </div>
 </section>
@@ -27,25 +25,16 @@
       <div class="col-md-10 m-auto">
         <article class="single-post">
           <div class="post-body">
-
             <div class="content">
               {{ .Content }}
-                <a href="/contact" class="btn btn-main-md2">Apply</a>
+              <a href="/contact" class="btn btn-main-md2">Apply</a>
             </div>
-
-
-
-
-
-
           </div>
         </article>
-
       </div>
     </div>
   </div>
 </section>
 {{ "<!-- End of Single Article -->" | safeHTML }}
-
 
 {{ end }}
