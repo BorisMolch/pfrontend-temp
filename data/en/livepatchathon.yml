@@ -3,12 +3,13 @@ intro:
   megatitle: ''
   hypertitle: PATCH & PLAY
   title: 'PATCHATHON: PATCH & PLAY'
-  widetext: Create your own interactive sonic world, in an online, week-long playground!
-    Two Patchathons have already expanded our minds (summer 2020, summer 2021) - with
-    more to come. Watch this space.
-  enable: false
-  formlink: https://docs.google.com/forms/d/e/1FAIpQLSclGNupdrQz7q37WGlCtb5jzXghsnByTz56CC-kbPaXIeKOmw/viewform
-  banner: https://patchxr.com/uploads/patchathon-still.jpg
+  widetext: 'Create your own interactive sonic world, in an online, week-long playground!
+    Two Patchathons have already expanded our minds (summer 2020, summer 2021) - and
+    the fall edition arrives with Patchathon #3 at [Nordic Games NG21](https://conf.nordicgame.com/)
+    Sign up now:'
+  enable: true
+  formlink: https://forms.gle/17Ae3HQwYvLWzeXB8
+  banner: https://patchxr.com/uploads/patchathon.jpg
   title1: WHAT’S PATCHATHON?
   section1: "Patchathon is a unique, hands-on format for exploring Patch, collaborating,
     and learning, which we’re touring with event partners. Invited artists get a singular
