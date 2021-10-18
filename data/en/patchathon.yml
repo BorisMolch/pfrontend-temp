@@ -8,13 +8,13 @@ intro:
     inventors, and gamers.'
   enable: true
   formlink: https://forms.gle/17Ae3HQwYvLWzeXB8
-  banner: "/uploads/pathathon-lastcall.jpg"
+  banner: "/uploads/patchathon.png"
   title1: WHAT'S PATCHATHON?
-  section1: "Make your own musical world in VR, then perform with it live online for
-    an audience at A MAZE. / Berlin 2021. Learn direct from the developers who built
-    the Patch platform, hone your skills, and create an amazing new work. For our
-    second edition, we're excited to focus on team creation and collaboration - to
-    get closer to one another again. \n\nApplication and participation is free."
+  section1: "Make your own musical world in VR and share skills and imagination with
+    others. Learn direct from the developers who built the Patch platform, hone your
+    skills, and create amazing new work. For our third edition, we're focusing on
+    new ways of sharing and collaborating with expanded online features.\n\nApplication
+    and participation is free. "
   title2: WHAT'S PATCH?
   section2: 'Patch is a complete, immersive environment to create interactive music
     world and instruments in VR. As game engines disrupt the whole entertainment landscape,
@@ -30,41 +30,36 @@ intro:
     - Game developers
     ... and anyone passionate about pushing the boundaries of sound, and multi-sensory integrated performances.
 
-    12 applicants (or collectives) will be selected by a jury of experts to participate and showcase their work at A MAZE. / Berlin 2021
+    Space is limited to maximize quality time with our team. Selected participants' work will be featured with the NG21 online audience.
   title4: WHERE AND WHEN
   section4: |-
-    *DEADLINE EXTENDED!*
-    Apply by Wednesday 23 June, 23:59 CET
-    (notification by Friday 25 June)
+    *DEADLINE*
+    Apply by Friday 22 October 23:59 CET.
+    We'll notify selected participants by 23 October.
 
-    16-24 July Online working sessions (on-site in Berlin 21-24.07)
+    29 October - 5 November: online working sessions
+    5 November: Presentation to NG21 (featuring highlights from selected participants)
 
-    24 July final live show at A MAZE Festival (Berlin + streamed online)
-
-    Patchathon #2 will take place in a hybrid format. We will fully support online international artists. Depending on regulations and safety at the time, we may also open up a physical presence for use by online performers and a limited number of artists local to Berlin.
+    Patchathon #3 will take place fully online. We will accommodate international time zones to the best of our ability (expect morning in Americas, afternoon-evening in Europe and Africa, evening-night in Asia and Pacific)
   title5: WHAT YOU'LL NEED
-  section5: "*Access to a VR headset:*  PC VR (recommended): HTC Vive, Oculus Rift
-    S, Oculus Quest + Link.\n*Standalone:* Oculus Quest 1 & 2\n*Minimum-spec PC:*
-    Windows 10, 64-bit, Intel Core i5-2500K, GPU (GeForce GTX 970), 8GB RAM.\nCoding
-    skills are not needed, but some experience with digital music creation is essential.\n\nWith
-    the help of Oculus, we are giving away 3 VR headsets to Patchathon participants
-    who currently don't have access to one. If you don't have a VR Headset, but want
-    to apply to this year's Patchathon, you will also be able to apply for a headset
-    in this form. "
+  section5: |-
+    *Access to a VR headset:*  PC VR (recommended): HTC Vive, Oculus Rift S, Oculus Quest + Link.
+    *Standalone:* Oculus Quest 1 & 2
+    *Minimum-spec PC:* Windows 10, 64-bit, Intel Core i5-2500K, GPU (GeForce GTX 970), 8GB RAM.
+    Coding skills are not needed, but some experience with digital music creation is essential.
   title6: WHAT YOU'LL GET
-  section6: You’ll get access to the full, free license for the beta Patch tools to
-    use on your machine. Learn via intensive remote workshops with the PatchXR team.
-    Mingle and team up with a group of international cutting-edge artists. Get individual
-    support to let you create something truly awesome. And finish with a completed
-    musical VR performance to share with the public!
+  section6: |-
+    You’ll get access to the full, free license for the beta Patch tools to use on your machine. Learn via intensive remote workshops with the PatchXR team. Mingle and team up with a group of international cutting-edge artists. Get individual support to let you create something truly awesome. And finish with a completed musical VR performance to share with the public! (We will select works to further highlight online.)
+
+    All participants will also get a full pass to the NG21 program. Check it out at [https://conf.nordicgame.com/](https://conf.nordicgame.com/].
   title7: GOT QUESTIONS?
   section7: |-
     Wondering what Patch and the Patchathon are about, and whether you should apply? Looking for collaborators? Or want to chat and meet the team?
 
     Check the [Patch FAQ](https://patchxr.com/faq) and [join our Discord](https://discord.gg/s3AjXepvWR) to chat with the community and ask us anything.
   title8: PARTNERS
-  section8: 'Patchathon #02 is proudly co-hosted with [A MAZE. / Berlin 2021](https://amaze-berlin.de),
-    the international festival of games and playful media.'
+  section8: Patch XR and the Patchathon is part of the Swiss delegation at [NG21 Autumn](https://conf.nordicgame.com/)
+    and presented by [SwissGames](https://www.swissgames.net/?lang=en).
 promo:
   enable: true
   video_thumb: images/faces2.jpg
