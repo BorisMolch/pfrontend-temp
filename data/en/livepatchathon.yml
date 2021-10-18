@@ -76,6 +76,13 @@ event:
   enable: true
   title: Patchathon event calendar
   event_post:
+  - title: NG21 Nordic Games Autumn.
+    location: Copenhagen / Online
+    deadlines:
+    - 22.10.2021
+    details: ''
+    form_action: https://forms.gle/17Ae3HQwYvLWzeXB8
+    points: ''
   - title: 'A MAZE. / Total Digital 2021 / Patchathon #2'
     location: 16 - 24 July 2021, Online
     deadlines:
