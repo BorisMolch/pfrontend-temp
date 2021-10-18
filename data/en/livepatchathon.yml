@@ -75,8 +75,8 @@ event:
   enable: true
   title: Patchathon event calendar
   event_post:
-  - title: NG21 Nordic Games Autumn.
-    location: Copenhagen / Online
+  - title: 'NG21 Nordic Games Autumn. / Patchathon #3'
+    location: 27 October - 5 November 2021, Online
     deadlines:
     - 22.10.2021
     details: ''
