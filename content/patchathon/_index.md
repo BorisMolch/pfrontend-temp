@@ -1,6 +1,6 @@
 ---
-title: "Patchathon #02"
+title: "Patchathon #03"
 draft: false
-description : "Create your own interactive music worlds, in a online, week-long playground!"
-image: "/images/patchathon2-social.jpg"
+description : "Patchathon #3 is bound for Nordic Game NG21 Autumn. We're hosting a fully online, intensive, hands-on week-long workshop for artists, musicians, sound inventors, and gamers."
+image: "/uploads/patchathon.png"
 ---

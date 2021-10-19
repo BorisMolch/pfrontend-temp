@@ -20,111 +20,18 @@
 
 }
 </style>
-{{ with $data.livepatchathon.intro }}
+{{ with $data.patchathon.intro }}
 <!-- Hero image -->
 <div class="container">
 <div class="row">
-  <div class="bannerhero mt-5">
-
-
-    <style>
-
-      @media screen and (min-width: 850px) {
-        .twitch {
-          position: relative;
-        }
-
-        .twitch .twitch-video {
-          width: 75%;
-          /* padding-top: 42.1875%; */
-          height: 75vh;
-        }
-
-        .twitch .twitch-chat {
-          width: 25%;
-          height: auto;
-          position: absolute;
-          top: 0;
-          right: 0;
-          bottom: 0;
-        }
-      }
-
-      </style>
-
-
-      {{ if $data.patchathon.twitch.enable }}
-      {{ with $data.patchathon.twitch }}
-
-    <div class="twitch">
-      <div class="twitch-video">
-        <iframe
-          src="https://player.twitch.tv/?channel=patchxr&parent=patchxr.com&autoplay=false"
-          frameborder="0"
-          scrolling="no"
-          allowfullscreen="true"
-          height="100%"
-          width="100%">
-        </iframe>
-      </div>
-      <div class="twitch-chat">
-        <iframe
-          frameborder="0"
-          scrolling="no"
-          src="https://www.twitch.tv/embed/patchxr/chat?parent=patchxr.com"
-          height="100%"
-          width="100%">
-        </iframe>
-      </div>
-    </div>
-{{ end }}
-{{ end }}
-
-
-<!-- Participant video -->
-
-
-{{ "<!-- Patchathon -->" | safeHTML }}
-{{ if $data.patchathon.promo.enable }}
-{{ with $data.patchathon.promo }}
-
-
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="block">
-          <div class="video" data-aos="fade-in">
-            <img class="img-fluid shadow" src="{{ .video_thumb_webp | absURL }}"
-              onerror="this.onerror=null;this.src='{{ .video_thumb | absURL }}'" alt="video-thumbnail">
-            <div class="video-button video-box">
-              <a href="javascript:void(0)">
-                <i class="tf-ion-play" data-video="{{ .video_embed_url }}"></i>
-              </a>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-
-    </div>
-  </div>
-
-{{ end }}
-{{ end }}
-{{ "<!-- End of Patchathon -->" | safeHTML }}
-
-
-
-
-    <!-- <img src="{{ .banner }}" data-aos="fade-in" > -->
+  <div class="bannerhero">
+    <img src="{{ .banner }}" data-aos="fade-in" >
     <div class="col-12 col-lg-12 m-auto text-center">
-
-
       <h1 class="mt-3 patchathon_title">{{ .megatitle }}</h1>
     <h2 class="text-center">{{ .title }}</h2>
     <p class=" mb-5">{{ .widetext }} </p>
-      </div>
+     <a href="{{ .formlink }}" target="_blank"> <button type="submit" class="btn btn-main-md">{{ i18n "apply" }}</button></a>
+    </div>
   </div>
 </div>
 </div>
@@ -135,10 +42,10 @@
 <!-- Social Share buttons -->
 {{ $title := .Title }}
 {{ $url := printf "%s" .Permalink }}
-{{ $body := "Make your own musical world, then perform with it live online for an audience at A MAZE. / Berlin 2021. \n\n https://www.patchxr.com/ " }}
+{{ $body := "Patchathon #3 is bound for Nordic Game NG21 Autumn. We're hosting a fully online, intensive, hands-on week-long workshop for artists, musicians, sound inventors, and gamers. \n\n https://www.patchxr.com/ " }}
 
 <h3 class="text-center mt-3">
-  <a href="https://twitter.com/intent/tweet?hashtags=patchathon,amaze2021,playfulmedia&amp;url={{ .Permalink }}&amp;text=Make your own musical world, then perform with it live online for an audience at A MAZE. / Berlin 2021. @patch_xr @AMazeFest
+  <a href="https://twitter.com/intent/tweet?hashtags=patchathon,NG21,playfulmedia&amp;url={{ .Permalink }}&amp;text={{ $body }} @patch_xr
    https://www.patchxr.com/patchathon" target="_blank" rel="noopener" aria-label="Share on Twitter" class="share-btn twitter">
   <ion-icon name="logo-twitter" size="large"></ion-icon>
   </a>
@@ -155,7 +62,7 @@
         <ion-icon name="logo-linkedin" size="large"></ion-icon>
         </a>
 
-    <a href="mailto:?subject=Patchathon #02 - {{ .title }}.&amp;body={{ $body }}" target="_blank" class="share-btn emaillink">
+    <a href="mailto:?subject=Patchathon #03 - {{ .title }}.&amp;body={{ $body }}" target="_blank" class="share-btn emaillink">
       <ion-icon name="mail-outline" size="large"></ion-icon>
     </a><br>Share with friends!<br>
 </h3>
@@ -203,17 +110,23 @@
 <div class="row" data-aos="fade-up">
   <div class="col-md-6 "><h2 class="cool">{{ .title8 }}</h2></div>
   <div class="col-md-6 mb-5">
+
      <!--A MAZE. Social media-->
-    <img src="/images/a-maze-white.svg" width="50%" style="padding-top: 20px" class="mb-3">
+    <a href="https://nordicgame.com" target="_blank">
+      <img src="/images/partners/nordicgame.png" width="50%" style="padding-right: 30px; padding-top: 20px" class="mb-3">
+    </a>
+<a href="https://swissgames.ch" target="_blank">
+  <img src="/images/partners/swissgames.png" width="40%" style="padding-top: 20px" class="mb-3">
+</a>
     <p>{{ .section8 | markdownify }}</p>
-    <p><a href="https://amaze-berlin.de" target="_blank">amaze-berlin.de</a>
+    <!--<p><a href="https://amaze-berlin.de" target="_blank">amaze-berlin.de</a>
       #AMaze2021 #playfulmedia<br>
 
       <a href="https://www.facebook.com/amaze.festival" target="_blank"><ion-icon name="logo-facebook" size="large"></ion-icon></a>
       <a href="https://instagram.com/a_mazefest" target="_blank"><ion-icon name="logo-instagram" size="large"></ion-icon></a>
       <a href="https://twitter.com/AMazeFest" target="_blank">
       <ion-icon name="logo-twitter" size="large"></ion-icon></a>
-      <a href="https://discord.gg/ff3t7ufvkM" target="_blank"><ion-icon name="logo-discord" size="large"></ion-icon></a><br>
+      <a href="https://discord.gg/ff3t7ufvkM" target="_blank"><ion-icon name="logo-discord" size="large"></ion-icon></a><br> -->
 
     </p>
 
@@ -223,6 +136,37 @@
 </div>
 
 {{ end }}
+
+<!-- Participant video -->
+
+
+{{ "<!-- Patchathon -->" | safeHTML }}
+{{ if $data.patchathon.promo.enable }}
+{{ with $data.patchathon.promo }}
+
+
+  <div class="container">
+    <h2 class="cool mb-3" data-aos="fade-up">{{ .videotitle }}</h2>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <div class="video" data-aos="fade-in">
+            <img class="img-fluid shadow" src="{{ .video_thumb_webp | absURL }}"
+              onerror="this.onerror=null;this.src='{{ .video_thumb | absURL }}'" alt="video-thumbnail">
+            <div class="video-button video-box">
+              <a href="javascript:void(0)">
+                <i class="tf-ion-play" data-video="{{ .video_embed_url }}"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+{{ end }}
+{{ end }}
+{{ "<!-- End of Patchathon -->" | safeHTML }}
 
 
 
@@ -247,7 +191,6 @@
   </div>
 </section>
 {{ "<!-- End of Community -->" | safeHTML }}
-
 
 <!-- Apply Button -->
 {{ with $data.patchathon.intro }}
@@ -288,8 +231,8 @@
 
 
 {{ "<!-- Patchathon Event lists -->" | safeHTML }}
-{{ if $data.livepatchathon.event.enable }}
-{{ with $data.livepatchathon.event }}
+{{ if $data.patchathon.event.enable }}
+{{ with $data.patchathon.event }}
 <section class="job-list section pt-0">
   <div class="container" >
     <div class="row">
