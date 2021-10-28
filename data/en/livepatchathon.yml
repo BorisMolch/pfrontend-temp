@@ -58,13 +58,13 @@ intro:
 
     Check the [Patch FAQ](https://patchxr.com/faq) and [join our Discord](https://discord.gg/s3AjXepvWR) to chat with the community and ask us anything.
 promo:
-  enable: true
+  enable: false
   video_thumb: images/faces2.jpg
   videotitle: HEAR FROM LAST YEAR'S PARTICIPANTS
   communitytitle: WATCH THE WORKS THEY MADE
   video_embed_url: https://www.youtube.com/embed/dAheG6W3QAE?autoplay=1
 twitch:
-  enable: false
+  enable: true
 gallery:
   enable: false
   gallery_item:
@@ -81,7 +81,8 @@ event:
     - 22.10.2021
     details: ''
     form_action: https://forms.gle/17Ae3HQwYvLWzeXB8
-    points: ''
+    points:
+      -
   - title: 'A MAZE. / Total Digital 2021 / Patchathon #2'
     location: 16 - 24 July 2021, Online
     deadlines:
