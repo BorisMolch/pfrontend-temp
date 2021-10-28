@@ -1,4 +1,6 @@
 ---
+twitch:
+  enable: true
 intro:
   megatitle: ''
   hypertitle: PATCH & PLAY
