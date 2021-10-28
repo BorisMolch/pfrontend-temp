@@ -2,10 +2,10 @@
 author = ""
 ctalink = ""
 ctatext = ""
-date = ""
+date = 2021-10-28T22:00:00Z
 description = ""
 draft = true
-image = ""
+image = "/uploads/chris_howard_the_rattle.jpg"
 title = "Want to understand the musical metaverse? Listen to The Rattle's CEO"
 type = ""
 
