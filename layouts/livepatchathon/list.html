@@ -3,43 +3,35 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
 <style>
-
 .bannerhero img {
   padding-top: 60px;
   width: 100%;
   height: auto;
 }
-
 .cool {
   color: deeppink!important
 }
-
 .hoverin a:hover {
-
   color: yellow!important
-
 }
 </style>
+
  {{ with $data.livepatchathon.intro }}
 <!-- Hero image -->
 <div class="container">
 <div class="row">
   <div class="bannerhero mt-5">
 
-
     <style>
-
       @media screen and (min-width: 850px) {
         .twitch {
           position: relative;
         }
-
         .twitch .twitch-video {
           width: 75%;
           /* padding-top: 42.1875%; */
           height: 75vh;
         }
-
         .twitch .twitch-chat {
           width: 25%;
           height: auto;
@@ -49,9 +41,7 @@
           bottom: 0;
         }
       }
-
       </style>
-
 
       {{ if $data.patchathon.twitch.enable }}
       {{ with $data.patchathon.twitch }}
@@ -85,13 +75,13 @@
 
 
 {{ "<!-- Patchathon -->" | safeHTML }}
-{{ if $data.patchathon.promo.enable }}
-{{ with $data.patchathon.promo }}
+{{ if $data.livepatchathon.promo.enable }}
+{{ with $data.livepatchathon.promo }}
 
 
   <div class="container">
     <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-12"> 
         <div class="block">
           <div class="video" data-aos="fade-in">
             <img class="img-fluid shadow" src="{{ .video_thumb_webp | absURL }}"
