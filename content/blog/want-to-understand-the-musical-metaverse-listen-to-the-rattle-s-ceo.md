@@ -9,7 +9,7 @@ title = "Want to understand the musical metaverse? Listen to The Rattle's CEO"
 type = ""
 
 +++
-Now the "metaverse" is blowing up as a buzzword - decades after its first appearance in science fiction - with of course a major boost from Facebook, now renamed Meta. But what does the metaverse actually mean - especially for music?
+Now the "metaverse" is blowing up as a buzzword - decades after its first appearance in science fiction - with a major boost from Facebook, now renamed Meta. But what does the metaverse actually mean - especially for music?
 
 Chris Howard, CEO of The Rattle, is one of the few visionaries in creative tech who can explain that in clear, informed, and imaginative terms. He uses our tech here at Patch as an illustration of where this whole juggernaut is going. (The Rattle is an exclusive venture-building company based in LA and London, assisting artists, hackers, and inventors achieve success. We're lucky to get to know and work with them.)
 
@@ -19,7 +19,7 @@ And if you're exhausted by boredom with music as a sort of fame-driven brand ide
 
 Here's where Patch fits in, in Howard's view:
 
->There are tech companies like Patch XR making metaverse soundscape tools - a digital audio workstation in the metaverse, so that sound artists can create interactive metaverse soundscapes for anything ... They can put it into a game - anywhere they want ... It's early signs of these technologies allowing sound artists to build for the metaverse. But it's a completely different psychology.
+> There are tech companies like Patch XR making metaverse soundscape tools - a digital audio workstation in the metaverse, so that sound artists can create interactive metaverse soundscapes for anything ... They can put it into a game - anywhere they want ... It's early signs of these technologies allowing sound artists to build for the metaverse. But it's a completely different psychology.
 
 Check out the whole enlightening interview at the wonderful MusicAlly:
 
