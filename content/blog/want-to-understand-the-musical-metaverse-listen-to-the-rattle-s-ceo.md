@@ -23,4 +23,4 @@ Here's where Patch fits in, in Howard's view:
 
 Check out the whole enlightening interview at the wonderful MusicAlly:
 
-[https://overcast.fm/+aFIAjYcdw](https://overcast.fm/+aFIAjYcdw " The Music Ally Podcast Focus #36: Chris Howard")
+[The Music Ally Podcast Focus #36](https://overcast.fm/+aFIAjYcdw "Listen now")
