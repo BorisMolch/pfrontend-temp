@@ -4,10 +4,9 @@ ctalink = "https://www.abbeyroad.com/news/announcing-the-abbey-road-red-playroom
 ctatext = "Abbey Road Red Playroom"
 date = 2021-11-08T23:00:00Z
 description = "The historic London studio is hosting innovative music technologies of the future as part of its 90th anniversary - and you can find Patch XR there."
-draft = true
 image = "/uploads/classic3abbeyroadstud-l.jpg"
 title = "We're headed to Abbey Road's legendary Studio Three for the Red Playroom"
-type = ""
+type = "post"
 
 +++
 It's the studio where Pink Floyd recorded _The Dark Side of the Moon_. In recent years, it's been home to the likes of Sir Paul McCartney, Florence & the Machine, and Nile Rodgers. But in honor of Abbey Road's 90th anniversary, the landmark [Studio Three](https://www.abbeyroad.com/studio-three) venue plays host to the creative music technologies of tomorrow - including Patch XR.
