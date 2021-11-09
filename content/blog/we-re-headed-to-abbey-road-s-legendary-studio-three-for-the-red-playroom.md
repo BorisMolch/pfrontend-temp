@@ -1,5 +1,5 @@
 +++
-author = ""
+author = "PatchXR"
 ctalink = "https://www.abbeyroad.com/news/announcing-the-abbey-road-red-playroom-as-part-of-our-amplify-festival-3064"
 ctatext = "Abbey Road Red Playroom"
 date = 2021-11-08T23:00:00Z
