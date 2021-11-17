@@ -3,7 +3,6 @@ author = "Maša Dobrina"
 bio = ""
 date = 2021-11-04T23:00:00Z
 description = "A patch testing music theory logic and hearing the results."
-draft = true
 featured_patch = false
 image = "/uploads/donkon.jpg"
 link1 = "https://creative-goods.si/"
