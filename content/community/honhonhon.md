@@ -1,7 +1,7 @@
 +++
 author = "Julien Deblois (debmaster)"
 bio = "Debmaster aka Julien Deblois is known as a beat producer from the hyperactive scene of Kampala (Nyege Nyege) and currently touring all over Europe with MC Yallah. He is very enthusiast about what VR brings to the playground, being able to express something artistic in many different ways is what triggers his creativity"
-date = 2021-11-04T23:00:00Z
+date = 2021-11-05T23:00:00Z
 description = "Shiba launcher ? It is indeed possible"
 featured_patch = true
 image = "/uploads/honhonhon.jpg"
