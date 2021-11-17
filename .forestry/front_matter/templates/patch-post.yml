@@ -51,6 +51,7 @@ fields:
       format: markdown
   label: Bio
 pages:
+- content/community/baby-machine.md
 - content/community/desierta.md
 - content/community/heisenhade.md
 - content/community/honhonhon.md
