@@ -10,6 +10,6 @@ link2 = "https://debmaster.hotglue.me/"
 location = "Berlin"
 title = "Honhonhon"
 twitter = "https://twitter.com/_DEBMASTER_"
-video = "h8gMbbDVSptg"
+video = "8gMbbDVSptg"
 
 +++
