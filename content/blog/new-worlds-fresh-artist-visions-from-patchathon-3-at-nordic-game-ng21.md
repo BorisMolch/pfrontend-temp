@@ -33,3 +33,5 @@ With whispered, almost ASMR spatialized speech, **Raphael Raccuia** made a Patch
 Patch creations may be performances, interactive experiences, or something in between. For **Heisenhade** - a play on the setting, Berlin's Hasenheide Park - artists use Patch to tell the story of a pandemic encounter between partiers and police in the techno capital. **Charlotte Roschka, Julia Cremers, and Daniel Herrmannsdoerfer** work together as artists and researchers in VR.
 
 Each time, Patchathon finds itself somewhere new. We can't wait to see where it will go next. Stay tuned here to find out.
+
+**_Patch XR and the Patchathon is part of the Swiss delegation at NG21 Autumn and presented by_** [**_SWISSGAMES_**](https://www.facebook.com/swissgames/?__cft__\[0\]=AZWMmIMmL2AmYagrXqyIwqPZjWAWbRuYBWNRX0cygu4Qh7G2uuOXkuaMqAbt_HCclXt5Vi6s82lRxyRXircfuy9Ivzhi07GoY4IBpyOUUgGoM7jyAxsZv3VBGqQwSuv8OchwLJOVr6WxsqMb2k2_SLXuC99ei92g6GQO-NBUJGHFptOQ3IQCAJ3YHiQ80j0tBM8&__tn__=kK-R)**_._**
