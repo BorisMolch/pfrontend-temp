@@ -14,6 +14,8 @@ Each time we turn artists loose with Patch, surprises await. It's not only that 
 
 Our third international artist-driven Patchathon had as its background Nordic Games conference NG21 in Copenhagen. NG21 Autumn, like other events this year, had to go to a fully online format. As in the previous two editions, the Patchathon was ready for virtual events, with artists spanning North and South America and Europe.
 
+Maybe the best aspect of hosting Patchathons is making new connections - some of which last. The last edition saw multi-taltented French musician and singer Louis-Louise Kay, aka **MOWIKUS**, meet up with Ted Pallas and New Jersey creative studio **SAVAGES**. They returned for NG21 to present a new virtual environment for the achingly gorgeous song **"Can Be Reclaimed,"** architecture and organic forms bathed in color and pulsing to the music. It's a multi-layered collaboration that required the full skill sets of this team - like forming a new band. 
+
 Patchathon often involves developers sharing a skill, then artists working to elaborate an etude based on that technique. In the poetic **_Pan to Pan_** by **Ze (Zongxian Huang)**, that's taken to an _nth_ extreme, with a fountain of literal frying pan objects placed as the sculptural centerpiece of an abstract world.
 
 Ze chose pans; composer-developer-researcher **Phivos-Angelos Kollias** chose creepy floating babies. **Baby Machine **is intentionally "grotesque" according to its creator, plunging users into an eerie dreamscape with a soundtrack that ebbs and flows as you move through space.
@@ -29,3 +31,5 @@ Working in Patch is part world building, part instrument building - with tools t
 With whispered, almost ASMR spatialized speech, **Raphael Raccuia** made a Patch creation any Dadaist would love. Patch's cranks and dials turn up the oddness in this work based on a _poésie sonore_ with Nicolas Carrel. This sort of "phonetic poetry" has a long history - the term coming from mid-century - but we all know the sounds as in the title **Bla**.
 
 Patch creations may be performances, interactive experiences, or something in between. For **Heisenhade** - a play on the setting, Berlin's Hasenheide Park - artists use Patch to tell the story of a pandemic encounter between partiers and police in the techno capital. **Charlotte Roschka, Julia Cremers, and Daniel Herrmannsdoerfer** work together as artists and researchers in VR.
+
+Each time, Patchathon finds itself somewhere new. We can't wait to see where it will go next. Stay tuned here to find out.
