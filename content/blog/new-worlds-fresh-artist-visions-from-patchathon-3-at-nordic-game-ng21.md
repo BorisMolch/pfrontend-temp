@@ -5,7 +5,7 @@ ctatext = ""
 date = ""
 description = "Turn down the lights, turn up the sound, and check out the dazzling third showcase of invited international artists producing new Patch creations."
 draft = true
-image = ""
+image = "/uploads/cannbereclaimed.jpg"
 title = "New worlds, fresh artist visions from Patchathon #3 at Nordic Game NG21"
 type = ""
 
