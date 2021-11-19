@@ -18,6 +18,8 @@ Patchathon often involves developers sharing a skill, then artists working to el
 
 Ze chose pans; composer-developer-researcher **Phivos-Angelos Kollias** chose creepy floating babies. **Baby Machine **is intentionally "grotesque" according to its creator, plunging users into an eerie dreamscape with a soundtrack that ebbs and flows as you move through space.
 
+**Debmaster** aka Julien Deblois is a beat producer out of the ultra-hot scene in Kampala (home to Nyege Nyege festival and label). His creation **Honhonhon** launches shiba figures and propels massive beats. 
+
 Users come from a range of backgrounds and at a variety of stages in their development. **Tim Thompson** has decades of experience in intermedia with the likes of Bell Labs. For his Patchathon hack, he fused Patch with his own generative, analog video synthesis-style visual music system, Space Palette Pro. **PaletteXR** is just a first experiment, but it already recalls some of the history of video synthesis and demonstrates that Patch can be a control mechanism for other environments, too.
 
 Working in Patch is part world building, part instrument building - with tools to make any result more musical. **Maša Dobrina** constructed a playful interactive instrument that fits rhythm and pitch (no "wrong notes") into a massive sequencer. That makes an endless, frenetic, game-like soundtrack in the quirky **Duckoon**.
