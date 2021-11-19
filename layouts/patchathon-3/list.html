@@ -147,36 +147,7 @@
 
 {{ end }}
 
-<!-- Participant video -->
 
-
-{{ "<!-- Patchathon -->" | safeHTML }}
-{{ if $data.patchathon.promo.enable }}
-{{ with $data.patchathon.promo }}
-
-
-  <div class="container">
-    <h2 class="cool mb-3" data-aos="fade-up">{{ .videotitle }}</h2>
-    <div class="row">
-      <div class="col-md-12">
-        <div class="block">
-          <div class="video" data-aos="fade-in">
-            <img class="img-fluid shadow" src="{{ .video_thumb_webp | absURL }}"
-              onerror="this.onerror=null;this.src='{{ .video_thumb | absURL }}'" alt="video-thumbnail">
-            <div class="video-button video-box">
-              <a href="javascript:void(0)">
-                <i class="tf-ion-play" data-video="{{ .video_embed_url }}"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-{{ end }}
-{{ end }}
-{{ "<!-- End of Patchathon -->" | safeHTML }}
 
 
 
@@ -239,16 +210,47 @@
 {{ end }}
 {{ "<!-- End of Gallery -->" | safeHTML }}
 
+<!-- Participant video -->
+
+
+{{ "<!-- Patchathon -->" | safeHTML }}
+{{ if $data.patchathon.promo.enable }}
+{{ with $data.patchathon.promo }}
+
+
+  <div class="container">
+    <h2 class="cool mb-3" data-aos="fade-up">{{ .videotitle }}</h2>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <div class="video" data-aos="fade-in">
+            <img class="img-fluid shadow" src="{{ .video_thumb_webp | absURL }}"
+              onerror="this.onerror=null;this.src='{{ .video_thumb | absURL }}'" alt="video-thumbnail">
+            <div class="video-button video-box">
+              <a href="javascript:void(0)">
+                <i class="tf-ion-play" data-video="{{ .video_embed_url }}"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+{{ end }}
+{{ end }}
+{{ "<!-- End of Patchathon -->" | safeHTML }}
+
 
 {{ "<!-- Patchathon Event lists -->" | safeHTML }}
 {{ if $data.patchathon.event.enable }}
 {{ with $data.livepatchathon.event }}
-<section class="job-list section pt-0">
+<section class="job-list section pt-5">
   <div class="container" >
     <div class="row">
       <div class="col-12 col-lg-12 m-auto">
         <div class="block">
-          <div class="title text-center" data-aos="fade-up">
+          <div class="title text-center cool" data-aos="fade-up">
             <h2>{{ .title }}</h2>
           </div>
           {{ $.Scratch.Set "counter" 0 }}
