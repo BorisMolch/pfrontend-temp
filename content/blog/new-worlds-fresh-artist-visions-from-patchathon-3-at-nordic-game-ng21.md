@@ -20,4 +20,6 @@ Ze chose pans; composer-developer-researcher **Phivos-Angelos Kollias** chose cr
 
 Users come from a range of backgrounds and at a variety of stages in their development. **Tim Thompson** has decades of experience in intermedia with the likes of Bell Labs. For his Patchathon hack, he fused Patch with his own generative, analog video synthesis-style visual music system, Space Palette Pro. **PaletteXR** is just a first experiment, but it already recalls some of the history of video synthesis and demonstrates that Patch can be a control mechanism for other environments, too.
 
-**Maša Dobrina** 
+Working in Patch is part world building, part instrument building - with tools to make any result more musical. **Maša Dobrina** constructed a playful interactive instrument that fits rhythm and pitch (no "wrong notes") into a massive sequencer. That makes an endless, frenetic, game-like soundtrack in the quirky **Duckoon**.
+
+ 
