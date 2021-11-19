@@ -4,7 +4,6 @@ ctalink = ""
 ctatext = ""
 date = 2021-11-19T00:00:00Z
 description = "Turn down the lights, turn up the sound, and check out a dazzling showcase of invited international artists."
-draft = true
 image = "/uploads/cannbereclaimed.jpg"
 title = "New worlds, fresh artist visions from Patchathon #3 at Nordic Game NG21"
 type = "post"
