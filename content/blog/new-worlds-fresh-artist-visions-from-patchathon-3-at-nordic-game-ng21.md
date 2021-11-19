@@ -1,8 +1,8 @@
 +++
-author = ""
+author = "Peter Kirn"
 ctalink = ""
 ctatext = ""
-date = ""
+date = 2021-11-19T00:00:00Z
 description = "Turn down the lights, turn up the sound, and check out the dazzling third showcase of invited international artists producing new Patch creations."
 draft = true
 image = "/uploads/cannbereclaimed.jpg"
