@@ -138,6 +138,9 @@
 
 			p {
 				margin-bottom: 20px;
+				margin-top: 20px;
+				margin-left: 5%;
+				margin-right: 5%;
 			}
 
 			.post-image {
@@ -145,6 +148,12 @@
 				margin: 0 auto;
 				margin-bottom: 20px;
 			}
+
+			iframe {
+				padding-bottom: 40px!important;
+				padding-top: 40px!important;
+				width: 95%!important;
+				margin-left: 2.5%; margin-right: 2.5%;}
 		}
 	}
 
