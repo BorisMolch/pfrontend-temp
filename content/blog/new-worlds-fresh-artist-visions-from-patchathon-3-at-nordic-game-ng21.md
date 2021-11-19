@@ -51,9 +51,9 @@ Patch creations may be performances, interactive experiences, or something in be
 
 Each time, Patchathon finds itself somewhere new. We can't wait to see where it will go next. Stay tuned here to find out.
 
-**_Patch XR and the Patchathon is part of the Swiss delegation at NG21 Autumn and presented by_** [**_SWISSGAMES_**](https://www.facebook.com/swissgames/?__cft__\[0\]=AZWMmIMmL2AmYagrXqyIwqPZjWAWbRuYBWNRX0cygu4Qh7G2uuOXkuaMqAbt_HCclXt5Vi6s82lRxyRXircfuy9Ivzhi07GoY4IBpyOUUgGoM7jyAxsZv3VBGqQwSuv8OchwLJOVr6WxsqMb2k2_SLXuC99ei92g6GQO-NBUJGHFptOQ3IQCAJ3YHiQ80j0tBM8&__tn__=kK-R)**_._**
+**Patch XR and the Patchathon is part of the Swiss delegation at NG21 Autumn and presented by [**SWISSGAMES**](https://www.facebook.com/swissgames/).**
 
-_Full list of participating artists for Patchathon #3 @ NG21 Autumn:_
+Full list of participating artists for Patchathon #3 @ NG21 Autumn:
 
 Ana Roman (US)|  
 Andrés Cisneros (PE)  
