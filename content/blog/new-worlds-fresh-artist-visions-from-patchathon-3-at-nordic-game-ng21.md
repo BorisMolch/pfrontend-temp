@@ -51,7 +51,7 @@ Patch creations may be performances, interactive experiences, or something in be
 
 Each time, Patchathon finds itself somewhere new. We can't wait to see where it will go next. Stay tuned here to find out.
 
-**Patch XR and the Patchathon is part of the Swiss delegation at NG21 Autumn and presented by [**SWISSGAMES**](https://www.facebook.com/swissgames/).**
+**PatchXR and this Patchathon were part of the Swiss delegation at NG21 Autumn and presented by [**SWISSGAMES**](https://www.facebook.com/swissgames/).**
 
 Full list of participating artists for Patchathon #3 @ NG21 Autumn:
 
@@ -68,4 +68,4 @@ Sara Lisa Vogl (DK)
 Sinbiox (RU)  
 Tim Thompson (US)  
 Tobi Tokamak (ES)  
-Zongxian Huang (US)
+Ze (Zongxian Huang) (US)
