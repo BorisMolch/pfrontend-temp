@@ -7,7 +7,7 @@ description = "Turn down the lights, turn up the sound, and check out the dazzli
 draft = true
 image = "/uploads/cannbereclaimed.jpg"
 title = "New worlds, fresh artist visions from Patchathon #3 at Nordic Game NG21"
-type = ""
+type = "post"
 
 +++
 Each time we turn artists loose with Patch, surprises await. It's not only that each outcome can sound and look unique, it's that artists all find different things they want to say with the medium. There's a strict time limit - under a week to make these works - but unlimited possibilities.
