@@ -14,7 +14,7 @@ During these 2 demo days at Abbey Road, we had a blast and met awesome artists, 
 
 We loved showcasing our platform to so many talented and innovative people!
 
-![](/uploads/abby.jpg ")
+![](/uploads/abby.jpg)
 
 And they love it too!
 
@@ -28,6 +28,6 @@ Producers, musicians,researchers,rappers,comedians,audiophile,inventors investor
 {{< youtube u7H-5z346ls >}}
 
 Edo "le magnific"
-![](/uploads/edoat-abbeyroad.jpg ")
+![](/uploads/edoat-abbeyroad.jpg)
 
 Until next time friends!!!
