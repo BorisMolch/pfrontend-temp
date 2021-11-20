@@ -21,7 +21,7 @@ Patchathon often involves developers sharing a skill, then artists working to el
 
 {{< youtube CzJxL23DmPs >}}
 
-Ze chose pans; composer-developer-researcher **Phivos-Angelos Kollias** chose creepy floating babies. **Baby Machine **is intentionally "grotesque" according to its creator, plunging users into an eerie dreamscape with a soundtrack that ebbs and flows as you move through space.
+Ze chose pans; composer-developer-researcher **Phivos-Angelos Kollias** chose creepy floating babies. **Baby Machine** is intentionally "grotesque" according to its creator, plunging users into an eerie dreamscape with a soundtrack that ebbs and flows as you move through space.
 
 {{< youtube kmXaBAaNFgY >}}
 
