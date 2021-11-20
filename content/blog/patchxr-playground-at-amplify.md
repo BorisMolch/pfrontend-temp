@@ -10,9 +10,9 @@ title = "PatchXR in Studio3"
 type = ""
 
 +++
-During these 2 demo days at Abbey Road, we had a blast and met awesome musicians and future collaborators . If Edo has been going there a few time in the past 3 years for their famously intense Hackathons, Melo met the RED team Mirek, Karim and David for the first time.
+During these 2 demo days at Abbey Road, we had a blast and met awesome artists, and future collaborators . If Edo has been going to the mythic  studio a few time in the last 3 years for their famously intense Hackathons, Melo met the RED team Mirek, Karim and David for the first time and it was GREAT!
 
-We loved showcasing our platform to so many great people!
+We loved showcasing our platform to so many talented and innovative people!
 
 ![](/uploads/abby.jpg ")
 
@@ -27,4 +27,7 @@ Producers, musicians,researchers,rappers,comedians,audiophile,inventors investor
 {{< youtube 3FEaAALKi0I >}}
 {{< youtube u7H-5z346ls >}}
 
-![](/uploads/abby.jpg ")
+Edo the magnific
+![](/uploads/edoat-abbeyroad.jpg ")
+
+Until next time friends!!!
