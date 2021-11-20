@@ -22,12 +22,13 @@ And they love it too!
 
 {{< youtube OZksb7G7xTs >}}
 
-Next to us, Vochlea with its Dubler 2 voice-to-midi software, COTODAMA's, Odd Ball's super fun midi controller ball, Spitfire Audio,  MI.MU and much more!.
+Next to us, Vochlea with its Dubler 2 voice-to-midi software, Odd Ball with its super fun midi controller ball, COTODAMA,Spitfire Audio,  MI.MU and much more...
 
 {{< youtube 3FEaAALKi0I >}}
 {{< youtube u7H-5z346ls >}}
 
-Edo "le magnific"
+And here is the legendary Edo !
+
 ![](/uploads/edoat-abbeyroad.jpg)
 
 Until next time friends!!!
