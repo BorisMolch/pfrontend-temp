@@ -13,7 +13,7 @@ Each time we turn artists loose with Patch, surprises await. It's not only that 
 
 Our third international artist-driven Patchathon had as its background Nordic Games conference NG21 in Copenhagen. NG21 Autumn, like other events this year, had to go to a fully online format. As in the previous two editions, the Patchathon was ready for virtual events, with artists spanning North and South America and Europe.
 
-Maybe the best aspect of hosting Patchathons is making new connections - some of which last. The last edition saw multi-taltented French musician and singer Louis-Louise Kay, aka **MOWIKUS**, meet up with Ted Pallas and New Jersey creative studio **SAVAGES**. They returned for NG21 to present a new virtual environment for the achingly gorgeous song **"Can Be Reclaimed,"** architecture and organic forms bathed in color and pulsing to the music. It's a multi-layered collaboration that required the full skill sets of this team - like forming a new band. 
+Maybe the best aspect of hosting Patchathons is making new connections - some of which last. The last edition saw multi-taltented French musician and singer Louis-Louise Kay, aka **MOWUKIS**, meet up with Ted Pallas and New Jersey creative studio **SAVAGES**. They returned for NG21 to present a new virtual environment for the achingly gorgeous song **"Can Be Reclaimed,"** architecture and organic forms bathed in color and pulsing to the music. It's a multi-layered collaboration that required the full skill sets of this team - like forming a new band. 
 
 {{< youtube w-CnQxTXFD8 >}}
 
