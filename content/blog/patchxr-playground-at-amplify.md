@@ -3,7 +3,7 @@ author = "PatchXR"
 ctalink = ""
 ctatext = ""
 date = 2021-11-12T10:00:00Z
-description = "PatchXR is with a lineup of playful and innovative music start-up at Abbey Road Red for their 90th's anniversary celebration"
+description = "We are honored to share the playground with a lineup of playful and innovative music start-up shaping music making of the future. "
 draft = true
 image = "/uploads/img_2626.jpg"
 title = "PatchXR in Studio3"
@@ -16,13 +16,13 @@ We loved showcasing our platform to so many talented and innovative people!
 
 ![](/uploads/abby.jpg)
 
-And they love it too!
-
 {{< youtube AFZuwlpQWBo >}}
+
+And they love it too!
 
 {{< youtube OZksb7G7xTs >}}
 
-Producers, musicians,researchers,rappers,comedians,audiophile,inventors investors,students, designers...
+Next to us, Vochlea with its Dubler 2 voice-to-midi software, COTODAMA's, Odd Ball's super fun midi controller ball, Spitfire Audio,  MI.MU and much more!.
 
 {{< youtube 3FEaAALKi0I >}}
 {{< youtube u7H-5z346ls >}}
