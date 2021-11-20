@@ -4,7 +4,6 @@ ctalink = ""
 ctatext = ""
 date = 2021-11-12T10:00:00Z
 description = "We are honored to share the playground with start-up shaping the music making of the future. "
-draft = true
 image = "/uploads/img_2626.jpg"
 title = "PatchXR in Studio3"
 type = ""
@@ -18,7 +17,7 @@ We loved showcasing our platform to so many talented and innovative people!
 
 {{< youtube AFZuwlpQWBo >}}
 
-And they love it too!
+And they loved it too!
 
 {{< youtube OZksb7G7xTs >}}
 
