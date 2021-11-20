@@ -12,9 +12,9 @@ type = ""
 +++
 During these 2 demo days at Abbey Road, we had a blast and met awesome artists, and future collaborators . If Edo has been going to the mythic  studio a few time in the last 3 years for their famously intense Hackathons, Melo met the RED team Mirek, Karim and David for the first time and it was GREAT!
 
-We loved showcasing our platform to so many talented and innovative people!
-
 ![](/uploads/abby.jpg)
+
+We loved showcasing our platform to so many talented and innovative people!
 
 {{< youtube AFZuwlpQWBo >}}
 
