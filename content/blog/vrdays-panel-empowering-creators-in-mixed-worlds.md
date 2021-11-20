@@ -12,7 +12,7 @@ type = ""
 +++
 blablablablablablabla
 
-![](/uploads/abby.jpg)
+![](/uploads/vrdayseurope003.jpeg)
 
 bablblablabla
 
