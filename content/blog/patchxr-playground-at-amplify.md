@@ -27,7 +27,7 @@ Producers, musicians,researchers,rappers,comedians,audiophile,inventors investor
 {{< youtube 3FEaAALKi0I >}}
 {{< youtube u7H-5z346ls >}}
 
-Edo the magnific
+Edo "le magnific"
 ![](/uploads/edoat-abbeyroad.jpg ")
 
 Until next time friends!!!
