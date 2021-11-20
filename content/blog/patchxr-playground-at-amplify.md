@@ -6,13 +6,15 @@ date = 2021-11-12T10:00:00Z
 description = "PatchXR is with a lineup of playful and innovative music start-up at Abbey Road Red for their 90th's anniversary celebration"
 draft = true
 image = "/uploads/img_2626.jpg"
-title = "PatchXR at Amplify"
+title = "PatchXR in Studio3"
 type = ""
 
 +++
-The Mexico City-based duo is now unleashing their retina-popping visuals and rapid-fire percussions and musical textures on a hybrid MUTEK MX + JP audience for the second time. It’s a chance to glimpse a bright future just when that vision is most needed.
+During these 2 demo days at Abbey Road, we had a blast and met awesome musicians and future collaborators . If Edo has been going there a few time in the past 3 years for their famously intense Hackathons, Melo met the RED team Mirek, Karim and David for the first time.
 
-We got to speak to Mali virtually as the MUTEK session prepares - and catch up after seeing what this duo dazzled us with a fantastic set at last summer's collaborative Patchathon. As CNDSD, Mali is also known in live coding circles - working with environments that involve typing program code to spawn sonic materials - meaning this was also a chance to understand how that flat programming approach contrasts with physicality and spatiality.
+We loved showcasing our platform to so many great people!
+
+![](/uploads/capture-d-ecran-2021-05-07-a-11-17-27.jpg "Live coding mixed with Patch XR.")
 
 {{< vimeo 497847561 >}}
 
