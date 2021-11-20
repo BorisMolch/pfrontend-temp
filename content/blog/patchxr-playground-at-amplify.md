@@ -14,7 +14,7 @@ During these 2 demo days at Abbey Road, we had a blast and met awesome musicians
 
 We loved showcasing our platform to so many great people!
 
-![](/uploads/capture-d-ecran-2021-05-07-a-11-17-27.jpg "Live coding mixed with Patch XR.")
+![](/uploads/abby.jpg ")
 
 {{< vimeo 497847561 >}}
 
