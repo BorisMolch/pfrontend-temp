@@ -3,9 +3,9 @@ author = "PatchXR"
 ctalink = ""
 ctatext = ""
 date = 2021-11-12T10:00:00Z
-description = "We are honored to share the playground with start-up shaping the music making of the future. "
+description = "We were honored to share the playground with start-up shaping the music making of the future. "
 image = "/uploads/img_2626.jpg"
-title = "PatchXR in Studio3"
+title = "Demoing PatchWorld at Abbey Road Studio"
 type = "post"
 
 +++
