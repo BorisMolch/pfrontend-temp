@@ -6,7 +6,7 @@ date = 2021-11-12T10:00:00Z
 description = "We are honored to share the playground with start-up shaping the music making of the future. "
 image = "/uploads/img_2626.jpg"
 title = "PatchXR in Studio3"
-type = ""
+type = "post"
 
 +++
 During these 2 demo days at Abbey Road, we had a blast and met awesome artists, and future collaborators . If Edo has been going to the mythic  studio a few time in the last 3 years for their famously intense Hackathons, Melo met the RED team Mirek, Karim and David for the first time and it was GREAT!
