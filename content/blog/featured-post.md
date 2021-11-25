@@ -1,9 +1,9 @@
 ---
 type: post
-title: Patchathon - Build Sound
+title: 'Patchathon #1 Build Sound'
 date: 2020-10-12T14:00:22.756+00:00
 image: images/uploads/post-01.jpg
-author: Daniel Juan
+author: PatchXR
 categories:
 - Patchathon
 tags:
