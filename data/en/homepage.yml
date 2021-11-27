@@ -101,7 +101,7 @@ promo_video:
 testimonial:
   enable: true
   testimonial_item:
-  - name: Tigermaster, audio engineer
+  - name: Riccardo Ferri , Music producer
     image: "/uploads/tigermasterportrait.jpg"
     content: WOOOAA I've tried simulating the Glorious TB-303 waveforms shaping the
       Patch oscillator, well... I HAVE A FUCKING 303 ON MY QUEST !!! Results are spectacular
