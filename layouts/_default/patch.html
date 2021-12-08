@@ -4,7 +4,7 @@
 
     <div class="post-thumbs">
 
-      <a href="{{ .Permalink }}"><img class="post-thumbs img-fluid" src="{{ .Params.Image | absURL }}" alt="{{ .Title }}" style="object-fit: cover;
+      <a href="{{ .Permalink }}"><img loading="lazy" class="post-thumbs img-fluid" src="{{ .Params.Image | absURL }}" alt="{{ .Title }}" style="object-fit: cover;
   object-position: center;"></a>
 
     </div>
@@ -16,14 +16,9 @@
 
     <div class="post-meta">
       <ul class="list-inline">
-        <li class="mb-0"><!--<a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">--><strong><h5>{{ .Params.Author | title }}</h5></strong><!--</a>--></li>
-        <!-- <li class="mb-0"><h6>{{ .Params.Location }}</h6></li> -->
+        <li class="mb-0"><strong><h5>{{ .Params.Author | title }}</h5></strong></li>
       </ul>
     </div>
-
-  <!--  <div class="post-details">
-      <p>{{ .Summary }}</p>
-    </div>-->
     
   </article>
 </div>

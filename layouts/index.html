@@ -132,7 +132,7 @@
 		<div class="row justify-content-between align-top">
 			<div class="col-lg-6 {{if not (modBool $i 2)}}order-lg-2{{end}}">
 				<div class="image-content mb-5" data-aos="fade-{{if not (modBool $i 3)}}left{{else}}right{{end}}">
-					<img class="img-fluid" src="{{ .image | absURL }}" alt="PatchXR features">
+					<img loading="lazy" class="img-fluid" src="{{ .image | absURL }}" alt="PatchXR features">
 				</div>
 			</div>
 			<div class="col-lg-6 align-top {{if not (modBool $i 2)}}order-lg-1{{end}}">
@@ -205,7 +205,7 @@
 						<div class="block shadow">
 							<p>{{ .content }}</p>
 							<div class="image">
-								<img src="{{ .image | absURL }}" alt="{{ .name }}">
+								<img loading="lazy" src="{{ .image | absURL }}" alt="{{ .name }}">
 							</div>
 							<cite>{{ .name }}</cite>
 						</div>
@@ -238,7 +238,7 @@
 {{ if $data.homepage.promo_video.enable }}
 {{ with $data.homepage.promo_video }}
 <section class="video-promo section bg-1 mb-5" style="background-attachment:local; background-image: url('{{.bg_image | absURL}}')">
-	<img style="display: none;" alt="Bg_image" src="{{ .bg_image | absURL }}" />
+	<img loading="lazy" style="display: none;" alt="Bg_image" src="{{ .bg_image | absURL }}" />
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
