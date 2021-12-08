@@ -16,11 +16,8 @@
 {{ end }}
 {{ end }}
 <nav id="navbar" class="navbar main-nav navbar-expand-lg p-0 navbar-fixed-top ">
-
   <div class="container">
-
     <a class="navbar-brand" href="{{ .Site.BaseURL | absLangURL }}"><img style="width:30%" src="{{ .Site.Params.logo | absURL }}" alt="logo"></a>
-
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav"
       aria-expanded="false" aria-label="Toggle navigation">
       <span class="tf-ion-android-menu" style="color:white!important;"></span>
@@ -54,27 +51,6 @@
         {{ end }}
         {{ end }}
       </ul>
-    <!--  {{ if .IsTranslated }}
-      <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
-        {{ $siteLanguages := .Site.Languages}}
-        {{ $pageLang := .Page.Lang}}
-        {{ range .Page.AllTranslations }}
-        {{ $translation := .}}
-        {{ range $siteLanguages }}
-        {{ if eq $translation.Lang .Lang }}
-        {{ $selected := false }}
-        {{ if eq $pageLang .Lang}}
-        <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" selected>{{ .LanguageName }}</option>
-        {{ else }}
-        <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}">{{ .LanguageName }}</option>
-        {{ end }}
-        {{ end }}
-        {{ end }}
-        {{ end }}
-      </select>
-      {{ end }}-->
     </div>
-
-
   </div>
 </nav>
