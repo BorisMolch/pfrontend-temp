@@ -273,7 +273,7 @@
       </div>
     </div>
     <div class="row">
-      {{ range ( where .Site.Pages "Type" "community"  ) }}
+      {{ range first 6 ( where .Site.Pages "Type" "community"  ) }}
 	 	 {{ if isset .Params "featured_patch" }}
       		{{ .Render "patch"}}
 	  	{{ end }}
