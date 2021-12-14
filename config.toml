@@ -64,6 +64,11 @@ weight = 3
 URL = "contact"
 name = "contact"
 weight = 5
+# [[menu.main]]
+# URL = "community2"
+# name = "community2"
+# parent = "community"
+# weight = 1
 [params]
 ISO8601 = "2006-01-02T15:04:05JST"
 address = "Physical Address?"

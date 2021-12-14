@@ -1,7 +1,9 @@
 .bg-black {background-color:$black!important;}
 
+/* .navbar { border-bottom: 1px solid $white;} */
+
 .main-nav{
-	background: rgba(0, 0, 0, 0.297);
+	background: rgba(0, 0, 0, 0.64)!important;
 	color: $light!important;
 	width: 100%;
 	position: fixed;
@@ -29,7 +31,7 @@
 				padding-right: 20px;
 				line-height: 40px;
 			}
-			&:hover {background-color: #212223;}
+			&:hover {background-color: $black;}
 			&.active{
 				.nav-link{
 					color: $nicepurple;
@@ -81,19 +83,25 @@
 	  		font-size: 13px;
   		    padding: 4px 10px;
   		    transition: .3s ease;
+		
+			  color: $white;
   		    &:hover{
   		    	transform: translate3d(5px,0,0);
-  		    	background: $light;
-  		    	color: $primary-color;
+  		    	background: $black;
+  		    	color: $white;
   		    }
 	  	}
-	  	margin-top: 0;
+		  background: $black;
+		  color: $white;
+	  	margin-top: 15;
 	    border-radius:0;
 	    opacity: 1;
 	    visibility: visible;
 	    position: absolute;
 	    padding: 5px 15px;
-	    border: 1px solid #ebebeb;
+	    border-bottom: 1px solid #ebebeb;
+		border-left: 1px solid #ebebeb;
+		border-right: 1px solid #ebebeb;
 	    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 	    transition:.3s all;
 	    position: absolute;
