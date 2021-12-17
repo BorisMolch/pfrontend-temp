@@ -4,7 +4,6 @@ ctalink = ""
 ctatext = ""
 date = 2021-10-15T04:00:00Z
 description = "A \"knowledge company\" to the global music business, Music Ally explains why Patch XR is part of the startup ecosystem \"worth your attention.\""
-draft = true
 image = "/uploads/thereport.jpg"
 title = "PatchXR gets Music Ally nod as one of 2021's most promising startups"
 type = "post"
