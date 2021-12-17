@@ -5,9 +5,9 @@ ctatext = ""
 date = 2021-10-15T04:00:00Z
 description = "A \"knowledge company\" to the global music business, Music Ally explains why Patch XR is part of the startup ecosystem \"worth your attention.\""
 draft = true
-image = ""
+image = "/uploads/thereport.jpg"
 title = "PatchXR gets Music Ally nod as one of 2021's most promising startups"
-type = ""
+type = "post"
 
 +++
 PatchXR made Music Ally's third-quarter 2021 list, the "A to V of promising startups in 2021." And they're bullish on the state of that larger network as a whole, too:
@@ -21,3 +21,7 @@ Now they've caught up with us as a "fully-fledged startup, and one that chimes v
 > An almost Minecraft-like modular approach to music making, with a business model around ‘EPs’ – packs of instruments plus story and game elements helping people to use them.
 >
 > Professional musicians can also use it to perform live. It’s currently in private beta, and we’re excited to see how its community develops.
+
+Check out Music Ally:
+
+[https://musically.com/](https://musically.com/ "https://musically.com/")
