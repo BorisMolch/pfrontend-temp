@@ -7,7 +7,7 @@ description = "With shared online spaces on everyone's mind, our own Edo joined 
 draft = true
 image = "/uploads/edo-talk.jpg"
 title = "VRdays panel: joining a who's who of leaders to peer into the future of virtual creativity"
-type = ""
+type = "post"
 
 +++
 Here's one way to get really meta - it's a panel discussion about virtual spaces where the audience and innovators were in a virtual talk space, of course!
