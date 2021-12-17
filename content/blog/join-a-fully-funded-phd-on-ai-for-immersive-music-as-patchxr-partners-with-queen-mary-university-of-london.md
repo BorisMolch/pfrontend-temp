@@ -1,13 +1,13 @@
 +++
-author = ""
+author = "PatchXR"
 ctalink = ""
 ctatext = ""
-date = ""
+date = 2021-12-17T05:00:00Z
 description = "In a unique research opportunity, we're proud to partner with Queen Mary University of London to offer a fully-funded, 4-year doctorate with the topic \" Multimodal AI for musical collaboration in immersive environments.\" Here's how to apply."
 draft = true
-image = ""
+image = "/uploads/mileend.jpg"
 title = "Join a fully-funded PhD on AI for immersive music, as PatchXR partners with Queen Mary University of London"
-type = ""
+type = "post"
 
 +++
 The [**UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM)**](https://www.aim.qmul.ac.uk/) is a PhD research programme based at Queen Mary University of London, specifically focused on creative industries and music. Partnership with industry helps them to foster a world-leading environment for research - and we're pleased to be one of the partners and doctoral topics for their 2022 call.
