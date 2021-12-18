@@ -5,7 +5,7 @@ ctatext = ""
 date = 2021-12-17T05:00:00Z
 description = "In a unique research opportunity, we're proud to partner with Queen Mary University of London to offer a fully-funded, 4-year doctorate with the topic \" Multimodal AI for musical collaboration in immersive environments.\" Here's how to apply."
 image = "/uploads/mileend.jpg"
-title = "Join a fully-funded PhD on AI for immersive music, as PatchXR partners with Queen Mary University of London"
+title = "Apply for a fully-funded PhD on AI for immersive music, as PatchXR partners with Queen Mary University of London"
 type = "post"
 
 +++
