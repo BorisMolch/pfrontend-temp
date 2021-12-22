@@ -246,7 +246,7 @@
 		.item{
 			padding-bottom: 10px;
 			.block{
-				padding: 40px;
+				padding: 10px;
 				text-align: center;
 				margin: 10px;
 		        border-radius: 5px;
@@ -269,10 +269,13 @@
 					font-family: $secondary-font;
 					font-style: italic;
 					color: $light;
+					font-size: 22px;
+					
+					
 				}
 				cite{
 					font-style: normal;
-					font-size: 14px;
+					font-size: 34px;
 					color: $light;
 				}
 			}
