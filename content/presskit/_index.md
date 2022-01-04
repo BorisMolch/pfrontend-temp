@@ -25,7 +25,7 @@ Zurich (CH) and Copenhagen (D)
 TBA
 
 **Platforms:**
-PC VR, Oculus Quest
+Oculus Quest, PC VR, 
 
 **Website:**
 https://www.patchxr.com
@@ -73,20 +73,23 @@ Production has begun and the release date is set for Q1 2022.
 PatchWorld pre-announcement teaser  
 {{< youtube 0aZWFCNQF4c >}}
 
-PatchXR in short
+PatchWorld about
 {{< youtube HsCuMkXGfrg >}}
 
 Listen to our creator community  
 {{< youtube dAheG6W3QAE >}}
 
 Watch what they make with the Beta
-{{< youtube jc2IhIgizcw >}}
+{{< youtube V6dgf_vDcJc >}}
+
+Jam in Fluid Echo (Ep1)
+{{< youtube BbuOObvi5dk >}}
 
 Jam in Bouncy Beat (Ep2)
 {{< youtube BbuOObvi5dk >}}
 
-Creator tool 
-{{< youtube 9KK8q1MniBU >}}
+Intro to the Rain Maker (Ep3)
+{{< youtube SFzdElpen44 >}}
 
 ***
 
@@ -113,6 +116,8 @@ Creator tool
 ***
 
 ## Articles
+
+[VR becomes a fluid medium, a music video you can play, a playground in patchxr patchathon](https://cdm.link/2021/12/vr-becomes-a-fluid-medium-a-music-video-you-can-play-a-playground-in-patchxr-patchathon/) _CDM (2021)_
 
 [Worlds as instruments, as artists collaborate in VR using modular metaverse Patch](https://cdm.link/2021/08/worlds-as-instruments-as-artists-collaborate-in-vr-using-modular-metaverse-patch/?fbclid=IwAR1lBpA708t6EsVTv7L_6COugPuSKsHWxNy5w2dCxpCyDofKv973tlOjZpM) _CDM (2021)_
 
