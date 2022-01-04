@@ -7,7 +7,7 @@ description: Presskit Description
 
 ![](/uploads/keyart-small.jpg)
 
-# PatchWorld : Patch, Play,  Share
+# PatchWorld : Patch, Play, Share
 
 ## Where musical instruments become fantastic worlds.
 
