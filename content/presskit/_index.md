@@ -147,7 +147,7 @@ More information on PatchXR is on our [website](https://patchxr.com), our logo &
 
 **Executive director** Eduardo Fouilloux  
 **Art director**		Melodie Mousset
-**Audio director**	 	Christian Heinrichs
+**Product owner**	 	Gad Barush Hinkis
 **Operation manager**	Nicholas Borkowski
 
 ## Production
@@ -157,14 +157,12 @@ More information on PatchXR is on our [website](https://patchxr.com), our logo &
 **Unity generalist**		Tom Frackowiak
 **Simulation Artist** Marta Stražičić		
 **DSP engineer** Pelle Juul
-**Game engineer** Jefferson Ferreira
 **Platform architect** Jonah Fox 		
 **Web developer** Daniel F. Wehleit
 
 ## Communication
 
 **Community development** Peter Kirn		
-**Marketing** Louise Nornes
 
 ***
 
