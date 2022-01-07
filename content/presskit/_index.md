@@ -83,7 +83,7 @@ Watch what they make with the Beta
 {{< youtube V6dgf_vDcJc >}}
 
 Jam in Fluid Echo (Ep1)
-{{< youtube BbuOObvi5dk >}}
+{{< youtube nWTw7v8ajrY >}}
 
 Jam in Bouncy Beat (Ep2)
 {{< youtube BbuOObvi5dk >}}
