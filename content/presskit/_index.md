@@ -82,6 +82,9 @@ Listen to our creator community
 Watch what they make with the Beta
 {{< youtube V6dgf_vDcJc >}}
 
+First ever technotrack made 100% in VR
+{{< youtube lZs4Mpm-nLg >}}
+
 Jam in Fluid Echo (Ep1)
 {{< youtube nWTw7v8ajrY >}}
 
