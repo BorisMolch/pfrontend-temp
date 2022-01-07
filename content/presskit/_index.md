@@ -118,6 +118,8 @@ Intro to the Rain Maker (Ep3)
 
 ## Articles
 
+[PatchXR turns writing music into a Metaverse VR experience where you can shape your music and visuals](https://musictech.com/news/gear/patchxr-turns-writing-music-into-an-metaverse-vr-experience-where-you-can-shape-your-music-and-visuals/?fbclid=IwAR1wxlRzvtw_Bxaw8865QciYlqeQNCeOAo2rJcSHDdHxLNaYHVnJLDoCuD8) _Musictech (2021)_
+
 [VR becomes a fluid medium, a music video you can play, a playground in patchxr patchathon](https://cdm.link/2021/12/vr-becomes-a-fluid-medium-a-music-video-you-can-play-a-playground-in-patchxr-patchathon/) _CDM (2021)_
 
 [Worlds as instruments, as artists collaborate in VR using modular metaverse Patch](https://cdm.link/2021/08/worlds-as-instruments-as-artists-collaborate-in-vr-using-modular-metaverse-patch/?fbclid=IwAR1lBpA708t6EsVTv7L_6COugPuSKsHWxNy5w2dCxpCyDofKv973tlOjZpM) _CDM (2021)_
