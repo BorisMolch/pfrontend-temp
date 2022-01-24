@@ -48,3 +48,5 @@ Supported platforms:
 \- Meta Quest and Rift platforms \[including standalone\]  
 \- Quest 2 PC VR with Oculus Rift S  
 \- HTC Vive
+
+For more information, see our [full press release on the beta](https://belleville-management.prowly.com/173152-build-whole-music-worlds-in-vr-now-in-beta?preview=true).
