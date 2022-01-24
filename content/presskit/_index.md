@@ -70,29 +70,20 @@ Production has begun and the release date is set for Q1 2022.
 
 ## Videos
 
-PatchWorld pre-announcement teaser  
+Created in PatchWorld 
+{{< youtube kzPc6-j3CuA >}}
+
+Pre-announcement teaser  
 {{< youtube 0aZWFCNQF4c >}}
 
 PatchWorld about
 {{< youtube HsCuMkXGfrg >}}
-
-Listen to our creator community  
-{{< youtube dAheG6W3QAE >}}
-
-Watch what they make with the Beta
-{{< youtube V6dgf_vDcJc >}}
 
 First ever technotrack made 100% in VR
 {{< youtube lZs4Mpm-nLg >}}
 
 Jam in Fluid Echo (Ep1)
 {{< youtube nWTw7v8ajrY >}}
-
-Jam in Bouncy Beat (Ep2)
-{{< youtube BbuOObvi5dk >}}
-
-Intro to the Rain Maker (Ep3)
-{{< youtube SFzdElpen44 >}}
 
 ***
 
