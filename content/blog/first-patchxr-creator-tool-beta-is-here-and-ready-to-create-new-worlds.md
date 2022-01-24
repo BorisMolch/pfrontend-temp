@@ -12,7 +12,7 @@ type = ""
 +++
 We're focused on Oculus Quest as we prepare for a planned summer release on that platform, but PC VR will also be available as part of the beta, via Rift S and Vive headsets. 
 
-Sign up now, and we'll gradually be opening access in smaller groups, just to make sure we provide lots of high-quality, hands-on interaction with our team. Register now and you'll be first in line.
+[Sign up](https://docs.google.com/forms/d/e/1FAIpQLSclGNupdrQz7q37WGlCtb5jzXghsnByTz56CC-kbPaXIeKOmw/viewform) for the beta; we'll gradually be opening access in smaller groups, just to make sure we provide lots of high-quality, hands-on interaction with our team. Register now and you'll be first in line.
 
 Artists have already been creating entire worlds and immersive experiences, tracks, and virtual venues using Patch. (If you've followed our Patchathon events at Amaze Festival and Nordic Game, you know all about that!) Here are just a few examples for inspiration, from creators Sinbiox and MOWUKIS + Savages:
 
@@ -37,4 +37,14 @@ Stay tuned here and on our social channels for more tips and tricks to get up an
 
 What's next? First, be sure to join our Discord channel to keep up with the latest and network with other users:
 
+[Discord community](https://discord.gg/s3AjXepvWR)
+
 And register for the closed beta to get your access soon:
+
+[**Apply for the beta before January 31st**](https://docs.google.com/forms/d/e/1FAIpQLSclGNupdrQz7q37WGlCtb5jzXghsnByTz56CC-kbPaXIeKOmw/viewform "Beta sign-up")
+
+Supported platforms:
+
+\- Meta Quest and Rift platforms \[including standalone\]  
+\- Quest 2 PC VR with Oculus Rift S  
+\- HTC Vive
