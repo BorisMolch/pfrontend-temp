@@ -10,4 +10,10 @@ title = "First PatchXR creator tool beta is here - and ready to create new world
 type = ""
 
 +++
-We're focused on Oculus Quest as we prepare for a planned summer release on that platform, but PC VR will also be available as part of the beta, via Rift S and Vive headsets. Sign up now, and we'll gradually be opening access - deliberately slowly, just to make sure we provide lots of high-quality, hands-on interaction with our team.
+We're focused on Oculus Quest as we prepare for a planned summer release on that platform, but PC VR will also be available as part of the beta, via Rift S and Vive headsets. Sign up now, and we'll gradually be opening access in smaller groups, just to make sure we provide lots of high-quality, hands-on interaction with our team. Register now and you'll be first in line.
+
+Artists have already been creating entire worlds and immersive experiences, tracks, and virtual venues using Patch. Here are just a few examples for inspiration, from creators Sinbiox and MOWUKIS + Savages:
+
+{{< youtube THPMCXyMuOM >}}
+
+{{< youtube w-CnQxTXFD8 >}}
