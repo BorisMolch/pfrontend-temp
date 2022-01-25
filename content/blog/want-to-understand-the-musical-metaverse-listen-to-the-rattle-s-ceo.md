@@ -8,7 +8,10 @@ image = "/uploads/cleanshot-2021-10-29-at-11-23-54.jpg"
 title = "Want to understand the musical metaverse? Listen to The Rattle's CEO"
 type = "post"
 
-+++
++++ 
+
+![](/uploads/cleanshot-2021-10-29-at-11-23-54.jpg)
+
 Now the "metaverse" is blowing up as a buzzword - decades after its first appearance in science fiction - with a major boost from Facebook, now renamed Meta. But what does the metaverse actually mean - especially for music?
 
 Chris Howard, CEO of The Rattle, is one of the few visionaries in creative tech who can explain that in clear, informed, and imaginative terms. He uses our tech here at Patch as an illustration of where this whole juggernaut is going. (The Rattle is an exclusive venture-building company based in LA and London, assisting artists, hackers, and inventors achieve success. We're lucky to get to know and work with them.)

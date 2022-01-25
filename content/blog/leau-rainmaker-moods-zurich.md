@@ -7,6 +7,8 @@ description: "Leau is the new transmedia project by multidisciplinary artist Geo
 type: post
 ---
 
+![](/uploads/leau.jpg)
+
 Georg Bleikolm / [Raveur](http://raveur.com/ "Website") propose a new immersive audiovisual installation in collaboration with PatchXR.
 
 We have developed a new musical instrument that reveals itself in the form of an interactive and kinetic installation on the fringes of reality and virtuality. A ritual between dance and performance opens the concert evening and accompanies the public in this new volume.

@@ -10,6 +10,9 @@ title = "Websummit in Lisbon"
 type = "post"
 
 +++
+
+![](/uploads/web-summit.jpeg)
+
 We here at PatchXR had a small booth at Websummit in Lisbon. We have been giving demos of PatchWorld and got to meet so many awesome people and not only that... also hit the beach and went surfing!!
 
 Picture in full action

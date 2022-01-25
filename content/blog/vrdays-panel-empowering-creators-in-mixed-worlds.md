@@ -9,6 +9,9 @@ title = "VRdays panel: joining a who's who of leaders to peer into the future of
 type = "post"
 
 +++
+
+![](/uploads/edo-talk.jpg)
+
 Here's one way to get really meta - it's a panel discussion about virtual spaces where the audience and innovators were in a virtual talk space, of course!
 
 We think Edo looks totally at home being a virtual avatar. And Immersive Tech Week put together a terrific cross-section of people with insight into where virtual creativity might go. Joining this recent panel - a real who's who of folks in this domain:

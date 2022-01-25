@@ -7,6 +7,9 @@ title = "CNDSD & Iván Abreu: Expanding mind, self, and music in digital realms"
 type = "post"
 
 +++
+
+![](/uploads/desierta-mutek-06.jpg)
+
 The Mexico City-based duo is now unleashing their retina-popping visuals and rapid-fire percussions and musical textures on a hybrid MUTEK MX + JP audience for the second time. It’s a chance to glimpse a bright future just when that vision is most needed.
 
 We got to speak to Mali virtually as the MUTEK session prepares - and catch up after seeing what this duo dazzled us with a fantastic set at last summer's collaborative Patchathon. As CNDSD, Mali is also known in live coding circles - working with environments that involve typing program code to spawn sonic materials - meaning this was also a chance to understand how that flat programming approach contrasts with physicality and spatiality.

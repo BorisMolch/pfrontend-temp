@@ -9,6 +9,9 @@ title = "PatchXR gets Music Ally nod as one of 2021's most promising startups"
 type = "post"
 
 +++
+
+![](/uploads/thereport.jpg)
+
 PatchXR made Music Ally's third-quarter 2021 list, the "A to V of promising startups in 2021." And they're bullish on the state of that larger network as a whole, too:
 
 > "The music technology startups of 2021 are part of a group that are driving notable change.**"**

@@ -7,6 +7,9 @@ title = "How PatchXR can connect classically trained musicians with the virtual 
 type = "post"
 
 +++
+
+![](/uploads/ensemble1.jpg)
+
 Meet this millennium's new chamber music. Instead of a palace or concert hall, the chamber can be in a fanciful virtual space, as new music instrumental chops meet up with augmented digital dimensions.
 
 Held back by pandemic restrictions, renowned new music players Ensemble Contrechamps recently got to explore that new playground and see what they could discover. That included two events in October: a hands-on lab with the PatchXR team in the ensemble's home city of Geneva and a distance collaboration  with Mexico City's Liminar.

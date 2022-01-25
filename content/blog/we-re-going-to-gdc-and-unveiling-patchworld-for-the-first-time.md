@@ -11,6 +11,9 @@ title = "We're joining GDC - and unveiling PatchWorld for the first time"
 type = "post"
 
 +++
+
+![](/uploads/keyart-small.jpg)
+
 After years of experience in audio engines and music VR, PatchWorld is the next leap forward - and GDC is the perfect showcase. Due to release at the start of 2022 on Oculus Platform, PatchWorld takes all the musical powers of the Patch engine and opens them to musicians and non-musicians alike. It's more social - so not only can you create your own custom instruments to play, but you can collaborate and play together, and share sounds and ideas, all with a powerful toolset. It's a whole new, fantastic level of deep play for your musical imagination.
 
 So where better to show off where we're going in the metaverse than at GDC, the world-leading games event? Now, with the games industry still adapting to the pandemic, we aren't getting on a plane to San Francisco. But this year's online program promises to be essential to digital creatives worldwide. Thanks to being one of 11 game studios selected for the SwissGames Showcase 2021 mentorship program hosted by Pro Helvetia, we'll be part of that program, and we can't wait to show PatchWorld and connect with others. We'll be on the lookout for new talent and your feedback, talking to artists, gamers, investors, partners, publishers, and influencers.

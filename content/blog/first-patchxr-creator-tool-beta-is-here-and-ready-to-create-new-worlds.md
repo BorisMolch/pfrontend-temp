@@ -9,7 +9,8 @@ title = "First PatchXR creator tool beta is here - and ready to create new world
 type = "post"
 
 +++
-**_Image shown is captured in-engine._**
+
+![](/uploads/beta-image.jpg "Image shown is captured in-engine.")
 
 [Sign up](https://docs.google.com/forms/d/e/1FAIpQLSclGNupdrQz7q37WGlCtb5jzXghsnByTz56CC-kbPaXIeKOmw/viewform) for the beta; we'll gradually be opening access in smaller groups, just to make sure we provide lots of high-quality, hands-on interaction with our team. Register now and you'll be first in line.
 

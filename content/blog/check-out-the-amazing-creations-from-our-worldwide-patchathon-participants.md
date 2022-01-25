@@ -9,6 +9,9 @@ title = "Watch as Patchathon participants push the envelope of Patch's powers"
 type = "post"
 
 +++
+
+![](/uploads/patchathon-still.jpg)
+
 It's our second-ever Patchathon - returning to the virtual/hybrid A MAZE. Berlin "international games and playful media festival." And we're all still basking in the glow of the results. An incredible gathering of international artists got to learn new skills and explore ideas with one another and expand our image of what Patch can do.
 
 ### Playground for the mind

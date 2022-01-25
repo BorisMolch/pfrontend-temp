@@ -9,6 +9,8 @@ title = "Apply for a fully-funded PhD on AI for immersive music, as PatchXR part
 type = "post"
 
 +++
+![](/uploads/mileend.jpg)
+
 The [**UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM)**](https://www.aim.qmul.ac.uk/) is a PhD research programme based at Queen Mary University of London, specifically focused on creative industries and music. Partnership with industry helps them to foster a world-leading environment for research - and we're pleased to be one of the partners and doctoral topics for their 2022 call.
 
 [Dr. Mathieu Barthet](http://www.eecs.qmul.ac.uk/profiles/barthetmathieu.html), Senior Lecturer in Digital Media at the [School of Electronic Engineering and Computer Science](http://eecs.qmul.ac.uk/) Queen Mary, is partnering with us to offer the chance to explore in depth a rich and in-demand topic:
