@@ -4,7 +4,7 @@
         <figcaption class="caption">{{ .Title }}</figcaption>
     </figure>
 {{ else }}
-<figure>
+    <figure>
         <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"{{ end }} />     
     </figure>
-        {{ end }}
+{{ end }}
