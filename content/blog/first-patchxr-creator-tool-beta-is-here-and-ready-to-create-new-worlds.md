@@ -4,12 +4,13 @@ ctalink = ""
 ctatext = ""
 date = ""
 description = "Inbound: the PatchXR creator tool beta will open doors to new creative powers in the metaverse. To get your golden ticket, register now."
-draft = true
-image = ""
+image = "/uploads/patch-6-b.jpg"
 title = "First PatchXR creator tool beta is here - and ready to create new worlds"
 type = "post"
 
 +++
+**_Image shown is captured in-engine._**
+
 [Sign up](https://docs.google.com/forms/d/e/1FAIpQLSclGNupdrQz7q37WGlCtb5jzXghsnByTz56CC-kbPaXIeKOmw/viewform) for the beta; we'll gradually be opening access in smaller groups, just to make sure we provide lots of high-quality, hands-on interaction with our team. Register now and you'll be first in line.
 
 We're focused on Oculus Quest as we prepare for a planned summer release on that platform, but PC VR will also be available as part of the beta, via Quest + link, Rift S and Vive headsets.
