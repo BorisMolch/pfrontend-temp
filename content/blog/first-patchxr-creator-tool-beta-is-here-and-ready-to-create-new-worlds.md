@@ -9,7 +9,6 @@ title = "First PatchXR creator tool beta is here - and ready to create new world
 type = "post"
 
 +++
-
 ![](/uploads/beta-image.jpg "Image shown is captured in-engine.")
 
 [Sign up](https://docs.google.com/forms/d/e/1FAIpQLSclGNupdrQz7q37WGlCtb5jzXghsnByTz56CC-kbPaXIeKOmw/viewform) for the beta; we'll gradually be opening access in smaller groups, just to make sure we provide lots of high-quality, hands-on interaction with our team. Register now and you'll be first in line.
@@ -43,7 +42,7 @@ What's next? First, be sure to join our Discord channel to keep up with the late
 
 And register for the closed beta to get your access soon:
 
-[**Apply for the beta before January 31st**](https://docs.google.com/forms/d/e/1FAIpQLSclGNupdrQz7q37WGlCtb5jzXghsnByTz56CC-kbPaXIeKOmw/viewform "Beta sign-up")
+[**Apply for the beta by February 5**](https://docs.google.com/forms/d/e/1FAIpQLSclGNupdrQz7q37WGlCtb5jzXghsnByTz56CC-kbPaXIeKOmw/viewform "Beta sign-up")
 
 Supported platforms:
 
