@@ -5,7 +5,7 @@ description: Presskit Description
 ---
 ![](/images/Patchworld-black.png)
 
-![](/uploads/keyart-small.jpg)
+![](/uploads/patchworld-presskit.jpg)
 
 # PatchWorld : Patch, Play, Share
 
@@ -73,8 +73,8 @@ Production has begun and the release date is set for Q1 2022.
 Created in PatchWorld 
 {{< youtube kzPc6-j3CuA >}}
 
-Pre-announcement teaser  
-{{< youtube 0aZWFCNQF4c >}}
+Jam with Patchee  
+{{< youtube KWtDNEZzlZQ >}}
 
 PatchWorld about
 {{< youtube HsCuMkXGfrg >}}
@@ -93,7 +93,7 @@ Jam in Fluid Echo (Ep1)
 
 | | |
 --- | --- |
-| ![](/uploads/keyart.jpg) | ![](/uploads/avatar.jpg) |
+| ![](/uploads/patchworld-hero.jpg) | ![](/uploads/avatar.jpg) |
 | ![](/uploads/fish-instrument.jpg) | ![](/uploads/ep1-ingame.jpg) |
 | ![](/uploads/nudi1.jpg) | ![](/uploads/rainmaker_ep3.jpg) | 
 
