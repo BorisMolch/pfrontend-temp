@@ -4,10 +4,9 @@ ctalink = ""
 ctatext = ""
 date = 2022-02-22T00:00:00Z
 description = "It's the metaverse, but this time it's the metaverse in-person. Patch is traveling to San Francisco for the return of the physical Game Developers Conference event, joining the SwissGames delegation. At last, it's a chance to meet everyone in California, not only online."
-draft = true
 image = "/uploads/patch-gdcbooklet.jpg"
 title = "Patch will be live and in-person at GDC in San Francisco"
-type = ""
+type = "post"
 
 +++
 And we will be busy. We're joining the legendary GDC as part of a group of ten selected top game developers from Switzerland. We're right now online with the private US Game Industry Days, but in March we'll travel to San Francisco and the Moscone Center and Pier 17 for the SwissGames program and European Game Showcase. Check out the full program and the rest of our talented and futuristic Swiss colleagues:
