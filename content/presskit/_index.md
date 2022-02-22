@@ -93,7 +93,7 @@ Jam in Fluid Echo (Ep1)
 
 | | |
 --- | --- |
-| ![](/uploads/bath.gif) | ![](/uploads/rainmaker_ep3.jpg) | 
+| ![](/uploads/bath.gif) | ![](/uploads/side_sample_v01.gif) | 
 | ![](/uploads/patchworld-hero.jpg) | ![](/uploads/avatar.jpg) |
 | ![](/uploads/fish-instrument.jpg) | ![](/uploads/ep1-ingame.jpg) |
 | ![](/uploads/nudi1.jpg) | ![](/uploads/rainmaker_ep3.jpg) | 
@@ -146,20 +146,22 @@ More information on PatchXR is on our [website](https://patchxr.com), our logo &
 **Art director**		Melodie Mousset
 **Product owner**	 	Gad Barush Hinkis
 **Operation manager**	Nicholas Borkowski
+**Business and product strategist**	Carlos Miramontes
 
 ## Production
 
 **Technical lead**		Victor Beaupuy
 **Engine architect**		Aleksey Sarapulov
+**Platfrom architect**		Jonah Fox
+**DSP engineer** Pelle Juul
+**DSP engineer** Maciek Sypniewski
 **Unity generalist**		Tom Frackowiak
 **Simulation Artist** Marta Stražičić		
-**DSP engineer** Pelle Juul
-**Platform architect** Jonah Fox 		
-**Web developer** Daniel F. Wehleit
 
 ## Communication
 
-**Community development** Peter Kirn		
+**Community development** Peter Kirn
+**Web developer** Daniel F. Wehleit
 
 ***
 
