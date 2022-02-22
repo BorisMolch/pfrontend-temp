@@ -3,7 +3,7 @@ author = ""
 ctalink = ""
 ctatext = ""
 date = 2022-02-22T00:00:00Z
-description = "It's still the metaverse, but this time it's the metaverse in-person. Patch is traveling to San Francisco for the return of the physical Game Developers Conference event, with the SwissGames delegation. At last, it's a chance to meet everyone in California, not only online."
+description = "It's the metaverse, but this time it's the metaverse in-person. Patch is traveling to San Francisco for the return of the physical Game Developers Conference event, joining the SwissGames delegation. At last, it's a chance to meet everyone in California, not only online."
 draft = true
 image = "/uploads/patch-gdcbooklet.jpg"
 title = "Patch will be live and in-person at GDC in San Francisco"
@@ -15,6 +15,8 @@ And we will be busy. We're joining the legendary GDC as part of a group of ten s
 [SwissGames at GDC 2022](https://swissgames.ch/2022/01/27/swissgames-at-gdc2022/)
 
 [https://swissnex.org/sanfrancisco/event/swissgames-at-the-game-developers-conference/](https://swissnex.org/sanfrancisco/event/swissgames-at-the-game-developers-conference/ "https://swissnex.org/sanfrancisco/event/swissgames-at-the-game-developers-conference/")
+
+And yes, if you're wondering if this means you'll get to meet our team, learn more about Patch, and try the latest Patch - it will mean all of that. We've got more to announce for our San Francisco trip, so be sure to check back here and make sure we're part of your GDC plans if you're there. (And for those of you in the rest of the world, we'll bring a report back from the world's hottest game event!)
 
 As more evidence, the booth is [under construction](https://www.instagram.com/p/CZzgC8WPC7q/) already.
 
