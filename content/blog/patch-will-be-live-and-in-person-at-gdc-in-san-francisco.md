@@ -16,8 +16,8 @@ And we will be busy. We're joining the legendary GDC as part of a group of ten s
 
 [https://swissnex.org/sanfrancisco/event/swissgames-at-the-game-developers-conference/](https://swissnex.org/sanfrancisco/event/swissgames-at-the-game-developers-conference/ "https://swissnex.org/sanfrancisco/event/swissgames-at-the-game-developers-conference/")
 
-As more evidence, the booth is [under construction](https://www.instagram.com/p/CZzgC8WPC7q/) already. 
+As more evidence, the booth is [under construction](https://www.instagram.com/p/CZzgC8WPC7q/) already.
 
-[Download File]( "Download File")
+![](/uploads/booth-construction.jpg)
 
 The SwissGames delegation to GDC 2022 is organised in partnership with Swissnex in San Francisco and supported by Presence Switzerland.
