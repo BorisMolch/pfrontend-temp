@@ -1,7 +1,8 @@
 ---
 aboutbanner:
   enable: true
-  title: We believe the future of music is immersive, interactive, and personalized
+  title: PatchWorld is the metaverse as your own playground - with all the emotional
+    power of music!
   background: "/uploads/fishwebsite.jpg"
 worksbanner:
   enable: true
@@ -29,7 +30,7 @@ features:
   - image: images/automata.jpg
   - image: images/automata.jpg
 behind_story:
-  enable: false
+  enable: true
   title: Our History
   image: "/uploads/goethe.jpg"
   content: |
