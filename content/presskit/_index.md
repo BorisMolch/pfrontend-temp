@@ -93,9 +93,9 @@ Jam in Fluid Echo (Ep1)
 
 | | |
 --- | --- |
-| ![](/uploads/drop3_edited.gif) | ![](/uploads/side_sample_v01.gif) | 
+| ![](/uploads/drop3_edited.gif) | ![]() | 
 | ![](/uploads/booklet_imagev2.jpg) | ![](/uploads/01.gif) |
-| ![](/uploads/fish-instrument.jpg) | ![](/uploads/ep1-ingame.jpg) |
+| ![](/uploads/fish-instrument.jpg) | ![](/uploads/side_sample_v01.gif) |
 | ![](/uploads/bath.gif) | ![](/uploads/rainmaker_ep3.jpg) | 
 
 ***
