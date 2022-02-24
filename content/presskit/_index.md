@@ -19,7 +19,7 @@ An upcoming music playground for the Oculus Platform by PatchXR.
 PatchXR
 
 **Based in:**
-Zurich (CH) and Copenhagen (D)
+Zurich (CH) and Copenhagen (DK)
 
 **Release date:**
 TBA
