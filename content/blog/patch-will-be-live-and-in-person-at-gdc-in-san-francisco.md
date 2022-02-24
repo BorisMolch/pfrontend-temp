@@ -4,7 +4,7 @@ ctalink = ""
 ctatext = ""
 date = 2022-02-22T00:00:00Z
 description = "It's the metaverse, but this time it's the metaverse in-person. Patch is traveling to San Francisco for the return of the physical Game Developers Conference event, joining the SwissGames delegation. At last, it's a chance to meet everyone in California, not only online."
-image = "/uploads/patch-gdcbooklet.jpg"
+image = "/uploads/booklet_imagev2.jpg"
 title = "Patch will be live and in-person at GDC in San Francisco"
 type = "post"
 
