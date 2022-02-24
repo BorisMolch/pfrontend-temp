@@ -9,7 +9,7 @@ title = "Patch will be live and in-person at GDC in San Francisco"
 type = "post"
 
 +++
-![](/uploads/patch-gdcbooklet.jpg)
+![](/uploads/booklet_imagev2.jpg)
 
 And we will be busy. We're joining the legendary GDC as part of a group of ten selected top game developers from Switzerland. We're right now online with the private US Game Industry Days, but in March we'll travel to San Francisco and the Moscone Center and Pier 17 for the SwissGames program and European Game Showcase. Check out the full program and the rest of our talented and futuristic Swiss colleagues:
 
