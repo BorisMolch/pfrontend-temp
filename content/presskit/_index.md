@@ -107,6 +107,7 @@ Jam in Fluid Echo (Ep1)
 |Logo  |  |
 --- | --- |
 |![](/images/Patchworld-black.png)||
+|![](/uploads/patchxr-fulllogo.png)||
 
 ***
 
