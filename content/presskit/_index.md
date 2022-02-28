@@ -70,20 +70,18 @@ Production has begun and the release date is set for Q1 2022.
 
 ## Videos
 
-Created in PatchWorld 
+Jam in Bouncy Beats (EP2)
+{{< youtube Np9B1kC0cF8 >}}
+
+Jam in Fluid Echoes (EP1)
+{{< youtube lKJ2d7CugZ0 >}}
+
+Jam in Rain Maker (EP1)
+{{< youtube xzAraxsQK4o >}}
+
+Made in Patch 
 {{< youtube kzPc6-j3CuA >}}
 
-Jam with Patchee  
-{{< youtube KWtDNEZzlZQ >}}
-
-PatchWorld about
-{{< youtube HsCuMkXGfrg >}}
-
-First ever technotrack made 100% in VR
-{{< youtube lZs4Mpm-nLg >}}
-
-Jam in Fluid Echo (Ep1)
-{{< youtube nWTw7v8ajrY >}}
 
 ***
 
