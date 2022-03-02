@@ -71,7 +71,7 @@ Production has begun and the release date is set for Q1 2022.
 ## Videos
 
 Jam in Bouncy Beats (EP2)
-{{< youtube Np9B1kC0cF8 >}}
+{{< youtube KWtDNEZzlZQ >}}
 
 Jam in Fluid Echoes (EP1)
 {{< youtube lKJ2d7CugZ0 >}}
