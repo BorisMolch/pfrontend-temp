@@ -50,9 +50,9 @@ Thanks to our block-based approach, musicians and non-musicians alike can realiz
 
 ## Development
 
-The foundation of PatchXR’s VR audio engine was first dreamed up by Eduardo Fouilloux at Animation Workshop in Viborg, Denmark. In 2017, he released a music game prototype called MuX that would become the groundwork for PatchXR’s philosophy and core technology of PatchWorld. He joined with co-founder Mélodie Mousset, award-winning VR artist, and Chris Heinrichs, a leading developer of interactive, generative, and modular music.
+The foundation of PatchXR’s VR audio engine was first dreamed up by Eduardo Fouilloux and Jan-Marc Heckman at Animation Workshop in Viborg, Denmark. In 2017, they released a music game prototype called MuX that would become the groundwork for Patch's core technology. Eduardo joined with Mélodie Mousset, award-winning VR artist who's vision was to let people create surreal world together in real-time remotly. They imagined PatchWorld a playground of music,art, world-building,and live performance.
 
-From those combined talents, a half-decade of development has produced our new-generation, bespoke VR sound engine, Patcheetah. With a growing team, breakneck evolution of the tools from engine to end-user experience, and input from leading artists and our collaborative Patchathons, we now unveil PatchWorld as our complete vision of creative, futuristic musical play and fun.
+From those combined talents, a half-decade of development has produced our new-generation, bespoke VR audio-visual engine runnning all our real-time simulations. With a growing team, breakneck evolution of the tools from engine to end-user experience, and input from leading artists and our collaborative Patchathons, we now unveil PatchWorld as our complete vision of creative, futuristic musical play and fun.
 
 Production has begun and the release date is set for Q1 2022.
 
