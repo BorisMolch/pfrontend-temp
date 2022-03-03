@@ -127,9 +127,9 @@ Made in Patch
 
 ## About PatchXR
 
-PatchXR is a Swiss/Danish creative studio made up of an international coalition of exceptional artists and developers who are passionate about music, art and Virtual Reality (VR). Founded in 2020, more more more but not too much.
+PatchXR is a multinational studio blending deep experience in art, engineering, and sound and music for VR. The team has some of the world’s top talent in the emerging medium of immersive, generative, interactive music for full-sensory virtual reality. That lineage starts with co-founders Melodie Mousset and Eduardo Fouilloux, building on Melodie’s award-winning achievements in VR art and Eduardo’s pioneering work at Animation Studio Denmark and creating the music game prototype MuX.
 
-After joining forces with Swiss artist and VR veteran Melodie Mousset and her team in 2019, the company established its headquarters in Zurich in 2020 and entered the Innosuisse State program. The Studio currently counts 10 exceptional engineers and artists working from the Copenhagen office and remotely from Switzerland, France, Malta, Denmark, Russia, Germany, Spain, and Brazil.
+Now, PatchXR has assembled a global team and a powerful, complete, ground-up engine for VR music, sound, and play. We’ve tested our tools with diverse artists from around the world in closed beta and our Patchathon collaborative experience at top festivals. With that bespoke foundation and world-class experience in multiplayer experience and tech, we’re envisioning new, futuristic ways to play together with music, engaging the full body with vision and sound.
 
 ## More information
 
