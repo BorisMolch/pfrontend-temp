@@ -24,8 +24,8 @@ Zurich (CH) and Copenhagen (DK)
 **Release date:**
 Summer 2022
 
-**Platforms:** 
-MetaQuest 2
+**Platforms:  
+**Meta Quest 2
 
 **Website:**
 https://www.patchxr.com
@@ -40,7 +40,7 @@ melo@patchxr.com
 
 ## Synopsis
 
-PatchWorld makes you a sonic traveler in the metaverse of interactive music and sound, in environments transformed and expanded together by its players. Journeying in VR through this sensory audiovisual playground, you can play, build and share -- fully immersed in music and fantasy.
+PatchWorld empowers musical experience with fantastic worlds, fanciful instruments, and full-immersion live shows. It combines the visual experience and play of gaming with the emotional power of music. It’s ready to play from the moment you enter - but deep enough to let you build everything you can imagine.
 
 ## An unprecedented toolset
 
@@ -50,11 +50,11 @@ Thanks to our block-based approach, musicians and non-musicians alike can realiz
 
 ## Development
 
-The foundation of PatchXR’s VR audio engine was first dreamed up by Eduardo Fouilloux and Jan-Marc Heckman at Animation Workshop in Viborg, Denmark. In 2017, they released a music game prototype called MuX that would become the groundwork for Patch's core technology. Eduardo joined with Mélodie Mousset, award-winning VR artist who's vision was to let people create surreal world together in real-time remotly. They imagined PatchWorld a playground of music,art, world-building,and live performance.
+The foundation of PatchXR’s VR audio engine was first dreamed up by Eduardo Fouilloux and Jan-Marc Heckman at Animation Workshop in Viborg, Denmark. In 2017, they released a music game prototype called MuX that would become the groundwork for Patch's core technology. Eduardo joined with Mélodie Mousset, an award-winning VR artist whose vision was to let people create a surreal world together in real-time remotely. They imagined PatchWorld as a playground of music, art, world-building, and live performance.
 
-From those combined talents, a half-decade of development has produced our new-generation, bespoke VR audio-visual engine runnning all our real-time simulations. With a growing team, breakneck evolution of the tools from engine to end-user experience, and input from leading artists and our collaborative Patchathons, we now unveil PatchWorld as our complete vision of creative, futuristic musical play and fun.
+From those combined talents, a half-decade of development has produced our new-generation, bespoke VR audio-visual engine running all our real-time simulations. With a growing team, breakneck evolution of the tools from the engine to the end-user experience, and input from leading artists and our collaborative Patchathons, we now unveil PatchWorld as our complete vision of creative, futuristic musical play and fun.
 
-Production has begun and the release date is set for Q1 2022.
+Production has begun and the release date is set for summer 2022.
 
 ## Features
 
@@ -88,14 +88,13 @@ Made in Patch
 
 [Download Image pack](https://drive.google.com/drive/folders/1sSQT_Hk-9xOzmsTqDZR1lFi68K6cVI8i?usp=sharing)
 
-| | |
---- | --- |
-| ![](/uploads/drop3_edited.gif) | ![](/uploads/patchworld-hero.jpg) | 
-| ![](/uploads/player_nudi_wide.jpg) | ![](/uploads/lightbulb.gif) | 
-| ![](/uploads/booklet_imagev2.jpg) | ![](/uploads/01.gif) |
-| ![](/uploads/fish-instrument.jpg) | ![](/uploads/side_sample_v01.gif) |
-| ![](/uploads/bath.gif) | ![](/uploads/rainmaker_ep3.jpg) | 
-
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 ***
 
@@ -103,10 +102,10 @@ Made in Patch
 
 [Download logo pack](https://drive.google.com/drive/folders/1uvMkd9QYqqFg4kJTDp_EPqsDX2EQ4Yij?usp=sharing)
 
-|Logo  |  |
---- | --- |
-|![](/images/Patchworld-black.png)||
-|![](/uploads/patchxr-fulllogo.png)||
+| Logo |  |
+| --- | --- |
+|  |  |
+|  |  |
 
 ***
 
