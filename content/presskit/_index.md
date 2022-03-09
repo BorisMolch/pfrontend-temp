@@ -44,27 +44,26 @@ PatchWorld empowers musical experience with fantastic worlds, fanciful instrumen
 
 ## An unprecedented toolset
 
-PatchWorld is a social VR music playground for everyone to play, build, and share fantastic musical realms. It allows users to discover the joy of live-synthesized sound through an ever-growing library of imaginative components and full-featured “EPs” with endless possibilities for creation, customization, and casual and serious play.
+Music is diverse and imaginations want to run wild, so our technology is built for collaboration and limitless possibility.
 
-Thanks to our block-based approach, musicians and non-musicians alike can realize what they imagine in fun and inventive ways. Uniquely scalable from casual music lover to advanced electronic music artist, the toolset makes stunningly beautiful visuals and rich sounds fun and immediately intuitive and fully native to immersive VR. With the connected Patch platform, players can also socialize, collaborate, share their creations, ideas, follow and curate their favorite artists, patches, and worlds, and soon jam with one another.
+PatchWorld is an open-ended world-builder. Dig into a deep collection of interchangeable blocks that power gesture and interaction, generative music machines and pattern makers, sound processing and stompbox-style effects, animation and visuals. Or if you just want to relax and play around, enter our growing library and load up user content or an EP - audiovisual albums you can enter interactively.
 
-## Development
-
-The foundation of PatchXR’s VR audio engine was first dreamed up by Eduardo Fouilloux and Jan-Marc Heckman at Animation Workshop in Viborg, Denmark. In 2017, they released a music game prototype called MuX that would become the groundwork for Patch's core technology. Eduardo joined with Mélodie Mousset, an award-winning VR artist whose vision was to let people create a surreal world together in real-time remotely. They imagined PatchWorld as a playground of music, art, world-building, and live performance.
-
-From those combined talents, a half-decade of development has produced our new-generation, bespoke VR audio-visual engine running all our real-time simulations. With a growing team, breakneck evolution of the tools from the engine to the end-user experience, and input from leading artists and our collaborative Patchathons, we now unveil PatchWorld as our complete vision of creative, futuristic musical play and fun.
-
-Production has begun and the release date is set for summer 2022.
+For the first time, you can make deep, fully-customizable worlds without needing your own personal visual effects house - it’s like stepping inside a futuristic music video. You create for VR inside VR, meaning working in three dimensions is more intuitive. And since it’s all live and playable, you can perform, improvise, and jam. In an age when music makers’ vision can get lost in faceless streams, PatchWorld lets you express yourself and produce media for VR, live streams, and even live shows, with high-performance 3D visuals and spatial sound, even on just a standalone Oculus headset.
 
 ## Features
 
-* Explore an ever-growing musical metaverse and discover new artists, get inspired !
-* Play with sound and visuals immersed in worlds of magic
-* Customize your Avatar as you go
-* From traveler to builder - Learn all the basics of sound and electronic music in playful interactive lessons
-* Create your own musical worlds using 100+ interactive building blocks.
-* Create a Virtual band with your friend or by overlaying your actions.
-* Play live, record, remix and share your performances on Social Media
+Access an array of deep, production-ready features - in a platform that’s as playful and easy as a game:
+
+* Build and share musical worlds in the metaverse, without any coding, for free
+* Deep modular framework - start with pre-built worlds or create custom instruments, visuals, and gestural interactions
+* 200+ blocks for endless creative options
+* 3D environment and sound assets to get you started
+* 3D spatial audio and stereo mixing
+* Access Patch from Quest standalone headsets - lowering the bar to entry
+* Explore awesome musical creations made in Patch and interact with the growing community of Patchers worldwide.
+* Tutorials to learn about sound and how to build your own music worlds and electronic music instruments
+* Record loops of your avatar performing in 3D space to become a full band
+* Connect your virtual world with your usual setup using MIDI and OSC.
 
 ***
 
@@ -150,8 +149,8 @@ More information on PatchXR is on our [website](https://patchxr.com), our logo &
 ## Production
 
 **Technical lead**		Victor Beaupuy
-**Engine architect**		Aleksey Sarapulov
-**Platfrom architect**		Jonah Fox
+**Engine architect**		Aleksey Sarapulov   
+**Platform architect**		Jonah Fox
 **DSP engineer** Pelle Juul
 **DSP engineer** Maciek Sypniewski
 **Unity generalist**		Tom Frackowiak
