@@ -5,7 +5,7 @@ ctatext = ""
 date = ""
 description = "Our pre-seed is off to a great start: we’re excited to welcome Serpentine Ventures to our investors. "
 draft = true
-image = ""
+image = "/uploads/patchxr.jpg"
 title = "Serpentine invests in PatchXR as go-to startup for the musical metaverse"
 type = ""
 
