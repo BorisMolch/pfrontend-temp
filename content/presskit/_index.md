@@ -24,8 +24,8 @@ Zurich (CH) and Copenhagen (DK)
 **Release date:**
 Summer 2022
 
-**Platforms:  
-**Meta Quest 2
+\**Platforms:  
+\**Meta Quest 2
 
 **Website:**
 https://www.patchxr.com
@@ -46,16 +46,16 @@ PatchWorld empowers musical experience with fantastic worlds, fanciful instrumen
 
 Music is diverse and imaginations want to run wild, so our technology is built for collaboration and limitless possibility.
 
-PatchWorld is an open-ended world-builder. Dig into a deep collection of interchangeable blocks that power gesture and interaction, generative music machines and pattern makers, sound processing and stompbox-style effects, animation and visuals. Or if you just want to relax and play around, enter our growing library and load up user content or an EP - audiovisual albums you can enter interactively.
+PatchWorld is an open-ended world-builder. Dig into a complete collection of interchangeable blocks that power gesture and interaction, generative music machines and pattern makers, sound processing and stompbox-style effects, animation and visuals. Or if you just want to relax and play around, enter our growing library and load up user content or an EP - audiovisual albums you can enter interactively.
 
-For the first time, you can make deep, fully-customizable worlds without needing your own personal visual effects house - it’s like stepping inside a futuristic music video. You create for VR inside VR, meaning working in three dimensions is more intuitive. And since it’s all live and playable, you can perform, improvise, and jam. In an age when music makers’ vision can get lost in faceless streams, PatchWorld lets you express yourself and produce media for VR, live streams, and even live shows, with high-performance 3D visuals and spatial sound, even on just a standalone Oculus headset.
+For the first time, you can make rich, fully-customizable worlds without needing your own personal visual effects house - it’s like stepping inside a futuristic music video. You create for VR inside VR, meaning working in three dimensions is more intuitive. And since it’s all live and playable, you can perform, improvise, and jam. In an age when music makers’ vision can get lost in faceless streams, PatchWorld lets you express yourself and produce media for VR, live streams, and even live shows, with high-performance 3D visuals and spatial sound, even on just a standalone Oculus headset.
 
 ## Features
 
-Access an array of deep, production-ready features - in a platform that’s as playful and easy as a game:
+Access an array of powerful, production-ready features - in a platform that’s as playful and easy as a game:
 
 * Build and share musical worlds in the metaverse, without any coding, for free
-* Deep modular framework - start with pre-built worlds or create custom instruments, visuals, and gestural interactions
+* Fully modular framework - start with pre-built worlds or create custom instruments, visuals, and gestural interactions
 * 200+ blocks for endless creative options
 * 3D environment and sound assets to get you started
 * 3D spatial audio and stereo mixing
@@ -126,7 +126,7 @@ Made in Patch
 
 ## About PatchXR
 
-PatchXR is a multinational studio blending deep experience in art, engineering, and sound and music for VR. The team has some of the world’s top talent in the emerging medium of immersive, generative, interactive music for full-sensory virtual reality. That lineage starts with co-founders Melodie Mousset and Eduardo Fouilloux, building on Melodie’s award-winning achievements in VR art and Eduardo’s pioneering work at Animation Studio Denmark and creating the music game prototype MuX.
+PatchXR is a multinational studio blending unmatched experience in art, engineering, and sound and music for VR. The team has some of the world’s top talent in the emerging medium of immersive, generative, interactive music for full-sensory virtual reality. That lineage starts with co-founders Melodie Mousset and Eduardo Fouilloux, building on Melodie’s award-winning achievements in VR art and Eduardo’s pioneering work at Animation Studio Denmark and creating the music game prototype MuX.
 
 Now, PatchXR has assembled a global team and a powerful, complete, ground-up engine for VR music, sound, and play. We’ve tested our tools with diverse artists from around the world in closed beta and our Patchathon collaborative experience at top festivals. With that bespoke foundation and world-class experience in multiplayer experience and tech, we’re envisioning new, futuristic ways to play together with music, engaging the full body with vision and sound.
 
@@ -149,7 +149,7 @@ More information on PatchXR is on our [website](https://patchxr.com), our logo &
 ## Production
 
 **Technical lead**		Victor Beaupuy
-**Engine architect**		Aleksey Sarapulov   
+**Engine architect**		Aleksey Sarapulov  
 **Platform architect**		Jonah Fox
 **DSP engineer** Pelle Juul
 **DSP engineer** Maciek Sypniewski
