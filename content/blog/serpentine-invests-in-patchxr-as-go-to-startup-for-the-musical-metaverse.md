@@ -4,7 +4,6 @@ ctalink = ""
 ctatext = ""
 date = ""
 description = "We’re excited to welcome leading Swiss firm Serpentine Ventures to our investors."
-draft = true
 image = "/uploads/patchxr.jpg"
 title = "Serpentine invests in PatchXR as go-to startup for the musical metaverse"
 type = ""
