@@ -1,12 +1,12 @@
 +++
-author = ""
+author = "PatchXR"
 ctalink = ""
 ctatext = ""
 date = ""
 description = "Our great American roadshow continues - we’re fresh off a ton of exciting SXSW experiences in Texas, and are now headed for an action-packed few days at San Francisco’s GDC."
 image = "/uploads/new-moscone.jpg"
 title = "From SXSW to GDC, as the Patch XR mini-tour takes on the USA "
-type = ""
+type = "post"
 
 +++
 
