@@ -2,11 +2,11 @@
 author = "PatchXR"
 ctalink = ""
 ctatext = ""
-date = ""
+date = 2022-03-16T00:00:00Z
 description = "We’re excited to welcome leading Swiss firm Serpentine Ventures to our investors."
 image = "/uploads/patchxr.jpg"
 title = "Serpentine invests in PatchXR as go-to startup for the musical metaverse"
-type = ""
+type = "post"
 
 +++
 We’re excited to welcome leading Swiss firm Serpentine Ventures to our investors.
