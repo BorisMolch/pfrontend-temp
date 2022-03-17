@@ -129,6 +129,7 @@ Now, PatchXR has assembled a global team and a powerful, complete, ground-up eng
 ## More information
 
 More information on PatchXR is on our [website](https://patchxr.com), our logo & relevant media are available [here](https://patchxr.com/presskit).
+For news and updates on PatchWorld, here is our [blog](https://patchxr.com/blog/)
 
 ***
 
@@ -156,7 +157,7 @@ More information on PatchXR is on our [website](https://patchxr.com), our logo &
 
 **Community development** Peter Kirn
 **Web developer** Daniel F. Wehleit
-**Marketingand PR** Mike Romo
+**Marketing and PR** Mike Romo
 
 ***
 
