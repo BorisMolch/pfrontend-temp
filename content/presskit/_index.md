@@ -92,7 +92,7 @@ Community creation made in Patch
 | | |
 --- | --- |
 | ![](/uploads/drop3_edited.gif) | ![](/uploads/patchworld-hero.jpg) |
-| ![](/uploads/01.gif) | ![]() |
+| ![](/uploads/01.gif) | ![](/uploads/player_nudi.gif) |
 | ![](/uploads/fish-instrument.jpg) | ![](/uploads/side_sample_v01.gif) |
 | ![](/uploads/bath.gif) | ![](/uploads/rainmaker_ep3.jpg) | 
 ***
