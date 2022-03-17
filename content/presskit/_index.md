@@ -65,8 +65,10 @@ Access an array of powerful, production-ready features - in a platform that’s 
 * Record loops of your avatar performing in 3D space to become a full band
 * Connect your virtual world with your usual setup using MIDI and OSC.
 
-***
 
+![](/uploads/poster-vertical.jpg)
+
+***
 ## Videos
 
 Jam with MC Patchee in Fluid Echoes (EP1)
