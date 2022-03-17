@@ -69,17 +69,17 @@ Access an array of powerful, production-ready features - in a platform that’s 
 
 ## Videos
 
+Jam with MC Patchee in Fluid Echoes (EP1)
+{{< youtube ItJYPXlWJos >}}
+
 Jam in Bouncy Beats (EP2)
-{{< youtube KWtDNEZzlZQ >}}
+{{< youtube 2qwdCIwBJLM >}}
 
-Jam in Fluid Echoes (EP1)
-{{< youtube lKJ2d7CugZ0 >}}
-
-Jam in Rain Maker (EP1)
+Jam with pans in the RainMaker (EP3)
 {{< youtube xzAraxsQK4o >}}
 
-Made in Patch
-{{< youtube kzPc6-j3CuA >}}
+Community creation made in Patch
+{{< youtube nUw1yjTYnrQ >}}
 
 ***
 
@@ -87,13 +87,13 @@ Made in Patch
 
 [Download Image pack](https://drive.google.com/drive/folders/1sSQT_Hk-9xOzmsTqDZR1lFi68K6cVI8i?usp=sharing)
 
-| | |
---- | --- |
-| ![](/uploads/drop3_edited.gif) | ![](/uploads/patchworld-hero.jpg) | 
-| ![](/uploads/player_nudi_wide.jpg) | ![](/uploads/lightbulb.gif) | 
-| ![](/uploads/booklet_imagev2.jpg) | ![](/uploads/01.gif) |
-| ![](/uploads/fish-instrument.jpg) | ![](/uploads/side_sample_v01.gif) |
-| ![](/uploads/bath.gif) | ![](/uploads/rainmaker_ep3.jpg) | 
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 ***
 
@@ -101,10 +101,10 @@ Made in Patch
 
 [Download logo pack](https://drive.google.com/drive/folders/1uvMkd9QYqqFg4kJTDp_EPqsDX2EQ4Yij?usp=sharing)
 
-|Logo  |  |
---- | --- |
-|![](/images/Patchworld-black.png)||
-|![](/uploads/patchxr-fulllogo.png)||
+| Logo |  |
+| --- | --- |
+|  |  |
+|  |  |
 
 ***
 
