@@ -66,7 +66,7 @@ Access an array of powerful, production-ready features - in a platform that’s 
 * Connect your virtual world with your usual setup using MIDI and OSC.
 
 
-![](/uploads/poster-vertical.jpg)
+![](/uploads/poster-vertical-web.jpg)
 
 ***
 ## Videos
