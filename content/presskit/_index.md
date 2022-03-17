@@ -89,24 +89,23 @@ Community creation made in Patch
 
 [Download Image pack](https://drive.google.com/drive/folders/1sSQT_Hk-9xOzmsTqDZR1lFi68K6cVI8i?usp=sharing)
 
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
+| | |
+--- | --- |
+| ![](/uploads/drop3_edited.gif) | ![](/uploads/patchworld-hero.jpg) | 
+| ![](/uploads/player_nudi_wide.jpg) | ![](/uploads/lightbulb.gif) | 
+| ![](/uploads/booklet_imagev2.jpg) | ![](/uploads/01.gif) |
+| ![](/uploads/fish-instrument.jpg) | ![](/uploads/side_sample_v01.gif) |
+| ![](/uploads/bath.gif) | ![](/uploads/rainmaker_ep3.jpg) | 
 ***
 
 ## Logo & Icon
 
 [Download logo pack](https://drive.google.com/drive/folders/1uvMkd9QYqqFg4kJTDp_EPqsDX2EQ4Yij?usp=sharing)
 
-| Logo |  |
-| --- | --- |
-|  |  |
-|  |  |
+|Logo  |  |
+--- | --- |
+|![](/images/Patchworld-black.png)||
+|![](/uploads/patchxr-fulllogo.png)||
 
 ***
 
