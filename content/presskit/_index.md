@@ -24,8 +24,8 @@ Zurich (CH) and Copenhagen (DK)
 **Release date:**
 Summer 2022
 
-\**Platforms:  
-\**Meta Quest 2
+**Platform:**
+Meta Quest 2
 
 **Website:**
 https://www.patchxr.com
