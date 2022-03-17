@@ -5,7 +5,7 @@ description: Presskit Description
 ---
 ![](/images/Patchworld-black.png)
 
-![](/uploads/booklet_imagev2.jpg)
+![](/uploads/presskit-hero-image.jpg)
 
 # PatchWorld: Patch, Play, Share
 
