@@ -102,11 +102,6 @@ Community creation made in Patch
 
 [Download logo pack](https://drive.google.com/drive/folders/1uvMkd9QYqqFg4kJTDp_EPqsDX2EQ4Yij?usp=sharing)
 
-|Logo  |  |
---- | --- |
-|![](/images/Patchworld-black.png)||
-|![](/uploads/patchxr-fulllogo.png)||
-
 ***
 
 ## Articles
