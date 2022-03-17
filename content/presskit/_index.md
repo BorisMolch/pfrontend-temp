@@ -34,7 +34,7 @@ https://www.patchxr.com
 TBA
 
 **Press / Business contact:**
-melo@patchxr.com
+Press@patchxr.com
 
 ***
 
@@ -160,6 +160,7 @@ More information on PatchXR is on our [website](https://patchxr.com), our logo &
 
 **Community development** Peter Kirn
 **Web developer** Daniel F. Wehleit
+**Marketingand PR** Mike Romo
 
 ***
 
@@ -193,6 +194,6 @@ http://patchxr.com
 
 \#PatchXR
 \#PatchWorld
-\#MadeInPatch
+\#MadeinPatch
 \#SoundOfTheMetaverse
 \#BuildSound
