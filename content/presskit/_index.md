@@ -92,7 +92,7 @@ Community creation made in Patch
 | | |
 --- | --- |
 | ![](/uploads/drop3_edited.gif) | ![](/uploads/01.gif) |
-| ![](/uploads/side_sample_v01.gif) | ![](/uploads/01.gif) |
+| ![](/uploads/side_sample_v01.gif) | ![](/uploads/bouncybeat) |
 | ![](/uploads/jam1.jpg) | ![](/uploads/jam.jpg) |
 | ![](/uploads/fluid-echoes.jpg) | ![](/uploads/fish-instrument.jpg) |
 | ![](/uploads/bath.gif) | ![](/uploads/rainmaker_ep3.jpg) | 
