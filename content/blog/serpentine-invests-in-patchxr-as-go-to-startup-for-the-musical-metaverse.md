@@ -9,7 +9,7 @@ title = "Serpentine invests in PatchXR as go-to startup for the musical metavers
 type = "post"
 
 +++
-We’re excited to welcome leading Swiss firm Serpentine Ventures to our investors.
+![](/uploads/patchxr.jpg)
 
 Serpentine Ventures, a [firm](https://www.serpentine.vc/portfolio/) named for winding Alpine mountain roads, helps us deepen our strong ties to the Swiss innovation ecosystem. And SERV is betting on music in the metaverse. Let’s let them explain:
 

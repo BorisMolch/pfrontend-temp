@@ -9,6 +9,7 @@ title = "From SXSW to GDC, as the Patch XR mini-tour takes on the USA "
 type = "post"
 
 +++
+![](/uploads/new-moscone.jpg)
 
 Our great American roadshow continues - we’re fresh off a ton of exciting SXSW experiences in Texas, and are now headed for an action-packed few days at San Francisco’s GDC.
 
@@ -22,10 +23,10 @@ GDC will keep us even busier. The Big Dance is GDC at Moscone Center, of course.
 
 Here’s where else to catch us in San Francisco this month:
 
-March 20   
+March 20  
 7 PM  
-**Courage XL  
-**The Great Northern -119 Utah St
+**Courage XL**  
+The Great Northern -119 Utah St
 
 March 22  
 4-8 pm  
@@ -33,10 +34,10 @@ March 22
 Pier 17, The Embarcadero #800  
 More info: [http://europeangameshowcase.com/](http://europeangameshowcase.com/ "http://europeangameshowcase.com/")
 
-March 26-27   
+March 26-27  
 1-4pm both days  
-**Workshop: Making musical worlds in VR with Patch  
-**Gray Area   
+**Workshop: Making musical worlds in VR with Patch**  
+Gray Area  
 2665 Mission Street  
 _$240 admission gets you an intensive, beginner-friendly hands-on workshop with co-founders Melodie and Edo._  
 More info and registration: [https://grayarea.org/course/making-musical-worlds-in-vr/](https://grayarea.org/course/making-musical-worlds-in-vr/ "https://grayarea.org/course/making-musical-worlds-in-vr/")
