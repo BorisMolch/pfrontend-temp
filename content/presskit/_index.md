@@ -71,6 +71,10 @@ Access an array of powerful, production-ready features - in a platform that’s 
 ***
 ## Videos
 
+
+Pre-release trailer
+{{< youtube xgY7vLU7uvw >}}
+
 Jam with MC Patchee in Fluid Echoes (EP1)
 {{< youtube ItJYPXlWJos >}}
 
