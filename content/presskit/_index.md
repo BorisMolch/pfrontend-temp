@@ -75,9 +75,6 @@ Access an array of powerful, production-ready features - in a platform that’s 
 Pre-release trailer
 {{< youtube N4tTMRGGHmA >}}
 
-Jam with MC Patchee in Fluid Echoes (EP1)
-{{< youtube ItJYPXlWJos >}}
-
 Jam in Bouncy Beats (EP2)
 {{< youtube 2qwdCIwBJLM >}}
 
@@ -97,8 +94,9 @@ Community creation made in Patch
 --- | --- |
 | ![](/uploads/drop3_edited.gif) | ![](/uploads/01.gif) |
 | ![](/uploads/side_sample_v01.gif) | ![](/uploads/bouncybeat) |
+| ![](/uploads/fluidecho.jpg) | ![](/uploads/fluid-echoes.jpg) |
 | ![](/uploads/jam1.jpg) | ![](/uploads/jam.jpg) |
-| ![](/uploads/fluid-echoes.jpg) | ![](/uploads/fish-instrument.jpg) |
+| ![](/uploads/rainmaker.jpg) | ![](/uploads/rainmaker_ep3.jpg) | 
 | ![](/uploads/bath.gif) | ![](/uploads/rainmaker_ep3.jpg) | 
 ***
 
