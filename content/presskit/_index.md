@@ -93,8 +93,8 @@ Community creation made in Patch
 | | |
 --- | --- |
 | ![](/uploads/drop3_edited.gif) | ![](/uploads/01.gif) |
-| ![](/uploads/side_sample_v01.gif) | ![](/uploads/bouncybeat) |
-| ![](/uploads/fluidecho.jpg) | ![](/uploads/fluid-echoes.jpg) |
+| ![](/uploads/side_sample_v01.gif) | ![](/uploads/patchworld_ep2.jpg) |
+| ![](/uploads/fluidecho.jpg) | ![](/uploads/patchworld_ep1.jpg) |
 | ![](/uploads/jam1.jpg) | ![](/uploads/jam.jpg) |
 | ![](/uploads/rainmaker.jpg) | ![](/uploads/rainmaker_ep3.jpg) | 
 | ![](/uploads/bath.gif) | ![](/uploads/rainmaker_ep3.jpg) | 
