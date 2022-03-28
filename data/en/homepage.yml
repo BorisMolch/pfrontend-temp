@@ -1,6 +1,6 @@
 ---
 alert:
-  enable: true
+  enable: false
   type: light
   title: 'We are Hiring a UI/UX designer ! '
   text: Apply
@@ -91,7 +91,7 @@ feature:
       your worlds. Jam, make a virtual band, throw a party. Broadcast, record, remix
       and share your performances in the metaverse and on social media.
 
-'
+      '
 promo_video:
   enable: false
   title: Where musical instruments become fantastic worlds
