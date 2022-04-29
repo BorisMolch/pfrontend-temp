@@ -4,12 +4,13 @@ ctalink = ""
 ctatext = ""
 date = 2022-04-29T06:00:00Z
 description = "There's nothing like the feeling of experiencing Patch first-hand. But don't take our word for it - here's a hands-on review. And get ready to play even more, as our friend  tig3rmast3r is back working on powerful new features in Patch, too. Recess is in session; let's hit the playground."
-draft = true
-image = ""
-title = "Playtime: a new hands-on review of Patch - and a teaser of Patch as drum machine "
+image = "/uploads/liveatlaval.jpg"
+title = "A new hands-on review of Patch - and a teaser of Patch as drum machine "
 type = ""
 
 +++
+![](/uploads/liveatlaval.jpg)
+
 There's nothing like the feeling of experiencing Patch first-hand. But don't take our word for it - here's a hands-on review. And get ready to play even more, as our friend  tig3rmast3r is back working on powerful new features in Patch, too. Recess is in session; let's hit the playground.
 
 First up, xR/VR blogger Skarredghost of _The Ghost Howls_ visited us at Europe's ultra-hot immersive reality exhibition, Laval Virtual. We were one of their highlights.
