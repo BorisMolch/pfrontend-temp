@@ -75,6 +75,7 @@ PATCHXR and Licensee agree that PATCHXR exclusively owns and will continue to ow
 Also ownership rights and intellectual property rights in further development of the PATCHXR Software based on Licensee’s Feedback belongs exclusively to PATCHXR. Any such ownership and intellectual property rights are herewith assigned form the Licensee to PATCHXR. Such Feedback is deemed as PATCHXR’s Confidential Information (as defined below) and Licensee hereby irrevocably waives any and all rights that Licensee may have in respect thereto. It is further understood that use of Feedback, if any, may be made by PATCHXR at its sole discretion, and that PATCHXR in no way shall be obliged to make use of any kind of the Feedback or part thereof.
 
 Any generic and anonymous information, which is derived from the use of the PATCHXR Software (i.e., metadata, aggregated and/or analytics information), which is not personally identifiable information, is PATCHXR’s exclusive property and may be used for any purpose including, but not limited to further development of the PATCHXR Software and/or for statistical purposes.
+
 PATCHXR and Licensee agree that Licensee will own all ownership rights and intellectual property rights in the Work Results created with the PATCHXR Software, subject to the license granted in Section 5 of these Evaluation Licensing Terms.
 
 ### 8. Publicity
