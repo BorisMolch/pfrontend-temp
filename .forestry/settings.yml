@@ -65,6 +65,10 @@ sections:
   path: content/presskit/_index.md
   label: Presskit
 - type: document
+  path: content/license/_index.md
+  label: License
+  match: "**/*"
+- type: document
   path: i18n/en.yaml
   label: i18n Strings
 upload_dir: static/uploads
