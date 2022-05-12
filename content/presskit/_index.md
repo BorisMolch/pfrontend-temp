@@ -84,6 +84,9 @@ Jam with pans in the RainMaker (EP3)
 Community creation made in Patch
 {{< youtube nUw1yjTYnrQ >}}
 
+Techno live set made in Patch
+{{< youtube p273evH2ROQ >}}
+
 ***
 
 ## Images
