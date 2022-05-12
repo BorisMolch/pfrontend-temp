@@ -3,9 +3,7 @@ title: Presskit
 description: Presskit Description
 
 ---
-![](/images/Patchworld-black.png)
-
-![](/uploads/presskit-hero-image.jpg)
+![](/uploads/cover-web.jpg)
 
 # PatchWorld: Play and create Interactive music worlds
 
