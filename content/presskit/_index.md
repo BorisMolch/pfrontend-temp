@@ -7,7 +7,7 @@ description: Presskit Description
 
 ![](/uploads/presskit-hero-image.jpg)
 
-# PatchWorld: Patch, Play, Share
+# PatchWorld: Play and create Interactive music worlds
 
 ## The metaverse as your own playground - with all the emotional power of music!
 
