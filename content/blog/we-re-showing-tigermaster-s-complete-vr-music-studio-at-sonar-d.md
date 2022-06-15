@@ -4,15 +4,14 @@ ctalink = ""
 ctatext = ""
 date = 2022-06-14T22:00:00Z
 description = "Not just an instrument or musical toy or tech demo - Tigermaster is building a complete live set and entire metaverse-native studio in Patch. And where better than the international conference of musical futurism, Barcelona's SÓNAR+D, to show it off? Here's a sneak peak - and a chance to see it live and in person if you're at SÓNAR. "
-draft = true
 image = "/uploads/studio2.JPG"
 title = "Tigermaster's complete VR music studio - this week at SONAR+D"
-type = ""
+type = "post"
 
 +++
 ![](/uploads/studio2.JPG)
 
-Tigermaster, aka composer and sonic inventor Riccardo Ferri, has already made a name as a stand-out innovator in the Patch community. With his own deep-rooted history in electronic music - a major name in record releases [back to 1994](https://www.discogs.com/artist/47582-Riccardo-Ferri?sort=year%2Casc&limit=25&type=Credits&filter_anv=0) - Patch is both up to his technical imagination and experience and a way to play in new ways.
+Tigermaster, aka composer and sonic inventor Riccardo Ferri, has already made a name as a stand-out innovator in the Patch community. With his own deep-rooted history in electronic music - he's been a major name in record releases [back to 1994](https://www.discogs.com/artist/47582-Riccardo-Ferri?sort=year%2Casc&limit=25&type=Credits&filter_anv=0) - Patch is both a match for his technical imagination and experience and a way to play in new ways.
 
 At SÓNAR+D, Riccardo will hook up two headsets that take you into his complete metaverse studio. Working entirely with Patch's own native tools, he's built four synths, two drum kits, a mixer, a snapshot manager, and even a virtual DJ deck - all entirely custom-made from scratch.
 
