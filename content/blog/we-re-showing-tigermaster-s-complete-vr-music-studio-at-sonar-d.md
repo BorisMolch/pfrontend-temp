@@ -23,6 +23,10 @@ Find the showcase at SonarMàtica, daily Thurs, Fri, Sat 13:00 - 20:00:
 
 [SonarMàtica by Tezos - Realities+D](https://sonar.es/en/2022/artists/sonarmatica-by-tezos-realities-d)
 
+RSVP on Facebook:
+
+[https://fb.me/e/1V3WVTO0N](https://fb.me/e/1V3WVTO0N "https://fb.me/e/1V3WVTO0N")
+
 Just in case you can't make it to Barcelona this week, here's an advance look at his drum kit sequencer:
 
 ![](/uploads/seqdrums_x5_r18.PNG)
