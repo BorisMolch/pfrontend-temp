@@ -3,7 +3,7 @@ author = "PatchXR"
 ctalink = ""
 ctatext = ""
 date = 2022-06-14T22:00:00Z
-description = "Not just an instrument or musical toy or tech demo - Riccardo Ferri is building a complete live set and entire metaverse-native studio in Patch. And where better than the international conference of musical futurism, Barcelona's SÓNAR+D, to show it off? Here's a sneak peak - and a chance to see it live and in person if you're at SÓNAR. "
+description = "Not just an instrument or musical toy or tech demo - Riccardo Ferri is building a complete live set and entire metaverse-native studio in Patch. And where better than the international conference of musical futurism, Barcelona's SÓNAR+D, to show it off? Here's a sneak peek - and a chance to see it live and in-person if you're at SÓNAR. "
 image = "/uploads/studio2.JPG"
 title = "Riccardo Ferri's complete VR music studio - this week at SONAR+D"
 type = "post"
@@ -39,4 +39,4 @@ Plus a recent video showing off the rig:
 
 {{< youtube p273evH2ROQ >}}
 
-And stay tuned here - we'll be diving in deeper to Riccardo's work shortly. Got some questions about his creations or how they fit into Patch - including how you could work with something like this yourself in Patch's native environment? Ask us on [Discord](https://discord.gg/s3AjXepvWR) or [Twitter](https://twitter.com/patch_xr).
+And stay tuned here - we'll be diving deeper into Riccardo's work shortly. Got some questions about his creations or how they fit into Patch - including how you could work with something like this yourself in Patch's native environment? Ask us on [Discord](https://discord.gg/s3AjXepvWR) or [Twitter](https://twitter.com/patch_xr).
