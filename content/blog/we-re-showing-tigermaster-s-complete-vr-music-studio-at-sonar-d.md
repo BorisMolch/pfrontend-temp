@@ -19,6 +19,10 @@ In a sure-to-be-smash-hit, you'll be able to try this yourself, with eight all-n
 
 [SONAR+D](https://sonarplusd.com)
 
+Find the showcase at SonarMàtica, daily Thurs, Fri, Sat 13:00 - 20:00:
+
+[SonarMàtica by Tezos - Realities+D](https://sonar.es/en/2022/artists/sonarmatica-by-tezos-realities-d)
+
 Just in case you can't make it to Barcelona this week, here's an advance look at his drum kit sequencer:
 
 ![](/uploads/seqdrums_x5_r18.PNG)
