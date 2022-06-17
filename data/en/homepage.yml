@@ -202,7 +202,3 @@ company:
   address2city: 1432 Copenhagen
   address2country: Denmark
   email: contact@patchxr.com
-support:
-  enable: true
-  discordlink: discord.gg/gwMVhKWxbr
-  redditlink: ''
