@@ -13,7 +13,7 @@ type = "post"
 
 Composer and sonic inventor Riccardo Ferri has already made a name as a stand-out innovator in the Patch community (where he goes by the handle Tigermaster). With his own deep-rooted history in electronic music - he's been a major name in record releases [back to 1994](https://www.discogs.com/artist/47582-Riccardo-Ferri?sort=year%2Casc&limit=25&type=Credits&filter_anv=0) - Patch is both a match for his technical imagination and experience and a way to play in new ways.
 
-At SÓNAR+D, Riccardo will hook up two headsets that take you into his complete metaverse studio. Working entirely with Patch's own native tools, he's built four synths, two drum kits, a mixer, a snapshot manager, and even a virtual DJ deck - all entirely custom-made from scratch.
+At SÓNAR+D, Riccardo's work will be available on two headsets that take you into his complete metaverse studio. Working entirely with Patch's own native tools, he's built four synths, two drum kits, a mixer, a snapshot manager, and even a virtual DJ deck - all entirely custom-made from scratch.
 
 In a sure-to-be-smash-hit, you'll be able to try this yourself, with eight all-new patterns you can loop and play. It's the one part of SÓNAR where you're the headliner.
 
