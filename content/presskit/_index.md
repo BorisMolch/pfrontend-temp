@@ -29,7 +29,7 @@ Meta Quest 2
 https://www.patchxr.com
 
 **Regular Price:**
-TBA
+19.99
 
 **Press / Business contact:**
 Press@patchxr.com
@@ -38,7 +38,7 @@ Press@patchxr.com
 
 ## Synopsis
 
-PatchWorld empowers musical experience with fantastic worlds, fanciful instruments, and full-immersion live shows. It combines the visual experience and play of gaming with the emotional power of music. It’s ready to play from the moment you enter - but deep enough to let you build everything you can imagine.
+PatchWorld empowers musical experience with marvelous worlds, fanciful instruments, and full-immersion live shows. It combines the visual experience and play of gaming with the emotional power of music. It’s ready to play from the moment you enter - but deep enough to let you build everything you can imagine.
 
 ## An unprecedented toolset
 
