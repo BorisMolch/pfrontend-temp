@@ -3,9 +3,9 @@ title: Presskit
 description: Presskit Description
 
 ---
-![](/uploads/cover-web.jpg)
+![](/uploads/coverimagesafeareatemplatelandscape-party6.jpg)
 
-# PatchWorld: Play and create Interactive music worlds
+# PatchWorld: Play and create music worlds
 
 ## The metaverse as your own playground - with all the emotional power of music!
 
