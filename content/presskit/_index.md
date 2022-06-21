@@ -80,7 +80,7 @@ Jam with pans in the RainMaker (EP3)
 Community creation made in Patch
 {{< youtube nUw1yjTYnrQ >}}
 
-Techno live set made in Patch
+Techno live set made in Patch (accessible in the Beta for PC VR only)
 {{< youtube p273evH2ROQ >}}
 
 ***
