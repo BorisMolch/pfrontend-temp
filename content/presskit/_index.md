@@ -91,7 +91,15 @@ Techno live set made in Patch (accessible in the Beta for PC VR only)
 
 | | |
 --- | --- |
-| ![](/uploads/bouncybeat-2.jpg) | ![](/uploads/01.gif) |
+| ![](/uploads/fluidechoes-2.jpg) | ![](/uploads/fluidecho-1.jpg) |
+| ![](/uploads/fluidechoes-3.jpg) | ![](/uploads/bouncybeat-2.jpg) |
+| ![](/uploads/bouncybeat-4.jpg) | ![](/uploads/rainmaker-1.jpg) |
+| ![](/uploads/rainmaker-2.jpg) | ![](/uploads/rainmaker-1.jpg) |
+
+***
+
+## GIFs
+
 | ![](/uploads/drop3_edited.gif) | ![](/uploads/01.gif) |
 | ![](/uploads/side_sample_v01.gif) | ![](/uploads/presskit-hero-image.jpg) |
 | ![](/uploads/fluidecho.jpg) | ![](/uploads/patchworld_ep1.jpg) |
