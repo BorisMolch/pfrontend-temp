@@ -91,6 +91,7 @@ Techno live set made in Patch (accessible in the Beta for PC VR only)
 
 | | |
 --- | --- |
+| ![](/uploads/bouncybeat-2.jpg) | ![](/uploads/01.gif) |
 | ![](/uploads/drop3_edited.gif) | ![](/uploads/01.gif) |
 | ![](/uploads/side_sample_v01.gif) | ![](/uploads/presskit-hero-image.jpg) |
 | ![](/uploads/fluidecho.jpg) | ![](/uploads/patchworld_ep1.jpg) |
