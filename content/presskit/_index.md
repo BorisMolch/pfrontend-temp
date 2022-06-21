@@ -20,7 +20,7 @@ PatchXR
 Zurich (CH) and Copenhagen (DK)
 
 **Release date:**
-Summer 2022
+July 7th
 
 **Platform:**
 Meta Quest 2
@@ -29,7 +29,7 @@ Meta Quest 2
 https://www.patchxr.com
 
 **Regular Price:**
-19.99
+29.99
 
 **Press / Business contact:**
 Press@patchxr.com
