@@ -15,13 +15,11 @@ banner:
   gif: "1"
 intro:
   enable: true
-  title: MAKE VISUAL MUSIC IN VR
-  subtitle: PatchXR develops a native VR creative environment that lets you build
-    brand new instruments and play electronic music in the metaverse. Break out of
-    the old paradigms, and bring your art to the next level. Create interactive worlds
-    with the building blocks of sound. Explore an unlimited environment that looks
-    to the future of human-computer interface and the endless possibilities of your
-    imagination.
+  title: Play and create music worlds
+  subtitle: PatchWorld empowers musical experience with marvelous worlds, fanciful
+    instruments, and full-immersion live shows. It combines the visual experience
+    and play of gaming with the emotional power of music. It’s ready to play from
+    the moment you enter - but deep enough to let you build everything you can imagine.
   description: ''
 quote_slider:
   enable: true
