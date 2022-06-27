@@ -9,7 +9,7 @@ description: Presskit Description
 
 ## The metaverse as your own playground - with all the emotional power of music!
 
-An upcoming collaborative music sandbox native to VR, from the immersive media experts of PatchXR.
+A collaborative music sandbox native to VR, from the immersive media experts of PatchXR.
 
 ***
 
@@ -19,8 +19,9 @@ PatchXR
 **Based in:**
 Zurich (CH) and Copenhagen (DK)
 
-**Release date:**
-July 7th
+**Release date:** 
+
+July 7th on Oculus Store
 
 **Platform:**
 Meta Quest 2
@@ -29,7 +30,7 @@ Meta Quest 2
 https://www.patchxr.com
 
 **Regular Price:**
-29.99
+29\.99
 
 **Press / Business contact:**
 Press@patchxr.com
@@ -42,31 +43,48 @@ PatchWorld empowers musical experience with marvelous worlds, fanciful instrumen
 
 ## An unprecedented toolset
 
-Music is diverse and imaginations want to run wild, so our technology is built for collaboration and limitless possibility.
+Play and explore fantastic musical worlds, even without previous musical experience - then get involved and remix to create your own. Join an underwater reggae jam, blast some hard techno beats, or make polyrhythms out of rainfall. Build your own reactive stages and sonic playgrounds – fully immersive, native on Meta Quest 2.
 
-PatchWorld is an open-ended world-builder. Dig into a complete collection of interchangeable blocks that power gesture and interaction, generative music machines and pattern makers, sound processing and stompbox-style effects, animation and visuals. Or if you just want to relax and play around, enter our growing library and load up user content or an EP - audiovisual albums you can enter interactively.
+**EXPLORE** music experiences, stories, shows, virtual studios, interactive tutorials and a growing library of instruments created by artists around the globe.
+
+**CREATE** your own musical worlds and instruments and record musicverse music videos and shows.
+
+**SHARE** your creations with the world using built-in video recording - plus, coming soon, sharing with other users and multiplayer support.
 
 For the first time, you can make rich, fully-customizable worlds without needing your own personal visual effects house - it’s like stepping inside a futuristic music video. You create for VR inside VR, meaning working in three dimensions is more intuitive. And since it’s all live and playable, you can perform, improvise, and jam. In an age when music makers’ vision can get lost in faceless streams, PatchWorld lets you express yourself and produce media for VR, live streams, and even live shows, with high-performance 3D visuals and spatial sound, even on just a standalone Oculus headset.
 
 ## Features
 
-Access an array of powerful, production-ready features - in a platform that’s as playful and easy as a game:
+PatchWorld combines a playful interface with production-grade sound so that everyone gets a complete, rich musical experience. Want to explore music in an imaginative VR dreamworld? Check out interactive worlds. Want to stock your VR studio with your favorite techno instruments? You can do that, too.
 
-* Build and share musical worlds in the metaverse, without any coding, for free
-* Fully modular framework - start with pre-built worlds or create custom instruments, visuals, and gestural interactions
-* 200+ blocks for endless creative options
-* 3D environment and sound assets to get you started
+**Features at launch:**
+
+* 3 unique ready-to-play worlds (“EPs”) to explore or remix and make your own
+* Custom world creation with block-based creation
+* 30+ instruments (with more coming soon), like –
+* Whimsical sound toys like rubber duckies, beer bottles, skulls, frying pans, and more
+* Powerful studio-quality tools, including recreations of acid synthesizers, vintage drum machines, loopers, and chord synths - some made by our community patchers
+* Playable, physics-based sounds based on wind, rain, marbles, gravity, and more
+* Use the mic to record samples or sing along
+* Jam together with built-in bands and characters
+* Customize your avatar
 * 3D spatial audio and stereo mixing
-* Access Patch from Quest standalone headsets - lowering the bar to entry
-* Explore awesome musical creations made in Patch and interact with the growing community of Patchers worldwide.
-* Tutorials to learn about sound and how to build your own music worlds and electronic music instruments
-* Record loops of your avatar performing in 3D space to become a full band
-* Connect your virtual world with your usual setup using MIDI and OSC.
+* Record live performances in VR
 
+**And more coming soon:**
+
+* More worlds, more instruments, more visuals – with new weekly releases
+* Publish your creations to share with friends
+* Multiplayer live rooms for jamming, learning, and partying
+* Custom-edited content and PatchMaker for building your own devices
+* MIDI and OSC support
+* ...and more customization and creation features
+
+We’re building a universe of music makers who can exchange and explore one another’s instruments, worlds, and unimaginable variety of creations. This community growth is already underway with artists and inventors testing the pre-release builds, plus a series of Patchathons at major international gaming festivals over the past two years.
 
 ***
-## Videos
 
+## Videos
 
 Pre-release trailer
 {{< youtube N4tTMRGGHmA >}}
@@ -89,12 +107,12 @@ Techno live set made in Patch (accessible in the Beta for PC VR only)
 
 [Download Image pack](https://drive.google.com/drive/folders/1sSQT_Hk-9xOzmsTqDZR1lFi68K6cVI8i?usp=sharing)
 
-| | |
---- | --- |
-| ![](/uploads/fluidechoes-2.jpg) | ![](/uploads/fluidecho-1.jpg) |
-| ![](/uploads/fluidechoes-3.jpg) | ![](/uploads/bouncybeat-2.jpg) |
-| ![](/uploads/bouncybeat-4.jpg) | ![](/uploads/rainmaker-1.jpg) |
-| ![](/uploads/rainmaker-2.jpg) | ![](/uploads/rainmaker-1.jpg) |
+|  |  |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 ***
 
@@ -102,6 +120,7 @@ Techno live set made in Patch (accessible in the Beta for PC VR only)
 
 | ![](/uploads/drop3_edited.gif) | ![](/uploads/01.gif) |
 | ![](/uploads/side_sample_v01.gif) | ![](/uploads/bath.gif) |
+
 ***
 
 ## Logo & Icon
