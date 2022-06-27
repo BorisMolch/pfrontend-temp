@@ -29,8 +29,9 @@ Meta Quest 2
 **Website:**
 https://www.patchxr.com
 
-**Regular Price:**
-29\.99
+**Regular Price:** 
+
+$29.99
 
 **Press / Business contact:**
 Press@patchxr.com
