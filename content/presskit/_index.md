@@ -108,13 +108,6 @@ Techno live set made in Patch (accessible in the Beta for PC VR only)
 
 [Download Image pack](https://drive.google.com/drive/folders/1sSQT_Hk-9xOzmsTqDZR1lFi68K6cVI8i?usp=sharing)
 
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
 ***
 
 ## GIFs
