@@ -2,8 +2,6 @@
 <footer class="footer-main">
   <div class="container text-light">
     <div class="row footer-links">
-
-
       <!-- Column 1 -->
       <div class="col-lg-3 zoom">
          <a href="https://patchxr.com/"><img src="/images/PatchXR-med-white.png" class="pt-5" style="width: 100%"></a><br>
@@ -20,15 +18,7 @@
         <a href="/contact">Contact Us</a><br>
         <a href="/presskit">Press Kit</a><br>
         <a href="/faq">FAQ</a><br>
-        {{ $data := index .Site.Data .Site.Language.Lang }}
-        {{ if $data.homepage.support.enable }}
-        {{ with $data.homepage.support }}
 
-<!--         <a href="{{ .discordlink }}" target="_blank">Discord</a><br>
-        <a href="{{ .redditlink }}" target="_blank">Reddit</a><br> -->
-
-
-        {{ end }}
       </div>
       <!-- Column 3 -->
       <div class="col-lg-3"><div class="footer-title">GET IN TOUCH</div>
@@ -37,7 +27,7 @@
 
       <div class="footer-sep pt-3">MAILING ADDRESS</div>
 
-          {{ end }}
+         
 
 
 
@@ -79,7 +69,7 @@
 
     </div>
 </div>
-  <div class="container">
+
     <div class="row  mt-5 pt-3 pb-3">
       <div class="col-md-12 mt-2 text-center">
 
@@ -91,7 +81,8 @@
 
 
     </div>
-  </div>
+
+</div>
 </footer>
 <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
 
