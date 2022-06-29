@@ -1,5 +1,5 @@
 .btn{
-	text-transform: uppercase;
+	
 }
 
 .btn-download{
@@ -30,16 +30,17 @@
 .btn-main-md{
     padding: 17px 38px;
     font-size: 23px;
+    font-weight: 600;
     border-radius: 50px;
-    border: 4px solid deeppink;
-    background: $primary-color;
+
+    background: #333;
     color: $light;
     outline: none;
     &:hover{
         color: $light;
         background: $black;
-        border: 4px solid deeppink;
-        color: deeppink;
+
+        color: $white;
     }
     &:focus{
         color: $light;
