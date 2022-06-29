@@ -22,7 +22,7 @@ intro:
     the moment you enter - but deep enough to let you build everything you can imagine.
   description: ''
 quote_slider:
-  enable: true
+  enable: false
   slider_item:
   - quote: Interactive music video
     quote_by: Create extraordinary music videos - then step inside them.
@@ -43,7 +43,7 @@ quote_slider:
   - quote: Concerts
     quote_by: Perform live in and out VR, online and on stage
 download:
-  enable: true
+  enable: false
   title: Available soon...
   subtitle: PatchXR will be available on the following VR platforms
   download_buttons:
@@ -97,7 +97,7 @@ promo_video:
   bg_image: "/uploads/mali-perfo.jpg"
   video_embed_url: https://youtube.com/embed/x1LRs161hfk
 testimonial:
-  enable: true
+  enable: false
   testimonial_item:
   - name: Riccardo Ferri , Music producer
     image: "/uploads/tigermasterportrait.jpg"
@@ -142,7 +142,7 @@ testimonial:
       compositions in the future. '
 patchworld:
   enable: true
-  heading: PATCHWORLD
+  heading: PATCHMAKER
   title: Join the first creators and PatchXR to shape the sound of the metaverse
   subtitle: 'You are a music producer, audio engineer, a media artist, a performer,
     a game designer, a maker, a hacker... '
