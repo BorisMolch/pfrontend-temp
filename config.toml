@@ -117,10 +117,10 @@ preloader = "/images/logo-1.png"
 URL = "https://www.facebook.com/patch.xr/"
 icon = "logo-facebook"
 [[params.social]]
-URL = "https://twitter.com/patch_xr"
+URL = "https://twitter.com/patchworld_"
 icon = "logo-twitter"
 [[params.social]]
-URL = "https://www.instagram.com/patch.xr/"
+URL = "https://www.instagram.com/patchworld_vr/"
 icon = "logo-instagram"
 [[params.social]]
 URL = "https://www.youtube.com/channel/UCk_Ekjvy67qnNo-iM4-F_bA"
