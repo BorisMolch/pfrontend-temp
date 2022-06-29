@@ -15,22 +15,6 @@
 			padding: 20px;
 		}
 
-		// Owl dot Active color overide
-		.owl-dots {
-			.owl-dot {
-				&:hover {
-					span {
-						background: $primary-color;
-					}
-				}
-
-				&.active {
-					span {
-						background: $primary-color;
-					}
-				}
-			}
-		}
 	}
 }
 

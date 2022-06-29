@@ -50,6 +50,52 @@
 {{ end }}
 {{ "<!-- End of introtext -->" | safeHTML }}
 
+<style>
+	/* Top left text */
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+.feature-text {
+	font-size: 1.4em;
+	font-weight: 600;
+}
+</style>
+
+{{ "<!-- Feature Slider -->" | safeHTML }}
+{{ if $data.homepage.feature_slider.enable }}
+<section class="section features ">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 m-auto text-left">
+        <div class="quote-slider owl-carousel owl-theme">
+          {{ range $data.homepage.feature_slider.slider_item }}
+          <div class="item">
+			<div class="row">
+			<div class="col-lg-5">
+				<div class="imageblock" style="position: relative">
+				<img src="{{ .feature_image }}" class="img-fluid">
+				<div class="top-left btn-main-sm" style="position: absolute; top: 10px;">{{ .feature_title }}</div>
+			</div>
+			</div>
+		  <div class="col-lg-7">
+            
+            <p class="feature-text mt-3">{{ .feature_text }}</p>
+          </div>
+		</div>
+	</div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ "<!-- End of Feature Slider -->" | safeHTML }}
+
+
 {{ "<!-- Rotation Banner Slider -->" | safeHTML }}
 {{ if $data.homepage.quote_slider.enable }}
 <section class="section quotes ">
@@ -232,7 +278,7 @@
 {{ "<!-- End of Testimonial -->" | safeHTML }}
 
 {{ "<!-- Teaser -->" | safeHTML }}
- <section class="introtext section mb-3">
+ <section class="section">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 text-center" data-aos="fade-in">

@@ -1,6 +1,10 @@
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span
 
-{ background: $primary-color;}
+{ 	/* background: $white;
+	border: 1px solid red; */
+	text-align: left;
+}
+
 
 
 .introtext {
@@ -280,21 +284,7 @@
 				}
 			}
 		}
-		// Owl dot Active color overide
-		.owl-dots{
-			.owl-dot{
-				&:hover{
-					span{
-						background: $primary-color;
-					}
-				}
-				&.active{
-					span{
-						background: $primary-color;
-					}
-				}
-			}
-		}
+
 	}
 }
 

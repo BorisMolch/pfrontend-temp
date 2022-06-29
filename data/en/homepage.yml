@@ -16,11 +16,20 @@ banner:
 intro:
   enable: true
   title: Play and create music worlds
-  subtitle: PatchWorld empowers musical experience with marvelous worlds, fanciful
-    instruments, and full-immersion live shows. It combines the visual experience
-    and play of gaming with the emotional power of music. It’s ready to play from
-    the moment you enter - but deep enough to let you build everything you can imagine.
+  subtitle: "Unleash your creativity in the marvelous musicverse of PatchWorld! Explore an ever-expanding library of tools, toys, and wild instruments you can use to make your own music in VR. Join an underwater reggae jam, blast some hard techno beats, or make polyrhythms out of rainfall. Build your own reactive stage and musical inventions – fully immersed, natively on your headset!"
   description: ''
+feature_slider:
+  enable: true
+  slider_item:
+  - feature_title: "EXPLORE"
+    feature_text: "Explore a growing number of experiences, shows, virtual studios, and instruments created by artists around the globe."
+    feature_image: "/uploads/fishwebsite1.jpg"
+  - feature_title: "CREATE"
+    feature_text: "Create your own musical worlds and instruments, design your avatar, and record yourself performing, for musicverse music videos and shows."
+    feature_image: "/uploads/newfish.gif"
+  - feature_title: "SHARE"
+    feature_text: "Share your creations with the world in a series of updates coming soon. Publish your works to PatchWorld and in the coming months, multiplayer support will allow you to explore, build, and jam in real-time with friends."
+    feature_image: "/uploads/avatar-web-1.jpg"
 quote_slider:
   enable: false
   slider_item:
@@ -51,7 +60,7 @@ download:
     logo: images/p-oculus.png
     link: www.oculus.com
 feature:
-  enable: true
+  enable: false
   feature_item:
   - title: Play fantastic worlds
     image: "/uploads/fishwebsite1.jpg"
