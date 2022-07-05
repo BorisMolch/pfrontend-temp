@@ -382,7 +382,7 @@
 				<ul class="list-inline">
 					{{ range .download_buttons }}
 					<li class="list-inline-item" data-aos="fade-up">
-						<a href="{{ .link | safeURL }}" class="btn btn-main-md">
+						<a href="{{ .link | safeURL }}" class="btn btn-main-md" onclick="ga('send',{hitType: 'event', eventCategory: 'Join Beta Button', eventAction: 'click'});">
 							<i class="{{ .icon }}"></i>
 							{{ .label }}
 						</a>
