@@ -5,7 +5,7 @@ ctatext = ""
 date = 2022-07-07T17:00:00Z
 description = "Now Patch’s fantastical musical worlds are available to all Meta Quest 2 users, live on the Meta Quest Store on July 7!"
 draft = true
-image = ""
+image = "/uploads/rainmaker.jpeg"
 title = "PatchWorld is now available on the Meta Quest Store"
 type = "post"
 
