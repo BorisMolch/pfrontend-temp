@@ -5,11 +5,13 @@ ctatext = ""
 date = 2022-07-07T17:00:00Z
 description = "Now Patch’s fantastical musical worlds are available to all Meta Quest 2 users, live on the Meta Quest Store on July 7!"
 draft = true
-image = "/uploads/rainmaker.jpeg"
+image = "/uploads/fluidechoes.jpeg"
 title = "PatchWorld is now available on the Meta Quest Store"
 type = "post"
 
 +++
+![](/uploads/fluidechoes.jpeg)
+
 Thanks to all the work by our team and testers, we’re launching PatchWorld to the public. That means now all Meta Quest 2 users can discover our unprecedented VR toolkit for exploring musical experiences, building original, fanciful instruments, and playing full-immersion live shows.
 
 Play and explore fantastic musical worlds, even without previous musical experience - then get involved and remix to create your own. Join an underwater reggae jam, blast some hard techno beats, or make polyrhythms out of rainfall. Build your own reactive stages and sonic playgrounds – fully immersive, native on Meta Quest 2.
@@ -19,6 +21,8 @@ Play and explore fantastic musical worlds, even without previous musical experie
 **CREATE** your own musical worlds, instruments, and shows, complete with tutorials to show you how.
 
 **SHARE** your creations with the world via built-in video recording - and tons more sharing and community features are still to come.
+
+![](/uploads/rainmaker.jpeg)
 
 **Features at launch:**
 
