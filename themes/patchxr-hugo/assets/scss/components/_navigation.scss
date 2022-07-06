@@ -31,6 +31,7 @@
 				padding-left: 20px;
 				padding-right: 20px;
 				line-height: 40px;
+				
 			}
 			&:hover {background-color: $black;}
 			&.active{
@@ -119,4 +120,8 @@
 // bootstrap override
 .navbar-toggler:focus, .navbar-toggler:hover{
 	outline: none;
+}
+
+.navbar-toggler {
+	padding: .55rem .55rem;
 }
