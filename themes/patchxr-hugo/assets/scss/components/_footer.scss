@@ -13,38 +13,35 @@
 
 .bubble {
 	margin-left: 10px; 
-	font-size: 9px!important; 
-	background-color: purple;
+	font-size: 12px!important; 
+	background-color:$gray;
+	color: $white;
 	border-radius: 10px; 
 	padding: 3px
 }
-	.footer-title { color: deeppink;
-		border-bottom: 1px solid $blue;
-		padding-bottom: 5px;
-		margin-bottom: 10px;
-		margin-top: 20px;
+.footer-title { 
+	color: $white;
+	padding-bottom: 5px;
+	margin-bottom: 10px;
 	}
 .footer-sep {
-	
-
-	color: $blue;
+	color: $white;
 	font-size: 0.8em;
 }
 
-
-	.footer-links {
+.footer-links {
 
 		a{
 			text-decoration: none;
 			border-radius: 100%;
 			color: $white;
 			text-align: left;
-			font-size:18px;
-			font-weight: 500;
+			font-size:16px;
+			font-weight: 700;
 		}
 
 		a:hover {
-			color: $blue;
+			color: $gray;
 		}
 
 

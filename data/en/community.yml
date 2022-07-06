@@ -1,6 +1,6 @@
 ---
 intro:
-  enable: true
+  enable: false
   title: Check out what the community is making
   description: 'Our VR authoring tools to produce visual-music in the metaverse is
     still in beta, but the community of artists, makers, engineers, producers, builders
@@ -13,7 +13,7 @@ intro:
   - image: images/automata.jpg
     image_webp: images/about/slider-3.webp
 cta:
-  enable: true
+  enable: false
   text: "Join the Beta waitlist and subscribe to the mailing list to know what the community is doing."
   button: "Join the community"
   link: "https://docs.google.com/forms/d/e/1FAIpQLSclGNupdrQz7q37WGlCtb5jzXghsnByTz56CC-kbPaXIeKOmw/viewform?usp=sf_link"

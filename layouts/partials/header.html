@@ -23,7 +23,7 @@
       <span class="tf-ion-android-menu" style="color:white!important;"></span>
     </button>
     <div class="collapse navbar-collapse text-center" id="navbarNav">
-      <ul class="nav navbar-nav ml-auto">
+      <ul class="nav navbar-nav ml-auto" style="background-color: #040404;">
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
         {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
@@ -34,7 +34,7 @@
             aria-expanded="false">
             {{ .Name }}
           </a>
-          <div class="dropdown-menu">
+          <div class="dropdown-menu text-left">
             {{ range .Children }}
             <a class="dropdown-item" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
             {{ end }}

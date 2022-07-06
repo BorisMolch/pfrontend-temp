@@ -3,32 +3,30 @@
   <div class="container text-light">
     <div class="row footer-links">
       <!-- Column 1 -->
-      <div class="col-lg-3 zoom">
-         <a href="https://patchxr.com/"><img src="/images/PatchXR-med-white.png" class="pt-5" style="width: 100%"></a><br>
+      <div class="col-lg-3">
+         <a href="https://patchxr.com/"><img src="/images/logo-alt.png" style="width: 80%"></a><br>
       </div>
 
       <!-- Column 2 -->
-      <div class="col-lg-3"><div class="footer-title">QUICK LINKS</div>
+      <div class="col-lg-3 mb-3"><div class="footer-title">Quick Links:</div>
         <a href="https://patchxr.com">Home</a><br>
         <a href="/about">About</a><br>
-        <a href="/jobs">Careers</a><span class="bubble">WE'RE HIRING</span><br>
+        <a href="/jobs">Careers</a><span class="bubble">we're hiring</span><br>
         <a href="/blog">Blog</a><br>
         <a href="https://patchxrdocumentation.readthedocs.io/" target="_blank">Documentation</a><br>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSclGNupdrQz7q37WGlCtb5jzXghsnByTz56CC-kbPaXIeKOmw/viewform?usp=sf_link" target="_blank">Access Beta</a><br>
         <a href="/contact">Contact Us</a><br>
         <a href="/presskit">Press Kit</a><br>
         <a href="/faq">FAQ</a><br>
-
       </div>
       <!-- Column 3 -->
-      <div class="col-lg-3"><div class="footer-title">GET IN TOUCH</div>
-      <div class="footer-sep">EMAIL</div>
+      <div class="col-lg-3 mb-3"><div class="footer-title">Get in touch:</div>
+
       info@patchxr.com<br>
 
-      <div class="footer-sep pt-3">MAILING ADDRESS</div>
+      <div class="footer-sep pt-3"></div>
 
          
-
 
 
           {{ $data := index .Site.Data .Site.Language.Lang }}
@@ -40,7 +38,7 @@
           <span>{{ .address1extra }}</span><br>
           <span>{{ .address1city }}</span><br>
           <span>{{ .address1country }}</span><br>
-          <hr>
+          <br>
 
           <span> {{ .address2extra }}</span><br>
           <span>{{ .address2city }}</span><br>
@@ -53,37 +51,31 @@
           <!-- Column 4 -->
         <div class="col-lg-3">
 
-          <div class="footer-title">STAY UP TO DATE</div>
-            Join our mailing list to stay up to date with announcements and more!
+          <div class="footer-title">Stay up to date with announcements and more!
           {{ if isset .Site.Params "mailchimpurl" }}
           {{ partial "mailchimp-signup" . }}{{ end }}
-          <div class="text-center mt-5">
-            <ul class="social-icon list-inline">
-              {{ range .Site.Params.social }}
-              <li class="list-inline-item">
-                <a href="{{ .URL | safeURL }}" target="_blank"><ion-icon name="{{ .icon }}" size="small"></ion-icon></a>
-              </li>
-              {{ end }}
-            </ul>
-          </div>
+
 
     </div>
 </div>
+<div class="text-left mt-5">
+  <ul class="social-icon list-inline">
+    {{ range .Site.Params.social }}
+    <li class="list-inline-item">
+      <a href="{{ .URL | safeURL }}" target="_blank"><ion-icon name="{{ .icon }}" size="large"></ion-icon></a>
+    </li>
+    {{ end }}
+  </ul>
+</div>
 
-    <div class="row  mt-5 pt-3 pb-3">
-      <div class="col-md-12 mt-2 text-center">
-
-        <span class="text-dark">Copyright &copy; {{ now.Format "2006"}} PatchXR AG. All rights reserved.</span>
-
-      </div>
-
-
-
-
-    </div>
-
+</div>
+<div class="row  pb-3">
+  <div class="col-md-12  text-left">
+    <span class="text-dark">Copyright &copy; {{ now.Format "2006"}} PatchXR AG. All rights reserved.</span>
+  </div>
 </div>
 </footer>
+
 <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
 
 {{ "<!-- JS Plugins -->" | safeHTML }}

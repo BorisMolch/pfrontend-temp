@@ -39,9 +39,10 @@
 <section class="introtext section">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-12 text-center "  data-aos="fade-in">
-				<h1 class="text-gradient3 mega">{{ .title | safeHTML | markdownify }}</h1>
-				<p>{{ .subtitle | safeHTML | markdownify }}</p>
+			<div class="col-lg-6 left "  data-aos="fade-in"></div>
+			<div class="col-lg-6 left "  data-aos="fade-in">
+<!-- 				<h1 class="text-gradient3 mega">{{ .title | safeHTML | markdownify }}</h1> -->
+				<p class="feature-text">{{ .subtitle | safeHTML }}</p>
 			</div>
 		</div>
 		</div>
@@ -49,6 +50,22 @@
 {{ end }}
 {{ end }}
 {{ "<!-- End of introtext -->" | safeHTML }}
+
+
+
+{{ "<!-- Teaser -->" | safeHTML }}
+ <section class="section">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 text-center" data-aos="fade-in">
+				<video width="100%" class="video-fluid z-depth-1" poster="/images/videopreview.jpg" controls >
+					<source src="/videos/Patchworld_Announcement.mp4" type="video/mp4" />
+				  </video>
+			</div>
+		</div>
+		</div>
+</section> 
+{{ "<!-- End of Teaser -->" | safeHTML }}
 
 <style>
 	/* Top left text */
@@ -74,15 +91,14 @@
           {{ range $data.homepage.feature_slider.slider_item }}
           <div class="item">
 			<div class="row">
-			<div class="col-lg-5">
+			<div class="col-lg-6">
 				<div class="imageblock" style="position: relative">
 				<img src="{{ .feature_image }}" class="img-fluid">
-				<div class="top-left btn-main-sm" style="position: absolute; top: 10px;">{{ .feature_title }}</div>
+				<div class="top-left btn-main-md" style="font-weight: bold; position: absolute; top: 20px;">{{ .feature_title }}</div>
 			</div>
 			</div>
-		  <div class="col-lg-7">
-            
-            <p class="feature-text mt-3">{{ .feature_text }}</p>
+		  <div class="col-lg-6">
+            <p class="feature-text mt-5">{{ .feature_text }}</p>
           </div>
 		</div>
 	</div>
@@ -90,10 +106,40 @@
         </div>
       </div>
     </div>
+
+
+	<div class="row pt-5">
+		<div class="col-12 m-auto text-left">
+
+
+			<div class="item">
+			  <div class="row">
+			  <div class="col-lg-6">
+				  <div class="imageblock" style="position: relative">
+				  <img src="images/discordbanner.jpg" class="img-fluid">
+				  <a href="https://discord.gg/gwMVhKWxbr" style="font-weight: bold"><div class="top-left btn-main-md" style="position: absolute; top: 20px; font-weight: bold">Join Discord</div></a>
+			  </div>
+			  </div>
+			<div class="col-lg-6">
+			  <p class="feature-text mt-5">Join our Discord channel to access our community and register for the PatchMaker beta for early access to even more powerful creative features.</p>
+			</div>
+		  </div>
+	  </div>
+
+		</div>
+	  </div>
+
+
   </div>
 </section>
 {{ end }}
 {{ "<!-- End of Feature Slider -->" | safeHTML }}
+
+<section class="section features ">
+	<div class="container">
+
+	</div>
+  </section>
 
 
 {{ "<!-- Rotation Banner Slider -->" | safeHTML }}
@@ -277,20 +323,6 @@
 {{ end }}
 {{ "<!-- End of Testimonial -->" | safeHTML }}
 
-{{ "<!-- Teaser -->" | safeHTML }}
- <section class="section">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-12 text-center" data-aos="fade-in">
-				<video width="100%" class="video-fluid z-depth-1" poster="/images/patchxrtv.jpg" controls >
-					<source src="/videos/Patchworld_Announcement.mp4" type="video/mp4" />
-				  </video>
-			</div>
-		</div>
-		</div>
-</section> 
-{{ "<!-- End of Teaser -->" | safeHTML }}
-
 {{ "<!-- Video Promo -->" | safeHTML }}
 {{ if $data.homepage.promo_video.enable }}
 {{ with $data.homepage.promo_video }}
@@ -321,7 +353,10 @@
 {{ end }}
 {{ "<!-- End of Video Promo -->" | safeHTML }}
 
-{{ "<!-- Related Article -->" | safeHTML }}
+
+
+{{ if $data.homepage.community.enable }}
+{{ "<!-- From the community -->" | safeHTML }}
 <section class="section related-articles bg-gray">
   <div class="container">
     <div class="row">
@@ -338,9 +373,12 @@
     </div>
   </div>
 </section>
-{{ "<!-- End of Related Article -->" | safeHTML }}
+{{ "<!-- From the community  -->" | safeHTML }}
+{{ end }}
 
-{{ "<!-- Featured Article -->" | safeHTML }}
+
+{{ if $data.homepage.blog.enable }}
+{{ "<!-- Featured Blog Article -->" | safeHTML }}
 <section class="section featured-article">
   <div class="container">
     <div class="row">
@@ -367,7 +405,8 @@
     </div>
   </div>
 </section>
-{{ "<!-- End of Featured Article -->" | safeHTML }}
+{{ "<!-- End of Featured Blog Article -->" | safeHTML }}
+{{ end }}
 
 {{ "<!-- patchworld -->" | safeHTML }}
 {{ if $data.homepage.patchworld.enable }}

@@ -97,7 +97,7 @@
 .email {
     width: 100%;
     background-color: #0d0d0d!important;
-    color: deeppink;
+    color: $white;
     border-bottom: 2px solid $white;
     border-top: 0px solid $black;
     border-left: 0px solid $black;
@@ -111,19 +111,19 @@
      }
 
      ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
-        color: $blue;
+        color: $white;
         opacity: 1; /* Firefox */
-        text-align: center;
+        text-align: left;
       }
 
       :-ms-input-placeholder { /* Internet Explorer 10-11 */
-        color: $blue;
-        text-align: center;
+        color: $white;
+        text-align: left;
       }
 
       ::-ms-input-placeholder { /* Microsoft Edge */
-        color: $blue;
-        text-align: center;
+        color: $white;
+        text-align: left;
       }
 
 .btn-main-mail{

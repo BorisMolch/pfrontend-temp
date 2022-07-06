@@ -44,31 +44,41 @@ weight = 6
 URL = "faq"
 name = "FAQ"
 weight = 7
+
+# [[menu.main]]
+# URL = "tech"
+# name = "Tech"
+# weight = 1
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 2
+
+[[menu.main]]
+URL = "blog"
+name = "News"
+weight = 4
+
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
+
 [[menu.main]]
 URL = "patchathon"
-name = "patchathon"
+name = "Patchathon"
+parent = "community"
 weight = 1
 [[menu.main]]
 URL = "community"
-name = "community"
+name = "Gallery"
+parent = "community"
 weight = 2
 [[menu.main]]
-URL = "blog"
-name = "blog"
-weight = 4
-[[menu.main]]
-URL = "about"
-name = "about"
+URL = "https://discord.gg/gwMVhKWxbr"
+name = "Discord"
+parent = "community"
 weight = 3
-[[menu.main]]
-URL = "contact"
-name = "contact"
-weight = 5
-# [[menu.main]]
-# URL = "community2"
-# name = "community2"
-# parent = "community"
-# weight = 1
 [params]
 ISO8601 = "2006-01-02T15:04:05JST"
 address = "Physical Address?"
@@ -78,7 +88,7 @@ description = "Patch is a native VR authoring tool that lets you build brand new
 email = "info@patchxr.com"
 google_analytics_id = "UA-171710509-1"
 home = "Home"
-logo = "images/patchXR-logo-final-white.png"
+logo = "images/logo-alt.png"
 logo_1 = "images/logo-1.png"
 logo_2 = "images/logo-2.png"
 logo_light = "images/logo-alt.png"
