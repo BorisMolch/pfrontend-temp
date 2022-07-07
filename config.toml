@@ -4,8 +4,6 @@ paginate = "12"
 summaryLength = "10"
 theme = "patchxr-hugo"
 title = "PatchXR - Sound of the Metaverse"
-
-
 # [taxonomies]
 #   author = "authors"
 #   creator = "creators"
@@ -44,7 +42,6 @@ weight = 6
 URL = "faq"
 name = "FAQ"
 weight = 7
-
 # [[menu.main]]
 # URL = "tech"
 # name = "Tech"
@@ -67,17 +64,17 @@ weight = 5
 [[menu.main]]
 URL = "patchathon"
 name = "Patchathon"
-parent = "community"
+parent = "community ↓"
 weight = 1
 [[menu.main]]
 URL = "community"
 name = "Gallery"
-parent = "community"
+parent = "community ↓"
 weight = 2
 [[menu.main]]
 URL = "https://discord.gg/gwMVhKWxbr"
 name = "Discord"
-parent = "community"
+parent = "community ↓"
 weight = 3
 [params]
 ISO8601 = "2006-01-02T15:04:05JST"

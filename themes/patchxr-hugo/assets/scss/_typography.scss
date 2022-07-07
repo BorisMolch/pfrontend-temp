@@ -6,6 +6,20 @@
     src: url("/fonts/signs.woff2") format('woff');
 }
 
+
+@font-face {
+	font-family: 'Selecta';
+	src: url('/fonts/Selecta-Regular.eot');
+	src: url('/fonts/Selecta-Regular.woff2') format('woff2'),
+		 url('/fonts/Selecta-Regular.woff') format('woff'),
+		 url('/fonts/Selecta-Regular.ttf') format('truetype'),
+		 url('/fonts/Selecta-Regular#Selecta') format('svg'),
+		 url('/fonts/Selecta-Regular.eot?#iefix') format('embedded-opentype');
+	font-weight: normal;
+	font-style: normal;
+  }
+  
+
 // Body
 body{
 	font-family: $primary-font;
