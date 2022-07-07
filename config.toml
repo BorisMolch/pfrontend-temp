@@ -38,10 +38,10 @@ weight = 5
 URL = "presskit"
 name = "Presskit"
 weight = 6
-[[menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 7
+# [[menu.footer]]
+# URL = "faq"
+# name = "FAQ"
+# weight = 7
 # [[menu.main]]
 # URL = "tech"
 # name = "Tech"
