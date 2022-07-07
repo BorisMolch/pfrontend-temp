@@ -97,14 +97,11 @@
 		h2 {
 			a {
 				font-size:24px;
-				font-weight: 600;
-				line-height: 0em;
 				margin-top: 10px;
-		
 				margin-bottom: 10px;
 
 				&:hover {
-					color: $primary-color;
+					color: $gray;
 				}
 			}
 		}
