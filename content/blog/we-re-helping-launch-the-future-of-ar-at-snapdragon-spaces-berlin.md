@@ -1,5 +1,5 @@
 +++
-author = "Patch XR"
+author = "PatchXR"
 ctalink = ""
 ctatext = ""
 date = 2022-07-11T22:02:00Z
