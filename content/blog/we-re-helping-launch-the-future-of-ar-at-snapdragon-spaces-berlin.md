@@ -27,7 +27,7 @@ Deutsche Telekom’s Product Manager for XR and Consumer IoT Jan Speich said tha
 
 > For me, it’s all about the in-person experience. I’m most excited about getting real hands-on demos in a couple of months. I’m especially looking forward to trying out PatchXR’s music experience (they let you build entirely new musical instruments and play electronic music in the metaverse).
 
-Thanks to Humbraum and partners for the opportunity. As they put it: "We’re hoping to fuel innovation transfer for these startups, giving participants access to a truly global market and helping them take their idea to the next level."
+Thanks to hubraum and partners for the opportunity. As they put it: "We’re hoping to fuel innovation transfer for these startups, giving participants access to a truly global market and helping them take their idea to the next level."
 
 Here we are getting the gear for our developer team:
 
