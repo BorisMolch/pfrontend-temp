@@ -3,7 +3,7 @@ author = "PatchXR"
 ctalink = ""
 ctatext = ""
 date = 2022-07-11T22:02:00Z
-description = "The future's so bright, you gotta wear shades. We're joining humbraum Berlin and Qualcomm Technologies to bring Patch's fantastic musical worlds to Snapdragon Spaces and a ton of new devices and markets."
+description = "The future's so bright, you gotta wear shades. We're joining hubbraum Berlin and Qualcomm Technologies to bring Patch's fantastic musical worlds to Snapdragon Spaces and a ton of new devices and markets."
 image = "/uploads/group-photo.jpg"
 title = "We're helping launch the future of AR with Snapdragon Spaces Berlin"
 type = "post"
@@ -11,15 +11,15 @@ type = "post"
 +++
 ![](/uploads/group-photo.jpg)
 
-It all kicked off at the end of June in Berlin, with big guests from Deutsche Telekom (and T-Mobile US), Qualcomm, Lenovo, and Volucap. We're looking forward to a four-month program ahead that brings Patch to Qualcomm's Snapdragon Spaces XR Developer Platform and gives us access to mentoring from Telekom. 
+It all kicked off at the end of June in Berlin, with big guests from Deutsche Telekom (and T-Mobile US), Qualcomm, Lenovo, and Volucap. We're looking forward to a four-month program ahead that brings Patch to Qualcomm's Snapdragon Spaces XR Developer Platform and gives us access to mentoring from Telekom.
 
 And yes, this means we've also got the developer platform to expand Patch's reach and compatibility. This will start with the latest Lenovo smart glasses and Motorola smartphones, but [Qualcomm's platform](https://spaces.qualcomm.com/) provides a range of device support for AR glasses and mobile platforms.
 
-You can read about how our pitch was received by the jury, amidst an international response: 
+You can read about how our pitch was received by the jury, amidst an international response:
 
-[The Best of the Best: hubraum’s Snapdragon Spaces Pitch Highlights](https://www.hubraum.com/the-best-of-the-best-hubraums-snapdragon-spaces-pitch-highlights/) \[humbraum\]
+[The Best of the Best: hubraum’s Snapdragon Spaces Pitch Highlights](https://www.hubraum.com/the-best-of-the-best-hubraums-snapdragon-spaces-pitch-highlights/) \[hubraum\]
 
-More on the program: 
+More on the program:
 
 [Leading the pack! Kicking off our Snapdragon Spaces Program](https://www.hubraum.com/snapdragon-spaces-program-kick-off-recap/)
 
