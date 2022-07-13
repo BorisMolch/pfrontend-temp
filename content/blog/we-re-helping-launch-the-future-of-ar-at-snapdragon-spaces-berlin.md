@@ -29,6 +29,8 @@ Deutsche Telekom’s Product Manager for XR and Consumer IoT Jan Speich said tha
 
 Thanks to hubraum and partners for the opportunity. As they put it: "We’re hoping to fuel innovation transfer for these startups, giving participants access to a truly global market and helping them take their idea to the next level."
 
+For our part, we're excited to bring Patch to new multiplayer and 5G mobile environments. It’s a chance to explore and create fantastical worlds anywhere you want, set free from fixed screens and isolated locations. That means not just going mobile solo, but also connecting, sharing, and jamming with other people.
+
 Here we are getting the gear for our developer team:
 
 ![](/uploads/getting-our-gear.jpg)
