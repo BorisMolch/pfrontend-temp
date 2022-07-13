@@ -3,9 +3,9 @@ author = "PatchXR"
 ctalink = ""
 ctatext = ""
 date = 2022-07-11T22:02:00Z
-description = "The future's so bright, you gotta wear shades. We're joining hubbraum Berlin and Qualcomm Technologies to bring Patch's fantastic musical worlds to Snapdragon Spaces and a ton of new devices and markets."
+description = "The future's so bright, you gotta wear shades. We're joining hubraum Berlin and Qualcomm Technologies to bring Patch's fantastic musical worlds to the hubraum Snapdragon Spaces Program and a ton of new devices and markets."
 image = "/uploads/group-photo.jpg"
-title = "We're helping launch the future of AR with Snapdragon Spaces Berlin"
+title = "We're helping launch the future of AR with hubraum Snapdragon Spaces"
 type = "post"
 
 +++
