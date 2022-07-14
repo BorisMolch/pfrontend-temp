@@ -31,6 +31,10 @@ Thanks to hubraum and partners for the opportunity. As they put it: "We’re hop
 
 For our part, we're excited to bring Patch to new multiplayer and 5G mobile environments. It’s a chance to explore and create fantastical worlds anywhere you want, set free from fixed screens and isolated locations. That means not just going mobile solo, but also connecting, sharing, and jamming with other people.
 
+Check out the event recap:
+
+{{< youtube NNo0Psdo31U >}}
+
 Here we are getting the gear for our developer team:
 
 ![](/uploads/getting-our-gear.jpg)
