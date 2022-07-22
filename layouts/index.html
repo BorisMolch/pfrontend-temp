@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-<!-- banner style="background-image: url(images/posters/poster-medium-2x.jpg);"-->
+{{ "<!-- Patchworld video banner -->" | safeHTML }}
 <section id="banner" class="page">
     <div class="background">
         <video class="video-bg" poster="posters/thumbnail.jpg" loop muted>
@@ -18,20 +18,13 @@
 		<div class="row text-left">
 			<div class="col-lg-12">
 				<h1 class="hidden">PatchWorld</h1>
-				<img src="images/PatchWorld-banner.png" class="img-fluid" style="width:100%" data-aos="fade-in" alt="PatchXR - Sound of the Metaverse ">
-					
-							<!-- <p class="text-white" data-aos="fade-up">XXXXX</p> -->
-							<a data-aos="fade-up" href="https://www.oculus.com/experiences/quest/3715150718552632/?utm_source=homepage" target="_blank" class="btn btn-main-md" onclick="ga('send',{hitType: 'event', eventCategory: 'Quest Button', eventAction: 'click'});">Go to Quest Store</a>
-					
-					</div>
-				</div>		
-<!-- <div class="discord mt-3 mb-3">
-  <a href="#" target="_blank"><img style="border-radius: 10px;" width="200px" src="images/idiscordu.png"></a>
-    </div> -->
+				<img src="images/PatchWorld-banner.png" class="img-fluid" style="width:100%" data-aos="fade-in" alt="PatchXR - Sound of the Metaverse">
+					<a data-aos="fade-up" href="https://www.oculus.com/experiences/quest/3715150718552632/?utm_source=homepage" target="_blank" class="btn btn-main-md" onclick="ga('send',{hitType: 'event', eventCategory: 'Quest Button', eventAction: 'click'});">Go to Quest Store</a>					
+			</div>
+		</div>		
   </div>
   </div>
 </section>
-
 
 {{ "<!-- introtext -->" | safeHTML }}
 {{ if $data.homepage.intro.enable }}
@@ -41,8 +34,7 @@
 		<div class="row">
 			<div class="col-lg-6 left "  data-aos="fade-in"></div>
 			<div class="col-lg-6 left "  data-aos="fade-in">
-<!-- 				<h1 class="text-gradient3 mega">{{ .title | safeHTML | markdownify }}</h1> -->
-				<p class="feature-text">{{ .subtitle | safeHTML }}</p>
+				<p class="feature-text pt-0">{{ .subtitle | safeHTML }}</p>
 			</div>
 		</div>
 		</div>
@@ -52,9 +44,8 @@
 {{ "<!-- End of introtext -->" | safeHTML }}
 
 
-
 {{ "<!-- Teaser -->" | safeHTML }}
- <section class="section">
+ <section class="section pb-0">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 text-center" data-aos="fade-in">
@@ -67,19 +58,6 @@
 </section> 
 {{ "<!-- End of Teaser -->" | safeHTML }}
 
-<style>
-	/* Top left text */
-.top-left {
-  position: absolute;
-  top: 8px;
-  left: 16px;
-}
-
-.feature-text {
-	font-size: 1.4em;
-	font-weight: 600;
-}
-</style>
 
 {{ "<!-- Feature Slider -->" | safeHTML }}
 {{ if $data.homepage.feature_slider.enable }}
@@ -88,29 +66,27 @@
     <div class="row">
       <div class="col-12 m-auto text-left">
         <div class="quote-slider owl-carousel owl-theme">
-          {{ range $data.homepage.feature_slider.slider_item }}
-          <div class="item">
+        {{ range $data.homepage.feature_slider.slider_item }}
+        <div class="item">
 			<div class="row">
 			<div class="col-lg-6">
 				<div class="imageblock" style="position: relative">
 				<img loading="lazy" src="{{ .feature_image }}" class="img-fluid">
 				<div class="top-left btn-main-md" style="font-weight: bold; position: absolute; top: 20px;">{{ .feature_title }}</div>
-			</div>
+				</div>
 			</div>
 		  <div class="col-lg-6">
-            <p class="feature-text mt-5">{{ .feature_text }}</p>
+            <p class="feature-text">{{ .feature_text }}</p>
           </div>
 		</div>
-	</div>
+		</div>
           {{ end }}
         </div>
       </div>
     </div>
 
-
 	<div class="row pt-5">
 		<div class="col-12 m-auto text-left">
-
 
 			<div class="item">
 			  <div class="row">
@@ -121,7 +97,7 @@
 			  </div>
 			  </div>
 			<div class="col-lg-6">
-			  <p class="feature-text mt-5">Join our Discord channel to access our community and register for the PatchMaker beta for early access to even more powerful creative features.</p>
+			  <p class="feature-text ">Join our Discord channel to access our community and register for the PatchMaker beta for early access to even more powerful creative features.</p>
 			</div>
 		  </div>
 	  </div>
@@ -135,11 +111,7 @@
 {{ end }}
 {{ "<!-- End of Feature Slider -->" | safeHTML }}
 
-<section class="section features ">
-	<div class="container">
 
-	</div>
-  </section>
 
 
 {{ "<!-- Rotation Banner Slider -->" | safeHTML }}

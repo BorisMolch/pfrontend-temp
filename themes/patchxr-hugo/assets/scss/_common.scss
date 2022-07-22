@@ -14,7 +14,7 @@ body {
 
 .active{
     color: $nicepurple;
-    font-weight: 600;
+
 }
 
 .content img { width: 100%}
@@ -152,7 +152,7 @@ a:hover {
   background: $dark;
 }
 
-.credits {font-weight: 600!important; color: dimgray}
+.credits {color: dimgray}
 
 .bg-blue {
   background: $primary-color;
@@ -183,7 +183,7 @@ a:hover {
 .text-dark p h1 { color: $black!important;}
 
 .section {
-  padding: 50px 20px 50px 20px;
+  padding: 4em 20px 4em 20px;
   
 
 }

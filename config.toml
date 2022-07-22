@@ -64,17 +64,17 @@ weight = 5
 [[menu.main]]
 URL = "patchathon"
 name = "Patchathon"
-parent = "community ↓"
+parent = "Community ↓"
 weight = 1
 [[menu.main]]
 URL = "community"
 name = "Gallery"
-parent = "community ↓"
+parent = "Community ↓"
 weight = 2
 [[menu.main]]
 URL = "https://discord.gg/gwMVhKWxbr"
 name = "Discord"
-parent = "community ↓"
+parent = "Community ↓"
 weight = 3
 [params]
 ISO8601 = "2006-01-02T15:04:05JST"

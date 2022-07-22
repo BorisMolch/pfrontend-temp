@@ -13,9 +13,10 @@
 	height: 56px;
 	text-transform: none!important;
 	.navbar-brand{
-		padding: 10px;
+		img {max-width:100px}
+		padding-left: 10px;
 		@include desktop {
-		padding: 10px;
+		padding-left: 10px;
 		}
 	}
 	.navbar-nav{
@@ -26,7 +27,6 @@
 				position: relative;
 				text-align: left;
 				font-size: 16px; 
-				font-weight: 600;
 				color: $light;
 				padding-right: 20px;
 				line-height: 40px;
@@ -83,12 +83,10 @@
 	  .dropdown-menu {
 	  	.dropdown-item{
 	  		font-size: 16px;
-  		    padding: 4px 25px;
+  		    padding: 0px 25px;
   		    transition: .3s ease;
-		
-			  color: $white;
+			color: $white;
   		    &:hover{
-  		    	transform: translate3d(1px,0,0);
   		    	background: $black;
   		    	color: $gray;
   		    }
@@ -98,10 +96,7 @@
 	  	margin-top: 15;
 	    border-radius:0;
 	    opacity: 1;
-	    visibility: visible;
-	    position: absolute;
-	    padding: 5px 18px 18px 18px ;
-
+	    padding: 0px 18px 18px 18px ;
 	    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 	    transition:.3s all;
 	    position: absolute;

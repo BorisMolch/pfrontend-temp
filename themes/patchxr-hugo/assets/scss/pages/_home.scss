@@ -9,8 +9,8 @@
 
 
 .introtext {
-	padding-top: 100px;
-	padding-bottom: 00px;
+
+	padding-bottom: 0px;
 }
 // Banner Styles
 .banner{
@@ -70,7 +70,7 @@
 			line-height: 30px;
 		    text-transform: capitalize;
 		    font-size: 16px;
-		    font-weight: 500;
+
 		}
 
 		i{
@@ -348,7 +348,12 @@
 	background-color: $black;
 }
 
-.footer-main img { width: 200px;}
+.footer-main img { width: 100px; margin-left: 10px;
+
+	@include tablet {
+		margin-left: -5px;
+	}
+}
 
 .bannerlogo{
 	display: block;

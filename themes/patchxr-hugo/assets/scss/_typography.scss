@@ -9,12 +9,12 @@
 
 @font-face {
 	font-family: 'Selecta';
-	src: url('/fonts/Selecta-Regular.eot');
-	src: url('/fonts/Selecta-Regular.woff2') format('woff2'),
-		 url('/fonts/Selecta-Regular.woff') format('woff'),
-		 url('/fonts/Selecta-Regular.ttf') format('truetype'),
-		 url('/fonts/Selecta-Regular#Selecta') format('svg'),
-		 url('/fonts/Selecta-Regular.eot?#iefix') format('embedded-opentype');
+	src: url('/fonts/Selecta-Bold.eot');
+	src: url('/fonts/Selecta-Bold.woff2') format('woff2'),
+		 url('/fonts/Selecta-Bold.woff') format('woff'),
+		 url('/fonts/Selecta-Bold.ttf') format('truetype'),
+		 url('/fonts/Selecta-Bold#Selecta') format('svg'),
+		 url('/fonts/Selecta-Bold.eot?#iefix') format('embedded-opentype');
 	font-weight: normal;
 	font-style: normal;
   }
@@ -23,23 +23,20 @@
 // Body
 body{
 	font-family: $primary-font;
+	font-size: 1.2em;
 	-webkit-font-smoothing: antialiased;
 }
 
-b, strong { font-weight: 600;}
+b, strong { }
 // Headings
 h1,h2,h3,h4,h5,h6{
-	font-family: $tertiary-font;
+	font-family: $primary-font;
 	color: $light;
-	font-weight:500;
+
 }
 
 h1{
-	font-size: 36px;
-	font-weight:600;
-	letter-spacing: -1px;
-	font-family: $patchxr-font!important;
-	font-family: $primary-font!important;
+
 }
 
 .patchathon_title {
@@ -57,13 +54,27 @@ h1{
 
 .newstitle  {
 	font-size: 3.3em!important;
-	font-weight:600;
+
 	letter-spacing: -1px;
 	font-family: $primary-font!important;
 	line-height: 1em;
 
 }
 
+
+/* Top left text */
+.top-left {
+position: absolute;
+top: 8px;
+left: 16px;
+}
+	
+.feature-text {
+font-size: 1.2em;
+padding-top: 30px;
+margin-bottom: 0px;
+}
+	
 .blackonwhite * {color: $black!important;}
 
 .whiteonblack h1 h2 p li {color: $white!important;}
@@ -75,14 +86,12 @@ h2{
 	font-size: 28px;
 	line-height: 30px;
 	padding-top: 20px!important;
-
 }
 
 
 
 h3{
 	font-size: 2em;
-	font-weight: 600;
 	line-height: 30px;
 	margin-top: 2em;
 	margin-bottom: 2em;
@@ -91,12 +100,8 @@ h3{
 h4{font-size: 32px;}
 // Others
 p, a, li, blockquote, label{
-	font-size: 18px;
-	font-weight: 300;
-	letter-spacing: 0;
-	line-height: 25px;
+
 	color: $light;
-	// margin-bottom: 0;
 }
 
 .content ul li { margin-bottom: 0px!important;}
@@ -107,7 +112,7 @@ background-clip: text !important;
 -webkit-background-clip: text !important;;
 color: transparent !important;}
 
-.text-md {font-weight: 600;}
+
 cite{
 	font-size: 14px;
 	font-style: normal;
