@@ -1,20 +1,17 @@
 +++
-author = ""
+author = "PatchXR"
 ctalink = ""
 ctatext = ""
-date = 2022-08-24T05:00:00Z
-description = ""
-draft = true
+date = 2022-08-23T17:00:00Z
+description = "Patch's updates have been coming fast and furious, with two major releases in August. Now in Patch: everything from acid bass and kicks to light and particles visual parties."
 image = "/uploads/screen_2560x1440_2022-08-19_21-56-40.png"
 title = "New in Patch for August: more content, instruments, features, fixes"
-type = ""
+type = "post"
 
 +++
 Patch's updates have been coming fast and furious, with two major releases in August. Now in Patch: everything from acid bass and kicks to light and particles visual parties.
 
 We promised more was inbound, and we meant it. 
-
-![](/uploads/screen_2560x1440_2022-08-20_00-07-04.png)
 
 **August 19 update**
 
@@ -35,7 +32,9 @@ This release also contains still more tweaks and optimizations, plus important g
 
 And there's more: ghost audio syncs with BPM changes among other ghost improvements, voice and color support is improved,
 
-And if you missed it, this is hot on the heels of another big bulk of work:
+And if you missed it, this is hot on the heels of another big bulk of work earlier in the month --
+
+![](/uploads/screen_2560x1440_2022-08-20_00-07-04.png)
 
 **August 1 update**
 
