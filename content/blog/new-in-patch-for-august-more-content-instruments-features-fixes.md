@@ -5,7 +5,7 @@ ctatext = ""
 date = 2022-08-24T05:00:00Z
 description = ""
 draft = true
-image = ""
+image = "/uploads/screen_2560x1440_2022-08-19_21-56-40.png"
 title = "New in Patch for August: more content, instruments, features, fixes"
 type = ""
 
