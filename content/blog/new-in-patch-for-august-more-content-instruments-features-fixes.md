@@ -9,7 +9,7 @@ title = "New in Patch for August: more content, instruments, features, fixes"
 type = "post"
 
 +++
-PatchWorld's updates have been coming fast and furious, with two major releases in August. Now in Patch: everything from acid bass and kicks to light and particles visual parties.
+![](/uploads/screen_2560x1440_2022-08-19_21-56-40.png)
 
 We promised more was inbound, and we meant it. New builds of PatchWorld are available now on the [Meta Quest Store](https://www.oculus.com/experiences/quest/3715150718552632/) and are automatic free updates for all current users.
 
