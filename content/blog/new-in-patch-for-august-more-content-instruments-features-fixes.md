@@ -14,6 +14,8 @@ Patch's updates have been coming fast and furious, with two major releases in Au
 
 We promised more was inbound, and we meant it. 
 
+![](/uploads/screen_2560x1440_2022-08-20_00-07-04.png)
+
 **August 19 update**
 
 This week, we launched even more new instruments, including visual effects you can tweak for fountains of particles and colorful lighting, new tools for manipulating timing and sequences, and still more DJ and drum instruments. It's Saturday Night Fever time, between those colored lights and new groove creation tools.
