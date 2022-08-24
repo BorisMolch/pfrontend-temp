@@ -30,3 +30,20 @@ New at the start of the month, we unveiled a ton of new content, including power
 * Metronome - Metronome with global tempo control
 
 Also in this release: improved ghost recording and looping, the ability to modify and save EPs (meaning you can use them to start your own projects), and numerous performance optimizations and fixes.
+
+**August 19 update**
+
+This week, we launched even more new instruments, including visual effects you can tweak for fountains of particles and colorful lighting, new tools for manipulating timing and sequences, and still more DJ and drum instruments. It's Saturday Night Fever time, between those colored lights and new groove creation tools.
+
+ New devices:
+
+* Scratcher - bubble dj deck
+* Sweeper - a new version of Boofer to play samples as sustained notes
+* Timer - a timer utility
+* Timeline - a basic sequencing building block
+* String Box - a string emulator with pitch and decay control
+* Lil drum kit - a simple kick, snare and hihat synth drum kit
+* Party calls - a tweak-able/patchable particle effect
+* Light Box - a patchable light generator with color settings
+
+This release also contains still more tweaks and optimizations, plus important groundwork for future releases. That continues to accelerate our development pace and give you all the powerful creation tools we know you want.
