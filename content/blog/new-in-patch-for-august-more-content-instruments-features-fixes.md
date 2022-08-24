@@ -55,3 +55,11 @@ Also in this release: improved ghost recording and looping, the ability to modif
 **Watch it in action**
 
 Our own Octa has been hard at work documenting all the new stuff. I want my Patch TV:
+
+{{< youtube dnjCyqjNGkk >}}
+
+{{< youtube eNTJlX40YSM >}}
+
+{{< youtube 7AMCen3rN8o >}}
+
+{{< youtube mXLXMUoWpYQ >}}
