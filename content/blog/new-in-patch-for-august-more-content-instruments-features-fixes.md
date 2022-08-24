@@ -47,3 +47,5 @@ This week, we launched even more new instruments, including visual effects you c
 * Light Box - a patchable light generator with color settings
 
 This release also contains still more tweaks and optimizations, plus important groundwork for future releases. That continues to accelerate our development pace and give you all the powerful creation tools we know you want.
+
+And there's more: ghost audio syncs with BPM changes among other ghost improvements, voice and color support is improved, 
