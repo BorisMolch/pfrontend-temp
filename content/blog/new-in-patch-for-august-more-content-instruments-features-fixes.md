@@ -24,8 +24,8 @@ New devices:
 * Timer - timer utility
 * Timeline - basic sequencing building block
 * String Box - string emulator with pitch and decay control
-* Lil drum kit - simple kick, snare and hihat synth drum kit
-* Party calls - tweakable and patchable particle effect
+* Lil Drum Kit - simple kick, snare and hihat synth drum kit
+* Party Calls - tweakable and patchable particle effect
 * Light Box - patchable light generator with color settings
 
 This release also contains still more tweaks and optimizations, plus important groundwork for future releases. That continues to accelerate our development pace and give you all the powerful creation tools we know you want.
