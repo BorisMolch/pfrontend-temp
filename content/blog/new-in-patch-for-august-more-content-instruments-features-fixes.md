@@ -3,15 +3,15 @@ author = "PatchXR"
 ctalink = ""
 ctatext = ""
 date = 2022-08-23T17:00:00Z
-description = "Patch's updates have been coming fast and furious, with two major releases in August. Now in Patch: everything from acid bass and kicks to light and particles visual parties."
+description = "PatchWorld's updates have been coming fast and furious, with two major releases in August. Now in Patch: everything from acid bass and kicks to light and particles visual parties."
 image = "/uploads/screen_2560x1440_2022-08-19_21-56-40.png"
 title = "New in Patch for August: more content, instruments, features, fixes"
 type = "post"
 
 +++
-Patch's updates have been coming fast and furious, with two major releases in August. Now in Patch: everything from acid bass and kicks to light and particles visual parties.
+PatchWorld's updates have been coming fast and furious, with two major releases in August. Now in Patch: everything from acid bass and kicks to light and particles visual parties.
 
-We promised more was inbound, and we meant it. 
+We promised more was inbound, and we meant it. New builds of PatchWorld are available now on the [Meta Quest Store](https://www.oculus.com/experiences/quest/3715150718552632/) and are automatic free updates for all current users.
 
 **August 19 update**
 
@@ -64,3 +64,11 @@ Our own Octa has been hard at work documenting all the new stuff. I want my Patc
 {{< youtube 7AMCen3rN8o >}}
 
 {{< youtube mXLXMUoWpYQ >}}
+
+Check us out on the Meta Quest Store:
+
+[PatchWorld on Oculus Quest 2](https://www.oculus.com/experiences/quest/3715150718552632/)
+
+And for a run-down of the launch and PatchWorld's features:
+
+[PatchWorld is now available on the Meta Quest Store]()
