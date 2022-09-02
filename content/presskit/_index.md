@@ -19,7 +19,7 @@ PatchXR
 **Based in:**
 Zurich (CH) and Copenhagen (DK)
 
-**Release date:** 
+**Release date:**
 
 July 7th on Oculus Store
 
@@ -29,7 +29,7 @@ Meta Quest 2
 **Website:**
 https://www.patchxr.com
 
-**Regular Price:** 
+**Regular Price:**
 
 $29.99
 
@@ -111,10 +111,11 @@ Techno live set made in Patch (accessible in the Beta for PC VR only)
 ***
 
 ## GIFs
+
 |  |  |
 | --- | --- |
-| ![](/uploads/drop3_edited.gif) | ![](/uploads/01.gif) |
-| ![](/uploads/side_sample_v01.gif) | ![](/uploads/bath.gif) |
+|  |  |
+|  |  |
 
 ***
 
@@ -160,8 +161,7 @@ For news and updates on PatchWorld, here is our [blog](https://patchxr.com/blog/
 **Executive director** Eduardo Fouilloux  
 **Art director**		Melodie Mousset
 **Product owner**	 	Gad Barush Hinkis
-**Operation manager**	Nicholas Borkowski
-**Business and product strategist**	Carlos Miramontes
+**Operation manager**	Nicholas Borkowski  
 
 ## Production
 
