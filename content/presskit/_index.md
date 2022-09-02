@@ -85,7 +85,6 @@ We’re building a universe of music makers who can exchange and explore one ano
 
 ## Videos
 
-***
 
 Trailer
 {{< youtube XcE73sOvkGg >}}
