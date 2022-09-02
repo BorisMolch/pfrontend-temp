@@ -20,7 +20,6 @@ PatchXR
 Zurich (CH) and Copenhagen (DK)
 
 **Release date:**
-
 July 7th on Oculus Store
 
 **Platform:**
@@ -30,7 +29,6 @@ Meta Quest 2
 https://www.patchxr.com
 
 **Regular Price:**
-
 $29.99
 
 **Press / Business contact:**
@@ -98,8 +96,6 @@ Jam with pans in the RainMaker (EP3)
 
 Jam with a few devices
 {{< youtube chHvZiJudhk >}}
-
-
 
 Community creation made in Patch Beta
 {{< youtube nUw1yjTYnrQ >}}
