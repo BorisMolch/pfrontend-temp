@@ -25,6 +25,9 @@ July 7th on Oculus Store
 **Platform:**
 Meta Quest 2
 
+**Store link:**
+https://ocul.us/39Vz1Ux
+
 **Website:**
 https://www.patchxr.com
 
@@ -162,7 +165,8 @@ For news and updates on PatchWorld, here is our [blog](https://patchxr.com/blog/
 
 **Executive director** Eduardo Fouilloux  
 **Art director**		Melodie Mousset
-**Product owner**	 	Gad Barush Hinkis
+**Creator tool owner**	 	Joel Sadler
+**Content owner**	 	Gad Barush Hinkis
 **Operation manager**	Nicholas Borkowski  
 
 ## Production
@@ -170,16 +174,17 @@ For news and updates on PatchWorld, here is our [blog](https://patchxr.com/blog/
 **Technical lead**		Victor Beaupuy
 **Engine architect**		Aleksey Sarapulov  
 **Platform architect**		Jonah Fox
+**Senior developper**		Dominic Rolin
 **DSP engineer** Pelle Juul
 **DSP engineer** Maciek Sypniewski
 **Unity generalist**		Tom Frackowiak
-**Simulation Artist** Marta Stražičić
 
 ## Communication
 
 **Community development** Peter Kirn
 **Web developer** Daniel F. Wehleit
-**Marketing and PR** Mike Romo
+**Marketing** Guy Meldem
+**Graphic designer** Mike Romo
 
 ***
 
@@ -208,6 +213,10 @@ https://www.linkedin.com/company/patch-xr/
 ## Web
 
 http://patchxr.com
+
+## Discord
+
+https://discord.gg/gwMVhKWxbr
 
 ## Hashtag
 
