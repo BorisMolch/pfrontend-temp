@@ -5,7 +5,7 @@ description: Presskit Description
 ---
 ![](/uploads/poster-500k.jpg)
 
-# PatchWorld: Play and create music worlds
+# PatchWorld: Play and create music worlds in VR
 
 ## The metaverse as your own playground - with all the emotional power of music!
 
@@ -48,21 +48,21 @@ Play and explore fantastic musical worlds, even without previous musical experie
 
 **EXPLORE** music experiences, stories, shows, virtual studios, interactive tutorials and a growing library of instruments created by artists around the globe.
 
-**CREATE** your own musical worlds and instruments and record musicverse music videos and shows.
+**CREATE** your own musical worlds and instruments and make a complete music band,and record musicverse music videos and shows.
 
-**SHARE** your creations with the world using built-in video recording - plus, coming soon, sharing with other users and multiplayer support.
+**SHARE** your creations with the world, and coming soon jam withyour friends from round the  world and make the best party in the musicverse.
 
 For the first time, you can make rich, fully-customizable worlds without needing your own personal visual effects house - it’s like stepping inside a futuristic music video. You create for VR inside VR, meaning working in three dimensions is more intuitive. And since it’s all live and playable, you can perform, improvise, and jam. In an age when music makers’ vision can get lost in faceless streams, PatchWorld lets you express yourself and produce media for VR, live streams, and even live shows, with high-performance 3D visuals and spatial sound, even on just a standalone Oculus headset.
 
 ## Features
 
-PatchWorld combines a playful interface with production-grade sound so that everyone gets a complete, rich musical experience. Want to explore music in an imaginative VR dreamworld? Check out interactive worlds. Want to stock your VR studio with your favorite techno instruments? You can do that, too.
+PatchWorld combines a playful interface with production-grade sound so that everyone gets a complete, rich musical experience. Want to explore music in an imaginative VR dreamworld? Check our interactive worlds. Want to stock your VR studio with your favorite techno instruments? You can do that, too.
 
 **Features at launch:**
 
 * 3 unique ready-to-play worlds (“EPs”) to explore or remix and make your own
-* Custom world creation with block-based creation
-* 30+ instruments (with more coming soon), like –
+* Custom world creation
+* 30+ instruments and devices like –
 * Whimsical sound toys like rubber duckies, beer bottles, skulls, frying pans, and more
 * Powerful studio-quality tools, including recreations of acid synthesizers, vintage drum machines, loopers, and chord synths - some made by our community patchers
 * Playable, physics-based sounds based on wind, rain, marbles, gravity, and more
@@ -87,8 +87,8 @@ We’re building a universe of music makers who can exchange and explore one ano
 
 ## Videos
 
-Pre-release trailer
-{{< youtube N4tTMRGGHmA >}}
+Trailer
+{{< youtube XcE73sOvkGg >}}
 
 Jam in Bouncy Beats (EP2)
 {{< youtube 2qwdCIwBJLM >}}
