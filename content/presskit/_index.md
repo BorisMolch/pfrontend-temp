@@ -20,7 +20,7 @@ PatchXR
 Zurich (CH) and Copenhagen (DK)
 
 **Release date:**
-July 7th on Oculus Store
+July 7th on Metaquest Store
 
 **Platform:**
 Meta Quest 2
