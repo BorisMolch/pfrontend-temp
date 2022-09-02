@@ -3,7 +3,7 @@ title: Presskit
 description: Presskit Description
 
 ---
-![](/uploads/coverimagesafeareatemplatelandscape-party6.jpg)
+![](/uploads/poster-500k.jpg)
 
 # PatchWorld: Play and create music worlds
 
