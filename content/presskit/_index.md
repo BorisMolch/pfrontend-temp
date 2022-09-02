@@ -96,7 +96,12 @@ Jam in Bouncy Beats (EP2)
 Jam with pans in the RainMaker (EP3)
 {{< youtube xzAraxsQK4o >}}
 
-Community creation made in Patch
+Jam with a few devices
+{{< youtube chHvZiJudhk >}}
+
+
+
+Community creation made in Patch Beta
 {{< youtube nUw1yjTYnrQ >}}
 
 Techno live set made in Patch (accessible in the Beta for PC VR only)
