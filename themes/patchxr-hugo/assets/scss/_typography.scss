@@ -27,7 +27,7 @@ body{
 	-webkit-font-smoothing: antialiased;
 }
 
-b, strong { }
+b, strong { font-weight:400;}
 // Headings
 h1,h2,h3,h4,h5,h6{
 	font-family: $primary-font;
@@ -54,11 +54,9 @@ h1{
 
 .newstitle  {
 	font-size: 3.3em!important;
-
 	letter-spacing: -1px;
 	font-family: $primary-font!important;
 	line-height: 1em;
-
 }
 
 
@@ -79,7 +77,8 @@ margin-bottom: 0px;
 
 .whiteonblack h1 h2 p li {color: $white!important;}
 
-.mega { font-size: 52px;
+.mega { 
+	font-size: 52px;
 }
 
 h2{
