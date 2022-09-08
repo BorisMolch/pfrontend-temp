@@ -21,9 +21,12 @@
 	}
 	.navbar-nav{
 		.nav-item{
+			list-style: none!important;
 			position: relative;
 			font-family: $primary-font;
+			
 			.nav-link{
+				text-decoration: none!important;
 				position: relative;
 				text-align: left;
 				font-size: 16px; 
@@ -82,6 +85,7 @@
 	  }
 	  .dropdown-menu {
 	  	.dropdown-item{
+			text-decoration: none!important;
 	  		font-size: 16px;
   		    padding: 0px 25px;
   		    transition: .3s ease;
