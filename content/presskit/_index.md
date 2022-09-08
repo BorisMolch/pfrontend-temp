@@ -118,9 +118,9 @@ Techno live set made in Patch (made in Patch Beta for PC VR only)
 ## GIFs
 
 |  |  |
-| --- | --- |
-|  |  |
-|  |  |
+ | --- | --- |
+ | ![](/uploads/drop3_edited.gif) | ![](/uploads/01.gif) |
+ | ![](/uploads/side_sample_v01.gif) | ![](/uploads/bath.gif) |
 
 ***
 
