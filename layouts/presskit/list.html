@@ -3,10 +3,8 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
 <style>
-  a {text-decoration: underline;font-size: 16px;}
-  p, li {font-size: 16px;
-      line-height: 20px;}
-      li { max-width: 80%; list-style: circle!important;}
+  a {text-decoration: underline;}
+  li {max-width: 75%;list-style: circle!important;}
   </style>
 
 {{ "<!-- Page Title -->" | safeHTML }}
@@ -23,7 +21,7 @@
         <a href="#videos">Videos</a><br>
 
         {{ range .Site.Params.social }}
-        <li class="list-inline-item">
+        <li class="list-inline-item mt-3">
           <a href="{{ .URL | safeURL }}" target="_blank"><ion-icon name="{{ .icon }}" size="small"></ion-icon></a>
         </li>
         {{ end }}
