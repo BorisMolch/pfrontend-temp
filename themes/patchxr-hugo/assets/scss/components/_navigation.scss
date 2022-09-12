@@ -7,9 +7,8 @@
 	color: $light!important;
 	width: 100%;
 	position: fixed;
-	top: 0;
 	transition: top 0.3s; /* Transition effect when sliding down (and up) */
-	z-index: 100;
+	z-index: 50;
 	height: 56px;
 	text-transform: none!important;
 	.navbar-brand{
