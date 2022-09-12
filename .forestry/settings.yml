@@ -8,6 +8,10 @@ sections:
   path: data/en/homepage.yml
   label: Homepage
 - type: document
+  path: data/en/TGS2022.yml
+  label: TGS2022
+  match: "**/*"
+- type: document
   path: data/en/blog.yml
   label: Blog settings
 - type: directory
