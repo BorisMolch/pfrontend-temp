@@ -33,6 +33,7 @@ fields:
   label: CTA text
   description: Link text for CTA
 pages:
+- content/blog/big-in-japan-patchworld-is-at-the-tokyo-game-show.md
 - content/blog/check-out-the-amazing-creations-from-our-worldwide-patchathon-participants.md
 - content/blog/cndsd-ivan-abreau-expanding-mind-self-and-music-in-digital-realms.md
 - content/blog/first-patchxr-creator-tool-beta-is-here-and-ready-to-create-new-worlds.md
