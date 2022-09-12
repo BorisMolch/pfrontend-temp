@@ -5,7 +5,7 @@ ctatext = ""
 date = 2022-09-12T06:00:00Z
 description = "We’re bringing our fantastic musical worlds to the XR/AR area at Tokyo Game Show - and that’s just the beginning of Patch’s plans for Japan."
 image = "/uploads/tokyogameshow.jpg"
-title = "Big in Japan: PatchWorld is at the Tokyo Game Show"
+title = "Big in Japan: PatchWorld is in person at the Tokyo Game Show"
 type = "post"
 
 +++
