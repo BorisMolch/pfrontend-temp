@@ -14,3 +14,7 @@ feature_slider:
   - feature_title: "繋ろう"
     feature_text: "繋ろう：あなたの作品を世界中のユーザーと共有し、マルチプレイヤーで友達と一緒に演奏して最高なパーティーを開きましょう!"
     feature_image: "/uploads/avatar-web-1.jpg"
+discord:
+  enable: true
+  title: Discordに登録
+  subtitle: Discordチャンネルに参加してコミュニティにアクセスし、よりクリエイティブ機能のベータ版にサインアップしてください。

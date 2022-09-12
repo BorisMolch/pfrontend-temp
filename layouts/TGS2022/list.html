@@ -27,7 +27,7 @@
 </section>
 
 {{ "<!-- introtext -->" | safeHTML }}
-{{ if $data.homepage.intro.enable }}
+{{ if $data.TGS2022.intro.enable }}
 {{ with $data.TGS2022.intro }}
 <section class="introtext section">
 	<div class="container">
@@ -60,7 +60,7 @@
 
 
 {{ "<!-- Feature Slider -->" | safeHTML }}
-{{ if $data.homepage.feature_slider.enable }}
+{{ if $data.TGS2022.feature_slider.enable }}
 <section class="section features ">
   <div class="container">
     <div class="row">
@@ -84,7 +84,10 @@
         </div>
       </div>
     </div>
+    {{ end }}
 
+    {{ if $data.TGS2022.discord.enable }}
+    {{ with $data.TGS2022.discord }}
 	<div class="row pt-5">
 		<div class="col-12 m-auto text-left">
 
@@ -93,23 +96,23 @@
 			  <div class="col-lg-6">
 				  <div class="imageblock" style="position: relative">
 				  <img loading="lazy" src="/images/discordbanner.jpg" class="img-fluid">
-				  <a href="https://discord.gg/gwMVhKWxbr" style="font-weight: bold"><div class="top-left btn-main-md" style="position: absolute; top: 20px; font-weight: bold">Discordに登録</div></a>
+				  <a href="https://discord.gg/gwMVhKWxbr" style="font-weight: bold"><div class="top-left btn-main-md" style="position: absolute; top: 20px; font-weight: bold">{{ .title | safeHTML }}</div></a>
 			  </div>
 			  </div>
 			<div class="col-lg-6">
 			  <p class="feature-text ">
-                Discordチャンネルに参加してコミュニティにアクセスし、よりクリエイティブ機能のベータ版にサインアップしてください。</p>
+                {{ .subtitle | safeHTML }}</p>
 			</div>
 		  </div>
 	  </div>
 
 		</div>
 	  </div>
-
-
+      {{ end }}
+      {{ end }}
   </div>
 </section>
-{{ end }}
+
 {{ "<!-- End of Feature Slider -->" | safeHTML }}
 
 
