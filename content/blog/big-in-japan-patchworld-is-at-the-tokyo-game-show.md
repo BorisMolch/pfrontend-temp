@@ -26,3 +26,5 @@ Hall 5, Section C.
 Booth Number: 5-C17
 
 [Tokyo Game Show 2022](https://tgs.nikkeibp.co.jp/tgs/2022/en/index.html)
+
+Nothing stops gaming. And when music can exist in venues created by the imagination, nothing stops music, either.
