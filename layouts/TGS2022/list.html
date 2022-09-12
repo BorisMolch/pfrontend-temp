@@ -1,0 +1,435 @@
+{{ define "main" }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ "<!-- Patchworld video banner -->" | safeHTML }}
+<section id="banner" class="page">
+    <div class="background">
+        <video class="video-bg" poster="posters/thumbnail.jpg" loop muted>
+            <source data-src="/videos/WebLoopV2.webm" type="video/webm" /> 
+            <source data-src="/videos/WebLoopV2.mp4" type="video/mp4" />
+            <!-- Responsive poster images -->
+            <poster-source media="(min-width:1200px)" srcset="/images/posters/poster.jpg, images/posters/poster-2x.jpg 2x" />
+            <poster-source media="(min-width:800px)" srcset="/images/posters/poster-medium.jpg, images/posters/poster-medium-2x.jpg 2x" />
+            <poster-source srcset="/images/posters/poster-small.jpg, images/posters/poster-small-2x.jpg 2x" />
+        </video>
+    </div>
+    <div class="foreground">
+      <div class="container">
+		<div class="row text-left">
+			<div class="col-lg-12">
+				<h1 class="hidden">PatchWorld</h1>
+				<img src="/images/PatchWorld-banner.png" class="img-fluid" style="width:100%" data-aos="fade-in" alt="PatchXR - Sound of the Metaverse">
+					<a data-aos="fade-up" href="https://www.oculus.com/experiences/quest/3715150718552632/?utm_source=homepage" target="_blank" class="btn btn-main-md" onclick="ga('send',{hitType: 'event', eventCategory: 'Quest Button', eventAction: 'click'});">クエストストアーへ行く</a>					
+			</div>
+		</div>		
+  </div>
+  </div>
+</section>
+
+{{ "<!-- introtext -->" | safeHTML }}
+{{ if $data.homepage.intro.enable }}
+{{ with $data.TGS2022.intro }}
+<section class="introtext section">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-6 left "  data-aos="fade-in"></div>
+			<div class="col-lg-6 left "  data-aos="fade-in">
+				<p class="feature-text pt-0">{{ .subtitle | safeHTML }}</p>
+			</div>
+		</div>
+		</div>
+</section>
+{{ end }}
+{{ end }}
+{{ "<!-- End of introtext -->" | safeHTML }}
+
+
+{{ "<!-- Teaser -->" | safeHTML }}
+ <section class="section pb-0">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 text-center" data-aos="fade-in">
+				<video width="100%" class="video-fluid z-depth-1" poster="/images/videopreview.jpg" controls >
+					<source src="/videos/Patchworld_Announcement.mp4" type="video/mp4" />
+				  </video>
+			</div>
+		</div>
+		</div>
+</section> 
+{{ "<!-- End of Teaser -->" | safeHTML }}
+
+
+{{ "<!-- Feature Slider -->" | safeHTML }}
+{{ if $data.homepage.feature_slider.enable }}
+<section class="section features ">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 m-auto text-left">
+        <div class="quote-slider owl-carousel owl-theme">
+        {{ range $data.TGS2022.feature_slider.slider_item }}
+        <div class="item">
+			<div class="row">
+			<div class="col-lg-6">
+				<div class="imageblock" style="position: relative">
+				<img loading="lazy" src="{{ .feature_image }}" class="img-fluid">
+				<div class="top-left btn-main-md" style="font-weight: bold; position: absolute; top: 20px;">{{ .feature_title }}</div>
+				</div>
+			</div>
+		  <div class="col-lg-6">
+            <p class="feature-text">{{ .feature_text }}</p>
+          </div>
+		</div>
+		</div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+
+	<div class="row pt-5">
+		<div class="col-12 m-auto text-left">
+
+			<div class="item">
+			  <div class="row">
+			  <div class="col-lg-6">
+				  <div class="imageblock" style="position: relative">
+				  <img loading="lazy" src="/images/discordbanner.jpg" class="img-fluid">
+				  <a href="https://discord.gg/gwMVhKWxbr" style="font-weight: bold"><div class="top-left btn-main-md" style="position: absolute; top: 20px; font-weight: bold">Discordに登録</div></a>
+			  </div>
+			  </div>
+			<div class="col-lg-6">
+			  <p class="feature-text ">
+                Discordチャンネルに参加してコミュニティにアクセスし、よりクリエイティブ機能のベータ版にサインアップしてください。</p>
+			</div>
+		  </div>
+	  </div>
+
+		</div>
+	  </div>
+
+
+  </div>
+</section>
+{{ end }}
+{{ "<!-- End of Feature Slider -->" | safeHTML }}
+
+
+
+
+{{ "<!-- Rotation Banner Slider -->" | safeHTML }}
+{{ if $data.homepage.quote_slider.enable }}
+<section class="section quotes ">
+  <div class="container">
+    <div class="row">
+      <div class="col-8 m-auto text-center">
+        <div class="quote-slider owl-carousel owl-theme">
+          {{ range $data.homepage.quote_slider.slider_item }}
+          <div class="item">
+            <h4 style="font-weight: 200">{{ .quote }}</h4>
+            <h5>{{ .quote_by }}</h5>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ "<!-- End of Rotation Slider -->" | safeHTML }}
+
+
+
+{{ "<!-- download -->" | safeHTML }}
+{{ if $data.homepage.download.enable }}
+{{ with $data.homepage.download }}
+<section class="call-to-action-app section bg-black" style="padding-top: 0px!important">
+	<div class="container">
+		<div class="row">
+			<div class="col-12" data-aos="zoom-in">
+				<h2>{{ .title | safeHTML | markdownify }}</h2>
+				<p>{{ .subtitle | safeHTML | markdownify }}</p>
+
+						<div class="image-content" data-aos="zoom-out">
+							<ul class="list-inline" >
+								<li class="list-inline-item" style="padding-left: 5px;" data-aos="fade-left"><img width="182" alt="Oculus" src="images/p-oculus.png"></li>
+								<li class="list-inline-item" data-aos="fade-in"><img width="78" alt="HTC Vive" src="images/p-vive.png" style="filter: grayscale(100%)"></li>
+							  <li class="list-inline-item" data-aos="fade-right"><img width="180" alt="Oculus Quest" src="images/p-quest.png"></li>
+							</ul>
+						</div>
+
+			</div>
+		</div>
+	</div>
+</section>
+{{ end }}
+{{ end }}
+{{ "<!-- End of download -->" | safeHTML }}
+
+
+
+{{"<!-- banner-feature -->" | safeHTML}}
+{{ if $data.homepage.banner_feature.enable }}
+{{ with $data.homepage.banner_feature }}
+<section class="section pt-30 mt-5 position-relative pull-top">
+	<div class="container">
+		<div class="rounded shadow p-5 bg-white">
+			<div class="row justify-content-center">
+				{{ range .feature_item }}
+				<div class="col-md-4 mb-4 text-center">
+					<i class="{{ .icon }} text-primary h1"></i>
+					<h3 class="mt-4 text-capitalize h5 ">{{.title }}</h3>
+					<p class="regular text-muted">{{.content | markdownify }}</p>
+				</div>
+				{{ end }}
+			</div>
+		</div>
+	</div>
+</section>
+{{ end }}
+{{ end }}
+{{"<!-- /banner-feature -->" | safeHTML}}
+
+{{ "<!-- Feature -->" | safeHTML }}
+{{ if $data.homepage.feature.enable }}
+{{ range $i,$p:= $data.homepage.feature.feature_item }}
+<section class="feature section hide-overflow">
+	<div class="container">
+		<div class="row justify-content-between align-top">
+			<div class="col-lg-6 {{if not (modBool $i 2)}}order-lg-2{{end}}">
+				<div class="image-content mb-5" data-aos="fade-{{if not (modBool $i 3)}}left{{else}}right{{end}}">
+					<img loading="lazy" class="img-fluid" src="{{ .image | absURL }}" alt="PatchXR features">
+				</div>
+			</div>
+			<div class="col-lg-6 align-top {{if not (modBool $i 2)}}order-lg-1{{end}}">
+				<div class="feature-content ">
+					<h1 class="newstitle"><strong>{{ .title }}</strong></h1>
+					<p class="desc">{{ .content }}</p>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</section>
+{{ end }}
+{{ end }}
+{{ "<!-- /Feature -->" | safeHTML }}
+
+{{"<!-- USPs -->" | safeHTML }}
+{{ if $data.homepage.usp.enable }}
+{{ with $data.homepage.usp }}
+<section class="service section bg-gray">
+	<div class="container-fluid p-0">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="section-title">
+					<h2 class="text-gradient3">{{ .title | safeHTML | markdownify }}</h2>
+					<p>{{ .subtitle | safeHTML | markdownify }}</p>
+				</div>
+			</div>
+		</div>
+		<div class="row no-gutters">
+			<div class="col-lg-12 mr-auto align-self-center">
+				<div class="service-box">
+					<div class="row align-items-center">
+						{{ range .usp_item }}
+						<div class="col-md-4 col-xs-12">
+							<div class="service-item" data-aos="zoom-in">
+								<!--<i class="{{ .icon }} text-gradient3"></i>-->
+								<img src="images/icons/svg/{{ .image }}" height="100px" class="mb-5">
+								<h3>{{ .name }}</h3>
+								<p>{{ .content | safeHTML | markdownify }}</p>
+							</div>
+						</div>
+						{{ end }}
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+{{ end }}
+{{ end }}
+{{"<!-- End of USPs -->" | safeHTML }}
+
+{{ "<!-- Testimonial -->" | safeHTML }}
+{{ if $data.homepage.testimonial.enable }}
+{{ with $data.homepage.testimonial }}
+<section class="section testimonial">
+	<div class="container">
+		<div class="row">
+			<div class="col-10 m-auto">
+				<div class="col-12 title mt-5 text-center">
+				<!-- 	<h1 class="newstitle mb-5">{{ i18n "testimonials" }}</h1> -->
+				</div>
+				<div class="testimonial-slider owl-carousel owl-theme">
+
+					{{ range .testimonial_item }}
+					{{ "<!-- Testimonial 01 -->" | safeHTML }}
+<!-- 					<div class="row">
+						<div class="col-md-6 ">
+							<div style=" border-radius: 50%; ">
+								<img class="img-fluid" style=" margin: auto; width: 60%; border-radius: 50%;padding: 20px; " loading="lazy" src="{{ .image | absURL }}" alt="{{ .name }}">
+								
+							</div>
+							<h4 class="mt-3 mb-3 text-center">{{ .name }}</h4>
+						</div>
+						<div class="col-md-6" data-aos="fade-up">
+						 <span class="text-white" style="font-size: 28px;">{{ .content }}</span>
+						</div>
+					  </div> -->
+
+					<div class="item">
+						<div class="block shadow">
+							<p>{{ .content }}</p>
+							<div class="image">
+								<img loading="lazy" src="{{ .image | absURL }}" alt="{{ .name }}">
+							</div>
+							<h5 class="mt-3">{{ .name }}</h5>
+						</div>
+					</div>
+					{{ end }}
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+{{ end }}
+{{ end }}
+{{ "<!-- End of Testimonial -->" | safeHTML }}
+
+{{ "<!-- Video Promo -->" | safeHTML }}
+{{ if $data.homepage.promo_video.enable }}
+{{ with $data.homepage.promo_video }}
+<section class="video-promo section bg-1 mb-5" style="background-attachment:local; background-image: url('{{.bg_image | absURL}}')">
+	<img loading="lazy" style="display: none;" alt="Bg_image" src="{{ .bg_image | absURL }}" />
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="content-block text-shadow">
+					<h1 class="mega">{{ .title | safeHTML | markdownify }}</h1>
+					<p>{{ .content | safeHTML | markdownify }}</p>
+					<a class="video-modal" data-toggle="modal" data-src="{{ .video_embed_url | safeURL }}" data-target="#videoModal"><i class="tf-ion-play video"></i></a>
+
+					<!-- Modal -->
+					<div class="modal fade" id="videoModal2" tabindex="-1" role="dialog" aria-hidden="true">
+						<div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+							<div class="modal-content border-0 rounded-0">
+								<iframe src="/empty.html" id="video2" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" style="min-height: 450px; width: auto;"></iframe>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+{{ end }}
+{{ end }}
+{{ "<!-- End of Video Promo -->" | safeHTML }}
+
+
+
+{{ if $data.homepage.community.enable }}
+{{ "<!-- From the community -->" | safeHTML }}
+<section class="section related-articles bg-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 title text-center">
+        <h1 class="newstitle">{{ i18n "relatedcommunity" }}</h1>
+      </div>
+    </div>
+    <div class="row">
+      {{ range first 3 ( where .Site.Pages "Type" "community"  ) }}
+	 	 {{ if isset .Params "featured_patch" }}
+      		{{ .Render "patch"}}
+	  	{{ end }}
+	  {{ end }}
+    </div>
+  </div>
+</section>
+{{ "<!-- From the community  -->" | safeHTML }}
+{{ end }}
+
+
+{{ if $data.homepage.blog.enable }}
+{{ "<!-- Featured Blog Article -->" | safeHTML }}
+<section class="section featured-article">
+  <div class="container">
+    <div class="row">
+			<div class="col-12 title mt-5 text-center">
+				<h1 class="newstitle">{{ i18n "latest" }}</h1>
+			</div>
+      {{ range first 1 (where .Site.Pages "Type" "post") }}
+      <div class="col-md-12">
+        <article class="featured">
+          <div class="image">
+            <a href="{{ .Permalink }}"><img class="img-fluid" src="{{ .Params.Image | absURL }}" alt="{{ .Title }}"></a>
+          </div>
+          <div class="content">
+            <h2><a href="{{ .Permalink }}"><strong>{{ .Title }}</strong></a></h2>
+           
+              <span class="mb-3 text-white">{{ .PublishDate.Format "January 02, 2006" }}</span>
+        
+            <p class="mt-3">{{ .Description }}</p>
+            <!--<a class="btn btn-main-sm" href="{{ .Permalink }}">{{ i18n "read_more" }}</a>-->
+          </div>
+        </article>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ "<!-- End of Featured Blog Article -->" | safeHTML }}
+{{ end }}
+
+{{ "<!-- patchworld -->" | safeHTML }}
+{{ if $data.homepage.patchworld.enable }}
+{{ with $data.homepage.patchworld }}
+<section class="patchworld section">
+	<div class="container">
+		<div class="row text-center">
+			<div class="col-lg-12">
+				<h1 class="mt-3 patchathon_title">{{ .heading }}</h1>
+				<h2>{{ .title | safeHTML | markdownify }}</h2>
+				<p style="padding-bottom: 40px;">	{{ .subtitle | safeHTML | markdownify }}</p>
+				<ul class="list-inline">
+					{{ range .download_buttons }}
+					<li class="list-inline-item" data-aos="fade-up">
+						<a href="{{ .link | safeURL }}" class="btn btn-main-md" onclick="ga('send',{hitType: 'event', eventCategory: 'Join Beta Button', eventAction: 'click'});">
+							<i class="{{ .icon }}"></i>
+							{{ .label }}
+						</a>
+					</li>
+					{{ end }}
+				</ul>
+			</div>
+		</div>
+	</div>
+</section>
+{{ end }}
+{{ end }}
+{{ "<!-- End of patchworld -->" | safeHTML }}
+
+{{ "<!-- Partners Slider -->" | safeHTML }}
+{{ if $data.about.partners_logo_slider.enable }}
+{{ with $data.about.partners_logo_slider }}
+<section class="section clients bg-white">
+  <div class="container">
+    <div class="row">
+      <div class="col-10 m-auto text-center">
+        <h1 class="text-dark">{{ .title }}</h1>
+        <div class="client-slider owl-carousel owl-theme">
+          {{ range .logos }}
+          <div class="item">
+            <img src="{{ . | absURL }}" alt="partner-logo">
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{ "<!-- End of Partners Slider -->" | safeHTML }}
+
+{{ end }}

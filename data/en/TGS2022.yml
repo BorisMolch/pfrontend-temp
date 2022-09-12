@@ -1,0 +1,17 @@
+intro:
+  enable: true
+  title: Play and create music worlds
+  subtitle: "PatchWorldの素晴らしい音楽の世界で、あなたの創造力を解き放とう! <br><br>VRの世界で自分だけの音楽が作れる。そして、いろんな種類の楽器を世界中から見つけよう！<br><br>楽器をゼロから作ったり、ジャムバンドに参加したり、テクノビートを鳴らしたりと、たくさん楽しめる。自分だけのステージや音楽を制作し、音楽をより楽しもう。"
+  description: ''
+feature_slider:
+  enable: true
+  slider_item:
+  - feature_title: "探そう"
+    feature_text: "探そう：世界中のアーティストが制作した演奏、ショー、バーチャルスタジオ、楽器の数々を体験しよう。"
+    feature_image: "/uploads/fishwebsite1.jpg"
+  - feature_title: "創ろう"
+    feature_text: "創ろう：自分だけの音楽の世界や楽器を作り、アバターをデザインし、演奏を録音して、musicverseのミュージックビデオやショーに使用することができます。"
+    feature_image: "/uploads/newfish.gif"
+  - feature_title: "繋ろう"
+    feature_text: "繋ろう：あなたの作品を世界中のユーザーと共有し、マルチプレイヤーで友達と一緒に演奏して最高なパーティーを開きましょう!"
+    feature_image: "/uploads/avatar-web-1.jpg"
