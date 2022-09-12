@@ -1,7 +1,7 @@
 ---
 scroller:
   enable: true
-  speed: "60"
+  speed: "200"
   text: JOIN US @TOKYO GAME SHOW 2022 9/15-18 &nbsp; &nbsp; &nbsp; 東京ゲームショーで会いましょう
     2022 9/15-18 &nbsp; &nbsp; &nbsp; JOIN US @TOKYO GAME SHOW 2022 9/15-18 &nbsp;
     &nbsp; &nbsp; 東京ゲームショーで会いましょう 2022 9/15-18 &nbsp; &nbsp; &nbsp; JOIN US @TOKYO
