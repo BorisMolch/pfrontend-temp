@@ -83,10 +83,10 @@
     color: $light;
     outline: none;
     &:hover{
-        color: $light;
+        color: $white!important;
         background: $black;
 
-        color: $white;
+
     }
     &:focus{
         color: $light;

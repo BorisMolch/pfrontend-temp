@@ -11,6 +11,7 @@
 	z-index: 50;
 	height: 56px;
 	text-transform: none!important;
+	font-size: 1rem;
 	.navbar-brand{
 		img {max-width:100px}
 		padding-left: 0px;
@@ -84,7 +85,7 @@
 	  .dropdown-menu {
 	  	.dropdown-item{
 			text-decoration: none!important;
-	  		font-size: 1.2rem;
+	  		font-size: 1rem;
   		    padding: 0px 25px;
   		    transition: .3s ease;
 			color: $white;
