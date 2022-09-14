@@ -10,7 +10,7 @@ fields:
   config:
     required: false
   label: slug
-  description: page slug for SEO
+  description: SEO slug (no-spaces, always-use-hyphens)
 - type: datetime
   name: date
   label: date
