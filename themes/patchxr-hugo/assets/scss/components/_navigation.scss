@@ -13,8 +13,8 @@
 	text-transform: none!important;
 	.navbar-brand{
 		img {max-width:100px}
-		padding-left: 10px;
-		@include desktop {
+		padding-left: 0px;
+		@include mobile {
 		padding-left: 10px;
 		}
 	}
