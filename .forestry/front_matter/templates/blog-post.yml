@@ -5,6 +5,12 @@ fields:
 - type: text
   name: title
   label: title
+- name: slug
+  type: text
+  config:
+    required: false
+  label: slug
+  description: page slug for SEO
 - type: datetime
   name: date
   label: date
