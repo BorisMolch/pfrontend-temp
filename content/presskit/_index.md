@@ -111,6 +111,13 @@ Techno live set made in Patch (made in Patch Beta for PC VR only)
 
 [Download Image pack](https://drive.google.com/drive/folders/1sSQT_Hk-9xOzmsTqDZR1lFi68K6cVI8i?usp=sharing)
 
+| | |
+--- | --- |
+| ![](/uploads/fluidechoes-2.jpg) | ![](/uploads/fluidecho-1.jpg) |
+| ![](/uploads/fluidechoes-3.jpg) | ![](/uploads/bouncybeat-2.jpg) |
+| ![](/uploads/bouncybeat-4.jpg) | ![](/uploads/rainmaker-1.jpg) |
+| ![](/uploads/rainmaker-2.jpg) | ![](/uploads/rainmaker-1.jpg) |
+
 ***
 
 ## GIFs
