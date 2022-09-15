@@ -59,8 +59,6 @@ For the first time, you can make rich, fully-customizable worlds without needing
 
 PatchWorld combines a playful interface with production-grade sound so that everyone gets a complete, rich musical experience. Want to explore music in an imaginative VR dreamworld? Check our interactive worlds. Want to stock your VR studio with your favorite techno instruments? You can do that, too.
 
-**Features at launch:**
-
 * 3 unique ready-to-play worlds (“EPs”) to explore or remix and make your own
 * Custom world creation
 * 30+ instruments and devices like –
