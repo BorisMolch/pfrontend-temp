@@ -114,9 +114,9 @@ Techno live set made in Patch (made in Patch Beta for PC VR only)
 | | |
 --- | --- |
 | ![](/uploads/fluidechoes-2.jpg) | ![](/uploads/fluidecho-1.jpg) |
-| ![](/uploads/fluidechoes-3.jpg) | ![](/uploads/newdevice) |
+| ![](/uploads/fluidechoes-3.jpg) | ![](/uploads/bouncybeat-2.jpg) |
 | ![](/uploads/bouncybeat-4.jpg) | ![](/uploads/rainmaker-1.jpg) |
-| ![](/uploads/rainmaker-2.jpg) | ![](/uploads/rainmaker-1.jpg) |
+| ![](/uploads/rainmaker-2.jpg) | ![](/uploads/newdevice.jpg) |
 
 ***
 
