@@ -16,20 +16,26 @@ banner:
 intro:
   enable: true
   title: Play and create music worlds
-  subtitle: "Unleash your creativity in the marvelous musicverse of PatchWorld! <br><br>
-  Explore an ever-expanding library of tools, toys, and wild instruments you can use to make your own music in VR."
+  subtitle: Unleash your creativity in the marvelous musicverse of PatchWorld! <br><br>
+    Explore an ever-expanding library of tools, toys, and wild instruments you can
+    use to make your own music in VR.
   description: ''
 feature_slider:
   enable: true
   slider_item:
-  - feature_title: "Explore"
-    feature_text: "Explore a growing number of experiences, shows, virtual studios, and instruments created by artists around the globe."
+  - feature_title: Explore
+    feature_text: Explore a growing number of musical experiences, shows, virtual
+      studios, and instruments created by our passionate community from around the
+      globe.
     feature_image: "/uploads/fishwebsite1.jpg"
-  - feature_title: "Create"
-    feature_text: "Create your own musical worlds and instruments, design your avatar, and record yourself performing, for musicverse music videos and shows."
+  - feature_title: Create
+    feature_text: Create your own musical worlds and instruments, design your avatar,
+      and record yourself performing, for musicverse music videos and shows.
     feature_image: "/uploads/newfish.gif"
-  - feature_title: "Share"
-    feature_text: "Share your creations with the world in a series of updates coming soon. Publish your works to PatchWorld and in the coming months, multiplayer support will allow you to explore, build, and jam in real-time with friends."
+  - feature_title: Share
+    feature_text: Share your creations with the world in a series of updates coming
+      soon. Publish your works to PatchWorld and in the coming months, multiplayer
+      support will allow you to explore, build, and jam in real-time with friends.
     feature_image: "/uploads/avatar-web-1.jpg"
 quote_slider:
   enable: false
