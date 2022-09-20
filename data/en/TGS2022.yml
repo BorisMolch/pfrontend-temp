@@ -2,14 +2,14 @@
 scroller:
   enable: true
   speed: "180"
-  text: 'JOIN US @GITEX GLOBAL 10 -14 OCT 2022 DUBAI &nbsp;//&nbsp; JOIN US @GITEX
-    GLOBAL 10 -14 OCT 2022 DUBAI &nbsp;//&nbsp; JOIN US @GITEX GLOBAL 10 -14 OCT 2022
-    DUBAI &nbsp;//&nbsp; JOIN US @GITEX GLOBAL 10 -14 OCT 2022 DUBAI &nbsp;//&nbsp;
-    JOIN US @GITEX GLOBAL 10 -14 OCT 2022 DUBAI &nbsp;//&nbsp; JOIN US @GITEX GLOBAL
-    10 -14 OCT 2022 DUBAI &nbsp;//&nbsp; JOIN US @GITEX GLOBAL 10 -14 OCT 2022 DUBAI
-    &nbsp;//&nbsp; JOIN US @GITEX GLOBAL 10 -14 OCT 2022 DUBAI &nbsp;//&nbsp; JOIN
-    US @GITEX GLOBAL 10 -14 OCT 2022 DUBAI &nbsp;//&nbsp; JOIN US @GITEX GLOBAL 10
-    -14 OCT 2022 DUBAI &nbsp;//&nbsp; '
+  text: 'JOIN US @GITEX GLOBAL 10-14 OCT 2022 DUBAI &nbsp;//&nbsp; JOIN US @GITEX
+    GLOBAL 10-14 OCT 2022 DUBAI &nbsp;//&nbsp; JOIN US @GITEX GLOBAL 10-14 OCT 2022
+    DUBAI &nbsp;//&nbsp; JOIN US @GITEX GLOBAL 10-14 OCT 2022 DUBAI &nbsp;//&nbsp;
+    JOIN US @GITEX GLOBAL 10-14 OCT 2022 DUBAI &nbsp;//&nbsp; JOIN US @GITEX GLOBAL
+    10-14 OCT 2022 DUBAI &nbsp;//&nbsp; JOIN US @GITEX GLOBAL 10-14 OCT 2022 DUBAI
+    &nbsp;//&nbsp; JOIN US @GITEX GLOBAL 10-14 OCT 2022 DUBAI &nbsp;//&nbsp; JOIN
+    US @GITEX GLOBAL 10-14 OCT 2022 DUBAI &nbsp;//&nbsp; JOIN US @GITEX GLOBAL 10-14
+    OCT 2022 DUBAI &nbsp;//&nbsp; JOIN US @GITEX GLOBAL 10-14 OCT 2022 DUBAI &nbsp;//&nbsp; '
 intro:
   enable: true
   subtitle: PatchWorldの素晴らしい音楽の世界で、あなたの創造力を解き放とう! <br><br>VRの世界で自分だけの音楽が作れる。そして、いろんな種類の楽器を世界中から見つけよう！<br><br>楽器をゼロから作ったり、ジャムバンドに参加したり、テクノビートを鳴らしたりと、たくさん楽しめる。自分だけのステージや音楽を制作し、音楽をより楽しもう。
