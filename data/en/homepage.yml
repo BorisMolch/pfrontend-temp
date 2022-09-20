@@ -33,9 +33,9 @@ feature_slider:
       and record yourself performing, for musicverse music videos and shows.
     feature_image: "/uploads/newdevice.jpg"
   - feature_title: Share
-    feature_text: Share your creations with the world in a series of updates coming
-      soon. Publish your works to PatchWorld and in the coming months, multiplayer
-      support will allow you to explore, build, and jam in real-time with friends.
+    feature_text: Share your creations with the world. Publish your works to PatchWorld
+      and in the coming months, multiplayer support will allow you to explore, build,
+      and jam in real-time with friends.
     feature_image: "/uploads/rainmaker_ep3.jpg"
 quote_slider:
   enable: false
