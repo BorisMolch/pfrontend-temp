@@ -8,9 +8,6 @@ sections:
   path: data/en/homepage.yml
   label: Homepage
 - type: document
-  path: data/en/TGS2022.yml
-  label: TGS2022
-- type: document
   path: data/en/blog.yml
   label: Blog settings
 - type: directory
@@ -70,6 +67,9 @@ sections:
 - type: document
   path: content/license/_index.md
   label: License
+- type: document
+  path: data/en/japanese.yml
+  label: Japanese
 - type: document
   path: i18n/en.yaml
   label: i18n Strings
