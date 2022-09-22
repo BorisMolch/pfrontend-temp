@@ -8,8 +8,8 @@
 {{ end }}
 {{ end }}
 
-{{ if $data.TGS2022.scroller.enable }}
-{{ with $data.TGS2022.scroller }}
+{{ if $data.homepage.scroller.enable }}
+{{ with $data.homepage.scroller }}
 <!-- c00l SCrOlleR SeCt1On -->
 <style>
   #top-alert 
@@ -35,7 +35,6 @@
       margin: 0 auto;
       white-space: nowrap;
       overflow: hidden;
-
   }
   
   .marquee span {
@@ -47,16 +46,31 @@
       padding-left: 100%;
       animation: marquee {{ .speed }}s linear infinite;
   }
+
+  /* marquee links style */
+  .marquee a {
+    text-decoration: none; 
+  }
+
+  .marquee a:hover {text-decoration: none; color: white;}
   
   /* I like to move it, move it! */
   @keyframes marquee {
       0%   { transform: translate(0, 0); }
       100% { transform: translate(-100%, 0); }
   }
-  
+
+   /* Pause on hover */
+/*  .marquee span:hover {
+        -moz-animation-play-state: paused;
+        -webkit-animation-play-state: paused;
+        animation-play-state: paused;
+      } */
   </style>
-<div class="top-bar japanese">
-  <p class="marquee"><span>{{ .text | safeHTML }}</span></p>
+<div class="top-bar">
+  <p class="marquee">
+    <span><a href="{{ .link }}" target="_blank">{{ .text | safeHTML }}</a></span>
+  </p>
 </div>
 <!-- end of c00l SCrOlleR SeCt1On -->
 {{ end }}

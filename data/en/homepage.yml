@@ -1,4 +1,16 @@
 ---
+scroller:
+  enable: true
+  speed: "180"
+  link: "https://www.gitex.com"
+  text: 'JOIN US @GITEX GLOBAL 10-14 OCT 2022 DUBAI &nbsp;//&nbsp; JOIN US @GITEX
+    GLOBAL 10-14 OCT 2022 DUBAI &nbsp;//&nbsp; JOIN US @GITEX GLOBAL 10-14 OCT 2022
+    DUBAI &nbsp;//&nbsp; JOIN US @GITEX GLOBAL 10-14 OCT 2022 DUBAI &nbsp;//&nbsp;
+    JOIN US @GITEX GLOBAL 10-14 OCT 2022 DUBAI &nbsp;//&nbsp; JOIN US @GITEX GLOBAL
+    10-14 OCT 2022 DUBAI &nbsp;//&nbsp; JOIN US @GITEX GLOBAL 10-14 OCT 2022 DUBAI
+    &nbsp;//&nbsp; JOIN US @GITEX GLOBAL 10-14 OCT 2022 DUBAI &nbsp;//&nbsp; JOIN
+    US @GITEX GLOBAL 10-14 OCT 2022 DUBAI &nbsp;//&nbsp; JOIN US @GITEX GLOBAL 10-14
+    OCT 2022 DUBAI &nbsp;//&nbsp; JOIN US @GITEX GLOBAL 10-14 OCT 2022 DUBAI &nbsp;//&nbsp; '
 alert:
   enable: false
   type: light

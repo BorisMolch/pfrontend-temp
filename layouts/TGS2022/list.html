@@ -27,8 +27,8 @@
 </section>
 
 {{ "<!-- introtext -->" | safeHTML }}
-{{ if $data.TGS2022.intro.enable }}
-{{ with $data.TGS2022.intro }}
+{{ if $data.japanese.intro.enable }}
+{{ with $data.japanese.intro }}
 <section class="introtext section">
 	<div class="container">
 		<div class="row">
@@ -60,13 +60,13 @@
 
 
 {{ "<!-- Feature Slider -->" | safeHTML }}
-{{ if $data.TGS2022.feature_slider.enable }}
+{{ if $data.japanese.feature_slider.enable }}
 <section class="section features ">
   <div class="container">
     <div class="row">
       <div class="col-12 m-auto text-left">
         <div class="quote-slider owl-carousel owl-theme">
-        {{ range $data.TGS2022.feature_slider.slider_item }}
+        {{ range $data.japanese.feature_slider.slider_item }}
         <div class="item">
 			<div class="row">
 			<div class="col-lg-6">
@@ -86,8 +86,8 @@
     </div>
     {{ end }}
 
-    {{ if $data.TGS2022.discord.enable }}
-    {{ with $data.TGS2022.discord }}
+    {{ if $data.japanese.discord.enable }}
+    {{ with $data.japanese.discord }}
 	<div class="row pt-5">
 		<div class="col-12 m-auto text-left">
 
