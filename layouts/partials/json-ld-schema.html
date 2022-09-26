@@ -36,10 +36,6 @@
         "@type": "Organization",
         "name": "{{ $author }}"
     },
-    "accountablePerson" : {
-        "@type": "Organization",
-        "name": "{{ $author }}"
-    },
     "copyrightHolder" : "{{ $org_name }}",
     "copyrightYear" : "{{ .Date.Format "2006" }}",
     "dateCreated": "{{ .Date.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
