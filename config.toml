@@ -1,4 +1,5 @@
 baseURL = "https://patchxr.com"
+languageCode = "en-us"
 disableLanguages = []
 paginate = "12"
 summaryLength = "10"
