@@ -1,7 +1,7 @@
 (function ($) {
   'use strict';
 
-  // Preloader js    
+  // Preloader js
   $(window).on('load', function () {
     $('.preloader').fadeOut(100);
   });
@@ -123,5 +123,14 @@
     });
 
   });
+
+  // highlight.js
+  $(function() {
+    var url = window.location;
+    $('ul.nav a').filter(function() {
+        return this.href == url;
+    }).parent().parent().parent().addClass('active');
+});
+
 
 })(jQuery);
