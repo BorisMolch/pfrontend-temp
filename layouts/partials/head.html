@@ -29,8 +29,8 @@
   {{ "<!-- plugins -->" | safeHTML }}
   {{ range .Site.Params.plugins.css }}
   <link rel="stylesheet" href="{{ .link | absURL }}">
-  {{ end }}      
-  <script src="/plugins/modernizr-custom.js"></script>
+  {{ end }}
+  <!-- <script src="/plugins/modernizr-custom.js"></script> -->
 
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
   {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
@@ -87,7 +87,7 @@
       width: 100vw;
       height: 100vh;
       overflow: hidden;
-      
+
       position: relative;
   }
 
@@ -113,7 +113,7 @@
 
   .foreground {
       position: relative;
-    
+
   }
 
   .video-bg.load-complete,
@@ -124,7 +124,7 @@
 
   .foreground {
 
-     
+
       line-height: 200px;
       height: 200px;
       box-sizing: border-box;
