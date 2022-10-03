@@ -1,6 +1,6 @@
 /*! modernizr 3.6.0 (Custom Build) | MIT *
  * https://modernizr.com/download/?-videoautoplay-setclasses !*/
-/*!(function (A, e, o) {
+!(function (A, e, o) {
   function t(A, e) {
     return typeof A === e;
   }
@@ -202,4 +202,4 @@
     delete r.addAsyncTest;
   for (var E = 0; E < Modernizr._q.length; E++) Modernizr._q[E]();
   A.Modernizr = Modernizr;
-})(window, document);*/
+})(window, document);

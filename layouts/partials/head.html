@@ -30,7 +30,7 @@
   {{ range .Site.Params.plugins.css }}
   <link rel="stylesheet" href="{{ .link | absURL }}">
   {{ end }}
-  <!-- <script src="/plugins/modernizr-custom.js"></script> -->
+  <script src="/plugins/modernizr-custom.js"></script>
 
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
   {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
