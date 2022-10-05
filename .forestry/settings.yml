@@ -71,6 +71,10 @@ sections:
   path: data/en/japanese.yml
   label: Japanese
 - type: document
+  path: data/en/links.yml
+  label: Linktree
+  match: "**/*"
+- type: document
   path: i18n/en.yaml
   label: i18n Strings
 upload_dir: static/uploads
