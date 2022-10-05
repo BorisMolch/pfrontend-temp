@@ -1,0 +1,15 @@
+linktree:
+  logo: /images/logo-alt.png
+  title: Links
+  description: here is a description text
+  socialtext: Follow PatchXR also on
+  link_item:
+  - name: Homepage
+    url: https://www.patchxr.com
+  - name: Documentation
+    url: https://patchxrdocumentation.readthedocs.io/
+  - name: Presskit
+    url: /presskit
+  - name: Forum
+    url: http://forum.patchxr.com/
+    

@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
 {{- partial "head.html" . -}}
-
 <body class="body-wrapper" data-spy="scroll" data-target=".privacy-nav">
-	{{- partial "preloader.html" . -}}
-	{{- partial "header.html" . -}}
-	<!--{{ if not .IsHome }}
-	{{ partial "page-title.html" . }}
-	{{ end }}-->
-	{{- block "main" . }}{{- end }}
+{{- partial "preloader.html" . -}}
+<!-- exclude pages without navbar-->
+{{ if ne .Section "links" }}
+{{- partial "header.html" . -}}
+{{ end }}
+{{- block "main" . }}{{- end }}
+<!-- exclude pages without footer-->
+{{ if ne .Section "links" }}
 	{{- partial "footer.html" . -}}
+{{ end }}
 </body>
-
 </html>

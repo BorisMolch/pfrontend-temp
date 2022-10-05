@@ -1,0 +1,45 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+
+<section class="section bg-black" style="height: 100vh">
+  <div class="container text-center">
+    <div class="content">
+
+
+{{ "<!-- Links list -->" | safeHTML }}
+
+{{ with $data.links.linktree }}
+<div class="linklogo">
+  <img class="img-fluid" height="50px" src="http://192.168.1.37:1313/images/logo-alt.png" /> 
+</div>
+
+
+<section class="section bg-black linksection">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-lg-6 col-sm-12 m-auto text-center">
+          {{ range .link_item }}
+          <div class="item">
+            <a class="btn btn-main-sm" style="width:100%" href="{{ .url }}">{{ .name }}</a>
+          </div>
+          {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+<p class="mb-0 m-0">{{ .socialtext }}</p>
+{{ end }}
+{{ partial "socialmedia" . }}
+
+    </div>
+  </div>
+
+  
+</section>
+
+
+{{ end }}
+
