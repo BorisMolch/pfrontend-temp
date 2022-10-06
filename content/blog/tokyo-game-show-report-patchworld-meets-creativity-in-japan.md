@@ -1,14 +1,13 @@
 +++
-author = ""
+author = "PatchXR"
 ctalink = ""
 ctatext = ""
 date = 2022-10-05T22:00:00Z
 description = "The Musicverse has landed in Japan. Our team is back from Tokyo Game Show, complete with rave reviews (and raving) from fans - and all the pictures of mushrooms and costumed characters we expected."
-draft = true
 image = "/uploads/patch-tgs2.jpg"
 slug = "patch-tokyo-game-show"
 title = "Tokyo Game Show report: PatchWorld meets creativity in Japan"
-type = ""
+type = "post"
 
 +++
 ![](/uploads/patch-tgs2.jpg)
@@ -28,6 +27,8 @@ But it wasn’t just the pros. “One surprise was to see how a kid was playing 
 “The most exciting thing I got to do was a live performance with Patch for about five hours over four days of the convention,” Gad says. “It really feels like being onstage with a live setup studio from the future. And I got to initiate Koki into performing on PatchWorld - it was amazing to see how good he got in just one or two days.”
 
 Check the live performance with Gad - okay, next time, we get a full club, as he got folks dancing and hyped!
+
+{{< youtube 0CWphLRckHA >}}
 
 We’re grateful to Swissnex for enabling us to go to Japan and represent Swiss innovation. [https://swissnex.org/](https://swissnex.org/ "https://swissnex.org/")
 
