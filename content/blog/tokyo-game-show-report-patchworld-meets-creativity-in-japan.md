@@ -2,7 +2,7 @@
 author = "PatchXR"
 ctalink = ""
 ctatext = ""
-date = 2022-10-05T22:00:00Z
+date = 2022-10-05T22:03:00Z
 description = "The Musicverse has landed in Japan. Our team is back from Tokyo Game Show, complete with rave reviews (and raving) from fans - and all the pictures of mushrooms and costumed characters we expected."
 image = "/uploads/patch-tgs2.jpg"
 slug = "patch-tokyo-game-show"
@@ -29,6 +29,8 @@ But it wasn’t just the pros. “One surprise was to see how a kid was playing 
 Check the live performance with Gad - okay, next time, we get a full club, as he got folks dancing and hyped!
 
 {{< youtube 0CWphLRckHA >}}
+
+[Tokyo Game Show]()
 
 We’re grateful to Swissnex for enabling us to go to Japan and represent Swiss innovation. [https://swissnex.org/](https://swissnex.org/ "https://swissnex.org/")
 
