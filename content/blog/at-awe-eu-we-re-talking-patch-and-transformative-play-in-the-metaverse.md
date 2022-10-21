@@ -10,6 +10,8 @@ title = "At AWE EU, we're pitching Patch and talking play in the metaverse "
 type = "post"
 
 +++
+![](/uploads/aweeu2022bg.jpg)
+
 First, AWE is hosting a start-up pitch competition - so we're thrilled to join these top innovators in getting to tell our story.
 
 [AWE 2022: Start-up Pitch Competition](https://www.awexr.com/eu-2022/startup_pitch)
