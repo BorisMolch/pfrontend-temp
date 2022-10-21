@@ -5,8 +5,8 @@ ctatext = ""
 date = 2022-10-21T03:00:00Z
 description = "It's a busy day for Patch at AWE EU, the hub for the XR ecosystem. We're pitching Patch competitively, and joining a packed conversation on the power of play. "
 image = "/uploads/aweeu2022bg.jpg"
-slug = ""
-title = "At AWE EU, we're talking Patch and transformative play in the metaverse "
+slug = "patch-aweEU"
+title = "At AWE EU, we're pitching Patch and talking play in the metaverse "
 type = "post"
 
 +++
