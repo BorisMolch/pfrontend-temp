@@ -11,3 +11,4 @@ just cd to repository locally and start hugo with
 `hugo server`
 
 website should be available on localhost:1313
+
