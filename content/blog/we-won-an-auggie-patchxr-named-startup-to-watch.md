@@ -5,12 +5,14 @@ ctatext = ""
 date = ""
 description = "You know Oscar and Tony - now there's \"Auggie\"for AugmentedReality.org. At AWE EU, PatchXR was named \"Startup to Watch.\""
 draft = true
-image = ""
+image = "/uploads/auggie_awards_eu_banner_image.jpg"
 slug = ""
 title = "We won an Auggie! PatchXR named \"Startup to Watch\""
 type = ""
 
 +++
+![](/uploads/auggie_awards_eu_banner_image.jpg)
+
 AWE's European edition was already a highlight for us, as a major hub for activity in the space. Then the icing on the cake: PatchXR was given one of three Auggie Awards for Europe.  And yes, you do get these wild-looking trophies.
 
 Here's how AWE describes the award:
