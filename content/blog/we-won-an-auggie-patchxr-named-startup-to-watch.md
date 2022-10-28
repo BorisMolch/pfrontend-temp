@@ -24,3 +24,5 @@ We're especially honored because of who was on the jury:
 * Leading metaverse investor [Marco DeMiroz](https://www.linkedin.com/in/marcodemiroz/)
 * Angel investor [Faye Maidment](https://www.linkedin.com/in/faye-maidment-12345069/)
 * Istanbul-based [Cansu Çınar](https://www.linkedin.com/in/cansu-cinar-05770696/) from Ludus Ventures
+
+We really appreciate the vote of confidence! AWE was a blast - and watch this space.
