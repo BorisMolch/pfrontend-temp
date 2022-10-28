@@ -19,6 +19,10 @@ Here's how AWE describes the award:
 
 > The Auggie Awards™ Competition is an initiative of AugmentedReality.org, the producer of AWE (Augmented World Expo). The goal of the Competition is to promote excellence in XR (Augmented Reality, Virtual Reality and Mixed Reality) on various platforms and categories. The Competition is intended to bring the best in the augmented World to the public, and to provide recognition to contestants who develop technology and solutions that demonstrate how to make the world a more interactive place and make our lives and work more engaging, productive, and fun.
 
+![PatchXR founders accepting the Auggie award statuette.](/uploads/patchteam-winners.jpg)
+
+_Pictured: The PatchXR founding team accept our very handsome-looking Auggie statuette._
+
 We're especially honored because of who was on the jury:
 
 * Leading metaverse investor [Marco DeMiroz](https://www.linkedin.com/in/marcodemiroz/)
@@ -27,6 +31,6 @@ We're especially honored because of who was on the jury:
 
 Ori Inbar, co-founder of AWE and Super Ventures, was not on the jury - but that meant he was free to just have fun with Patch, without any judging obligations. Ori writes:
 
-> "I highly enjoyed making music in the app, and thought the big breakthrough was the onboarding experience with the funny, motivating, and super cool character in the application." 
+> "I highly enjoyed making music in the app, and thought the big breakthrough was the onboarding experience with the funny, motivating, and super cool character in the application."
 
 We really appreciate the vote of confidence! AWE was a blast - and watch this space.
