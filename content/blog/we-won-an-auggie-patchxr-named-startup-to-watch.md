@@ -25,4 +25,8 @@ We're especially honored because of who was on the jury:
 * Angel investor [Faye Maidment](https://www.linkedin.com/in/faye-maidment-12345069/)
 * Istanbul-based [Cansu Çınar](https://www.linkedin.com/in/cansu-cinar-05770696/) from Ludus Ventures
 
+Ori Inbar, co-founder of AWE and Super Ventures, was not on the jury - but that meant he was free to just have fun with Patch, without any judging obligations. Ori writes:
+
+> "I highly enjoyed making music in the app, and thought the big breakthrough was the onboarding experience with the funny, motivating, and super cool character in the application." 
+
 We really appreciate the vote of confidence! AWE was a blast - and watch this space.
