@@ -30,6 +30,6 @@ jobs:
           SSH_HOST: ${{ secrets.SSH_HOST }}
 
       - name: Check out the source
-        run: ssh linode 'whoami'
-        #run: ssh linode 'cd /apps/patch-api-server-dev && git fetch && git reset --hard origin/dev'
+        # run: ssh linode 'whoami'
+        run: ssh linode 'cd /apps/patchXR_web_frontend/ && git pull && hugo -d public'
 
