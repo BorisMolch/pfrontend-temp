@@ -26,11 +26,11 @@ We're especially honored because of who was on the jury:
 
 Since we couldn't be there in person, our great friend and advisor Muki accepted the award for us. But we were thoroughly impressed with all the competition - which also featured greater gender balance, with women represented as 5 out of 9 founders. Some of our other favorites - metaverse dating app [nevermet](https://www.nevermet.io/), and fashion enabler [Gnera](https://www.gn3ra.io/).
 
-Ori Inbar, co-founder of AWE and Super Ventures, was not on the jury - but that meant he was free to just have fun with Patch, without any judging obligations. Ori writes:
+Ori Inbar, co-founder of AWE and Super Ventures, was not on the jury. But that meant he was free to just have fun with Patch, without any judging obligations. (Pictured below, deep in the experience.) Ori writes:
 
 > "I highly enjoyed making music in the app, and thought the big breakthrough was the onboarding experience with the funny, motivating, and super cool character in the application."
 
-![](/uploads/ori.jpg)
+![](/uploads/ori.jpg "Ori testing Patch")
 
 Here's how AWE describes the award:
 
