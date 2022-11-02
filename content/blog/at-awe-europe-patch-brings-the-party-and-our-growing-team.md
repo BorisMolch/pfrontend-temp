@@ -23,9 +23,13 @@ Boris, head of QA and an emerging music producer in Berlin, got attendees dancin
 
 And, of course, we won a coveted Auggie award, too. (See our separate story.)
 
+![](/uploads/auggie-winners.jpg)
+
+![](/uploads/melo-pitching.jpg)
+
 In the playground area of the exhibition, folks could join our booth to watch, hear, and play music. The dance floor vibes became such a draw that the event asked us to kindly stop playing music so attendees would go to the rooftop for the official party -- instead of just hanging out with Patch.
 
-And AWE also meant we finally got to catch up with some people we’d wanted to meet in person for a long time. We deepened our partnership conversation with Pico, among other strategy partners. We got deeper into the XR’s amazing community. Other facetime stand-outs:
+And AWE also meant we finally got to catch up with some people we’d wanted to meet in person for a long time. We deepened our partnership conversation with Pico, among other strategic partners. We got deeper into the XR’s amazing community. Other facetime stand-outs:
 
 Ori Inbar, CEO and co-founder of AWE (who called Patch a “big breakthrough”)
 
@@ -33,6 +37,6 @@ Ori Inbar, CEO and co-founder of AWE (who called Patch a “big breakthrough”)
 
 [Gabriel Romagnoli](https://www.linkedin.com/in/gabriele-romagnolixr/) from [ShapesXR](https://www.shapesxr.com/)
 
-And we were thrilled to join a powerful panel discussion, with [Anne McKinnon](https://www.linkedin.com/in/anne-m-abcd1234/) from Ristband Metaverse as moderator, [Elaine Wong](https://www.linkedin.com/in/eastboundelaine/?originalSubdomain=uk) from PICO, and our long-time friend Maud Clavier from [VRrOOm](https://www.institutfrancais.com/en/magazine/interview/maud-clavier-managing-director-of-vrroom).
+And we were thrilled to join a powerful [panel discussion](https://patchxr.com/blog/patch-aweeu/), with [Anne McKinnon](https://www.linkedin.com/in/anne-m-abcd1234/) from Ristband Metaverse as moderator, [Elaine Wong](https://www.linkedin.com/in/eastboundelaine/?originalSubdomain=uk) from PICO, and our long-time friend Maud Clavier from [VRrOOm](https://www.institutfrancais.com/en/magazine/interview/maud-clavier-managing-director-of-vrroom).
 
-It’s just great to be able to connect with this kind of quality time. We can’t wait to do more - and we’re absolutely not slowing down.
+It’s just great to connect with this kind of quality time. We can’t wait to do more - and we’re absolutely not slowing down.
