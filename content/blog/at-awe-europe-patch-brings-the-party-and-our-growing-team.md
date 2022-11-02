@@ -5,12 +5,14 @@ ctatext = ""
 date = ""
 description = "Patch’s presence at AWE EU, the essential XR event, transformed exhibition spaces into dance floors and gave Europe the chance to meet some of our newest team members. The week was packed; here are our highlights."
 draft = true
-image = ""
+image = "/uploads/patch-team.jpg"
 slug = "awe-eu-2022-report"
 title = "At AWE Europe, Patch brings the party - and our growing team"
 type = ""
 
 +++
+![](/uploads/patch-team.jpg)
+
 AWE EU is a cozy event, but Patch had a big footprint and a schedule jam-packed with meetings. That included bringing along our team for in-person time, including new additions:
 
 Melodie Mousset, co-founder, creative director, and community and partnership manager
@@ -27,10 +29,10 @@ And AWE also meant we finally got to catch up with some people we’d wanted to 
 
 Ori Inbar, CEO and co-founder of AWE (who called Patch a “big breakthrough”)
 
-Liz Rosenthal from Venice Immersive
+[Liz Rosenthal](https://www.linkedin.com/in/liz-rosenthal-70b8b22/) from [Venice Immersive](https://www.euronews.com/culture/2022/09/02/venice-immersive-explores-the-metaverse-as-a-new-artistic-medium) (at the Venice International Film Festival)
 
-Gabriel Romagnoli from Shape XR
+[Gabriel Romagnoli](https://www.linkedin.com/in/gabriele-romagnolixr/) from [ShapesXR](https://www.shapesxr.com/)
 
-And we were thrilled to join a powerful panel discussion, with Anne McKinnon from Ristband as moderator, Elaine Wong from PICO XR, and our long-time friend Maud Clavier from VRROOM!!!
+And we were thrilled to join a powerful panel discussion, with [Anne McKinnon](https://www.linkedin.com/in/anne-m-abcd1234/) from Ristband Metaverse as moderator, [Elaine Wong](https://www.linkedin.com/in/eastboundelaine/?originalSubdomain=uk) from PICO, and our long-time friend Maud Clavier from [VRrOOm](https://www.institutfrancais.com/en/magazine/interview/maud-clavier-managing-director-of-vrroom).
 
 It’s just great to be able to connect with this kind of quality time. We can’t wait to do more - and we’re absolutely not slowing down.
