@@ -62,11 +62,12 @@ URL = "contact"
 name = "Contact"
 weight = 5
 
-[[menu.main]]
-URL = "patchathon"
-name = "Patchathon"
-parent = "Community ↓"
-weight = 1
+# [[menu.main]]
+# URL = "patchathon"
+# name = "Patchathon"
+# parent = "Community ↓"
+# weight = 1
+
 [[menu.main]]
 URL = "community"
 name = "Gallery"
