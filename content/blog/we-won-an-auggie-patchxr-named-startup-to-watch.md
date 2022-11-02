@@ -3,22 +3,20 @@ author = ""
 ctalink = ""
 ctatext = ""
 date = 2022-11-02T09:00:00Z
-description = "You know Oscar and Tony - now there's the \"Auggie,\" the prize that's been the most recognized AR/VR industry award for over a decade. At AWE EU, PatchXR was named \"Startup to Watch.\" Here's how XR's big night went down."
-image = "/uploads/auggie_awards_eu_banner_image.jpg"
+description = "You know Oscar and Tony - but you better know \"Auggie,\" the prize that's been the most recognized AR/VR industry award for over a decade. At AWE EU, PatchXR was named \"Startup to Watch.\" Here's how XR's big night went down."
+image = "/uploads/patchteam-winners.jpg"
 slug = "auggie-award"
 title = "We won an Auggie! PatchXR named \"Startup to Watch\""
 type = "post"
 
 +++
-![](/uploads/auggie_awards_eu_banner_image.jpg)
+_Pictured: The PatchXR founding team accept our very handsome-looking Auggie statuette._
 
 AWE's European edition was already a highlight for us. Then came the icing on the cake: PatchXR was given one of three Auggie Awards for Europe, complete with trophy. It's all thanks to Melodie's pitch in the pitch competition leading up to the juried nominations.
 
-"Auggie" is short for AugmentedReality.org, and since 2010 has grown to be the AR/VR's single most-recognized prize. Our Auggie was awarded thanks to uniqueness, market opportunities, and the team's capabilities, according to the jury.
+"Auggie" is short for AugmentedReality.org, and since 2010 has grown to be the AR/VR's single most-recognized prize. Our Auggie was awarded thanks to Patch's uniqueness, market opportunities, and the team's capabilities, according to the jury.
 
-![PatchXR founders accepting the Auggie award statuette.](/uploads/patchteam-winners.jpg)
-
-_Pictured: The PatchXR founding team accept our very handsome-looking Auggie statuette._
+![](/uploads/auggie_awards_eu_banner_image.jpg)
 
 We're especially honored because of who was on the jury:
 
