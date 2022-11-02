@@ -31,20 +31,15 @@
 // Body
 body{
 	font-family: $primary-font;
-	font-size: 1.1em;
+	font-size: 20px;
 	-webkit-font-smoothing: antialiased;
 }
 
 b, strong { font-weight:400;}
 // Headings
-h1,h2,h3,h4,h5,h6{
+h1,h2,h3,h4,h5,h6 {
 	font-family: $primary-font;
 	color: $light;
-
-}
-
-h1{
-
 }
 
 .patchathon_title {
@@ -56,8 +51,6 @@ h1{
 	@include tablet {
 		font-size: 32px!important;
 	}
-
-
 }
 
 .newstitle  {
@@ -72,6 +65,7 @@ h1{
 }
 
 
+p { font-size:1em}
 /* Top left text */
 .top-left {
 position: absolute;
@@ -80,9 +74,10 @@ left: 16px;
 }
 	
 .feature-text {
-font-size: 1.2em;
-padding-top: 30px;
+font-size: 1.25em;
+padding-top: 1em;
 margin-bottom: 0px;
+
 }
 	
 .blackonwhite * {color: $black!important;}
