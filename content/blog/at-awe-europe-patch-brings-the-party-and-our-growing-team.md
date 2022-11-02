@@ -4,10 +4,9 @@ ctalink = ""
 ctatext = ""
 date = ""
 description = "Patch’s presence at AWE EU, the essential XR event, transformed exhibition spaces into dance floors and gave Europe the chance to meet some of our newest team members. The week was packed; here are our highlights."
-draft = true
 image = "/uploads/patch-team.jpg"
 slug = "awe-eu-2022-report"
-title = "At AWE Europe, Patch brings the party - and our growing team"
+title = "At AWE Europe, Patch brings the party - and our growing team and network"
 type = ""
 
 +++
