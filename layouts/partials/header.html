@@ -8,9 +8,9 @@
 {{ end }}
 {{ end }}
 
+<!-- c00l SCrOlleR SeCt1On -->
 {{ if $data.homepage.scroller.enable }}
 {{ with $data.homepage.scroller }}
-<!-- c00l SCrOlleR SeCt1On -->
 <style>
   #top-alert 
     {
@@ -67,11 +67,30 @@
         animation-play-state: paused;
       } */
   </style>
+
 <div class="top-bar">
   <p class="marquee">
     <span><a href="{{ .link }}" target="_blank">{{ .text | safeHTML }}</a></span>
   </p>
 </div>
+
+{{ if $data.homepage.scroller.autohide }}
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+  <script>
+    var senseSpeed = 5;
+    var previousScroll = 0;
+    $(window).scroll(function(event){
+    var scroller = $(this).scrollTop();
+    if (scroller-senseSpeed > previousScroll) {
+      $("div.top-bar").filter(':not(:animated)').slideUp();
+    } 
+    else if (scroller+senseSpeed < previousScroll) {
+      $("div.top-bar").filter(':not(:animated)').slideDown();
+    }
+  previousScroll = scroller;
+  });
+  </script>
+{{ end }}
 <!-- end of c00l SCrOlleR SeCt1On -->
 {{ end }}
 {{ end }}

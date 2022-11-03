@@ -2,6 +2,7 @@
 scroller:
   enable: true
   speed: "180"
+  autohide: true
   link: https://www.awexr.com/eu-2022/auggies
   text: 'BEST START-UP TO WATCH WINNER @AWE 2022 LISBON &nbsp;//&nbsp; BEST START-UP
     TO WATCH WINNER @AWE 2022 LISBON &nbsp;//&nbsp; BEST START-UP TO WATCH WINNER
