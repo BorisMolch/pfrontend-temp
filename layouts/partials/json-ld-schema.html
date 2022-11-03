@@ -1,14 +1,51 @@
 {{ if .IsHome -}}
-<script type="application/ld+json">
-{
-    "@context": "http://schema.org",
-    "@type": "WebSite",
-    "name": "{{ .Site.Title }}",
-    "url": "{{ .Site.BaseURL }}",
-    "description": "{{ .Site.Params.description }}",
-    "thumbnailUrl": "{{ .Site.Params.Logo | absURL }}",
-    "license": "{{ .Site.Params.Copyright }}"
-}
+  <script type="application/ld+json">
+    { "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "PatchXR",
+    "legalName" : "PatchXR AG",
+    "url": "https://patchxr.com",
+    "logo": "https://patchxr.com/images/logo.png",
+    "foundingDate": "2020",
+    "founders": [
+    {
+    "@type": "Person",
+    "name": "Edo Fouilloux"
+    },
+    {
+    "@type": "Person",
+    "name": "Melodie Mousset"
+    },
+    {
+    "@type": "Person",
+    "name": "Joel Sadler"
+    },
+    {
+    "@type": "Person",
+    "name": "Gad Baruch Hinkis"
+    } ],
+    "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Chriesbaumstrasse 6",
+    "addressLocality": "Volketswil",
+    "addressRegion": "Zürich",
+    "postalCode": "8604",
+    "addressCountry": "Switzerland"
+    },
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Office",
+    "telephone": "[+41787676624]",
+    "email": "info@patchxr.com"
+    },
+    "sameAs": [ 
+    "https://www.facebook.com/patch.xr/",
+    "https://twitter.com/patchworld_",
+    "https://www.instagram.com/patchworld_vr/",
+    "https://www.youtube.com/channel/UCk_Ekjvy67qnNo-iM4-F_bA",
+    "https://www.linkedin.com/company/patch-xr/",
+    "https://www.twitch.tv/patchxr"
+    ]}
 </script>
 {{ else if .IsPage }}
 {{ $author :=  or (.Params.author) (.Site.Author.name) }}
@@ -30,21 +67,21 @@
     },
     "author" : {
         "@type": "Organization",
-        "name": "{{ $author }}",
+        "name": "PatchXR",
         "url": {{ .Site.BaseURL }}
     },
     "creator" : {
         "@type": "Organization",
-        "name": "{{ $author }}"
+        "name": "PatchXR"
     },
-    "copyrightHolder" : "{{ $org_name }}",
+    "copyrightHolder" : "PatchXR",
     "copyrightYear" : "{{ .Date.Format "2006" }}",
     "dateCreated": "{{ .Date.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
     "datePublished": "{{ .PublishDate.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
     "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05.00Z" | safeHTML }}",
     "publisher":{
         "@type":"Organization",
-        "name": {{ $org_name }},
+        "name": PatchXR,
         "url": {{ .Site.BaseURL }},
         "logo": {
             "@type": "ImageObject",
