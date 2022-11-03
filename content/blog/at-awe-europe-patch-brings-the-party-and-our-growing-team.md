@@ -2,7 +2,7 @@
 author = "PatchXR"
 ctalink = ""
 ctatext = ""
-date = 2022-11-04T09:00:00Z
+date = 2022-11-03T17:00:00Z
 description = "Patch’s presence at AWE EU, the essential XR event, transformed exhibition spaces into dance floors and gave Europe the chance to meet some of our newest team members. The week was packed; here are our highlights."
 draft = true
 image = "/uploads/patch-team.jpg"
