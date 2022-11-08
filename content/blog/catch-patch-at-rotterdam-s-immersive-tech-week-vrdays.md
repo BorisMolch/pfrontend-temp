@@ -4,6 +4,7 @@ ctalink = ""
 ctatext = ""
 date = 2022-11-08T04:00:00Z
 description = "The leading European event for the full spectrum of immersive technologies, VRdays has its first-ever Rotterdam edition - and we'll be there, of course!"
+draft = true
 image = "/uploads/meetusatvrdays.jpg"
 slug = "vrdays-2022"
 title = "Catch Patch at Rotterdam's Immersive Tech Week - VRdays"
