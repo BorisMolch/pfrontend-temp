@@ -84,7 +84,8 @@
         </div>
       </div>
     </div>
-
+		{{ if $data.homepage.discord_banner.enable }}
+		{{ with $data.homepage.discord_banner }}
 	<div class="row pt-5">
 		<div class="col-12 m-auto text-left">
 
@@ -92,19 +93,20 @@
 			  <div class="row">
 			  <div class="col-lg-6">
 				  <div class="imageblock" style="position: relative">
-				  <img loading="lazy" src="images/discordbanner.jpg" class="img-fluid">
-				  <a href="https://discord.gg/gwMVhKWxbr"><div class="top-left btn-main-md" style="position: absolute; top: 20px;">Join Discord</div></a>
+				  <img loading="lazy" src="{{ .image }}" class="img-fluid">
+				  <a href="https://discord.gg/gwMVhKWxbr"><div class="top-left btn-main-md" style="position: absolute; top: 20px;">{{ .label }}</div></a>
 			  </div>
 			  </div>
 			<div class="col-lg-6">
-			  <p class="feature-text ">Join our Discord channel to access our community and register for the PatchMaker beta for early access to even more powerful creative features.</p>
+			  <p class="feature-text ">{{ .text }}</p>
 			</div>
 		  </div>
 	  </div>
 
 		</div>
 	  </div>
-
+		{{ end }}
+		{{ end }}
 
   </div>
 </section>
