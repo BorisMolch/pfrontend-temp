@@ -20,7 +20,7 @@ Plus come visit Patch at **Booth Number 49, Hall 2** all days of the conference 
 
 It's an exciting chance to come to Rotterdam, which has always been a hot, future-minded creative hub at the heart of Holland's music scene.
 
-And if you're thinking you'd like to have in on the fun, we've got a discount code for you:
+And if you're thinking you'd like to have in on the fun, we've got a 20%-off discount code for you (off full/day passes):
 
 ITW-EXHB
 
