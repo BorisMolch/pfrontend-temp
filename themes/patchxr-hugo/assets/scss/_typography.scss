@@ -65,16 +65,20 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 
-p { font-size:1em}
+p { 
+	font-size:1em;
+	line-height: 1.2em;}
 /* Top left text */
 .top-left {
 position: absolute;
-top: 8px;
-left: 16px;
+top: 0.5em;
+left: 1em;
+
 }
 	
 .feature-text {
 font-size: 1.25em;
+line-height: 1.2em;
 padding-top: 1em;
 margin-bottom: 0px;
 
