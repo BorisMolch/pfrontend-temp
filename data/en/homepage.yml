@@ -4,17 +4,17 @@ scroller:
   speed: "180"
   autohide: true
   link: https://www.awexr.com/eu-2022/auggies
-  text: 'BEST START-UP TO WATCH WINNER @AWE 2022 LISBON &nbsp;//&nbsp; BEST START-UP
-    TO WATCH WINNER @AWE 2022 LISBON &nbsp;//&nbsp; BEST START-UP TO WATCH WINNER
-    @AWE 2022 LISBON &nbsp;//&nbsp; BEST START-UP TO WATCH WINNER @AWE 2022 LISBON
-    &nbsp;//&nbsp; BEST START-UP TO WATCH WINNER @AWE 2022 LISBON &nbsp;//&nbsp; BEST
-    START-UP TO WATCH WINNER @AWE 2022 LISBON &nbsp;//&nbsp; BEST START-UP TO WATCH
-    WINNER @AWE 2022 LISBON &nbsp;//&nbsp; BEST START-UP TO WATCH WINNER @AWE 2022
-    LISBON &nbsp;//&nbsp; BEST START-UP TO WATCH WINNER @AWE 2022 LISBON &nbsp;//&nbsp;
-    BEST START-UP TO WATCH WINNER @AWE 2022 LISBON &nbsp;//&nbsp; BEST START-UP TO
-    WATCH WINNER @AWE 2022 LISBON &nbsp;//&nbsp; BEST START-UP TO WATCH WINNER @AWE
-    2022 LISBON &nbsp;//&nbsp; BEST START-UP TO WATCH WINNER @AWE 2022 LISBON &nbsp;//&nbsp;
-    BEST START-UP TO WATCH WINNER @AWE 2022 LISBON &nbsp;//&nbsp; '
+  text: 'JOIN US @VRDAYS EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp; JOIN US @VRDAYS
+    EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp; JOIN US @VRDAYS EUROPE 28-2 DEC
+    2022 ROTTERDAM &nbsp;//&nbsp; JOIN US @VRDAYS EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp;
+    JOIN US @VRDAYS EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp; JOIN US @VRDAYS
+    EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp; JOIN US @VRDAYS EUROPE 28-2 DEC
+    2022 ROTTERDAM &nbsp;//&nbsp; JOIN US @VRDAYS EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp;
+    JOIN US @VRDAYS EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp; JOIN US @VRDAYS
+    EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp; JOIN US @VRDAYS EUROPE 28-2 DEC
+    2022 ROTTERDAM &nbsp;//&nbsp; JOIN US @VRDAYS EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp;
+    JOIN US @VRDAYS EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp; JOIN US @VRDAYS
+    EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp;  '
 alert:
   enable: false
   type: light
@@ -55,9 +55,10 @@ feature_slider:
     feature_image: "/uploads/deviceandmrbouncy.jpg"
 discord_banner:
   enable: true
-  image: "images/discordbanner.jpg"
-  label: "Join Discord"
-  text: "Join our Discord channel to access our community and register for the PatchMaker beta for early access to even more powerful creative features."
+  image: images/discordbanner.jpg
+  label: Join Discord
+  text: Join our Discord channel to access our community and register for the PatchMaker
+    beta for early access to even more powerful creative features.
 quote_slider:
   enable: false
   slider_item:
