@@ -12,9 +12,7 @@ scroller:
     2022 ROTTERDAM &nbsp;//&nbsp; JOIN US @VRDAYS EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp;
     JOIN US @VRDAYS EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp; JOIN US @VRDAYS
     EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp; JOIN US @VRDAYS EUROPE 28-2 DEC
-    2022 ROTTERDAM &nbsp;//&nbsp; JOIN US @VRDAYS EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp;
-    JOIN US @VRDAYS EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp; JOIN US @VRDAYS
-    EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp;  '
+    2022 ROTTERDAM &nbsp;//&nbsp; JOIN US @VRDAYS EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp; '
 alert:
   enable: false
   type: light
