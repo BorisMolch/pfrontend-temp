@@ -53,7 +53,7 @@ feature_slider:
     feature_image: "/uploads/deviceandmrbouncy.jpg"
 discord_banner:
   enable: true
-  image: images/discordbanner.jpg
+  image: "/uploads/nudi_low-2.gif"
   label: Join Discord
   text: Join our Discord channel to access our community and register for the PatchMaker
     beta for early access to even more powerful creative features.
