@@ -2,7 +2,7 @@
 author = "PatchXR"
 ctalink = ""
 ctatext = ""
-date = 2022-11-17T23:00:00Z
+date = 2022-11-18T09:00:00Z
 description = "Cue Pomp and Circumstance and get ready to throw your hats - ooh, don't throw those headsets, though, please. PatchXR graduated this month from the first-ever XR accelerator at Startup Wise Guys, in an incredible class of new projects."
 image = "/uploads/graduationday.jpg"
 slug = "swg-graduation-day"
