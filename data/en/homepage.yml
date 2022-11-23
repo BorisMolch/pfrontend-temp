@@ -27,6 +27,10 @@ banner:
   bannertext: Available soon...
   videourl: https://youtu.be/N4tTMRGGHmA
   gif: "1"
+hero:
+  text: BUILD THE MUSICVERSE
+  link: https://www.oculus.com/experiences/quest/3715150718552632/?utm_source=homepage
+  linktext: Download
 intro:
   enable: true
   title: Play and create music worlds
@@ -180,7 +184,7 @@ testimonial:
 community:
   enable: false
 blog:
-  enable: false
+  enable: true
 patchworld:
   enable: false
   heading: PATCHMAKER
