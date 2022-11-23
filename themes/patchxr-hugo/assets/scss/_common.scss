@@ -13,7 +13,7 @@ body {
 }
 
 .active{
-    color: $nicepurple;
+    color: $cyan;
 
 }
 
@@ -138,13 +138,13 @@ a{
 }
 }
 
-.post-body p a {color: $nicepurple!important}
+.post-body p a {color: $cyan!important}
 
-h2 a:hover {color: $nicepurple!important;text-decoration: none;}
+h2 a:hover {color: $cyan!important;text-decoration: none;}
 
 a:focus,
 a:hover {
-  color: $nicepurple;
+  color: $cyan;
   text-decoration: underline;
 }
 
@@ -189,7 +189,7 @@ a:hover {
 }
 
 .section-big-title {
-  padding: 6em 20px 2em;
+  padding: 4.5em 20px 0em;
   
 
 }

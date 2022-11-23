@@ -38,7 +38,7 @@
 			&:hover {background-color: $black;}
 			&.active{
 				.nav-link{
-					color: $nicepurple;
+					color: $cyan;
 					&:before{
 						@include tablet {
 							content: none;

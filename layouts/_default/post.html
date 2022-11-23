@@ -1,11 +1,11 @@
-<div class="col-lg-4 col-md-6 mb-5">
+<div class="col-lg-6 col-md-6 mb-5">
   {{ "<!-- Post -->" | safeHTML }}
   <article class="post-sm">
     <div class="post-thumbs">
       <a href="{{ .Permalink }}"><img class="post-thumbs img-fluid" src="{{ .Params.Image | absURL }}" alt="{{ .Title }}" style="object-fit: cover; object-position: center;"></a>
     </div>
     <div class="post-title">
-      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      <p class="feature-text pt-3"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
     </div>
     <div class="post-meta">
       <ul class="list-inline ">

@@ -88,6 +88,8 @@ margin-bottom: 0px;
 
 .whiteonblack h1 h2 p li {color: $white!important;}
 
+.cyan * {color: $cyan}
+
 .mega { 
 	font-size: 52px;
 }
@@ -140,4 +142,34 @@ cite{
 	color: $light;
 	line-height: 25px;
 	font-size: 16px;
+}
+
+.page-link {
+	position: relative;
+	display: block;
+	padding: .5rem .75rem;
+	margin-left: -1px;
+	line-height: 1.25;
+	color: #007bff;
+	background-color: #000!important;
+	border-radius: 50px;
+	border: 0px solid #dee2e6; 
+	border-radius: 400px!important;
+  -moz-border-radius: 400px;
+  -webkit-border-radius: 400px;
+}
+
+.page-item:first-child .page-link  {
+	margin-left: 0;
+	border-top-left-radius: .25rem;
+	border-bottom-left-radius: .25rem;
+	background-color: $dark!important;
+}
+
+.page-linkactive  {
+	margin-left: 0;
+	border-top-left-radius: .25rem;
+	border-bottom-left-radius: .25rem;
+	background-color: $dark!important;
+
 }
