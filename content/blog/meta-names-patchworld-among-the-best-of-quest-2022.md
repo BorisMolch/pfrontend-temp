@@ -1,16 +1,18 @@
 +++
-author = ""
+author = "PatchXR"
 ctalink = ""
 ctatext = ""
-date = ""
+date = 2022-12-07T10:00:00Z
 description = "PatchWorld has been named one of the Best Creative Tools in Meta's round-up of the Best of Quest 2022. And there's still time to grab a steep discount if it's still not in your library."
 draft = true
-image = ""
-slug = ""
+image = "/uploads/bestofthebest.jpg"
+slug = "best-of-2022"
 title = "Meta names PatchWorld among the best of Quest 2022 "
-type = ""
+type = "post"
 
 +++
+![](/uploads/bestofthebest.jpg)
+
 PatchWorld gets a top spot in Meta's round-up of Best Creative Tools - "the best tools to embrace your inner artist." 
 
 The timing is perfect, too. We've got a deep discount on right now, and you're just in time for the Mixed Reality Update, with tons of new ways to make music and interact with the world around you - on Quest 2 or Quest Pro. (That's on top of a major recent update packing in more features and tools, too!)
