@@ -1,18 +1,16 @@
 +++
-author = ""
+author = "PatchXR"
 ctalink = ""
 ctatext = ""
 date = 2022-12-08T07:00:00Z
-description = ""
+description = "Mixed reality isn’t just a promise for the future - the latest PatchWorld has been expanded so you can play and jam with it right now. We’ve added tons of new features and instruments, with plenty that work on the Meta Quest 2 you may already own -- and still more taking advantage of the Meta Quest Pro."
 draft = true
 image = ""
 slug = "mixed-reality-is-here"
 title = "Mixed reality transforms how you jam and play: PatchWorld update"
-type = ""
+type = "post"
 
 +++
-Mixed reality isn’t just a promise for the future - the latest PatchWorld has been expanded so you can play and jam with it right now. We’ve added tons of new features and instruments, with plenty that work on the Meta Quest 2 you may already own -- and still more taking advantage of the Meta Quest Pro.
-
 Look at the room around you. You’ve already seen PatchWorld as an immersive, fanciful escape. Now imagine you can jam together in this space - and that every wall, every object can be transformed into wild interactive instruments. This isn’t just sci-fi or a speculative demo: we’ve done it with PatchWorld in Mixed Reality, and it’s available right now.
 
 Mixed reality is now your jam. Your musical worlds enter the spaces around you, opening up new possibilities for sharing and playing. And you can use those spaces to shape your music.
