@@ -1,5 +1,5 @@
 +++
-author = ""
+author = "PatchXR"
 ctalink = ""
 ctatext = ""
 date = 2022-12-07T08:00:00Z
@@ -7,7 +7,7 @@ description = "Don't just hear about PatchWorld - try it yourself. With L.E.V. a
 image = "/uploads/patch-madrid-flyer.jpeg"
 slug = "patchworld-madrid-lev"
 title = "Get hands-on with PatchWorld at this special workshop in Madrid"
-type = ""
+type = "post"
 
 +++
 ![](/uploads/patch-madrid-flyer.jpeg)
