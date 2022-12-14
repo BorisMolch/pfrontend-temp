@@ -30,7 +30,7 @@ banner:
 hero:
   text: BUILD THE MUSICVERSE
   link: https://www.oculus.com/experiences/quest/3715150718552632/?utm_source=homepage
-  linktext: Download
+  linktext: 'Get the app '
 intro:
   enable: true
   title: Play and create music worlds
