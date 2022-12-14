@@ -52,7 +52,6 @@ Mixed Reality of course sparked our imagination, and made us dream up new device
 * A magic window experience
 
 {{< youtube OFX4HEN6THk >}}
-
 {{< youtube 2rl6s5qR8M8 >}}
 
 **Optimized for Pro, but you don’t have to wait**.
