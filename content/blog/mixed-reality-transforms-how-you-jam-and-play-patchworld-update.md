@@ -22,9 +22,17 @@ Here’s the scoop on what’s new in PatchWorld now:
 
 Play with virtual and real at the same time. Any existing patch now can work with a passthrough camera view, so you can see real instruments, the space around you, and other players as you play. Real guitar with virtual enhancements? A virtual player with an acoustic player in one jam? It’s all possible. Mixing real and virtual in hybrid spaces gives you new ways of playing, new ways of jamming, and new ways of recording videos to share or stream, too.
 
+/uploads/magicwindow1.jpg
+/uploads/jam-with-friend.jpg
+
 {{< youtube nG5ntIV9uoA >}}
 
-**AR/VR Windows.** The AR /VR window blocks let you snap virtual portals onto real-world walls. Create a portal out of virtual space into the world around you - or open up a window from the real camera view into a virtual world. It’s like a real-life portal gun, and lets you define your mix of virtual and real however you want!
+**Magic Windows.** 
+
+The AR /VR window blocks let you snap virtual portals onto real-world walls. Create a portal out of virtual space into the world around you - or open up a window from the real camera view into a virtual world. It’s like a real-life portal gun, and lets you define your mix of virtual and real however you want!
+
+/uploads/magicwindow2.jpg
+/uploads/window-2.jpg
 
 {{< youtube -VqHEJODYmE >}}
 
