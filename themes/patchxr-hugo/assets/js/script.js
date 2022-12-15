@@ -15,6 +15,8 @@
         loop: true,
         margin: 20,
         dots: true,
+        animateIn: 'fadeIn', // add this
+        animateOut: 'fadeOut', // and this
         autoplay: true,
         autoplayTimeout: 15000,
         responsive: {

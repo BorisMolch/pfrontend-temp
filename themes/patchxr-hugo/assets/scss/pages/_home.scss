@@ -147,7 +147,7 @@
 	}
 	.testimonial{
 		@include tablet {
-			text-align: center;
+
 		}
 		p{
 			font-family: $secondary-font;
@@ -245,50 +245,6 @@
 		}
 	}
 }
-
-.testimonial{
-	.testimonial-slider{
-		.item{
-			padding-bottom: 10px;
-			.block{
-				padding: 10px;
-				text-align: center;
-				margin: 10px;
-		        border-radius: 5px;
-				.image{
-					margin-top: 30px;
-					margin-bottom: 5px;
-					width: 100%;
-					display: flex;
-			        justify-content: center;
-					@include tablet {
-				        flex-grow: 1;
-					}
-					img{
-						height: 200px;
-						width: 200px;
-				        border-radius: 100%;
-					}
-				}
-				p{
-					font-family: $secondary-font;
-					font-style: italic;
-					color: $light;
-					font-size: 22px;
-					
-					
-				}
-				cite{
-					font-style: normal;
-					font-size: 34px;
-					color: $light;
-				}
-			}
-		}
-
-	}
-}
-
 
 
 /* homepage 3 */
