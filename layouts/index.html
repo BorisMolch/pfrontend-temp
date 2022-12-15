@@ -60,7 +60,9 @@
 							<ion-icon name="star"></ion-icon><!-- <ion-icon name="star-half-outline"></ion-icon> -->
 							<span class="text-white">58 Ratings</span>
 						</div>
-						<div class="mt-5 cyan"><p>{{ .name }}</p></div>
+						<div class="mt-5 cyan">
+							<p>{{ .summary }}<br>by {{ .name }}</p></div>
+<!-- 							<p>{{ .date }}</p> -->
 					</div>
 					<div class="col-lg" data-aos="fade-in">
 						<p class="feature-text pt-0">{{ .content | safeHTML }}</p>

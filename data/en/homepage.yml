@@ -32,7 +32,7 @@ hero:
   link: https://www.oculus.com/experiences/quest/3715150718552632/?utm_source=homepage
   linktext: 'Get the app '
 intro:
-  enable: true
+  enable: false
   title: Play and create music worlds
   subtitle: Unleash your creativity in the marvelous musicverse of PatchWorld! <br><br>
     Explore an ever-expanding library of tools, toys, and wild instruments you can
@@ -138,49 +138,60 @@ promo_video:
   bg_image: "/uploads/mali-perfo.jpg"
   video_embed_url: https://youtube.com/embed/x1LRs161hfk
 testimonial:
-  enable: false
+  enable: true
   testimonial_item:
-  - name: Riccardo Ferri , Music producer
-    image: "/uploads/tigermasterportrait.jpg"
-    content: WOOOAA I've tried simulating the Glorious TB-303 waveforms shaping the
-      Patch oscillator, well... I HAVE A FUCKING 303 ON MY QUEST !!! Results are spectacular
-      !!! PatchXR engine is rock solid and very powerful, that kind of shaping is
-      not easy to handle, I can't sleep I'm too excited damn it !!!
-  - name: Ewen Chardronnet, Makery.info
-    image: "/uploads/1517371976584.jpeg"
-    content: 'We tested PatchXR in 2020 and were totally seduced. It’s a real game
-      changer that opens the world of music to extended reality. The intuitive VR
-      tool integrates all the complexity of modular synthesis while engaging the body
-      in a gestural experience that channels acoustic instruments: the field of possibilities
-      is wide open!'
-  - name: Peter Kirn, CDM
-    image: "/uploads/pkirn_sq_veralinnik.jpg"
-    content: PatchXR takes VR beyond passive consumption. This isn't a game with tons
-      of guardrails and pre-defined paths. It's a toolbox, an open playground where
-      you make your own rules. That blows the potential for musical imagination wide
-      open.
-  - name: PortraitXO, Sound Obsessed
-    image: "/uploads/portrait-xo-ai-square-1000x1000-1.jpg"
-    content: The future of technology will keep moving things forward into augmented,
-      virtual, and mixed realities.  Music making in PatchXR with 3D audiovisual capabilities
-      opens up new possibilities of creating immersive experiences for both virtual
-      and real life. This will help produce 3D sonic environments and open new ways
-      of creating physical installations with 3D audiovisuals.
-  - name: Malitzin Cortés, CNDSD
-    image: "/uploads/img_2678.jpg"
-    content: Patch has been one of the most incredible discoveries that I have made
-      as an architect and musician. The tool simply fulfills the dream of creating
-      impossible worlds in which it is possible to compose music. This environment
-      is contributing to the emergence of new forms of art and questions regarding
-      the body, performance and the hybrid haptic experience.
-  - name: Georg Bleikolm, RAVE U R
-    image: "/uploads/georgface.jpg"
-    content: 'PATCH XR is probably the most exciting instrument and music interface
-      I was given to try in 2020. We came up with the fun idea to entangle digital
-      and physical worlds in an instrument. Integrating compositions from Ableton
-      live and interaction with Arduino devices over MAX/MSP worked seamlessly. I
-      will definitely use PATCH XR to develop new ways to control and interpret my
-      compositions in the future. '
+  - name: Toddfadel
+    date: 11/30/2022
+    summary: Dream come true for my classroom!
+    content: Not only does this app have a great tutorial setup, but the tools are easy to learn and fun to record and share! I'm starting a new unit covering collaboration and this is definitely the app I'll use to show how to support each others ideas!
+  - name: Diggydax92
+    date: 11/26/2022
+    summary: Great job Devs
+    content: You guys have created something absolutely unique and fun. I played the free trial and immediately bought it after. Everything feels so organic and alien, it's like making music in a tripped out dream lol.
+  - name: Aaazzi
+    date: 11/26/2022
+    summary: How XR music creation should be 🎤💧
+    content: Return to first principles, without limits.. & FUN!! Brilliant work !!!
+  - name: Jonathan.bell.5817
+    date: 11/24/2022
+    summary: This app is amazing
+    content: Coming from music programming (max, pure data) and composition, this app really allows me to take way further compositional ideas involving nime interaction, music information retrieval… Most importantly the community's extremely friendly and reactive.
+  - name: Mystickid
+    date: 11/24/2022
+    summary: You won't know…
+    content: ~until you try it~ just how much fun making music in VR can be! Patch interacts from the very beginning; avatars show you around, demonstrate and teach you what you can do. There's no learning curve though, within minutes I found myself playing built-in sounds, and making new ones with just the mic in my headset. Recording a performance seems just as easy, and you can perform all the parts yourself on different instruments. That's just for starters, you can “world build” your own stage, too. Highly recommended!
+  - name: Bohdan.svyrydov
+    date: 11/24/2022
+    summary: I had no idea how powerful this thing is
+    content: I purchased this app a few days ago, but I tried the free 30-minute version before that. During this half an hour, I watched only the first tutorial, and I liked it; quirky musical instruments, friendly atmosphere. But I was shocked when I bought the app and watched everything there. It was just the tip of the iceberg. This app is a powerful constructor that will allow you even to create your own instruments once you figure out how to do it. So far, I haven't had time to master everything there. There are a lot of possibilities. So grab it without hesitation. It's an incredible playground.
+  - name: Kagi003
+    date: 11/24/2022
+    summary: Best rockin' music tool ever!
+    content: I am a drummer and with PatchXR I can drum anywhere! I wanna groove with you guys the best I can! Thanks!
+  - name: swappyMaine
+    date: 11/23/2022
+    summary: Love this ! The new ableton integration
+    content: The new ableton max4live device is a game changer . I can't believe I can send and receive commands from any OSC supporting platform. Super fun worlds to explore and it's possible to patch your own.
+  - name: Doug_ware
+    date: 11/22/2022
+    summary: This App is Exceptional
+    content: Buy it and then tell all your friends!
+  - name: Blastjammer
+    date: 11/26/2022
+    summary: Wonderful instrument!
+    content: I'm having too much fun recording my performances! Making some pretty insane instruments in this dreamy world. The 'drop' feature is amazing. I usually do VR seated, but this one has me dancing like crazy. Robust, performance ready beat machine. I highly recommend this musical fun-house!
+  - name: 3dmusic
+    date: 11/14/2022
+    summary: Great for casual or advanced musicmakers
+    content: Patchworld is an easy and fun way to create music for beginners, but allows experienced music creators to dig into the structure without limitations. It's like a Lego set for music in which you can create your own Legos. Amazingly creative visuals make it completely immersive. I've tried them all, this is the best!
+  - name: PipyVR
+    date: 11/13/2022
+    summary: One of the best games on Quest
+    content: I was looking for a new way to experience music in vr, and this I better than every other music game on the platform. The intuitive tools make an easy to learn yet also proffessional way of creating sounds. And the tutorial system is one of the smartest ideas I've ever seen, it's like there's a person in the world with you, guiding you through it. The in game people are the same as you, holding controllers, moving the same way you do, its incredible. I haven't played a vr game in a while that made me giddy with excitement, but I find a huge smile across my face as I bop and dance to an new beat I made. Best game on Quest!!!
+  - name: Ramz2020
+    date: 11/07/2022
+    summary: The future of digital audio workstations
+    content: If you make music, or just wish you could, this app is a must own with endless possibilities for the expert and newbie alike. At its core it's a playful digital audio workstation for making your own music in VR, but it adds to that both visual and spacial immersion that you can't experience anywhere else. The possibilities are endless and it's easy to get lost for hours in your own creativity and fun. The devs keep adding more and I can't wait to see where this goes!
 community:
   enable: false
 blog:
