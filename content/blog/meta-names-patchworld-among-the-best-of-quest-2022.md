@@ -10,7 +10,7 @@ title = "Meta names PatchWorld among the best of Quest 2022 "
 type = "post"
 
 +++
-/uploads/best-creative-tools-on-quest.jpg
+![](/uploads/best-creative-tools-on-quest.jpg)
 
 PatchWorld gets a top spot in Meta's round-up of Best Creative Tools - "the best tools to embrace your inner artist." 
 
