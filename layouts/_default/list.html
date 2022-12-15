@@ -50,7 +50,7 @@
   <div class="container">
     <div class="row">
       {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
-      {{ range first 6 (after 1 $paginator.Pages ) }}
+      {{ range  (after 1 $paginator.Pages ) }}
       {{ .Render "post" }}
       {{ end }}
       <div class="col-12">

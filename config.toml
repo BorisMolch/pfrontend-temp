@@ -1,7 +1,7 @@
 baseURL = "https://patchxr.com"
 languageCode = "en-us"
 disableLanguages = []
-paginate = "12"
+paginate = "7"
 summaryLength = "10"
 theme = "patchxr-hugo"
 title = "PatchXR - Sound of the Metaverse"
