@@ -78,6 +78,11 @@ URL = "https://discord.gg/gwMVhKWxbr"
 name = "Discord"
 parent = "Community ↓"
 weight = 3
+[[menu.main]]
+URL = "https://forum.patchxr.com/"
+name = "Forum"
+parent = "Community ↓"
+weight = 4
 [params]
 ISO8601 = "2006-01-02T15:04:05JST"
 address = "Physical Address?"
