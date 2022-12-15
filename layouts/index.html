@@ -39,8 +39,8 @@
 		border-radius: 3em; 
 		padding-left: 1em; 
 		padding-right: 1em;
-		padding-top: 1em;
-		padding-bottom: 1em;
+		padding-top: 0.75em;
+		padding-bottom: 0.75em;
 		font-size: 1.2em;
 		}
 </style>
@@ -51,14 +51,14 @@
 				{{ range .testimonial_item }}
 				<div class="item"> 
 					<div class="row">
-					<div class="col-lg" data-aos="fade-in">
+					<div class="col-lg mt-4" data-aos="fade-in">
 						<div class="ratings">
 							<ion-icon name="star"></ion-icon>
 							<ion-icon name="star"></ion-icon>
 							<ion-icon name="star"></ion-icon>
 							<ion-icon name="star"></ion-icon>
 							<ion-icon name="star"></ion-icon><!-- <ion-icon name="star-half-outline"></ion-icon> -->
-							<span class="text-white">4.8 Rating</span>
+							<span class="text-white">58 Ratings</span>
 						</div>
 						<div class="mt-5 cyan"><p>{{ .name }}</p></div>
 					</div>
