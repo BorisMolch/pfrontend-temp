@@ -38,7 +38,7 @@
               {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
 						  <div class="item">
 						  	<div class="item-link">
-							    <i class="tf-ion-ios-arrow-right"></i><a data-toggle="collapse" data-parent="#accordions{{$.Scratch.Get `count`}}" href="#accordion{{$.Scratch.Get `count`}}{{$.Scratch.Get `counter`}}">{{ .question | markdownify }}</a>
+							    <i class="tf-ion-ios-arrow-right text-white"></i><a data-toggle="collapse" data-parent="#accordions{{$.Scratch.Get `count`}}" href="#accordion{{$.Scratch.Get `count`}}{{$.Scratch.Get `counter`}}">{{ .question | markdownify }}</a>
 						  	</div>
 						    <div id="accordion{{$.Scratch.Get `count`}}{{$.Scratch.Get `counter`}}" class="collapse accordion-block">
 						      <p>{{ .answer | markdownify }}</p>
