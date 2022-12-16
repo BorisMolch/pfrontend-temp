@@ -6,12 +6,11 @@
     <div class="row">
       <div class="col-md-12 m-auto">
     
-        <h2>News</h2>
-      
-        <h1 class="newstitle mt-5 mb-3">{{ .Title }}</h1>
-        <p class="text-pink  border-top" style="font-size:0.8em; padding-top: 5px;">By PatchXR | {{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} of {{ .Date.Format "January 2006" }}
+ <h1 class="newstitle mt-4 mb-1">{{ .Title }}</h1>
+        <p class="text-pink" style="font-size:0.8em; padding-top: 5px;">
+          By PatchXR<br>{{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} of {{ .Date.Format "January 2006" }}
         </p>
-        <h2 class="text-white " style="padding-top: 0em!important">{{ .Params.Description }}</h2>
+        <h2 class="cyan" style="color: rgb(46,254,254);padding-top: 1em!important">{{ .Params.Description }}</h2>
 
 
            <!-- Social Share buttons -->
@@ -55,7 +54,7 @@
 <section class="section blog-single pt-0">
   <div class="container">
     <div class="row">
-      <div class="col-md-10 m-auto">
+      <div class="col-md-12 m-auto">
         <article class="single-post">
           <div class="post-body">
 <!--             <div class="feature-image">
@@ -72,14 +71,14 @@
           </div>
         </article>
     
-        {{ $data := index .Site.Data .Site.Language.Lang }}
+<!--         {{ $data := index .Site.Data .Site.Language.Lang }}
         {{ with $data.blog.about }}
         <div class="about-author">
           <h2>{{ .title }}</h2>
           <p class="text-light">{{ .description }}</p>
           <p class="text-light"><a href="https://patchxr.com/">{{ .linktext }} <i class="tf-ion-android-arrow-forward"></i></a></p>
         </div>
-        {{ end }}
+        {{ end }} -->
 
          
         
@@ -90,7 +89,7 @@
 {{ "<!-- End of Single Article -->" | safeHTML }}
 
 {{ "<!-- Related Article -->" | safeHTML }}
-<section class="section related-articles bg-gray">
+<section class="section  pt-0 related-articles bg-gray">
   <div class="container">
     <div class="row">
       <div class="col-12 title">

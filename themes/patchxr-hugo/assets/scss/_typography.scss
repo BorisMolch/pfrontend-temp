@@ -54,7 +54,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .newstitle  {
-	font-size: 3em!important;
+	font-size: 81.25px!important;
 	letter-spacing: -1px;
 	font-family: $primary-font!important;
 	line-height: 1em;
@@ -88,18 +88,18 @@ margin-bottom: 0px;
 
 .whiteonblack h1 h2 p li {color: $white!important;}
 
-.cyan * {color: $cyan}
+.cyan * {color: $cyan!important}
 
 .mega { 
 	font-size: 52px;
 }
 
 h2{
-	font-size: 28px;
-	line-height: 30px;
+	font-size: 1.25em;
+	font-weight: 400!important;
 	padding-top: 20px!important;
 	@include mobile {
-		font-size: 18px!important;
+		font-size: 1.25em!important;
 		}
 }
 
@@ -178,7 +178,6 @@ cite{
 	font-size: 3em!important;
 	color:rgb(46, 254, 254); 
 	margin-top: -30px!important;
-
 
 	@include tablet {
 		font-size: 2.5em!important;

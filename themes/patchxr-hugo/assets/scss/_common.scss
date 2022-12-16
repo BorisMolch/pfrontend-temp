@@ -1,3 +1,10 @@
+/**
+ * Bootstrap breakpoints
+value         |0px     576px    768px    992px   1200px   1440px  1920px     2560px
+key           |xs      sm       md       lg       xl       xxl      hd         qhd
+screen width  |--------|--------|--------|--------|---------|--------|----------|------------->
+range         |   xs   |   sm   |   md   |   lg   |   xl    |   xxl  |     hd   |     qhd
+*/
 
 body {
   overflow-x: hidden;
@@ -138,7 +145,7 @@ a{
 }
 }
 
-.post-body p a {color: $cyan!important}
+
 
 h2 a:hover {color: $cyan!important;text-decoration: none;}
 

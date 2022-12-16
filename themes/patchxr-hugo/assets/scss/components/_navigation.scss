@@ -35,7 +35,7 @@
 				padding: .3rem 2.5rem;
 
 			}
-			&:hover {background-color: $black;}
+			a:hover {background-color: $black; color: $gray!important;}
 			&.active{
 				.nav-link{
 					color: $cyan;

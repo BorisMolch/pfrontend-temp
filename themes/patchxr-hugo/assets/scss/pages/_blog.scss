@@ -14,7 +14,7 @@
 	margin-bottom: 15px;
 }
 .caption { color: white; font-size: smaller; text-align: left; margin-top:-20px}
-.postdate {font-size: 12px;}
+.postdate {font-size: 0.8em;}
 
 .featured-article {
 	padding: 0 0 50px 0;
@@ -127,7 +127,6 @@
 		.post-body {
 			.feature-image {
 				margin-bottom: 30px;
-
 				img {
 					width: 100%;
 				}
@@ -136,8 +135,7 @@
 			p {
 				margin-bottom: 20px;
 				margin-top: 20px;
-				margin-left: 5%;
-				margin-right: 5%;
+
 			}
 
 			.post-image {
@@ -146,12 +144,31 @@
 				margin-bottom: 20px;
 			}
 
+			p a {
+				color: $white!important; 
+				text-decoration: underline!important;
+			}
+
+			p a:hover {
+				color: $gray!important;
+				text-decoration: none!important;
+			}  
+
+			p strong { color: $cyan!important;}
+			 
+			li { font-size: 1.25em!important;}
+			 
 			iframe {
-				padding-bottom: 40px!important;
-				padding-top: 40px!important;
-				width: 95%!important;
-				margin-left: 2.5%; margin-right: 2.5%;}
+padding-bottom: 1em!important;
+				padding-top: 1em!important; 
+/* 				width: 95%!important;
+				margin-left: 2.5%; margin-right: 2.5%; */
+			}
 		}
+	}
+
+	.share-btn { 
+		a:hover {text-decoration: none!important;}
 	}
 
 	.community-single {
