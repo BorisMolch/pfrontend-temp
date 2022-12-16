@@ -23,7 +23,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-10 m-auto">
-				<div class="block shadow">
+				<div class="block">
           {{ $.Scratch.Set "count" 0 }}
           {{ range $data.faq.faq_list }}
           {{ $.Scratch.Set "count" (add ($.Scratch.Get "count") 1) }}
