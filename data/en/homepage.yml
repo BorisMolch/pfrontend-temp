@@ -4,15 +4,20 @@ scroller:
   speed: "180"
   autohide: true
   link: https://vrdays.co/
-  text: 'JOIN US @VRDAYS EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp; JOIN US @VRDAYS
-    EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp; JOIN US @VRDAYS EUROPE 28-2 DEC
-    2022 ROTTERDAM &nbsp;//&nbsp; JOIN US @VRDAYS EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp;
-    JOIN US @VRDAYS EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp; JOIN US @VRDAYS
-    EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp; JOIN US @VRDAYS EUROPE 28-2 DEC
-    2022 ROTTERDAM &nbsp;//&nbsp; JOIN US @VRDAYS EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp;
-    JOIN US @VRDAYS EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp; JOIN US @VRDAYS
-    EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp; JOIN US @VRDAYS EUROPE 28-2 DEC
-    2022 ROTTERDAM &nbsp;//&nbsp; JOIN US @VRDAYS EUROPE 28-2 DEC 2022 ROTTERDAM &nbsp;//&nbsp; '
+  text: "WINTER SALE IS UP \U0001F640 TIME TO MAKE MUSIC IN VR \U0001F3A7 GET PATCHWORLD
+    NOW &nbsp;//&nbsp; WINTER SALE IS UP \U0001F640 TIME TO MAKE MUSIC IN VR \U0001F3A7
+    GET PATCHWORLD NOW &nbsp;//&nbsp; WINTER SALE IS UP \U0001F640 TIME TO MAKE MUSIC
+    IN VR \U0001F3A7 GET PATCHWORLD NOW &nbsp;//&nbsp; WINTER SALE IS UP \U0001F640
+    TIME TO MAKE MUSIC IN VR \U0001F3A7 GET PATCHWORLD NOW &nbsp;//&nbsp; WINTER SALE
+    IS UP \U0001F640 TIME TO MAKE MUSIC IN VR \U0001F3A7 GET PATCHWORLD NOW &nbsp;//&nbsp;
+    WINTER SALE IS UP \U0001F640 TIME TO MAKE MUSIC IN VR \U0001F3A7 GET PATCHWORLD
+    NOW &nbsp;//&nbsp; WINTER SALE IS UP \U0001F640 TIME TO MAKE MUSIC IN VR \U0001F3A7
+    GET PATCHWORLD NOW &nbsp;//&nbsp; WINTER SALE IS UP \U0001F640 TIME TO MAKE MUSIC
+    IN VR \U0001F3A7 GET PATCHWORLD NOW &nbsp;//&nbsp; WINTER SALE IS UP \U0001F640
+    TIME TO MAKE MUSIC IN VR \U0001F3A7 GET PATCHWORLD NOW &nbsp;//&nbsp; WINTER SALE
+    IS UP \U0001F640 TIME TO MAKE MUSIC IN VR \U0001F3A7 GET PATCHWORLD NOW &nbsp;//&nbsp;
+    WINTER SALE IS UP \U0001F640 TIME TO MAKE MUSIC IN VR \U0001F3A7 GET PATCHWORLD
+    NOW &nbsp;//&nbsp; \n"
 alert:
   enable: false
   type: light
@@ -143,35 +148,59 @@ testimonial:
   - name: Toddfadel
     date: 11/30/2022
     summary: Dream come true for my classroom!
-    content: Not only does this app have a great tutorial setup, but the tools are easy to learn and fun to record and share! I'm starting a new unit covering collaboration and this is definitely the app I'll use to show how to support each others ideas!
+    content: Not only does this app have a great tutorial setup, but the tools are
+      easy to learn and fun to record and share! I'm starting a new unit covering
+      collaboration and this is definitely the app I'll use to show how to support
+      each others ideas!
   - name: Diggydax92
     date: 11/26/2022
     summary: Great job Devs
-    content: You guys have created something absolutely unique and fun. I played the free trial and immediately bought it after. Everything feels so organic and alien, it's like making music in a tripped out dream lol.
+    content: You guys have created something absolutely unique and fun. I played the
+      free trial and immediately bought it after. Everything feels so organic and
+      alien, it's like making music in a tripped out dream lol.
   - name: Aaazzi
     date: 11/26/2022
-    summary: How XR music creation should be 🎤💧
+    summary: "How XR music creation should be \U0001F3A4\U0001F4A7"
     content: Return to first principles, without limits.. & FUN!! Brilliant work !!!
   - name: Jonathan.bell.5817
     date: 11/24/2022
     summary: This app is amazing
-    content: Coming from music programming (max, pure data) and composition, this app really allows me to take way further compositional ideas involving nime interaction, music information retrieval… Most importantly the community's extremely friendly and reactive.
+    content: Coming from music programming (max, pure data) and composition, this
+      app really allows me to take way further compositional ideas involving nime
+      interaction, music information retrieval… Most importantly the community's extremely
+      friendly and reactive.
   - name: Mystickid
     date: 11/24/2022
     summary: You won't know…
-    content: ~until you try it~ just how much fun making music in VR can be! Patch interacts from the very beginning; avatars show you around, demonstrate and teach you what you can do. There's no learning curve though, within minutes I found myself playing built-in sounds, and making new ones with just the mic in my headset. Recording a performance seems just as easy, and you can perform all the parts yourself on different instruments. That's just for starters, you can “world build” your own stage, too. Highly recommended!
+    content: "~until you try it~ just how much fun making music in VR can be! Patch
+      interacts from the very beginning; avatars show you around, demonstrate and
+      teach you what you can do. There's no learning curve though, within minutes
+      I found myself playing built-in sounds, and making new ones with just the mic
+      in my headset. Recording a performance seems just as easy, and you can perform
+      all the parts yourself on different instruments. That's just for starters, you
+      can “world build” your own stage, too. Highly recommended!"
   - name: Bohdan.svyrydov
     date: 11/24/2022
     summary: I had no idea how powerful this thing is
-    content: I purchased this app a few days ago, but I tried the free 30-minute version before that. During this half an hour, I watched only the first tutorial, and I liked it; quirky musical instruments, friendly atmosphere. But I was shocked when I bought the app and watched everything there. It was just the tip of the iceberg. This app is a powerful constructor that will allow you even to create your own instruments once you figure out how to do it. So far, I haven't had time to master everything there. There are a lot of possibilities. So grab it without hesitation. It's an incredible playground.
+    content: I purchased this app a few days ago, but I tried the free 30-minute version
+      before that. During this half an hour, I watched only the first tutorial, and
+      I liked it; quirky musical instruments, friendly atmosphere. But I was shocked
+      when I bought the app and watched everything there. It was just the tip of the
+      iceberg. This app is a powerful constructor that will allow you even to create
+      your own instruments once you figure out how to do it. So far, I haven't had
+      time to master everything there. There are a lot of possibilities. So grab it
+      without hesitation. It's an incredible playground.
   - name: Kagi003
     date: 11/24/2022
     summary: Best rockin' music tool ever!
-    content: I am a drummer and with PatchXR I can drum anywhere! I wanna groove with you guys the best I can! Thanks!
+    content: I am a drummer and with PatchXR I can drum anywhere! I wanna groove with
+      you guys the best I can! Thanks!
   - name: swappyMaine
     date: 11/23/2022
     summary: Love this ! The new ableton integration
-    content: The new ableton max4live device is a game changer . I can't believe I can send and receive commands from any OSC supporting platform. Super fun worlds to explore and it's possible to patch your own.
+    content: The new ableton max4live device is a game changer . I can't believe I
+      can send and receive commands from any OSC supporting platform. Super fun worlds
+      to explore and it's possible to patch your own.
   - name: Doug_ware
     date: 11/22/2022
     summary: This App is Exceptional
@@ -179,19 +208,38 @@ testimonial:
   - name: Blastjammer
     date: 11/26/2022
     summary: Wonderful instrument!
-    content: I'm having too much fun recording my performances! Making some pretty insane instruments in this dreamy world. The 'drop' feature is amazing. I usually do VR seated, but this one has me dancing like crazy. Robust, performance ready beat machine. I highly recommend this musical fun-house!
+    content: I'm having too much fun recording my performances! Making some pretty
+      insane instruments in this dreamy world. The 'drop' feature is amazing. I usually
+      do VR seated, but this one has me dancing like crazy. Robust, performance ready
+      beat machine. I highly recommend this musical fun-house!
   - name: 3dmusic
     date: 11/14/2022
     summary: Great for casual or advanced musicmakers
-    content: Patchworld is an easy and fun way to create music for beginners, but allows experienced music creators to dig into the structure without limitations. It's like a Lego set for music in which you can create your own Legos. Amazingly creative visuals make it completely immersive. I've tried them all, this is the best!
+    content: Patchworld is an easy and fun way to create music for beginners, but
+      allows experienced music creators to dig into the structure without limitations.
+      It's like a Lego set for music in which you can create your own Legos. Amazingly
+      creative visuals make it completely immersive. I've tried them all, this is
+      the best!
   - name: PipyVR
     date: 11/13/2022
     summary: One of the best games on Quest
-    content: I was looking for a new way to experience music in vr, and this I better than every other music game on the platform. The intuitive tools make an easy to learn yet also proffessional way of creating sounds. And the tutorial system is one of the smartest ideas I've ever seen, it's like there's a person in the world with you, guiding you through it. The in game people are the same as you, holding controllers, moving the same way you do, its incredible. I haven't played a vr game in a while that made me giddy with excitement, but I find a huge smile across my face as I bop and dance to an new beat I made. Best game on Quest!!!
+    content: I was looking for a new way to experience music in vr, and this I better
+      than every other music game on the platform. The intuitive tools make an easy
+      to learn yet also proffessional way of creating sounds. And the tutorial system
+      is one of the smartest ideas I've ever seen, it's like there's a person in the
+      world with you, guiding you through it. The in game people are the same as you,
+      holding controllers, moving the same way you do, its incredible. I haven't played
+      a vr game in a while that made me giddy with excitement, but I find a huge smile
+      across my face as I bop and dance to an new beat I made. Best game on Quest!!!
   - name: Ramz2020
     date: 11/07/2022
     summary: The future of digital audio workstations
-    content: If you make music, or just wish you could, this app is a must own with endless possibilities for the expert and newbie alike. At its core it's a playful digital audio workstation for making your own music in VR, but it adds to that both visual and spacial immersion that you can't experience anywhere else. The possibilities are endless and it's easy to get lost for hours in your own creativity and fun. The devs keep adding more and I can't wait to see where this goes!
+    content: If you make music, or just wish you could, this app is a must own with
+      endless possibilities for the expert and newbie alike. At its core it's a playful
+      digital audio workstation for making your own music in VR, but it adds to that
+      both visual and spacial immersion that you can't experience anywhere else. The
+      possibilities are endless and it's easy to get lost for hours in your own creativity
+      and fun. The devs keep adding more and I can't wait to see where this goes!
 community:
   enable: false
 blog:
