@@ -14,7 +14,7 @@ type = "post"
 
 PatchWorld gets a top spot in Meta's round-up of Best Creative Tools - "the best tools to embrace your inner artist." 
 
-The timing is perfect, too. We've got a deep discount on right now, and you're just in time for the Mixed Reality Update, with tons of new ways to make music and interact with the world around you - on Quest 2 or Quest Pro. (That's on top of a major recent update packing in more features and tools, too!)
+The timing is perfect, too. We've got a deep discount on right now, and you're just in time for the Mixed Reality Update, with tons of new ways to make music in VR and interact with the world around you - on Quest 2 or Quest Pro. (That's on top of a major recent update packing in more features and tools, too!)
 
 Thanks to Meta for the honor. We think 2023 will be even better. Hope you get some extra time over the holidays to take some time and play and explore.
 
