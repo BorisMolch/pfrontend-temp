@@ -97,7 +97,7 @@
       </div>
     </div>
     <div class="row">
-      {{ range first 3 ( where .Site.Pages "Type" "post" )}}
+      {{ range first 4 ( where .Site.Pages "Type" "post" )}}
       {{ .Render "post"}}
       {{ end }}
     </div>
