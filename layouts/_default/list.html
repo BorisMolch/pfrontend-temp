@@ -1,9 +1,23 @@
 {{ define "main" }}
 
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ with $data.blog.intro }}
+{{ "<!-- Page Title -->" | safeHTML }}
+<section class="section-big-title">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 m-auto">
+      </div>
+    </div>
+  </div>
+</section>
+{{ "<!-- End of Page Title -->" | safeHTML }}
+{{ end }}
+
 
 
 {{ "<!-- Featured Article -->" | safeHTML }}
-<section class="section mt-5">
+<section class="section">
   <div class="container whiteonblack">
       {{ range first 1 (where .Data.Pages "Type" "post") }}
       <div class="row">
@@ -18,7 +32,7 @@
 
           <div class="col-lg-6 ">
             <h1 class="mt-2"><a href="{{ .Permalink }}"><strong>{{ .Title }}</strong></a></h1>
-            <span class="text-white mb-3">{{ .PublishDate.Format "January 02, 2006" }}</li>
+            <span class="text-white mb-3 postdate">{{ .PublishDate.Format "January 02, 2006" }}</li>
           </div>
 
           <div class="col-lg-6  cyan">
