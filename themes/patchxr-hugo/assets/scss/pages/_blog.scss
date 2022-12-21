@@ -135,7 +135,24 @@
 			p {
 				margin-bottom: 20px;
 				margin-top: 20px;
+				font-size: 1.25em;
+				@include tablet {	
+					font-size: 1.1em;
+				}
+				@include mobile {	
+				font-size: 1em;
+			}
+			}
 
+			ul li {
+
+				font-size: 1.25em;
+				@include tablet {	
+					font-size: 1.1em!important;
+				}
+				@include mobile {	
+				font-size: 1em!important;
+			}
 			}
 
 			.post-image {
@@ -156,7 +173,9 @@
 
 			p strong { color: $cyan!important;}
 			 
-			li { font-size: 1.25em!important;}
+			li { font-size: 1.25em!important;
+			
+			}
 			 
 			iframe {
 padding-bottom: 1em!important;

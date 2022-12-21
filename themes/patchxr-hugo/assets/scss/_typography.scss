@@ -69,11 +69,14 @@ h1,h2,h3,h4,h5,h6 {
 p { 
 	font-size:1.25em;
 	line-height: 1.2em;}
-/* Top left text */
-.top-left {
-position: absolute;
-top: 0.875em;
-left: 0.875em;
+	/* Top left text */
+	.top-left {
+	position: absolute;
+	top: 0.875em;
+	left: 0.875em;
+	@include mobile {
+		font-size: 1em!important;
+		}
 
 }
 	
