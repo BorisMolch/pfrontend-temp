@@ -5,7 +5,27 @@ intro:
 faq_list:
 - title: GETTING STARTED
   faq_item:
-  - question: WHAT IS PATCH ?
+  - question: ''
+    answer: ''
+  - question: ''
+    answer: ''
+  - question: ''
+    answer: ''
+  - question: How PatchWorld is bringing the future of music video?
+    answer: 'Music videos have been a popular medium for decades, but with the rise
+      of streaming platforms and the increasing focus on individual songs rather than
+      full albums, they have become less relevant in recent years. However, the emergence
+      of virtual and augmented reality technology has opened up new possibilities
+      for music creators to create immersive and interactive experiences that go beyond
+      the traditional music video format. PatchWorld is a platform that allows users
+      to create and experience these interactive XR music experiences, making it a
+      potential game-changer for the future of music. By using PatchWorld, artists
+      can create compelling Metaverse music videos that engage their audience in a
+      new and innovative way. The potential for XR to revolutionize the music industry
+      is vast, and PatchWorld is leading the charge in this exciting new frontier.
+
+      '
+  - question: WHAT IS PATCHWORLD ?
     answer: Patch is a modular, immersive musical instrument environment made for
       Virtual Reality to code, create and connect your own instruments and sounds,
       and interact with them live with your body, your gestures, and other people.
@@ -28,12 +48,11 @@ faq_list:
     answer: Patch is not released yet, but we are giving some development licences
       to selected creators and universities. If you want to get a try, it's possible,
       just contact us by mail or by filling the form at → https://forms.gle/dsf9R3Upc8GvVjf28
-
   - answer: 'We are currently developing PATCHWORLD, a gamified version of our tool.
       A fantasia like environment to experience with procedural sound in VR. Patchworld
       will be released on the Quest in Q1 2022.
 
-'
+      '
     question: WHEN WILL BE PATCH RELEASED?
 - title: ABOUT THE PATCHATHON
   faq_item:
@@ -57,6 +76,6 @@ faq_list:
 - title: OTHER IMPORTANT QUESTIONS
   faq_item:
   - question: HOW TO FOLLOW US FOR MORE ?
-    answer: You can subscribe to our newsletter, follow us on Twitter, chat on Discord and join the
-      Patchlab slack groups. All links are available in the footer of every page on
-      this site.
+    answer: You can subscribe to our newsletter, follow us on Twitter, chat on Discord
+      and join the Patchlab slack groups. All links are available in the footer of
+      every page on this site.
