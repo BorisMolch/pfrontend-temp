@@ -12,9 +12,21 @@ type = "post"
 +++
 ![](/uploads/best-creative-tools-on-quest.jpg)
 
-PatchWorld gets a top spot in Meta's round-up of Best Creative Tools - "the best tools to embrace your inner artist." 
+PatchWorld gets a top spot in Meta's round-up of Best Creative Tools - "the best tools to embrace your inner artist."
 
-The timing is perfect, too. We've got a deep discount on right now, and you're just in time for the Mixed Reality Update, with tons of new ways to make music in VR and interact with the world around you - on Quest 2 or Quest Pro. (That's on top of a major recent update packing in more features and tools, too!)
+The timing is perfect, too. We've got a deep discount right now, and you're just in time for the Mixed Reality Update, with tons of new ways to make music in VR and interact with the world around you - on Quest 2 or Quest Pro. (That's on top of a major recent update packing in more features and tools, too!)
+
+All of our great user community have been raving, too - thank you for your time and kindness! That has catapulted our user rating to **4.8 stars** as we write this, topping the charts. Here's some of the feedback.
+
+**Users say:**
+
+"How XR music creation should be **🎤💧"**
+
+"There’s no learning curve ... within minutes I found myself playing built-in sounds, and making new ones with just the mic in my headset."
+
+"If you make music, or just wish you could, this app is a must-own with endless possibilities for the expert and newbie alike ... The possibilities are endless and it’s easy to get lost for hours in your own creativity and fun."
+
+Each update has added more fans - like one user declaring our new **Ableton Live integration** to be a "game changer."
 
 Thanks to Meta for the honor. We think 2023 will be even better. Hope you get some extra time over the holidays to take some time and play and explore.
 
