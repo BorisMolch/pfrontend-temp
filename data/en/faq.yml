@@ -64,16 +64,18 @@ faq_list:
       Collaborate with friends, invite them to your world and share your creations\n-
       Submit your creations for featuring on the app's explore page\n- View a cloud
       version history of saved versions and autosave"
-  - question: CAN VR HELP ME GAIN MORE AUDIENCE?
-    answer: Virtual Reality (VR) can be a powerful tool for engaging and reaching
-      a wider audience. By creating immersive, interactive experiences that allow
-      users to fully engage with content, VR can help you grab the attention of your
-      audience and keep them engaged. Additionally, because VR allows users to experience
-      things in a way that is not possible in the real world, it can help you create
-      memorable and shareable content that people will want to talk about and share
-      with others. Ultimately, whether VR can help you gain a bigger audience will
-      depend on the quality and appeal of your content, as well as how effectively
-      you promote and market it to your target audience.
+  - question: WHAT ARE THE FEATURES IN BETA?
+    answer: |-
+      - Access +300 blocks from the library, make groups, and create new devices or mod existing ones.
+      - See recent active users, search for users, and see public profiles.
+      - Play and patch together with other Patchers in the same virtual space in real time.
+  - question: HOW TO ENABLE THE BETA FEATURES?
+    answer: |
+      1. Get PatchWorld on the Metaquest store: https://ocul.us/39Vz1Ux
+      2. Join our discord server: https://discord.gg/gwMVhKWxbr
+      3. Introduce yourself in the right channel
+      4. Fill this form (3 min) : https://tinyurl.com/patchworldbeta
+      5. And  once you are done, ping "melo [PATCHXR]#9641" so I can give you the magic trix.
   - question: WHY LEARNING MUSIC IN VR?
     answer: |
       There are several benefits to learning music in VR:
@@ -87,20 +89,29 @@ faq_list:
       As a music teacher, Patchworld can be a great tool to use in the classroom to engage and educate students in a fun and immersive way. The interactive worlds and tutorials available in Patchworld can be used as a teaching aid to help students learn the basics of music production and composition. The multi-channel avatar recording feature can also be used to record and produce complete tracks with virtual bands, allowing students to work on group projects and collaborate with one another. Additionally, Patchworld's library of devices and tools can be used to help students experiment with different sounds and samples, encouraging creativity and innovation. Overall, Patchworld offers a unique and engaging way for music teachers to teach and inspire their students to explore and create music in a virtual environment.
 
       Read user feedback: patchworld is really helping me go from an absolute dunce newbie to understanding how electronic music works so fast. I’ve been doing some independent study like watching youtube videos and reading articles and it's been amazing to take that and go straight into vr and connect up some devices and immediately connect theory to practice. I’m gushing a bit but im really excited to acquire this new knowledge.
-  - question: ''
-    answer: ''
-  - question: WHAT ARE THE FEATURES IN BETA?
-    answer: |-
-      - Access +300 blocks from the library, make groups, and create new devices or mod existing ones.
-      - See recent active users, search for users, and see public profiles.
-      - Play and patch together with other Patchers in the same virtual space in real time.
-  - question: HOW TO ENABLE THE BETA FEATURES?
-    answer: |
-      1. Get PatchWorld on the Metaquest store: https://ocul.us/39Vz1Ux
-      2. Join our discord server: https://discord.gg/gwMVhKWxbr
-      3. Introduce yourself in the right channel
-      4. Fill this form (3 min) : https://tinyurl.com/patchworldbeta
-      5. And  once you are done, ping "melo [PATCHXR]#9641" so I can give you the magic trix.
+  - question: CAN VR HELP ME GAIN MORE AUDIENCE?
+    answer: Virtual Reality (VR) can be a powerful tool for engaging and reaching
+      a wider audience. By creating immersive, interactive experiences that allow
+      users to fully engage with content, VR can help you grab the attention of your
+      audience and keep them engaged. Additionally, because VR allows users to experience
+      things in a way that is not possible in the real world, it can help you create
+      memorable and shareable content that people will want to talk about and share
+      with others. Ultimately, whether VR can help you gain a bigger audience will
+      depend on the quality and appeal of your content, as well as how effectively
+      you promote and market it to your target audience.
+  - question: WHAT ARE THE COMPONENT OF A SYNTH?
+    answer: 'A synthesizer typically consists of several components, including an
+      oscillator, a filter, an amplifier, and an envelope generator. The oscillator
+      generates a basic waveform, which can then be modified by the filter to produce
+      a specific timbre. The amplifier controls the volume of the sound, and the envelope
+      generator shapes the attack, decay, sustain, and release of the sound. Other
+      components, such as LFOs (low frequency oscillators) and effects processors,
+      can also be included in a synthesizer to add further modulation and processing
+      capabilities. In Patchworld, you can use the various available blocks to build
+      and customize your own synthesizer, choosing the specific components and parameters
+      that you want to include.
+
+      '
   - question: IS PATCHWORLD BRINGING THE FUTURE OF MUSIC VIDEO?
     answer: 'Music videos have been a popular medium for decades, but with the rise
       of streaming platforms and the increasing focus on individual songs rather than
