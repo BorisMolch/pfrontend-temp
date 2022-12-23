@@ -5,14 +5,6 @@ intro:
 faq_list:
 - title: GETTING STARTED
   faq_item:
-  - question: ''
-    answer: ''
-  - question: ''
-    answer: ''
-  - question: ''
-    answer: ''
-  - question: ''
-    answer: ''
   - question: WHAT IS PATCHWORLD ?
     answer: PatchWorld is the ultimate XR music-making platform for creating, experimenting,
       and collaborating on immersive musical experiences. With its extensive library
@@ -66,6 +58,14 @@ faq_list:
       Collaborate with friends, invite them to your world and share your creations\n-
       Submit your creations for featuring on the app's explore page\n- View a cloud
       version history of saved versions and autosave"
+  - question: ''
+    answer: ''
+  - question: ''
+    answer: ''
+  - question: ''
+    answer: ''
+  - question: ''
+    answer: ''
   - question: WHAT ARE THE FEATURES IN BETA?
     answer: |-
       - Access +300 blocks from the library, make groups, and create new devices or mod existing ones.
@@ -79,10 +79,11 @@ faq_list:
       4. Fill this form (3 min) : https://tinyurl.com/patchworldbeta
       5. And  once you are done, ping "melo [PATCHXR]#9641" so I can give you the magic trix.
   - question: WHY USE VR TO MAKE MUSIC?
-    answer: Patch lets you interact spatially with visuals and sonic interactions
-      that respond to where you’re looking and how you move - a full-body, full-sensory
-      experience with spatial audio. It’s an immersive, inventive world to explore,
-      rather than just another rectangular editing interface.
+    answer: |-
+      There are several benefits to making music in VR. One of the main benefits is that it allows you to fully immerse yourself in the creative process. Instead of being confined to a physical studio or facing your laptop screen, you can explore unlimited virtual environments, interact spatially with visuals and sonic interactions that respond to your gesture - a full-body, full-sensory experience with spatial audio. You can create the music studio of your dream, and have  as many as you want without physical limitation and play with virtual instruments that might not be possible in the real world. This can help to inspire new ideas and spark creativity.
+      Another benefit of making music in VR is that it allows for greater collaboration. With the ability to connect and work with other musicians in virtual space, you can work together on projects and share ideas more easily. This can be particularly useful for those who are working remotely or who are unable to meet in person due to travel restrictions or other circumstances.
+      Additionally, making music in VR can also be more accessible and easier to learn. With VR, you can easily try out different virtual instruments and learn how to use them through interactive tutorials and demonstrations. This can be especially helpful for those who are new to music-making and are still learning the basics.
+      Overall, making music in VR offers a unique and engaging way to create and collaborate, with the potential to open up new creative possibilities and inspire new ideas.
   - question: IS PATCHWORLD BRINGING THE FUTURE OF MUSIC VIDEO?
     answer: 'Music videos have been a popular medium for decades, but with the rise
       of streaming platforms and the increasing focus on individual songs rather than
