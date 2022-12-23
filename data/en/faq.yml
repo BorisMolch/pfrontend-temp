@@ -25,19 +25,25 @@ faq_list:
       to mixed-reality art installations. Whether you're a seasoned artist or a beginner,
       PatchWorld offers endless possibilities for exploring and creating in virtual
       worlds.
+  - question: WHAT CAN I CREATE WITH PATCHWORLD?
+    answer: "Using Patch, you can create a variety of interactive and immersive musical
+      experiences, such as:\n- Interactive worlds: Create virtual environments that
+      respond to your movements and actions, and that can be used to perform and create
+      music.\n- Instruments and devices : Design and patch your own virtual instruments,
+      or modify existing ones, using Patch’s library of devices and tools.\n- Sound
+      effects: Use Patch to create unique sound effects that can be used in your music
+      or in other projects.\n- Automata: Design automated musical systems that can
+      be used to create and perform music in real time.\n- Music games: Design interactive
+      music games without code that can be played in VR.\n- Live performances: Use
+      Patch to perform live, either in VR or by streaming online.\n- Recorded show:
+      fullimmersive \n- Workflow integration: Link Patch to your existing workflow
+      using OSC, MIDI, or CV gate, and use it to control and interact with other music
+      software and hardware."
   - question: WHERE CAN I GET PATCHXR SOFTWARE?
     answer: |-
       Patch was released on July 7th 2022 for the Metaquest 2 and Quest pro on the and is available on the store: https://ocul.us/39Vz1Ux
       There is a PCVR version in beta available on our discord: https://discord.gg/gwMVhKWxbr
       PatchWorld will be launched on other platforms in 2023, stay tune!
-  - question: WHAT CAN I CREATE WITH PATCHWORLD?
-    answer: 'Patch doesn’t just mimic existing musical instruments, it explores music
-      beyond your average experience. Thanks to over four years of research and collaboration
-      with XR artists, producers, musicians and audio engineers, Patch can create
-      new, exiting hybrid creations and compositions that have never been seen before,
-      and never been heard before. With Patch you can create interactive worlds, instruments,
-      sound FX, automata, music games, perform live and stream online simultaneously,
-      link VR machines and worlds to your existing workflow using OSC, MIDI, CV gate. '
   - question: WHAT ARE PATCHWORLD FEATURES ?
     answer: "Here are the features available in PatchWorld:\n- You can join in on
       pre-recorded shows, and fun tutorials featuring dynamic characters like DJ Patchy,
