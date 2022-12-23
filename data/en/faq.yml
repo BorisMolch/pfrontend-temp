@@ -14,11 +14,17 @@ faq_list:
   - question: ''
     answer: ''
   - question: WHAT IS PATCHWORLD ?
-    answer: Patch is a modular, immersive musical instrument environment made for
-      Virtual Reality to code, create and connect your own instruments and sounds,
-      and interact with them live with your body, your gestures, and other people.
-      Our proprietary engine is written in C++ and we are using Unity 3D for the VR
-      interface.
+    answer: PatchWorld is the ultimate XR music-making platform for creating, experimenting,
+      and collaborating on immersive musical experiences. With its extensive library
+      of devices and tools, PatchWorld allows users to push the boundaries of their
+      creativity using XR technologies. The app features interactive, immersive worlds,
+      pre-recorded shows, and fun tutorials with dynamic characters. These shows were
+      created using the PatchWorld app itself, inspiring users to see what they can
+      create using the same tools. In addition to music production, PatchWorld can
+      also be used to create any type of immersive experience, from interactive worlds
+      to mixed-reality art installations. Whether you're a seasoned artist or a beginner,
+      PatchWorld offers endless possibilities for exploring and creating in virtual
+      worlds.
   - question: WHERE CAN I GET PATCHXR SOFTWARE?
     answer: |-
       Patch was released on July 7th 2022 for the Metaquest 2 and Quest pro on the and is available on the store: https://ocul.us/39Vz1Ux
