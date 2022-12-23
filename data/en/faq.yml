@@ -11,6 +11,11 @@ faq_list:
       and interact with them live with your body, your gestures, and other people.
       Our proprietary engine is written in C++ and we are using Unity 3D for the VR
       interface.
+  - question: CAN I GET PATCHXR SOFTWARE?
+    answer: |-
+      Patch was released on July 7th 2022 on the Metaquest store and is only available there for now. Find the link to get the app here: https://ocul.us/39Vz1Ux
+      There is a PCVR version in beta available on our discord: https://discord.gg/gwMVhKWxbr
+      PatchWorld will be launched on other platforms in 2023, stay tune!
   - question: WHAT CAN I CREATE WITH PATCHWORLD?
     answer: 'Patch doesn’t just mimic existing musical instruments, it explores music
       beyond your average experience. Thanks to over four years of research and collaboration
@@ -53,6 +58,11 @@ faq_list:
       3. Introduce yourself in the right channel
       4. Fill this form (3 min) : https://tinyurl.com/patchworldbeta
       5. And  once you are done, ping "melo [PATCHXR]#9641" so I can give you the magic trix.
+  - question: WHY USE VR TO MAKE MUSIC?
+    answer: Patch lets you interact spatially with visuals and sonic interactions
+      that respond to where you’re looking and how you move - a full-body, full-sensory
+      experience with spatial audio. It’s an immersive, inventive world to explore,
+      rather than just another rectangular editing interface.
   - question: IS PATCHWORLD BRINGING THE FUTURE OF MUSIC VIDEO?
     answer: 'Music videos have been a popular medium for decades, but with the rise
       of streaming platforms and the increasing focus on individual songs rather than
@@ -67,15 +77,6 @@ faq_list:
       is vast, and PatchWorld is leading the charge in this exciting new frontier.
 
       '
-  - question: WHY USE VR TO MAKE MUSIC?
-    answer: Patch lets you interact spatially with visuals and sonic interactions
-      that respond to where you’re looking and how you move - a full-body, full-sensory
-      experience with spatial audio. It’s an immersive, inventive world to explore,
-      rather than just another rectangular editing interface.
-  - question: CAN I GET PATCH SOFTWARE?
-    answer: Patch is not released yet, but we are giving some development licences
-      to selected creators and universities. If you want to get a try, it's possible,
-      just contact us by mail or by filling the form at → https://forms.gle/dsf9R3Upc8GvVjf28
   - answer: 'We are currently developing PATCHWORLD, a gamified version of our tool.
       A fantasia like environment to experience with procedural sound in VR. Patchworld
       will be released on the Quest in Q1 2022.
