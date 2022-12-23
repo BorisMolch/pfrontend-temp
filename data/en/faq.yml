@@ -31,6 +31,12 @@ faq_list:
       Create full immersive musical shows. \n- Expand your studio without the limitation
       and cost: Link Patch to your existing workflow using OSC, MIDI and use it to
       control and interact with other music software and hardware."
+  - question: WHY USE VR TO MAKE MUSIC?
+    answer: |-
+      There are several benefits to making music in VR. One of the main benefits is that it allows you to fully immerse yourself in the creative process. Instead of being confined to a physical studio or facing your laptop screen, you can explore unlimited virtual environments, interact spatially with visuals and sonic interactions that respond to your gesture - a full-body, full-sensory experience with spatial audio. You can create the music studio of your dream, and have  as many as you want without physical limitation and play with virtual instruments that might not be possible in the real world. This can help to inspire new ideas and spark creativity.
+      Another benefit of making music in VR is that it allows for greater collaboration. With the ability to connect and work with other musicians in virtual space, you can work together on projects and share ideas more easily. This can be particularly useful for those who are working remotely or who are unable to meet in person due to travel restrictions or other circumstances.
+      Additionally, making music in VR can also be more accessible and easier to learn. With VR, you can easily try out different virtual instruments and learn how to use them through interactive tutorials and demonstrations. This can be especially helpful for those who are new to music-making and are still learning the basics.
+      Overall, making music in VR offers a unique and engaging way to create and collaborate, with the potential to open up new creative possibilities and inspire new ideas.
   - question: WHERE CAN I GET PATCHXR SOFTWARE?
     answer: |-
       Patch was released on July 7th 2022 for the Metaquest 2 and Quest pro on the and is available on the store: https://ocul.us/39Vz1Ux
@@ -59,7 +65,15 @@ faq_list:
       Submit your creations for featuring on the app's explore page\n- View a cloud
       version history of saved versions and autosave"
   - question: ''
-    answer: ''
+    answer: Virtual Reality (VR) can be a powerful tool for engaging and reaching
+      a wider audience. By creating immersive, interactive experiences that allow
+      users to fully engage with content, VR can help you grab the attention of your
+      audience and keep them engaged. Additionally, because VR allows users to experience
+      things in a way that is not possible in the real world, it can help you create
+      memorable and shareable content that people will want to talk about and share
+      with others. Ultimately, whether VR can help you gain a bigger audience will
+      depend on the quality and appeal of your content, as well as how effectively
+      you promote and market it to your target audience.
   - question: ''
     answer: ''
   - question: ''
@@ -78,12 +92,6 @@ faq_list:
       3. Introduce yourself in the right channel
       4. Fill this form (3 min) : https://tinyurl.com/patchworldbeta
       5. And  once you are done, ping "melo [PATCHXR]#9641" so I can give you the magic trix.
-  - question: WHY USE VR TO MAKE MUSIC?
-    answer: |-
-      There are several benefits to making music in VR. One of the main benefits is that it allows you to fully immerse yourself in the creative process. Instead of being confined to a physical studio or facing your laptop screen, you can explore unlimited virtual environments, interact spatially with visuals and sonic interactions that respond to your gesture - a full-body, full-sensory experience with spatial audio. You can create the music studio of your dream, and have  as many as you want without physical limitation and play with virtual instruments that might not be possible in the real world. This can help to inspire new ideas and spark creativity.
-      Another benefit of making music in VR is that it allows for greater collaboration. With the ability to connect and work with other musicians in virtual space, you can work together on projects and share ideas more easily. This can be particularly useful for those who are working remotely or who are unable to meet in person due to travel restrictions or other circumstances.
-      Additionally, making music in VR can also be more accessible and easier to learn. With VR, you can easily try out different virtual instruments and learn how to use them through interactive tutorials and demonstrations. This can be especially helpful for those who are new to music-making and are still learning the basics.
-      Overall, making music in VR offers a unique and engaging way to create and collaborate, with the potential to open up new creative possibilities and inspire new ideas.
   - question: IS PATCHWORLD BRINGING THE FUTURE OF MUSIC VIDEO?
     answer: 'Music videos have been a popular medium for decades, but with the rise
       of streaming platforms and the increasing focus on individual songs rather than
