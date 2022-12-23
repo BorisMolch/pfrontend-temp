@@ -5,13 +5,21 @@ intro:
 faq_list:
 - title: GETTING STARTED
   faq_item:
+  - question: ''
+    answer: ''
+  - question: ''
+    answer: ''
+  - question: ''
+    answer: ''
+  - question: ''
+    answer: ''
   - question: WHAT IS PATCHWORLD ?
     answer: Patch is a modular, immersive musical instrument environment made for
       Virtual Reality to code, create and connect your own instruments and sounds,
       and interact with them live with your body, your gestures, and other people.
       Our proprietary engine is written in C++ and we are using Unity 3D for the VR
       interface.
-  - question: CAN I GET PATCHXR SOFTWARE?
+  - question: WHERE CAN I GET PATCHXR SOFTWARE?
     answer: |-
       Patch was released on July 7th 2022 for the Metaquest 2 and Quest pro on the and is available on the store: https://ocul.us/39Vz1Ux
       There is a PCVR version in beta available on our discord: https://discord.gg/gwMVhKWxbr
@@ -77,12 +85,6 @@ faq_list:
       is vast, and PatchWorld is leading the charge in this exciting new frontier.
 
       '
-  - answer: 'We are currently developing PATCHWORLD, a gamified version of our tool.
-      A fantasia like environment to experience with procedural sound in VR. Patchworld
-      will be released on the Quest in Q1 2022.
-
-      '
-    question: WHEN WILL BE PATCH RELEASED?
 - title: ABOUT THE PATCHATHON
   faq_item:
   - question: WHAT IS THE PATCHATHON?
