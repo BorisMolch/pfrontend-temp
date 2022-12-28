@@ -39,10 +39,10 @@ weight = 5
 URL = "presskit"
 name = "Presskit"
 weight = 6
-# [[menu.footer]]
-# URL = "faq"
-# name = "FAQ"
-# weight = 7
+[[menu.footer]]
+URL = "faq"
+name = "FAQ"
+weight = 7
 # [[menu.main]]
 # URL = "tech"
 # name = "Tech"
@@ -83,6 +83,11 @@ URL = "https://forum.patchxr.com/"
 name = "Forum"
 parent = "Community ↓"
 weight = 4
+[[menu.main]]
+URL = "faq"
+name = "FAQ"
+parent = "Community ↓"
+weight = 5
 [params]
 ISO8601 = "2006-01-02T15:04:05JST"
 address = "Physical Address?"
