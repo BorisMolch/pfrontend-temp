@@ -2,9 +2,8 @@
 author = "PatchXR"
 ctalink = ""
 ctatext = ""
-date = 2022-12-27T23:00:00Z
+date = 2022-12-20T23:00:00Z
 description = "We are excited to share that PatchWorld has been ranked as the 19th best rated Oculus Quest game on the Quest 2 storefront."
-draft = true
 image = "/uploads/best-quest-2-games-1-1021x580.jpg"
 slug = "Best-Quest-Game"
 title = "PatchWorld ranking 19th best rated Oculus Quest game"
