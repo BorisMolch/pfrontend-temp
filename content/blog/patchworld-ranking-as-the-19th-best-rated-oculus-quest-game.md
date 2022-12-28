@@ -7,7 +7,7 @@ description = "PatchWorld is ranking in the top 20 Best Rated and Most Popular G
 draft = true
 image = "/uploads/best-quest-2-games-1-1021x580.jpg"
 slug = "Best-Quest-Game"
-title = "PatchWorld ranking as the 19th best rated Oculus Quest game"
+title = "PatchWorld ranking 19th best rated Oculus Quest game"
 type = ""
 
 +++
