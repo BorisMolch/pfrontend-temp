@@ -5,7 +5,7 @@ ctatext = ""
 date = 2022-12-27T23:00:00Z
 description = ""
 draft = true
-image = "/uploads/best-quest-game-dec2022.jpg"
+image = "/uploads/best-quest-2-games-1-1021x580.jpg"
 slug = "Best-Quest-Game"
 title = "PatchWorld ranking as the 19th best rated Oculus Quest game"
 type = ""
@@ -19,11 +19,11 @@ As a platform for creating and experiencing musical and visual XR content, Patch
 
 **Users say:**
 
-"PatchWorld is unrivalled in its raw creative spirit and potential.**"**
+_"PatchWorld is unrivalled in its raw creative spirit and potential."_
 
-"This is the most entertaining/comprehensive music making app I've played!"
+_"This is the most entertaining/comprehensive music making app I've played!"_
 
-"It’s like making music in a tripped out dream lol"
+_"It’s like making music in a tripped out dream lol"_
 
 Thank you to everyone who has supported PatchWorld and given us such positive reviews and to Ben Lang and Road to VR for the feature. We are thrilled to see PatchWorld receiving such positive feedback and recognition among the top rated Oculus Quest games. We can’t wait to see what the future holds for PatchWorld and share the amazing creations our users will come up with. 
 
