@@ -7,7 +7,7 @@ description = "We are excited to share that PatchWorld has been ranked as the 19
 image = "/uploads/best-quest-2-games-1-1021x580.jpg"
 slug = "Best-Quest-Game"
 title = "PatchWorld ranking 19th best rated Oculus Quest game"
-type = ""
+type = "post"
 
 +++
 ![](/uploads/best-quest-game-dec2022.jpg)
