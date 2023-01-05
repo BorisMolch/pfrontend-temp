@@ -142,6 +142,10 @@ promo_video:
 testimonial:
   enable: true
   testimonial_item:
+  - name: corprinus
+    date: ''
+    summary: ''
+    content: ''
   - name: Toddfadel
     date: 11/30/2022
     summary: Dream come true for my classroom!
