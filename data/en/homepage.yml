@@ -1,6 +1,6 @@
 ---
 scroller:
-  enable: true
+  enable: false
   speed: "180"
   autohide: true
   link: https://discord.gg/gwMVhKWxbr
