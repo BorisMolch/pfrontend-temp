@@ -143,9 +143,17 @@ testimonial:
   enable: true
   testimonial_item:
   - name: corprinus
-    date: ''
-    summary: ''
-    content: ''
+    date: 01/05/2023
+    summary: The best music software for VR, this will change music production forever.
+      Period.
+    content: 'You pretty much have your own music production studio here, but unlike
+      many music apps on Quest, in this one you have every tool you need to make REAL
+      quality music. You can do your own music show like a live or pre-recorded concert
+      or you can literally just play around in a virtual music world and jam out.
+      But here is where things get freaking crazy: Patchworld will let you custom
+      EVERYTHING. Yes...you can custom make instruments, import your own 3D objects,
+      recreate REAL music studio equipment and God knows what else. I''ve never seen
+      an app do so many things and completely nail it.'
   - name: Toddfadel
     date: 11/30/2022
     summary: Dream come true for my classroom!
