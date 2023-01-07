@@ -7,10 +7,12 @@ description = ""
 draft = true
 image = ""
 slug = ""
-title = " First Introduction to Making Music in VR with PatchWorld: Interviews with Two Creators from Madrid"
+title = " First Intro to Making Music in VR with PatchWorld: Interviews with Two Creators from Madrid"
 type = ""
 
 +++
+{{< youtube pkU3sJ2WyyY >}}
+
 On December 10th, PatchXR held a workshop at the exhibition "Metaverses: Realities in Transition" at Matadero Madrid as part of the LEV Festival.
 
 The workshop, led by SUPER PATCHER Gad BARUSH Hinkis, provided an introduction to PatchWorld, our VR music platform that enables users to create and perform music in virtual reality.
