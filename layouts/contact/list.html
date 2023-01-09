@@ -2,11 +2,11 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
 {{ with .Site.Params.contact_form_action }}
-<section class="contact-form section mt-3">
+<section class="contact-form section ">
   <div class="container">
     <div class="row">
       <div class="col-lg-6 col-md-12 text-light">
-        <h2 class="mb-4">{{ i18n "contact_form" }}</h2>
+        <h1 class="mb-4 pt-5">{{ i18n "contact_form" }}</h1>
 
           {{ with $data.homepage.company }}
           <hr>
