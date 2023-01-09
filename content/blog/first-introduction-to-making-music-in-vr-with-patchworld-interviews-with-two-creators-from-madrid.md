@@ -11,11 +11,12 @@ title = " First Intro to Making Music in VR with PatchWorld: Interviews with Two
 type = ""
 
 +++
-{{< youtube pkU3sJ2WyyY >}}
 
 On December 10th, PatchXR held a workshop at the exhibition "Metaverses: Realities in Transition" at Matadero Madrid as part of the LEV Festival.
 
 The workshop, led by SUPER PATCHER Gad BARUSH Hinkis, provided an introduction to PatchWorld, our VR music platform that enables users to create and perform music in virtual reality.
+
+{{< youtube pkU3sJ2WyyY >}}
 
 With 10 metaQuest 2 devices, attendees with various backgrounds, including music producers and new media artists, were able to experiment with PatchWorld and discover the endless creative possibilities it offers for music production and live performance.
 
@@ -29,21 +30,24 @@ Tono Cabanelas, Audiovisual Engineer, Madrid.
 
 Hello! My name is Tono Cabanelas. I am Audiovisual Engineer, expert in digital arts and 3D computing, specialized in VR, AR, XR, AI, tech arts professor and Liveforevr Founder.
 
-I create audiovisual art and support that of other artists who investigate the intersection between cyber art and live performance. I collaborate with companies, institutions and individuals around the world in pursuit of one goal: _to blend the digital with the physical. «Our physical and digital worlds continually overlap. What if all aspects of the «real» world existed in both?._ This is happening right now: the era of 3D immersion, mixed reality, metaverse, decentralization is born…
+I create audiovisual art and support that of other artists who investigate the intersection between cyber art and live performance. I collaborate with companies, institutions and individuals around the world in pursuit of one goal: _to blend the digital with the physical._ 
+
+> _  
+> Our physical and digital worlds continually overlap . What if all aspects of the «real» world existed in both? This is happening right now: the era of 3D immersion, mixed reality, metaverse, decentralization is born…_
 
 I use and teach Ableton, Max4Live, Touchdesigner, Unity 3D, Unreal Engine, Reaper, Logic, AI… microphones, synthesizers, cameras, 3D scanners, light and film projectors, modified speakers… etc.
 
 **Melo: What was your overall impression of PatchWorld after using it during the workshop? Were there any particular features or tools that stood out to you as particularly interesting or useful?**
 
-Tono: My impression was that in just a few months PatchWorld has become a very powerful environment and I consider it one of the most promising applications in the audio industry. At first it is easy to perceive a tool like this as a kind of game, but in the workshop we could immediately see that the potential is impressive. In just a few hours of learning, profound sound and visual experiences can be achieved. Patchworld has a reasonable learning curve and is incredibly fun to use.
+Tono: My impression was that in just a few months PatchWorld has become a very powerful environment and **I consider it one of the most promising applications in the audio industry.** At first it is easy to perceive a tool like this as a kind of game, but in the workshop we could immediately see that the potential is impressive. In just a few hours of learning, profound sound and visual experiences can be achieved. Patchworld has a reasonable learning curve and is incredibly fun to use.
 
 My favourite features of PatchWorld are several. I think the spatial interface for creating patches and sound modules is awesome. I also find the spatial sound spectacular as well as being able to record what you do (not just the sound) but your own avatar creating... that's a bit sci-fi. I'm also very interested in the possibilities of integration and synchronization with real scenarios and tools, you have created a Max4Live for it which I think is a super powerful step. I also love the Mixed Reality with Passthrough that you have integrated, it's great to see the virtual and the real mixed. Finally (still in beta) there's the possibility to create multiplayer environments... that's going to be a revolution.
 
-Melo: **As someone with a background in audiovisual engineering, how do you see PatchWorld fitting into your professional goals and interests? Do you think it has potential as a tool for creating immersive audio and visual experiences, or do you see other areas where it could be particularly useful?**
+**Melo: As someone with a background in audiovisual engineering, how do you see PatchWorld fitting into your professional goals and interests? Do you think it has potential as a tool for creating immersive audio and visual experiences, or do you see other areas where it could be particularly useful?**
 
 Tono: In my case I find that PatchWorld fits like a glove in several of my professional projects. On an educational level it is a big step for any teacher like me. I teach musicians and technicians Max4live, Touch Designer, Unity 3D or Unreal Engine. PatchWorld is a future version of all these tools.
 
-On a technical and artistic level I also think it has a huge potential. From Liveforevr (my VR concert platform) we are dedicated to recording 3D concert experiences in VR and also creating meta-stages with VR glasses to share that content. Being able to use PatchWorld revolutionises the way we share immersive 3D sound art for audiences. We can organise e-raves, mixed reality live shows, real-time 3D recordings, hybridisation of live musicians with virtual musicians... it's great.
+> On a technical and artistic level I also think it has a huge potential. From Liveforevr (my VR concert platform) we are dedicated to recording 3D concert experiences in VR and also creating meta-stages with VR glasses to share that content. Being able to use PatchWorld revolutionises the way we share immersive 3D sound art for audiences. We can organise e-raves, mixed reality live shows, real-time 3D recordings, hybridisation of live musicians with virtual musicians... it's great.
 
 I actually believe that the social or multiplayer part of PatchWorld can become something not only useful for the industry but also a radical change in the way people enjoy music.
 
@@ -54,7 +58,7 @@ Tono: I use hybrid hardware and software tools: DAW's, analogue synthesizers, re
 On the other hand, I see PatchWorld as a complementary tool and as an independent platform for music production and performance at the same time. For me it is both... I can integrate it seamlessly into my studio workflow and at the same time I can take the VR goggles into another space or a forest, take off my shoes, put my feet in the grass and create an amazing immersive music composition session without anything else.
 
 **Melo: Have you used any other VR or immersive technology in the past, and if so, how does PatchWorld compare?**  
-Tono: Yes, I use a lot of VR tools, develop experiences (mostly based on 3D volumetric video capture) and teach VR in schools and universities. I have a lot of experience in this area, especially in the union that is happening (and that we are all looking for) between gaming, the audiovisual industry and art. PatchWorld is an incredible example of this union between the interactive, the audiovisual and the cultural. It looks like a videogame but it is a musical tool and at the same time it is culture. Very few tools have managed to combine these characteristics in this time. This is the objective of web 3.0 for any project nowadays.
+Tono: Yes, I use a lot of VR tools, develop experiences (mostly based on 3D volumetric video capture) and teach VR in schools and universities. I have a lot of experience in this area, especially in the union that is happening (and that we are all looking for) between gaming, the audiovisual industry and art. PatchWorld is an incredible example of this union between the interactive, the audiovisual and the cultural. It looks like a videogame but it is a musical tool and at the same time it is culture. Very few tools have managed to combine these characteristics at this time. This is the objective of web 3.0 for any project nowadays.
 
 **M: How do you see immersive technology, like PatchWorld, changing the way that we create and experience music in the future?**
 
@@ -77,6 +81,8 @@ Tono Cabelas **LINKS:**
 [https://liveforevr.es  
 http://tonocabanelas.com  
 https://www.instagram.com/tonocabanelas/](https://liveforevr.es "https://liveforevr.es") [https://www.youtube.com/watch?v=rJqUeIwsLyE](https://liveforevr.es "https://liveforevr.es")
+
+**Latebris, music producer and audio engineer, Madrid**
 
 ![](/uploads/img_3856.jpeg)
 
@@ -103,3 +109,9 @@ L: I think this is just the beginning of many VR live sets that we will be able 
 **M: Is there anything else you'd like to add or share with other creators about why they should try PatchWorld?**
 
 L: I encourage all music producers, especially those who love live performance and synthesis to try PatchWorld because it is a the future of creation tools but already available today. It is amazing how you can create music in a much more tactile and sensory way, it's like your VSTs become hardware in your own room. I confess that PatchWorld is responsible for me buying a pair of VR glasses.
+
+Website [https://latebris.com/](https://latebris.com/ "https://latebris.com/")   
+Spotify [https://open.spotify.com/artist/1S7HWU7qenvwRTodCCndHS?si=7OuYs52eQqmRsXHTXuzvgg](https://open.spotify.com/artist/1S7HWU7qenvwRTodCCndHS?si=7OuYs52eQqmRsXHTXuzvgg "https://open.spotify.com/artist/1S7HWU7qenvwRTodCCndHS?si=7OuYs52eQqmRsXHTXuzvgg")   
+Instagram [https://www.instagram.com/latebris/](https://www.instagram.com/latebris/ "https://www.instagram.com/latebris/")   
+YouTube [https://m.youtube.com/@latebris](https://m.youtube.com/@latebris "https://m.youtube.com/@latebris")   
+TikTok [https://www.tiktok.com/@latebris?_t=8YKkgaEOofm&_r=1](https://www.tiktok.com/@latebris?_t=8YKkgaEOofm&_r=1 "https://www.tiktok.com/@latebris?_t=8YKkgaEOofm&_r=1")
