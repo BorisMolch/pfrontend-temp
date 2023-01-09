@@ -4,13 +4,12 @@
 
 {{ with $data.faq.intro }}
 {{ "<!-- Page Title -->" | safeHTML }}
-<section class="section page-title">
+<section class="section">
   <div class="container">
     <div class="row">
       <div class="col-sm-12 m-auto">
-        <h1>{{ .title }}</h1>
+        <h1 class="pt-5">{{ .title }}</h1>
         <p>{{ .description }}</p>
-  <!--      <p>{{ .Content }}</p>-->
       </div>
     </div>
   </div>
