@@ -3,7 +3,7 @@ author = "PatchXR"
 ctalink = ""
 ctatext = ""
 date = 2023-01-06T23:00:00Z
-description = "The PatchWorld workshop at LEV festival was a success! In this article, you will hear from two attendees about their first experiences with PatchWorld  and their thoughts on the role of immersive technology in the future of music creation."
+description = ""
 image = "/uploads/levworkshopblogpicture.jpg"
 slug = " First-Intro-to-Making-Music-in-VR-with-PatchWorld"
 title = " First Intro to Making Music in VR with PatchWorld: Interviews with Two Creators from Madrid"
@@ -43,11 +43,11 @@ Toño: My impression was that in just a few months PatchWorld has become a very 
 
 My favourite features of PatchWorld are several. I think the spatial interface for creating patches and sound modules is awesome. I also find the spatial sound spectacular as well as being able to record what you do (not just the sound) but your own avatar creating... that's a bit sci-fi. I'm also very interested in the possibilities of integration and synchronization with real scenarios and tools, you have created a Max4Live for it which I think is a super powerful step. I also love the Mixed Reality with Passthrough that you have integrated, it's great to see the virtual and the real mixed together. Finally (still in beta) there's the possibility to create multiplayer environments... And that's going to be a revolution.
 
-![](/uploads/illustration-for-blog.jpg)
+![](/uploads/illustration-for-blog.jpg "Multiplayer jam in the beta version")
 
-**Melo: As someone with a background in audiovisual engineering, how do you see PatchWorld fitting into your professional goals and interests?   
-  
-**Toño: In my case I find that PatchWorld fits like a glove in several of my professional projects. On an educational level it is a big step for any teacher like me. I teach musicians and technicians Max4live, Touch Designer, Unity 3D or Unreal Engine. I see PatchWorld as the future version of all these tools combined.
+\**Melo: As someone with a background in audiovisual engineering, how do you see PatchWorld fitting into your professional goals and interests?
+
+\**Toño: In my case I find that PatchWorld fits like a glove in several of my professional projects. On an educational level it is a big step for any teacher like me. I teach musicians and technicians Max4live, Touch Designer, Unity 3D or Unreal Engine. I see PatchWorld as the future version of all these tools combined.
 
 On a technical and artistic level I also think it has a huge potential. With my VR concert platform, Liveforevr, we are dedicated to recording 3D concert experiences in VR and also creating meta-stages with VR glasses to share that content. Being able to use PatchWorld revolutionises the way we share immersive 3D sound art for audiences. We can organise e-raves, mixed reality live shows, real-time 3D recordings, hybridisation of live musicians with virtual musicians... it's great.
 
@@ -82,9 +82,7 @@ Another huge potential I see is to be able to teach from the XR platform itself.
 
 T: Don't wait any longer! It's a new, powerful, fun musical experience... there is nothing like PatchWorld!
 
-**M: Thanx** Tono can’t wait to see what you are patching![  
-http://tonocabanelas.com  
-https://www.instagram.com/tonocabanelas/](https://liveforevr.es "https://liveforevr.es") [https://www.youtube.com/watch?v=rJqUeIwsLyE](https://liveforevr.es "https://liveforevr.es")
+**M: Thanx** Tono can’t wait to see what you are patching
 
 **Latebris, music producer and audio engineer, Madrid**
 
@@ -114,9 +112,9 @@ Laterbris: I think this is just the beginning of many VR live sets that we will 
 
 Laterbris: I encourage all music producers, especially those who love live performance and synthesis to try PatchWorld because it is a the future of creation tools but already available today. It is amazing how you can create music in a much more tactile and sensory way, it's like your VSTs become hardware in your own room. I confess that PatchWorld is responsible for me buying a pair of VR glasses.
 
-**Melo: Oh wow that's amazing, and you have not been the only one, to get a headset just to be able to be able to have access to PatchWorld, Hopefully soon, there will be more music creator like you  and Tono equipped with headset so we will see a lot more exciting  content made in PatchWorld!  
-  
-**Laterbris website [https://latebris.com/](https://latebris.com/ "https://latebris.com/")  
+\**Melo: Oh wow that's amazing, and you have not been the only one, to get a headset just to be able to be able to have access to PatchWorld, Hopefully soon, there will be more music creator like you  and Tono equipped with headset so we will see a lot more exciting  content made in PatchWorld!
+
+\**Laterbris website [https://latebris.com/](https://latebris.com/ "https://latebris.com/")  
 Spotify [https://open.spotify.com/artist/1S7HWU7qenvwRTodCCndHS?si=7OuYs52eQqmRsXHTXuzvgg](https://open.spotify.com/artist/1S7HWU7qenvwRTodCCndHS?si=7OuYs52eQqmRsXHTXuzvgg "https://open.spotify.com/artist/1S7HWU7qenvwRTodCCndHS?si=7OuYs52eQqmRsXHTXuzvgg")
 
 [PatchWorld on Queststore ](https://ocul.us/39Vz1Ux)
