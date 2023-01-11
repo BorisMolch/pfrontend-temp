@@ -19,6 +19,8 @@ The hands-on workshop, led by Gad Barush Hinkis, product owner at PatchXR, provi
   
 With 10 metaquest2 devices, attendees with various backgrounds, including music producers and new media artists, Vr veterans and newcomers, were able to experiment with PatchWorld and discover the endless creative possibilities it offers for music production and live performance.
 
+![](/uploads/screen-shot-2023-01-10-at-15-24-46-copie.jpg)![](/uploads/workshoplev.jpg)
+
 Check-out Gad setting-up the studio in colored mixed-reality  
 {{< youtube pkU3sJ2WyyY >}}
 
