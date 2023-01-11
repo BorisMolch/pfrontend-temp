@@ -121,4 +121,4 @@ Laterbris: I encourage all music producers, especially those who love live perfo
 [Laterbris website](https://latebris.com/)   
 [Spotify]( https://open.spotify.com/artist/1S7HWU7qenvwRTodCCndHS?si=7OuYs52eQqmRsXHTXuzvgg)
 
-[PatchWorld on Queststore ](https://ocul.us/39Vz1Ux)
+[PatchWorld on Metaquest store ](https://ocul.us/39Vz1Ux)
