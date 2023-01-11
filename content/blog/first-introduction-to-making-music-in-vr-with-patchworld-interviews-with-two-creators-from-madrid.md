@@ -44,10 +44,17 @@ Watch Toño's first patches in PatchWorld
 
 {{< youtube EvNYR7dO2CQ >}}
 
+My favourite features of PatchWorld are several. I think the spatial interface for creating patches and sound modules is awesome. I also find the spatial sound spectacular as well as being able to record what you do (not just the sound) but your own avatar creating... that's a bit sci-fi. I'm also very interested in the possibilities of integration and synchronization with real scenarios and tools, you have created a Max4Live for it which I think is a super powerful step. I also love the Mixed Reality with Passthrough that you have integrated, it's great to see the virtual and the real mixed together. Finally (still in beta) there's the possibility to create multiplayer environments... And that's going to be a revolution.
+
 **Melo: As someone with a background in audiovisual engineering, how do you see PatchWorld fitting into your professional goals and interests?**
 
 Toño: In my case I find that PatchWorld fits like a glove in several of my professional projects. On an educational level it is a big step for any teacher like me. I teach musicians and technicians Max4live, Touch Designer, Unity 3D or Unreal Engine. I see PatchWorld as the future version of all these tools combined.
 
+On a technical and artistic level I also think it has a huge potential. With my VR concert platform, Liveforevr, we are dedicated to recording 3D concert experiences in VR and also creating meta-stages with VR glasses to share that content. Being able to use PatchWorld revolutionises the way we share immersive 3D sound art for audiences. We can organise e-raves, mixed reality live shows, real-time 3D recordings, hybridisation of live musicians with virtual musicians... it's great.
+
+I actually believe that the social or multiplayer part of PatchWorld can become something not only useful for the industry but also a radical change in the way people enjoy music, period.
+
+  
 ![](/uploads/illustration-for-blog.jpg "Multiplayer jam in the beta version")
 
 **Melo: You mentioned using Ableton, Max4Live, Touchdesigner, Unity 3D, Unreal Engine, Reaper, Logic, AI, synth…. How do you imagine integrating PatchWorld to your workflow? Do you see it as a complementary tool or as a standalone platform for music production and performance?**
