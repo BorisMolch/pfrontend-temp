@@ -85,6 +85,9 @@ Toño: Don't wait any longer! It's a new, powerful, fun musical experience... th
 
 **Melo:** Thanx Tono can’t wait to see what you are patching
 
+[Tono's website](http://tonocabanelas.com)   
+[Insta](https://www.instagram.com/tonocabanelas/https://www.youtube.com/watch?v=rJqUeIwsLyE)
+
 **Latebris, music producer and audio engineer, Madrid**
 
 ![](/uploads/img_3856.jpeg)
@@ -115,7 +118,7 @@ Laterbris: I encourage all music producers, especially those who love live perfo
 
 **Melo: Oh wow that's amazing, and you have not been the only one, to get a headset just to be able to be able to have access to PatchWorld, Hopefully soon, there will be more music creator like you  and Tono equipped with headset so we will see a lot more exciting  content made in PatchWorld!**
 
-Laterbris website [https://latebris.com/](https://latebris.com/ "https://latebris.com/")  
-Spotify [https://open.spotify.com/artist/1S7HWU7qenvwRTodCCndHS?si=7OuYs52eQqmRsXHTXuzvgg](https://open.spotify.com/artist/1S7HWU7qenvwRTodCCndHS?si=7OuYs52eQqmRsXHTXuzvgg "https://open.spotify.com/artist/1S7HWU7qenvwRTodCCndHS?si=7OuYs52eQqmRsXHTXuzvgg")
+[Laterbris website](https://latebris.com/)   
+[Spotify]( https://open.spotify.com/artist/1S7HWU7qenvwRTodCCndHS?si=7OuYs52eQqmRsXHTXuzvgg)
 
 [PatchWorld on Queststore ](https://ocul.us/39Vz1Ux)
