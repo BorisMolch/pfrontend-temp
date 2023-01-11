@@ -29,7 +29,7 @@ In this article, we will hear from two attendees of the workshop about their fir
 
 **Hi Toño, thank you for joining the workshop and for sharing your thoughts with us. To start, can you tell us a little bit about yourself and your background ?**
 
-Toño: Sure, I am Audiovisual Engineer, expert in digital arts and 3D computing, specialized in VR, AR, XR, AI, tech arts professor and I am also the founder of [Liveforevr](https://liveforevr.es), a VR concert platform.
+Toño: Hi, I am Audiovisual Engineer, expert in digital arts and 3D computing, specialized in VR, AR, XR, AI, tech arts professor and I am also the founder of [Liveforevr](https://liveforevr.es), a VR concert platform.
 
 I create audiovisual art and support other artists who investigate the intersection between cyber art and live performance. I collaborate with companies, institutions and individuals around the world in pursuit of one goal: to blend the digital with the physical. Our physical and digital worlds continually overlap. What if all aspects of the «real» world existed in both? This is happening right now: the era of 3D immersion, mixed reality, metaverse, decentralization is born…
 
@@ -39,17 +39,15 @@ I use and teach Ableton, Max4Live, Touchdesigner, Unity 3D, Unreal Engine, Reape
 
 Toño: My impression was that in just a few months PatchWorld has become a very powerful environment and **I consider it one of the most promising applications in the audio industry.** At first, it is easy to perceive a tool like this as a kind of game, but in the workshop we could immediately see that the potential is impressive. **In just a few hours of learning, profound sound and visual experiences can be achieved**. Patchworld has a reasonable learning curve and is incredibly fun to use.
 
-My favourite features of PatchWorld are several. I think the spatial interface for creating patches and sound modules is awesome. I also find the spatial sound spectacular as well as being able to record what you do (not just the sound) but your own avatar creating... that's a bit sci-fi. I'm also very interested in the possibilities of integration and synchronization with real scenarios and tools, you have created a Max4Live for it which I think is a super powerful step. I also love the Mixed Reality with Passthrough that you have integrated, it's great to see the virtual and the real mixed together. Finally (still in beta) there's the possibility to create multiplayer environments... And that's going to be a revolution.
+Toño's first patches in PatchWorld
 
-![](/uploads/illustration-for-blog.jpg "Multiplayer jam in the beta version")
+{{< youtube EvNYR7dO2CQ >}}
 
 **Melo: As someone with a background in audiovisual engineering, how do you see PatchWorld fitting into your professional goals and interests?**
 
 Toño: In my case I find that PatchWorld fits like a glove in several of my professional projects. On an educational level it is a big step for any teacher like me. I teach musicians and technicians Max4live, Touch Designer, Unity 3D or Unreal Engine. I see PatchWorld as the future version of all these tools combined.
 
-On a technical and artistic level I also think it has a huge potential. With my VR concert platform, Liveforevr, we are dedicated to recording 3D concert experiences in VR and also creating meta-stages with VR glasses to share that content. Being able to use PatchWorld revolutionises the way we share immersive 3D sound art for audiences. We can organise e-raves, mixed reality live shows, real-time 3D recordings, hybridisation of live musicians with virtual musicians... it's great.
-
-I actually believe that the social or multiplayer part of PatchWorld can become something not only useful for the industry but also a radical change in the way people enjoy music, period.
+![](/uploads/illustration-for-blog.jpg "Multiplayer jam in the beta version")
 
 **Melo: You mentioned using Ableton, Max4Live, Touchdesigner, Unity 3D, Unreal Engine, Reaper, Logic, AI, synth…. How do you imagine integrating PatchWorld to your workflow? Do you see it as a complementary tool or as a standalone platform for music production and performance?**
 
@@ -66,10 +64,6 @@ Toño: Yes, I use a lot of VR tools, develop experiences (mostly based on 3D vol
 Toño: Immersive technologies like PatchWorld enable new and more interactive ways to create and experience music. This is something the music industry needs. The key to virtual (or mixed) reality is that you can live a digital experience in an immersive way. If you enjoy (or create) a music experience with your iPhone or PC you are interacting in 2D, from a screen... but you never go beyond that, there is a tremendous limit because there is no immersion. But with PatchWorld you can fully interact with the music in a virtual first-person environment and even shape it in real time.
 
 This is a huge digital revolution that will produce entirely new musical experiences and allow for greater creative expression. The 2D screen is a barrier that is overcome with immersive technology and this will change everything. PatchWork is a tool that will blur the line between creators and audiences, putting them on the same experiential plane. It is a new and exciting road to travel.
-
-Toño's first patches in PatchWorld
-
-{{< youtube EvNYR7dO2CQ >}}
 
 **Melo: As an educator, how do you see PatchWorld fitting into your classroom and curriculum? What potential do you see for the platform as a teaching and learning tool for sound and music?**
 
