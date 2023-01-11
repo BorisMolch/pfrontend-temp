@@ -10,7 +10,7 @@ title = "We won an Auggie! PatchXR named \"Startup to Watch\""
 type = "post"
 
 +++
-![](/uploads/patchteam-winners.jpg "The PatchXR founding team accepts our very handsome-looking Auggie statuette.")
+![PatchXR team won an Auggie Award  for best start-up to watch](/uploads/patchteam-winners.jpg "The PatchXR founding team accepts our very handsome-looking Auggie statuette.")
 
 AWE's European edition was already a highlight for us. Then came the icing on the cake: PatchXR was given one of three Auggie Awards for Europe, complete with trophy. It's all thanks to Melodie's pitch in the pitch competition leading up to the juried nominations.
 
@@ -30,7 +30,7 @@ Ori Inbar, co-founder of AWE and Super Ventures, was not on the jury. But that m
 
 > "I highly enjoyed making music in the app, and thought the big breakthrough was the onboarding experience with the funny, motivating, and super cool character in the application."
 
-![](/uploads/ori.jpg "Ori testing Patch")
+![Ori Onbar playing patchWorld at Awe 2022 ](/uploads/ori.jpg "Ori testing Patch")
 
 Here's how AWE describes the award:
 
