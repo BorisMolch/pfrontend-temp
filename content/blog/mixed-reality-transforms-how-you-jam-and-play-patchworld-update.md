@@ -4,13 +4,14 @@ ctalink = ""
 ctatext = ""
 date = 2022-12-13T23:00:00Z
 description = "Mixed reality isn’t just a promise for the future - the latest PatchWorld has been expanded so you can play and jam with it right now. We’ve added tons of new features and instruments, with plenty that work on the Meta Quest 2 you may already own -- and still more taking advantage of the Meta Quest Pro."
-image = "/uploads/mr-screenshot12.jpg"
+image = "/uploads/mr-blogimage.jpg"
 slug = "mixed-reality-is-here"
 title = "Mixed reality transforms how you jam and play: PatchWorld update"
 type = "post"
 
 +++
-![](/uploads/mr-screenshot12.jpg)
+
+![Mixed reality VR music studio](/uploads/mr-blogimage.jpg)
 
 Look at the room around you. You’ve already seen PatchWorld as an immersive, fanciful escape. Now imagine you can jam together in this space - and that every wall, every object can be transformed into wild interactive instruments. This isn’t just sci-fi or a speculative demo: we’ve done it with PatchWorld in Mixed Reality, and it’s available right now.
 
@@ -22,17 +23,17 @@ Here’s the scoop on what’s new in PatchWorld now:
 
 Play with virtual and real at the same time. Any existing patch now can work with a passthrough camera view, so you can see real instruments, the space around you, and other players as you play. Real guitar with virtual enhancements? A virtual player with an acoustic player in one jam? It’s all possible. Mixing real and virtual in hybrid spaces gives you new ways of playing, new ways of jamming, and new ways of recording videos to share or stream, too.
 
-![](/uploads/magicwindow1.jpg)
-![](/uploads/jam-with-friend.jpg)
+![decorate your bedroom i Mixed Reality with PatchWorld](/uploads/magicwindow1.jpg)
+![jam with friends in mixed reality](/uploads/jam-with-friend.jpg)
 
 {{< youtube nG5ntIV9uoA >}}
 
-**Magic Windows.** 
+**Magic Windows.**
 
 The AR /VR window blocks let you snap virtual portals onto real-world walls. Create a portal out of virtual space into the world around you - or open up a window from the real camera view into a virtual world. It’s like a real-life portal gun, and lets you define your mix of virtual and real however you want!
 
-![](/uploads/magicwindow2.jpg)
-![](/uploads/window-2.jpg)
+![a Mixed reality widow in patchworld that let a real table and chairs appear in a virtual environment](/uploads/magicwindow2.jpg)
+![a mixed reality view were you can see a virtual environment through a real window ](/uploads/window-2.jpg)
 
 {{< youtube -VqHEJODYmE >}}
 
