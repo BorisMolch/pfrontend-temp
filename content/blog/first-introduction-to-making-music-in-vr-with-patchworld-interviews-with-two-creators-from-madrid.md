@@ -4,7 +4,6 @@ ctalink = ""
 ctatext = ""
 date = 2023-01-06T23:00:00Z
 description = "The PatchWorld workshop at LEV festival was a success! In this article, you will hear from two attendees about their first experiences with PatchWorld  and their thoughts on the role of immersive technology in the future of music creation."
-draft = true
 image = "/uploads/levworkshopblogpicture.jpg"
 slug = " First-Intro-to-Making-Music-in-VR-with-PatchWorld"
 title = " First Intro to Making Music in VR with PatchWorld: Interviews with Two Creators from Madrid"
