@@ -10,15 +10,15 @@ title = " First Intro to Making Music in VR with PatchWorld: Interviews with Two
 type = "post"
 
 +++
-![](/uploads/levworkshopblogpicture.jpg)
+![a musician playing music in VR ](/uploads/levworkshopblogpicture.jpg)
 
-On December 10th, PatchXR held a workshop at the exhibition "**Metaverses: Realities in Transition**" at Matadero Madrid as part of the [LEV Festival](https://levfestival.com/22/en/).
+On December 10th, PatchXR held a workshop at the exhibition "Metaverses: Realities in Transition" at Matadero Madrid as part of the [LEV Festival](https://levfestival.com/22/en/).
 
 The hands-on workshop, led by Gad Barush Hinkis, product owner at PatchXR, provided an introduction to PatchWorld, our VR music platform to create and perform music in mixed and virtual reality.
 
 With 10 metaquest2 devices, attendees with various backgrounds, including music producers and new media artists, Vr veterans and newcomers, were able to experiment with PatchWorld and discover the endless creative possibilities it offers for music production and live performance.
 
-![](/uploads/screen-shot-2023-01-10-at-15-24-46-copie.jpg)![](/uploads/workshoplev.jpg)
+![Creators making music in VR](/uploads/screen-shot-2023-01-10-at-15-24-46-copie.jpg)![VR music workshop](/uploads/workshoplev.jpg)
 
 Check-out Gad setting-up the studio in colored mixed-reality  
 {{< youtube pkU3sJ2WyyY >}}
@@ -55,7 +55,7 @@ On a technical and artistic level I also think it has a huge potential. With my 
 
 I actually believe that the social or multiplayer part of PatchWorld can become something not only useful for the industry but also a radical change in the way people enjoy music, period.
 
-![](/uploads/illustration-for-blog.jpg "Multiplayer jam in the beta version")
+![Multiplayer jam in VR](/uploads/illustration-for-blog.jpg "Multiplayer jam in the beta version")
 
 Melo: You mentioned using Ableton, Max4Live, Touchdesigner, Unity 3D, Unreal Engine, Reaper, Logic, AI, synth…. How do you imagine integrating PatchWorld to your workflow? Do you see it as a complementary tool or as a standalone platform for music production and performance?
 
