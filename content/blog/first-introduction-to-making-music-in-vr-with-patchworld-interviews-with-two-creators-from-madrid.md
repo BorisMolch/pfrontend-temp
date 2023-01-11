@@ -65,7 +65,7 @@ On the other hand, I see PatchWorld as a complementary tool and as an independen
 
 **Melo: Have you used any other VR creation tools in the past, and if so, how does PatchWorld compare?**
 
-Toño: Yes, I use a lot of VR tools, develop experiences (mostly based on 3D volumetric video capture) and teach VR in schools and universities. I have a lot of experience in this area, especially in the union that is happening (and that we are all looking for) between gaming, the audiovisual industry and art. PatchWorld is an incredible example of this union between the interactive, the audiovisual and the cultural. It looks like a videogame but it is a musical tool and at the same time it is culture. Very few tools have managed to combine these characteristics at this time. This is the objective of web 3.0 for any project nowadays.
+Toño: Yes, I use a lot of VR tools to develop experiences, mostly based on 3D volumetric video capture, and teach VR in schools and universities. I have a lot of experience in this area, especially in the union that is happening, and that we are all looking for, between gaming, the audiovisual industry and art. PatchWorld is an incredible example of this union between the interactive, the audiovisual and the cultural. It looks like a video game but it is a musical tool and at the same time it is culture. Very few tools have managed to combine these characteristics at this time. This is the objective of web 3.0 for any project nowadays.
 
 **Melo: How do you see immersive technology, like PatchWorld, changing the way that we create and experience music in the future?**
 
