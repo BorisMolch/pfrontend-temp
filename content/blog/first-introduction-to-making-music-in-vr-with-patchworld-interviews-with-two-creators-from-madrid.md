@@ -14,7 +14,9 @@ type = "post"
 
 On December 10th, PatchXR held a workshop at the exhibition "**Metaverses: Realities in Transition**" at Matadero Madrid as part of the [LEV Festival](https://levfestival.com/22/en/).
 
-The hands-on workshop, led by Gad Barush Hinkis, product owner at PatchXR, provided an introduction to PatchWorld, our VR music platform to create and perform music in mixed and virtual reality.  
+The hands-on workshop, led by Gad Barush Hinkis, product owner at PatchXR, provided an introduction to PatchWorld, our VR music platform to create and perform music in mixed and virtual reality.
+
+  
 With 10 metaQuest 2 devices, attendees with various backgrounds, including music producers and new media artists, were able to experiment with PatchWorld and discover the endless creative possibilities it offers for music production and live performance.
 
 Check-out Gad setting-up the studio in mixed-reality with the QuestPro  
