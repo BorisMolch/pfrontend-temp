@@ -55,7 +55,7 @@ On a technical and artistic level I also think it has a huge potential. With my 
 
 I actually believe that the social or multiplayer part of PatchWorld can become something not only useful for the industry but also a radical change in the way people enjoy music, period.
 
-![Multiplayer jam in VR](/uploads/illustration-for-blog.jpg "Multiplayer jam in the beta version")
+![Multiplayer jam in Virtual reality in the patchWorld music metaverse](/uploads/illustration-for-blog.jpg "Multiplayer jam in the beta version")
 
 Melo: You mentioned using Ableton, Max4Live, Touchdesigner, Unity 3D, Unreal Engine, Reaper, Logic, AI, synth…. How do you imagine integrating PatchWorld to your workflow? Do you see it as a complementary tool or as a standalone platform for music production and performance?
 
