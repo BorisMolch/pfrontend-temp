@@ -5,11 +5,12 @@ ctatext = ""
 date = 2022-07-07T03:00:00Z
 description = "Now Patch’s fantastical musical worlds are available to all Meta Quest 2 users, live on the Meta Quest Store on July 7!"
 image = "/uploads/fluidechoes.jpeg"
+slug = ""
 title = "PatchWorld is now available on the Meta Quest Store"
 type = "post"
 
 +++
-![](/uploads/fluidechoes.jpeg)
+![a dj playing music with fantasy instruments in VR with PatchWorld ](/uploads/fluidechoes.jpeg)
 
 Thanks to all the work by our team and testers, we’re launching PatchWorld to the public. That means now all Meta Quest 2 users can discover our unprecedented VR toolkit for exploring musical experiences, building original, fanciful instruments, and playing full-immersion live shows.
 
@@ -23,7 +24,7 @@ Play and explore fantastic musical worlds, even without previous musical experie
 
 **SHARE** your creations with the world via built-in video recording - and tons more sharing and community features are still to come.
 
-![](/uploads/rainmaker.jpeg)
+![a performer is playing music in a virtual desert with funny objects](/uploads/rainmaker.jpeg)
 
 **Features at launch:**
 
