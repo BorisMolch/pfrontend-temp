@@ -77,7 +77,7 @@ Melo: As an educator, how do you see PatchWorld fitting into your classroom and 
 
 Toño: As I mentioned above, it is a great educational opportunity. The subject I teach is called "Interactive Audio & XR": mainly Max4live, Touch Designer, Unity 3D, Unreal Engine etc. PatchWorld not only fits in there but would be impossible to replace because it is a mix of all these tools: it has parts of Max4Live, a lot of Unity and Unreal and of course Touchdesigner. And with OSC we can mix everything: synthesizers, drum machines, real musicians in Live or Studio Recording... and so on.
 
-Another huge potential I see is to be able to teach from the XR platform itself. If every student has a VR headset and we create a multiplayer "PatchWorld" with all of them, we could teach the class from the metaverse. That's something incredible. And since you can record your avatar creating projects, that would also be spectacular tutorial material. Online classes are an interesting medium, but I think the future is immersive, as PatchWorld already proposes.
+Another huge potential I see is to be able to teach from the XR platform itself. If every student has a VR headset and we create a multiplayer "PatchWorld" with all of them, we could teach the class from the metaverse. That's something incredible. And since you can record your avatar creating projects, that will also be spectacular tutorial material. Online classes are an interesting medium, but I think the future is immersive, as PatchWorld already proposes.
 
 Melo: Is there anything else you'd like to add or share with other creators about why they should try PatchWorld?
 
