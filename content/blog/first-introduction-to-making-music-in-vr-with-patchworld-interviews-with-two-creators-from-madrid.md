@@ -100,7 +100,7 @@ Melo: What was your overall impression of PatchWorld after using it during the w
 
 Latebris: It was a very amusing discovery for me. I really appreciate that there are devices in PatchWorld for all levels of music production. I'm not an experienced VR user, and it was very easy to start making music with PatchWorld. As I gained confidence with VR, there were also many patching devices for experienced music producers with which I could create my own synths.
 
-Melo: As someone with a background in sound engineering, how do you see PatchWorld fitting into your professional goals and interests? Do you think it has potential as a tool for creating immersive audio experiences, or do you see other areas where it could be particularly useful?
+Melo: As someone with a background in sound engineering, how do you see PatchWorld fitting into your professional goals and interests?
 
 Latebris: PatchWorld has a lot of potential. I think it's a great environment to unleash creativity. You can add your own 3D spaces or create a mixed reality environment, and for me, it opens up many new music creation horizons because I can now create, for example, a mixed live setup with VR synths and hardware synths and this is amazing. I also really appreciate that PatchWorld has many programming synth options.
 
