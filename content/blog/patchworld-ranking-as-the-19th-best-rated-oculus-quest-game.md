@@ -10,7 +10,7 @@ title = "PatchWorld ranking 19th best rated Oculus Quest game"
 type = "post"
 
 +++
-![](/uploads/best-quest-game-dec2022.jpg)
+![the best rated and most popular Quest Games and Apps in December 2022 by Road to VR](/uploads/best-quest-game-dec2022.jpg)
 
 We are excited to share that PatchWorld has been ranked as the 19th best rated Oculus Quest game on the Quest 2 storefront according to Road to VR! With a rating of 4.78 (115 reviews), PatchWorld is listed right after Pistol Whip. Since launch in July 7th, It has received rave reviews from users for its unique and innovative approach to music creation in virtual reality.
 
