@@ -3,10 +3,10 @@ author = "PatchXR"
 ctalink = ""
 ctatext = ""
 date = 2023-01-06T23:00:00Z
-description = "\"PatchWorld is one of the most promising applications in the audio industry\" Says Toño Cabanelas, audiovisual engineer. Hear why creators like him think PatchWorld is the future of music creation."
+description = "\"PatchWorld is one of the most promising applications in the audio industry\" says Toño Cabanelas, audiovisual engineer. Hear why creators like him think PatchWorld is the future of music creation."
 image = "/uploads/levblog.jpg"
 slug = " First-Intro-to-Making-Music-in-VR-with-PatchWorld"
-title = " First Intro to Making Music in VR with PatchWorld: Interviews with Two Creators from Madrid"
+title = " First Intro to Making Music in VR with PatchWorld: Interviews with Two Creators"
 type = "post"
 
 +++
