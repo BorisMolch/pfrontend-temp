@@ -33,7 +33,7 @@ Hi Toño, thank you for joining the workshop and for sharing your thoughts with 
 
 Toño: Hi, I am Audiovisual Engineer, expert in digital arts and 3D computing, specialized in VR, AR, XR, AI, tech arts professor and I am also the founder of [Liveforevr](https://liveforevr.es), a VR concert platform.
 
-I create audiovisual art and support other artists who investigate the intersection between cyber art and live performance. I collaborate with companies, institutions and individuals around the world in pursuit of one goal: to blend the digital with the physical. Our physical and digital worlds continually overlap. What if all aspects of the «real» world existed in both? This is happening right now: the era of 3D immersion, mixed reality, metaverse, decentralization is born…
+I create audiovisual art and support other artists who investigate the intersection between cyber art and live performance. I collaborate with companies, institutions and individuals around the world in pursuit of one goal: to blend the digital with the physical. Our physical and digital worlds continually overlap. This is happening right now: the era of 3D immersion, mixed reality, metaverse, decentralization is born…
 
 I use and teach Ableton, Max4Live, Touchdesigner, Unity 3D, Unreal Engine, Reaper, Logic, AI… microphones, synthesizers, cameras, 3D scanners, light and film projectors, modified speakers… etc.
 
