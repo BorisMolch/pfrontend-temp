@@ -5,11 +5,12 @@ ctatext = ""
 date = 2022-04-29T05:00:00Z
 description = "There's nothing like the feeling of experiencing Patch for yourself. But don't take our word for it - here's a hands-on review. And get ready to play even more, as our friend  tig3rmast3r is back working on powerful new features in Patch, too. Recess is in session; let's hit the playground."
 image = "/uploads/liveatlaval.jpg"
+slug = ""
 title = "A new hands-on review of Patch - and a teaser of Patch as drum machine "
 type = "post"
 
 +++
-![](/uploads/liveatlaval.jpg)
+![Skarredghost of The Ghost Howls blog is playing patchworld at Laval virtual](/uploads/liveatlaval.jpg)
 
 First up, xR/VR blogger Skarredghost of _The Ghost Howls_ visited us at Europe's ultra-hot immersive reality exhibition, Laval Virtual. We were one of their highlights.
 
