@@ -98,7 +98,7 @@ Latebris: Of course, I am an electronic music artist inspired by the cyberpunk w
 
 Melo: What was your overall impression of PatchWorld after using it during the workshop? Were there any particular features or tools that stood out to you as particularly interesting or useful?
 
-Latebris: It was a very amusing discovery for me. I really appreciate that there are devices in PatchWorld for all levels of music production. I'm not an experienced VR user, and it was very easy to start making music on PatchWorld. As I gained confidence with VR, there were also many patching devices for experienced music producers with which I could create my own synths.
+Latebris: It was a very amusing discovery for me. I really appreciate that there are devices in PatchWorld for all levels of music production. I'm not an experienced VR user, and it was very easy to start making music with PatchWorld. As I gained confidence with VR, there were also many patching devices for experienced music producers with which I could create my own synths.
 
 Melo: As someone with a background in sound engineering, how do you see PatchWorld fitting into your professional goals and interests? Do you think it has potential as a tool for creating immersive audio experiences, or do you see other areas where it could be particularly useful?
 
