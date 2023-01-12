@@ -18,7 +18,7 @@ The hands-on workshop, led by Gad Barush Hinkis, product owner at PatchXR, provi
 
 With 10 metaquest2 devices, attendees with various backgrounds, including music producers and new media artists, Vr veterans and newcomers, were able to experiment with PatchWorld and discover the endless creative possibilities it offers for music production and live performance.
 
-![Creators making music in VR](/uploads/screen-shot-2023-01-10-at-15-24-46-copie.jpg)![VR music workshop](/uploads/workshoplev.jpg)
+![girl making music in VR](/uploads/girlplaying-patchblog.jpg)![VR music workshop](/uploads/workshoplev-1.jpg)
 
 Check-out Gad setting-up the studio in colored mixed-reality  
 {{< youtube pkU3sJ2WyyY >}}
@@ -27,7 +27,7 @@ For this article, I interviewed two attendees of the workshop Let's hear about t
 
 **Toño Cabanelas, Audiovisual Engineer, Madrid.**
 
-![](/uploads/tono.jpg)
+![Toño Cabanelas](/uploads/tono-1.jpg)
 
 Hi Toño, thank you for joining the workshop and for sharing your thoughts with us. To start, can you tell us a little bit about yourself and your background ?
 
