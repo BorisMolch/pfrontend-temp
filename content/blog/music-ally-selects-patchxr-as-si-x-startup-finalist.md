@@ -2,14 +2,15 @@
 author = "PatchXR"
 ctalink = ""
 ctatext = ""
-date = 2022-10-26T15:00:00Z
+date = 2022-10-26T15:00:00.000Z
 description = "We're proud to be a finalist in the global Music Ally SI:X program - shortlisted out of a competitive field of music startups announced today, 26 October. "
 image = "/uploads/music-ally-six-finalist-2022-1200x627-px.png"
 slug = "musically-six-finalist"
 title = "Music Ally selects PatchXR as SI:X startup finalist"
 type = "post"
-
+_template = "blog_post"
 +++
+
 ![](/uploads/musically-finalist.png)
 
 And what a round-up of projects, with Patch joining music creation finalists. That's amid other categories including marketing, gaming, live experiences, education, data, and distribution - the full music business spectrum.

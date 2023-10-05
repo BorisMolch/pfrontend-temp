@@ -1,12 +1,13 @@
 +++
 author = "Peter Kirn"
-date = 2021-03-16T23:00:00Z
+date = 2021-03-16T23:00:00.000Z
 description = "Working with Patch means Liminar in Mexico City and Ensemble Contrechamps in Geneva are able to explore new worlds and connect over distances."
 image = "/uploads/ensemble1.jpg"
 title = "How PatchXR can connect classically trained musicians with the virtual - and across distances"
 type = "post"
-
+_template = "blog_post"
 +++
+
 
 ![](/uploads/ensemble1.jpg)
 

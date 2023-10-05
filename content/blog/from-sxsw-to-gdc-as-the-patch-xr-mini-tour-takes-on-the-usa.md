@@ -2,13 +2,14 @@
 author = "PatchXR"
 ctalink = ""
 ctatext = ""
-date = 2022-03-16T00:58:00Z
+date = 2022-03-16T00:58:00.000Z
 description = "Our great American roadshow continues - we’re fresh off a ton of exciting SXSW experiences in Texas, and are now headed for an action-packed few days at San Francisco’s GDC."
 image = "/uploads/new-moscone.jpg"
 title = "From SXSW to GDC, as the Patch XR mini-tour takes on the USA "
 type = "post"
-
+_template = "blog_post"
 +++
+
 ![](/uploads/new-moscone.jpg)
 
 We hit multiple showcases at SXSW:

@@ -2,13 +2,14 @@
 author = "PatchXR"
 ctalink = ""
 ctatext = ""
-date = 2021-11-12T10:00:00Z
+date = 2021-11-12T10:00:00.000Z
 description = "We were honored to share the playground with start-up shaping the music making of the future. "
 image = "/uploads/img_2626.jpg"
 title = "Demoing PatchWorld at Abbey Road Studio"
 type = "post"
-
+_template = "blog_post"
 +++
+
 
 ![](/uploads/img_2626.jpg)
 

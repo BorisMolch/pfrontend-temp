@@ -2,14 +2,15 @@
 author = ""
 ctalink = ""
 ctatext = ""
-date = 2022-11-02T09:00:00Z
+date = 2022-11-02T09:00:00.000Z
 description = "You know Oscar and Tony - but you better know \"Auggie,\" the prize that's been the most recognized AR/VR industry award for over a decade. At AWE EU, PatchXR was named \"Startup to Watch.\" Here's how XR's big night went down."
 image = "/uploads/patchteam-winners.jpg"
 slug = "auggie-award"
-title = "We won an Auggie! PatchXR named \"Startup to Watch\""
+title = 'We won an Auggie! PatchXR named "Startup to Watch"'
 type = "post"
-
+_template = "blog_post"
 +++
+
 ![PatchXR team won an Auggie Award  for best start-up to watch](/uploads/patchteam-winners.jpg "The PatchXR founding team accepts our very handsome-looking Auggie statuette.")
 
 AWE's European edition was already a highlight for us. Then came the icing on the cake: PatchXR was given one of three Auggie Awards for Europe, complete with trophy. It's all thanks to Melodie's pitch in the pitch competition leading up to the juried nominations.

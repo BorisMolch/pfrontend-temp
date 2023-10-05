@@ -2,14 +2,15 @@
 author = "PatchXR"
 ctalink = ""
 ctatext = ""
-date = 2022-12-13T23:00:00Z
+date = 2022-12-13T23:00:00.000Z
 description = "Mixed reality isn’t just a promise for the future - the latest PatchWorld has been expanded so you can play and jam with it right now. We’ve added tons of new features and instruments, with plenty that work on the Meta Quest 2 you may already own -- and still more taking advantage of the Meta Quest Pro."
 image = "/uploads/mr-blogimage.jpg"
 slug = "mixed-reality-is-here"
 title = "Mixed reality transforms how you jam and play: PatchWorld update"
 type = "post"
-
+_template = "blog_post"
 +++
+
 
 ![Mixed reality VR music studio](/uploads/mr-blogimage.jpg)
 

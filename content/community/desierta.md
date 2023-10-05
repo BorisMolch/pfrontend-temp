@@ -1,8 +1,41 @@
 +++
 author = "CNDSD & Ivan Abreu"
 bio = ""
-date = 2021-05-16T22:00:00Z
-description = "**Audiovisual Concert**\n\n**VR + Live Cinema Coding**\n\n_Desierta_ (deserted) takes place in tunnels of London and CDMX, empty subways and deserted cities. The spaces are Creative Commons-licensed scanned and 3D models, which were optimized, modified, and inserted in Patch and in a second 3D environment in the Unity videogame engine. These two spaces become the 3D stages for the concert. Both spaces are mixed with real-time digital composition controlled with live coding. The concert refers to the rarefied feeling of the city depopulated during the pandemic crisis.\n\nThe live act _Desierta_ was the first experimentation in a hybrid concert, a live audiovisual duo of two performers in two universes: the metaverse and the textuality of live coding, which combined two performance processes that generally impregnate different qualities to the music. There are two core elements:\n\n1. The power of Tidal Cycles pattern syntax to abstract sound time with the weightlessness and agility of textuality, impregnating asymmetric and granular progressions to the music. This is characteristic of the style of the compositions of CNDSD (aka Malitzin Cortes)\n2. The gestures of the avatar, activating and patching Patch XR's VR modular synths and sequencers, adding an aesthetic layer full of granular evolutions and patterns of greater symmetry.\n\nMusically, Malitzin played various instruments that she created on Patch.XR and composed the music on Tidal Cycles; Ivan Abreu performed Malitzin's music live.\n\nVisually, Malitzin and digital artist Mariana Mena created and integrated 3D environments. Ivan Abreu programmed and performed the visual narrative live with the various visual sources -- Patch's VR viewfinder camera, a series of engine camera cinematics of Unity videogames, and some Resolume visual effects.\n\nThe stacking of platforms allows visual expression to benefit from live coding since the visual resources are related to the logic of the composition, becoming visualizations of sound algorithms rather than audio-reactive visuals. We call this process “live cinema coding.” For this purpose we have developed a library of functions in Tidal Cycles and a Processing server based on the OSC protocol called “Delivery Bridge Tidal Cycles” that allows manipulating shaders, blending videos, etc. With this we mix the video sources of Patch and the generative real-time graphics of Processing and Unity. Finally, the “live script” in real-time is the musical patterns of Tidal Cycles.\n\nIllustrative (simplified) example:\n\n    do\n    d1 $ sound \"Bass * 2\" # gain 0.8\n    d2 $ composition \"Subway * 2\" # effects “threshold: opacity_1_0_80”\n\nThis Haskell code inside Tidal Cycles uses two layers, d1 and d2. d1 triggers the Bass sample twice \\[sample * 2\\] in each musical cycle. At the same time, d2 also executes the Subway digital video composition effect twice. Code like this generates synesthesia and simultaneity between the visual and the sound.\n\n“Delivery Bridge Tidal Cycles” not only allows us to manipulate generative graphics and live cinema in an algorithmic way, but it also allows us to control lighting, integrate custom musical interfaces, and author electronic devices and video game engines. We are fascinated by the live coding stance with which Alex McLean conceived Tidal Cycles, prioritizing the agile manipulation of time. It's a language that has allowed us to materialize audiovisual or sound and musical artistic ideas focusing on time and its narrative possibility but enhanced by computational processes (conditional, arithmetic on lists, etc.)\n\n  \nThanks to this implementation, we find ways to control and create our own language that is modified on the fly as live coding indicates, but that can be pre-composed, to generate very specific behaviors, we find in it also ways of showing our code and therefore the logic of our compositions.\n\nUndoubtedly, we want to continue working with Patch XR and know what things we put to connect between both worlds, from the performative but also from the code that is a part that we are passionate about.\n\nNow we are also working with the Unreal Engine videogame engine, for some time we have been exploring / incubating other ways of visualizing the logic of musical composition beyond manipulating the pixel surface (digital composition) \\[ [https: // vimeo.com/351080146](https://vimeo.com/351080146) \\] and use the habitability of the 3D and VR environment for our concerts. Without a doubt Patch.XR opened up a whole panorama and big questions for us about the live acts."
+date = 2021-05-16T22:00:00.000Z
+description = """
+**Audiovisual Concert**
+
+**VR + Live Cinema Coding**
+
+_Desierta_ (deserted) takes place in tunnels of London and CDMX, empty subways and deserted cities. The spaces are Creative Commons-licensed scanned and 3D models, which were optimized, modified, and inserted in Patch and in a second 3D environment in the Unity videogame engine. These two spaces become the 3D stages for the concert. Both spaces are mixed with real-time digital composition controlled with live coding. The concert refers to the rarefied feeling of the city depopulated during the pandemic crisis.
+
+The live act _Desierta_ was the first experimentation in a hybrid concert, a live audiovisual duo of two performers in two universes: the metaverse and the textuality of live coding, which combined two performance processes that generally impregnate different qualities to the music. There are two core elements:
+
+1. The power of Tidal Cycles pattern syntax to abstract sound time with the weightlessness and agility of textuality, impregnating asymmetric and granular progressions to the music. This is characteristic of the style of the compositions of CNDSD (aka Malitzin Cortes)
+2. The gestures of the avatar, activating and patching Patch XR's VR modular synths and sequencers, adding an aesthetic layer full of granular evolutions and patterns of greater symmetry.
+
+Musically, Malitzin played various instruments that she created on Patch.XR and composed the music on Tidal Cycles; Ivan Abreu performed Malitzin's music live.
+
+Visually, Malitzin and digital artist Mariana Mena created and integrated 3D environments. Ivan Abreu programmed and performed the visual narrative live with the various visual sources -- Patch's VR viewfinder camera, a series of engine camera cinematics of Unity videogames, and some Resolume visual effects.
+
+The stacking of platforms allows visual expression to benefit from live coding since the visual resources are related to the logic of the composition, becoming visualizations of sound algorithms rather than audio-reactive visuals. We call this process “live cinema coding.” For this purpose we have developed a library of functions in Tidal Cycles and a Processing server based on the OSC protocol called “Delivery Bridge Tidal Cycles” that allows manipulating shaders, blending videos, etc. With this we mix the video sources of Patch and the generative real-time graphics of Processing and Unity. Finally, the “live script” in real-time is the musical patterns of Tidal Cycles.
+
+Illustrative (simplified) example:
+
+    do
+    d1 $ sound "Bass * 2" # gain 0.8
+    d2 $ composition "Subway * 2" # effects “threshold: opacity_1_0_80”
+
+This Haskell code inside Tidal Cycles uses two layers, d1 and d2. d1 triggers the Bass sample twice \\[sample * 2\\] in each musical cycle. At the same time, d2 also executes the Subway digital video composition effect twice. Code like this generates synesthesia and simultaneity between the visual and the sound.
+
+“Delivery Bridge Tidal Cycles” not only allows us to manipulate generative graphics and live cinema in an algorithmic way, but it also allows us to control lighting, integrate custom musical interfaces, and author electronic devices and video game engines. We are fascinated by the live coding stance with which Alex McLean conceived Tidal Cycles, prioritizing the agile manipulation of time. It's a language that has allowed us to materialize audiovisual or sound and musical artistic ideas focusing on time and its narrative possibility but enhanced by computational processes (conditional, arithmetic on lists, etc.)
+
+  
+Thanks to this implementation, we find ways to control and create our own language that is modified on the fly as live coding indicates, but that can be pre-composed, to generate very specific behaviors, we find in it also ways of showing our code and therefore the logic of our compositions.
+
+Undoubtedly, we want to continue working with Patch XR and know what things we put to connect between both worlds, from the performative but also from the code that is a part that we are passionate about.
+
+Now we are also working with the Unreal Engine videogame engine, for some time we have been exploring / incubating other ways of visualizing the logic of musical composition beyond manipulating the pixel surface (digital composition) \\[ [https: // vimeo.com/351080146](https://vimeo.com/351080146) \\] and use the habitability of the 3D and VR environment for our concerts. Without a doubt Patch.XR opened up a whole panorama and big questions for us about the live acts."""
 draft = true
 image = "/uploads/unnamed.jpg"
 item = "patch"
@@ -13,5 +46,6 @@ title = "Desierta"
 twitter = "https://twitter.com/CNDSD_"
 type = ""
 video = "https://vimeo.com/497847561"
-
+_template = "patch_post"
 +++
+

@@ -2,14 +2,15 @@
 author = "PatchXR"
 ctalink = ""
 ctatext = ""
-date = 2022-11-08T04:00:00Z
+date = 2022-11-08T04:00:00.000Z
 description = "The leading European event for the full spectrum of immersive technologies, VRdays has its first-ever Rotterdam edition - and we'll be there, of course!"
 image = "/uploads/meetusatvrdays.jpg"
 slug = "vrdays-2022"
 title = "Catch Patch at Rotterdam's Immersive Tech Week - VRdays"
 type = "post"
-
+_template = "blog_post"
 +++
+
 It's all there for this event, now dubbed Immersive Tech Week. Organizers promise "VR, AR, Mixed Reality, metaverse and multiverses, NFTs, Web3, blockchain, virtual beings, digital twins, haptics, and more." It's the latest incarnation of VRdays Europe, which for years has been a don't-miss event. Everything's happening at the new venue, de Doelen, Schouwburgplein 50.
 
 ![](/uploads/meetmeloatvrdays.jpg)

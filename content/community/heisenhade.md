@@ -1,7 +1,7 @@
 +++
 author = "Charlotte Roschka + Julia Cremers + Daniel Herrmannsdoerfer"
 bio = ""
-date = 2021-11-05T23:00:00Z
+date = 2021-11-05T23:00:00.000Z
 description = "'Heisenhade' is an interactive narrative that illustrates a real-life situation of the Berlin police force busting raves in Park Hasenheide."
 featured_patch = true
 image = "/uploads/heisenbad.jpg"
@@ -11,5 +11,6 @@ location = "Berlin, Germany"
 title = "Heisenhade"
 twitter = ""
 video = "_omUdCWO94g"
-
+_template = "patch_post"
 +++
+

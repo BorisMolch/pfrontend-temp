@@ -2,14 +2,15 @@
 author = "PatchXR"
 ctalink = ""
 ctatext = ""
-date = 2022-10-21T03:00:00Z
+date = 2022-10-21T03:00:00.000Z
 description = "It's a busy day for Patch at AWE EU, the hub for the XR ecosystem. We're pitching Patch competitively, and joining a packed conversation on the power of play. "
 image = "/uploads/aweeu2022bg.jpg"
 slug = "patch-aweEU"
 title = "At AWE EU, we're pitching Patch and talking play in the metaverse "
 type = "post"
-
+_template = "blog_post"
 +++
+
 ![](/uploads/aweeu2022bg.jpg)
 
 First, AWE is hosting a start-up pitch competition - so we're thrilled to join these top innovators in getting to tell our story.

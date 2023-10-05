@@ -9,8 +9,9 @@ image = ""
 slug = ""
 title = "Patchworld: The Ultimate Tool for Musicians Exploring VR"
 type = ""
-
+_template = "blog_post"
 +++
+
 Why PatchWorld is a good tool for musicians looking into Metaverse and VR technologies ?  
   
 **Virtual instruments and effects:** Patchworld offers a wide range of virtual instruments and effects, giving musicians the ability to create music in VR using their own sounds or those provided by the platform.  

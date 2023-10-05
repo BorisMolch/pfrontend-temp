@@ -2,13 +2,14 @@
 author = "PatchXR"
 ctalink = ""
 ctatext = ""
-date = 2021-07-06T16:00:00Z
+date = 2021-07-06T16:00:00.000Z
 description = "It’s a global metaverse intensive lab. We’re excited to announce the participants of our second-ever Patchathon, returning to A MAZE. / Berlin in July!"
 image = "/uploads/moises-still.jpg"
 title = "Patchathon at A MAZE. Berlin brings together worldwide artist participants"
 type = "post"
-
+_template = "blog_post"
 +++
+
 
 ![](/uploads/moises-still.jpg)
 

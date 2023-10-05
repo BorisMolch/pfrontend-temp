@@ -1,9 +1,10 @@
 +++
-date = 2021-08-27T22:00:00Z
+date = 2021-08-27T22:00:00.000Z
 description = "AT PATCHXR : FREELANCE / REMOTE / NOW"
 title = "UI/UX Designer "
-
+_template = "job_post"
 +++
+
 
 **PatchWorld** is the Metaverse to build instruments and play music together in VR. Hang out, Jam, patch, surf the vibes and discover TONES of player-created worlds and shows, or build something new to share with all!! We are looking for a UI/UX designer to work on our graphical interfaces, and improving the general players and creators experiences across the entire game.
 

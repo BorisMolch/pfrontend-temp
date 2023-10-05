@@ -2,14 +2,15 @@
 author = "PatchXR"
 ctalink = "https://overcast.fm/+aFIAjYcdw"
 ctatext = "Listen to the podcast now"
-date = 2021-10-28T23:00:00Z
+date = 2021-10-28T23:00:00.000Z
 description = "Chris Howard joins the acclaimed MusicAlly podcast to explain the metaverse, how it's transforming music - and where Patch fits in."
 image = "/uploads/cleanshot-2021-10-29-at-11-23-54.jpg"
 slug = ""
 title = "Want to understand the musical metaverse? Listen to The Rattle's CEO"
 type = "post"
-
+_template = "blog_post"
 +++
+
 ![PatchXR avatar playing music in VR](/uploads/cleanshot-2021-10-29-at-11-23-54.jpg)
 
 Now the "metaverse" is blowing up as a buzzword - decades after its first appearance in science fiction - with a major boost from Facebook, now renamed Meta. But what does the metaverse actually mean - especially for music?

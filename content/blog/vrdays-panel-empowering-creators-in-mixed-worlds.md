@@ -2,13 +2,14 @@
 author = "PatchXR"
 ctalink = ""
 ctatext = ""
-date = 2021-11-15T16:00:00Z
+date = 2021-11-15T16:00:00.000Z
 description = "With shared online spaces on everyone's mind, our own Edo joined Immersive Tech Week Amsterdam to gaze into the crystal ball and show off Patch. Watch what happened with the panel."
 image = "/uploads/edo-talk.jpg"
 title = "VRdays panel: joining a who's who of leaders to peer into the future of virtual creativity"
 type = "post"
-
+_template = "blog_post"
 +++
+
 
 ![](/uploads/edo-talk.jpg)
 

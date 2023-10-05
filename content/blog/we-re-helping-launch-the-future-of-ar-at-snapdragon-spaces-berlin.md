@@ -2,13 +2,14 @@
 author = "PatchXR"
 ctalink = ""
 ctatext = ""
-date = 2022-07-11T22:02:00Z
+date = 2022-07-11T22:02:00.000Z
 description = "The future's so bright, you gotta wear shades. We're joining hubraum Berlin and Qualcomm Technologies to bring Patch's fantastic musical worlds to the hubraum Snapdragon Spaces Program and a ton of new devices and markets."
 image = "/uploads/group-photo.jpg"
 title = "We're helping launch the future of AR with hubraum Snapdragon Spaces"
 type = "post"
-
+_template = "blog_post"
 +++
+
 ![](/uploads/group-photo.jpg)
 
 It all kicked off at the end of June in Berlin, with big guests from Deutsche Telekom (and T-Mobile US), Qualcomm, Lenovo, and Volucap. We're looking forward to a four-month program ahead that brings Patch to Qualcomm's Snapdragon Spaces XR Developer Platform and gives us access to mentoring from Telekom.

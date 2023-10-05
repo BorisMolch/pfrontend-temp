@@ -1,5 +1,5 @@
 +++
-date = 2021-03-15T23:00:00Z
+date = 2021-03-15T23:00:00.000Z
 description = " "
 draft = false
 image = "/uploads/hanahana-hero.jpg"
@@ -16,7 +16,7 @@ person6 = "Chris Heinrichs"
 person7 = "Joe Williams "
 person8 = "Moisés Horta Valenzuela"
 platform = "HTC Vive, Oculus Rift"
-quote = "\"Watching hands sprout and unfurl like flowers is oddly beautiful !! » "
+quote = '"Watching hands sprout and unfurl like flowers is oddly beautiful !! » '
 quoteauthor = "Holly Nielsen, The Gardian"
 role1 = "Artist /Creative director"
 role2 = "Lead Unity developer"
@@ -40,6 +40,7 @@ title4 = ""
 video = "0WgKCp19DhU"
 videothumb = "/uploads/hanahana-hero.jpg"
 what = "Multiplayer VR experience"
-year = 2020
-
+year = 2_020
+_template = "works"
 +++
+

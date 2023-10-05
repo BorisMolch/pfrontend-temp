@@ -2,14 +2,15 @@
 author = "PatchXR"
 ctalink = ""
 ctatext = ""
-date = 2021-11-06T09:00:00Z
+date = 2021-11-06T09:00:00.000Z
 description = "We were at Websummit in Lisboa in-person, could not be more excited to see people playing again!"
 draft = true
 image = "/uploads/web-summit.jpeg"
 title = "Websummit in Lisbon"
 type = "post"
-
+_template = "blog_post"
 +++
+
 
 ![](/uploads/web-summit.jpeg)
 

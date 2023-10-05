@@ -3,15 +3,16 @@ author = "PatchXR"
 cta = "true"
 ctalink = "https://forms.gle/ywxr1TChjiU376ax6"
 ctatext = "Join the Beta"
-date = 2021-06-28T22:04:00Z
+date = 2021-06-28T22:04:00.000Z
 description = "PatchXR is part of the SwissGames delegation to this year's edition of the Game Developers Conference (GDC), that highlight of the gaming year. And it's a big moment: for the first time, we'll publicly demo PatchWorld, our social musical metaverse."
 featured = "true"
 image = "/uploads/keyart-small.jpg"
 slug = ""
 title = "We're joining GDC - and unveiling PatchWorld for the first time"
 type = "post"
-
+_template = "blog_post"
 +++
+
 ![A patcher surfing a cable](/uploads/keyart-small.jpg)
 
 After years of experience in audio engines and music VR, PatchWorld is the next leap forward - and GDC is the perfect showcase. Due to release at the start of 2022 on Oculus Platform, PatchWorld takes all the musical powers of the Patch engine and opens them to musicians and non-musicians alike. It's more social - so not only can you create your own custom instruments to play, but you can collaborate and play together, and share sounds and ideas, all with a powerful toolset. It's a whole new, fantastic level of deep play for your musical imagination.
