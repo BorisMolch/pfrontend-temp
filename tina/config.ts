@@ -45,21 +45,52 @@ export default defineConfig({
         },
         fields: [
           {
-            name: "dummy",
-            label: "Dummy field",
-            type: "string",
-            description:
-              "This is a dummy field, please replace it with the fields you want to edit. See https://tina.io/docs/schema/ for more info",
+            name: "scroller",
+            label: "Scroller",
+            type: "boolean",
+            fields: [
+              { name: "enable", label: "Enable", type: "boolean" },
+              { name: "speed", label: "Speed", type: "string" },
+              { name: "autohide", label: "Autohide", type: "boolean" },
+              { name: "link", label: "Link", type: "string" },
+              { name: "text", label: "Text", type: "string" }
+            ]
+          },
+          {
+            name: "alert",
+            label: "Alert",
+            type: "boolean",
+            fields: [
+              { name: "enable", label: "Enable", type: "boolean" },
+              { name: "type", label: "Type", type: "string" },
+              { name: "title", label: "Title", type: "string" },
+              { name: "text", label: "Text", type: "string" },
+              { name: "link", label: "Link", type: "string" }
+            ]
+          },
+          {
+            name: "banner",
+            label: "Banner",
+            type: "boolean",
+            fields: [
+              { name: "enable", label: "Enable", type: "boolean" },
+              { name: "title", label: "Title", type: "string" },
+              { name: "logotype", label: "Logotype", type: "string" },
+              { name: "content", label: "Content", type: "string" },
+              { name: "bannertext", label: "Banner Text", type: "string" },
+              { name: "videourl", label: "Video URL", type: "string" },
+              { name: "gif", label: "GIF", type: "string" }
+            ]
           },
         ],
       },
       {
-        format: "yml",
+        format: "yaml",
         label: "Blog settings",
         name: "blog_settings",
         path: "data/en",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
+        frontmatterFormat: "yaml",
+        frontmatterDelimiters: "---",
         ui: {
           allowedActions: {
             create: false,
@@ -322,12 +353,12 @@ export default defineConfig({
         ],
       },
       {
-        format: "yml",
+        format: "yaml",
         label: "FAQ",
         name: "faq",
         path: "data/en",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
+        frontmatterFormat: "yaml",
+        frontmatterDelimiters: "---",
         ui: {
           allowedActions: {
             create: false,
