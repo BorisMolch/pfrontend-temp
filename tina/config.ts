@@ -28,12 +28,10 @@ export default defineConfig({
   schema: {
     collections: [
       {
-        format: "yaml",
+        format: "yml",
         label: "Homepage",
         name: "homepage",
         path: "data/en",
-        frontmatterFormat: "yaml",
-        frontmatterDelimiters: "---",
         ui: {
           allowedActions: {
             create: false,
