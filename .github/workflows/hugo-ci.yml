@@ -18,6 +18,13 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Install Hugo v0.119.0 Extended
+        run: |
+          HUGO_VERSION="v0.119.0"
+          wget https://github.com/gohugoio/hugo/releases/download/${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.deb
+          sudo dpkg -i hugo_extended_${HUGO_VERSION}_Linux-64bit.deb
+
+
       - name : npm ci 
         run: npm ci
 
