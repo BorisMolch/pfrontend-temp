@@ -1,3 +1,7 @@
+---
+_template: patch_post
+---
+
 +++
 author = "Sinbiox"
 bio = "SINBIOX is a visual artist. SINBIOX is a visual mix of Asian street style & underground culture. SINBIOX is a design symbiosis of past and future, that creates new forms of modern life in the art, interior and fashion. Traditions and culture always were a mystery and inspiration, future always will be aspiration and distinct. SINBIOX has become a recognisable symbol of contemporary life with its ethics and aesthetics."

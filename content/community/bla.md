@@ -1,3 +1,7 @@
+---
+_template: patch_post
+---
+
 +++
 author = "Raphael Raccuia & Nicolas Carrel"
 bio = "Raphael Raccuia is an experimental musician, practices improvisation, sound creation, and plays and composes for live performance. He started out as a guitarist, then he turned to various instruments, made from hijacked objects (record players, tape devices, effects, contact microphones), as well as synthesizers. \n\nNicolas Carrel creates  multimedia projects and performances combining literature, sound poetry, music and technology. He is above all sensitive to sound material, experimenting with breath, the word reduced to its phonemes, oral and rhythmic language."

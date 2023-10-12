@@ -1,3 +1,7 @@
+---
+_template: patch_post
+---
+
 +++
 author = "CNDSD & Ivan Abreu"
 bio = ""

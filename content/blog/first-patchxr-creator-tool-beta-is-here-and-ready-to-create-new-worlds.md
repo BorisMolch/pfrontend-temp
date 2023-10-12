@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 author = "PatchXR"
 ctalink = "https://docs.google.com/forms/d/e/1FAIpQLSclGNupdrQz7q37WGlCtb5jzXghsnByTz56CC-kbPaXIeKOmw/viewform"

@@ -1,3 +1,7 @@
+---
+_template: job_post
+---
+
 +++
 date = 2021-08-27T22:00:00Z
 description = "AT PATCHXR : FREELANCE / REMOTE / NOW"

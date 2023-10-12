@@ -1,3 +1,7 @@
+---
+_template: patch_post
+---
+
 +++
 author = "Julien Deblois (debmaster)"
 bio = "Debmaster aka Julien Deblois is known as a beat producer from the hyperactive scene of Kampala (Nyege Nyege) and currently touring all over Europe with MC Yallah. He is very enthusiast about what VR brings to the playground, being able to express something artistic in many different ways is what triggers his creativity"

@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 author = "PatchXR"
 ctalink = "https://www.abbeyroad.com/news/announcing-the-abbey-road-red-playroom-as-part-of-our-amplify-festival-3064"

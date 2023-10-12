@@ -1,3 +1,7 @@
+---
+_template: patch_post
+---
+
 +++
 author = "MOWUKIS + Savages"
 bio = "MOWUKIS is a solo project by french singer songwriter and multi-instrumentalist Louis-Louise Kay. Through multiple collaborations with the mediums of animation, audiovisual installations and videogames, his work explores the relationship between the humble and raw nature of acoustic instruments, intricate electronic sounds, poetry, and visual art.\n\nSavages is a creative firm based in Edgewater, NJ. They focus on extending reality with digital content for agencies, brands, entertainers, and events. "

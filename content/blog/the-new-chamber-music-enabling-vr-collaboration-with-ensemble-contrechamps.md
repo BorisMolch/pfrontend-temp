@@ -1,3 +1,7 @@
+---
+_template: blog_post
+---
+
 +++
 author = "Peter Kirn"
 date = 2021-03-16T23:00:00Z

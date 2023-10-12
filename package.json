@@ -1,0 +1,25 @@
+{
+  "name": "patchxr_web_frontend",
+  "version": "1.0.0",
+  "description": "This is the Website generated with Hugo 0.80.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tinacms": "tinacms"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatchXR/patchXR_web_frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatchXR/patchXR_web_frontend/issues"
+  },
+  "homepage": "https://github.com/PatchXR/patchXR_web_frontend#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.30",
+    "tinacms": "^1.5.21"
+  }
+}

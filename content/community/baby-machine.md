@@ -1,3 +1,7 @@
+---
+_template: patch_post
+---
+
 +++
 author = "Phivos-Angelos Kollias"
 bio = "I am an interactive music composer-developer and a researcher focusing in applying innovative technologies into music projects performed by musicians and algorithms for Interactive Music Performances, Virtual Reality Installations and Video Games. \n\nMy music background is rooted in instrumental classical studies, including a PhD in interactive music composition at the University of Paris VIII and several published articles in peer-reviewed conferences and magazines. Yet my music taste and works range from electronic music, rock/metal to noise and experimental music. "

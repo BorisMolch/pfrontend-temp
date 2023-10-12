@@ -1,3 +1,7 @@
+---
+_template: patch_post
+---
+
 +++
 author = "Charlotte Roschka + Julia Cremers + Daniel Herrmannsdoerfer"
 bio = ""

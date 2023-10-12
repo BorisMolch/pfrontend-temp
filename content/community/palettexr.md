@@ -1,3 +1,7 @@
+---
+_template: patch_post
+---
+
 +++
 author = "Tim Thompson"
 bio = "Tim Thompson is a software engineer, musician, and installation artist. He worked at Bell Labs and AT&T for 20 years in New Jersey, and for Network Appliance in Silicon Valley for 9 years. He is interested in programming languages, algorithmic composition, networked collaboration, atypical controllers, event-driven graphics generation, and realtime video processing."

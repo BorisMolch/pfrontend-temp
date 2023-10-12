@@ -1,3 +1,7 @@
+---
+_template: patch_post
+---
+
 +++
 author = "Ze (Zongxian Huang)"
 bio = ""
