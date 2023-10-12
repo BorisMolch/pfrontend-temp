@@ -21,6 +21,9 @@ jobs:
       - name : npm ci 
         run: npm ci
 
+      - name: Check Hugo Version
+        run: hugo version
+
       - name: Build TinaCMS and the site
         run: npm run tinacms build && hugo
 
