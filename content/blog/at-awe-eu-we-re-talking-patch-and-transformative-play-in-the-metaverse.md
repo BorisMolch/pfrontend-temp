@@ -2,6 +2,7 @@
 title: 'At AWE EU, we''re pitching Patch and talking play in the metaverse '
 slug: patch-aweEU"
 date: 2022-10-21T03:00:00.000Z
+image: /uploads/aweeu2022bg.jpg
 author: PatchXR
 description: >-
   It's a busy day for Patch at AWE EU, the hub for the XR ecosystem. We're
@@ -9,7 +10,6 @@ description: >-
   of play.
 type: post
 ---
-
 
 ![](/uploads/aweeu2022bg.jpg)
 
