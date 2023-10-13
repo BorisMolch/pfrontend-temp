@@ -1,4 +1,5 @@
 ---
+_template: blog_post
 author = "PatchXR"
 ctalink = ""
 ctatext = ""
