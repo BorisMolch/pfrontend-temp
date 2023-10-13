@@ -1,8 +1,5 @@
 ---
 _template: blog_post
----
-
-+++
 author = "PatchXR"
 ctalink = ""
 ctatext = ""
@@ -12,8 +9,8 @@ draft = true
 image = "/uploads/web-summit.jpeg"
 title = "Websummit in Lisbon"
 type = "post"
+---
 
-+++
 
 ![](/uploads/web-summit.jpeg)
 
