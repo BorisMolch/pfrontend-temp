@@ -1,19 +1,17 @@
 ---
-_template: blog_post
+title: 'Patch brings the party to AWE Europe, with our growing team and network'
+slug: awe-eu-2022-report
+date: 2022-11-02T08:00:00.000Z
+image: /uploads/patch-team.jpg
+author: PatchXR
+description: >-
+  Patch’s presence at AWE EU, the essential XR event, transformed exhibition
+  spaces into dance floors and gave Europe the chance to meet some of our newest
+  team members. The week was packed; here are our highlights.
+type: post
 ---
 
-+++
-author = "PatchXR"
-ctalink = ""
-ctatext = ""
-date = 2022-11-02T08:00:00Z
-description = "Patch’s presence at AWE EU, the essential XR event, transformed exhibition spaces into dance floors and gave Europe the chance to meet some of our newest team members. The week was packed; here are our highlights."
-image = "/uploads/patch-team.jpg"
-slug = "awe-eu-2022-report"
-title = "Patch brings the party to AWE Europe, with our growing team and network"
-type = "post"
 
-+++
 ![](/uploads/patch-team.jpg)
 
 AWE EU is a cozy event, but Patch had a big footprint and a schedule jam-packed with meetings. That included bringing along our team for in-person time, including new additions:
