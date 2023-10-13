@@ -1,8 +1,4 @@
 ---
-_template: blog_post
----
-
-+++
 author = ""
 ctalink = ""
 ctatext = ""
@@ -12,8 +8,8 @@ image = "/uploads/patchteam-winners.jpg"
 slug = "auggie-award"
 title = "We won an Auggie! PatchXR named \"Startup to Watch\""
 type = "post"
+---
 
-+++
 ![PatchXR team won an Auggie Award  for best start-up to watch](/uploads/patchteam-winners.jpg "The PatchXR founding team accepts our very handsome-looking Auggie statuette.")
 
 AWE's European edition was already a highlight for us. Then came the icing on the cake: PatchXR was given one of three Auggie Awards for Europe, complete with trophy. It's all thanks to Melodie's pitch in the pitch competition leading up to the juried nominations.
