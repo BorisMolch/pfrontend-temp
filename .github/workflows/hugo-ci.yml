@@ -50,6 +50,9 @@ jobs:
           SSH_KEY: ${{ secrets.SSH_KEY }}
           SSH_HOST: ${{ secrets.SSH_HOST }}
 
-      - name: Deploy to Linode
-        run: ssh linode 'cd /apps/patchXR_web_frontend/ && git pull && hugo -d public'
+      - name: Update Repo and Deploy to Linode
+        run: |
+          ssh linode 'cd /apps/patchXR_web_frontend/ && git pull'
+          rsync -av public/ linode:/apps/patchXR_web_frontend/public/
 
+           
