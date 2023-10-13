@@ -1,17 +1,19 @@
 ---
-_template: blog_post
+title: 'At AWE EU, we''re pitching Patch and talking play in the metaverse '
+slug: patch-aweEU"
+date: 2022-10-21T03:00:00.000Z
+author: PatchXR
+description: >-
+  It's a busy day for Patch at AWE EU, the hub for the XR ecosystem. We're
+  pitching Patch competitively, and joining a packed conversation on the power
+  of play.
+type: post
 ---
 
 +++
-author = "PatchXR"
-ctalink = ""
-ctatext = ""
-date = 2022-10-21T03:00:00Z
-description = "It's a busy day for Patch at AWE EU, the hub for the XR ecosystem. We're pitching Patch competitively, and joining a packed conversation on the power of play. "
+
 image = "/uploads/aweeu2022bg.jpg"
-slug = "patch-aweEU"
-title = "At AWE EU, we're pitching Patch and talking play in the metaverse "
-type = "post"
+
 
 +++
 ![](/uploads/aweeu2022bg.jpg)
@@ -26,9 +28,9 @@ On tap: "We’ll explore questions around fandom, business models, the creator e
 
 Check out the other speakers:
 
-Elaine Wong, Games Business Development, PICO  
-Sandra Helou, Co-founder/CCO, Metapolis  
-Maud Clavier, COO, VRrOOm  
+Elaine Wong, Games Business Development, PICO\
+Sandra Helou, Co-founder/CCO, Metapolis\
+Maud Clavier, COO, VRrOOm\
 Anne McKinnon, Co-founder/CEO, Ristband
 
 And of course, Patch takes play beyond just gaming, to playing music and exploring imagination. We're all looking forward to what comes of this meeting of minds.
