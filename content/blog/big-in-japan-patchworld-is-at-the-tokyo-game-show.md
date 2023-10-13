@@ -1,19 +1,16 @@
 ---
-_template: blog_post
+
+author : "PatchXR"
+ctalink : ""
+ctatext : ""
+date : 2022-09-12T06:00:00Z
+description : "We’re bringing our fantastic musical worlds to the XR/AR area at Tokyo Game Show - and that’s just the beginning of Patch’s plans for Japan."
+image : "/uploads/tokyogameshow.jpg"
+slug : ""
+title : "Big in Japan: PatchWorld is in person at the Tokyo Game Show"
+type : "post"
+
 ---
-
-+++
-author = "PatchXR"
-ctalink = ""
-ctatext = ""
-date = 2022-09-12T06:00:00Z
-description = "We’re bringing our fantastic musical worlds to the XR/AR area at Tokyo Game Show - and that’s just the beginning of Patch’s plans for Japan."
-image = "/uploads/tokyogameshow.jpg"
-slug = ""
-title = "Big in Japan: PatchWorld is in person at the Tokyo Game Show"
-type = "post"
-
-+++
 ![tokyo Gameshow 2022 poster](/uploads/tokyogameshow.jpg)
 
 Tokyo Game Show is back to an in-person, physical experience from September 15 - 19. And Hot on the heels of a fast-paced series of summer updates and the launch on the Meta Quest Store, Patch will be there. It’s the beginning of expanded involvement in Japan, including a Patchathon at the renowned audiovisual festival MUTEK Japan later this year and the addition of Koki Sugiyama to our team.
