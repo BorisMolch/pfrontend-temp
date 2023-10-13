@@ -10,12 +10,7 @@ description: >-
 type: post
 ---
 
-+++
 
-image = "/uploads/aweeu2022bg.jpg"
-
-
-+++
 ![](/uploads/aweeu2022bg.jpg)
 
 First, AWE is hosting a start-up pitch competition - so we're thrilled to join these top innovators in getting to tell our story.
