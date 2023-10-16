@@ -1,19 +1,14 @@
 ---
-_template: blog_post
+author: "PatchXR"
+ctalink: ""
+ctatext: ""
+date: 2022-10-05T22:03:00Z
+description: "The Musicverse has landed in Japan. Our team is back from Tokyo Game Show, complete with rave reviews (and raving) from fans - and all the pictures of mushrooms and costumed characters we expected."
+image: "/uploads/patch-tgs2.jpg"
+slug: "patch-tokyo-game-show"
+title: "Tokyo Game Show report: PatchWorld meets creativity in Japan"
+type: "post"
 ---
-
-+++
-author = "PatchXR"
-ctalink = ""
-ctatext = ""
-date = 2022-10-05T22:03:00Z
-description = "The Musicverse has landed in Japan. Our team is back from Tokyo Game Show, complete with rave reviews (and raving) from fans - and all the pictures of mushrooms and costumed characters we expected."
-image = "/uploads/patch-tgs2.jpg"
-slug = "patch-tokyo-game-show"
-title = "Tokyo Game Show report: PatchWorld meets creativity in Japan"
-type = "post"
-
-+++
 ![](/uploads/patch-tgs2.jpg)
 
 “They just said, wow!” says Koki Sugiyama, Patch’s latest team member - and a veteran of the educational program for the renowned MUTEK Japan media festival. “Once we explained, they were curious to play.” We’re also grateful to Koki both for his perspective and the ability to speak to TGS attendees in native Japanese.

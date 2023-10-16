@@ -1,19 +1,14 @@
 ---
-_template: blog_post
+author: "PatchXR"
+ctalink: ""
+ctatext: ""
+date: 2022-12-09T23:00:00Z
+description: "PatchWorld has been named one of the Best Creative Tools in Meta's round-up of the Best of Quest 2022. And there's still time to grab a steep discount if it's not already in your library."
+image: "/uploads/best-creative-tools-on-quest.jpg"
+slug: "best-of-2022"
+title: "Meta names PatchWorld among the best of Quest 2022 "
+type: "post"
 ---
-
-+++
-author = "PatchXR"
-ctalink = ""
-ctatext = ""
-date = 2022-12-09T23:00:00Z
-description = "PatchWorld has been named one of the Best Creative Tools in Meta's round-up of the Best of Quest 2022. And there's still time to grab a steep discount if it's not already in your library."
-image = "/uploads/best-creative-tools-on-quest.jpg"
-slug = "best-of-2022"
-title = "Meta names PatchWorld among the best of Quest 2022 "
-type = "post"
-
-+++
 ![](/uploads/best-creative-tools-on-quest.jpg)
 
 PatchWorld gets a top spot in Meta's round-up of Best Creative Tools - "the best tools to embrace your inner artist."

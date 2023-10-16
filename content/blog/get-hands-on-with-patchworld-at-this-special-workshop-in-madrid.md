@@ -1,19 +1,14 @@
 ---
-_template: blog_post
+author: "PatchXR"
+ctalink: ""
+ctatext: ""
+date: 2022-12-07T08:00:00Z
+description: "Don't just hear about PatchWorld - try it yourself. With L.E.V. and Matadero Madrid, we're presenting an in-depth, hands-on workshop on 10 December introducing you to fully-immersive music creation."
+image: "/uploads/patch-madrid-flyer-crop.jpg"
+slug: "patchworld-madrid-lev"
+title: "Get hands-on with PatchWorld at this special workshop in Madrid"
+type: "post"
 ---
-
-+++
-author = "PatchXR"
-ctalink = ""
-ctatext = ""
-date = 2022-12-07T08:00:00Z
-description = "Don't just hear about PatchWorld - try it yourself. With L.E.V. and Matadero Madrid, we're presenting an in-depth, hands-on workshop on 10 December introducing you to fully-immersive music creation."
-image = "/uploads/patch-madrid-flyer-crop.jpg"
-slug = "patchworld-madrid-lev"
-title = "Get hands-on with PatchWorld at this special workshop in Madrid"
-type = "post"
-
-+++
 ![](/uploads/patch-madrid-flyer.jpeg)
 
 We're especially excited to be heading to L.E.V. - Laboratorio de Electrónica Visual - this week. Madrid's event is one of the must-experience dates on the audiovisual calendar. We have a compelling backdrop, too, for the workshop - the exhibition [_Metaverses: Realities in Transition_](https://levfestival.com/22/en/lev-madrid/metaversos-realidades-en-transicion/) explores the possibilities of this emerging medium.

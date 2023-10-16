@@ -1,19 +1,14 @@
 ---
-_template: blog_post
+author: "PatchXR"
+ctalink: ""
+ctatext: ""
+date: 2021-10-15T04:00:00Z
+description: "A \"knowledge company\" to the global music business, Music Ally explains why Patch XR is part of the startup ecosystem \"worth your attention.\""
+image: "/uploads/thereport.jpg"
+slug: ""
+title: "PatchXR gets Music Ally nod as one of 2021's most promising startups"
+type: "post"
 ---
-
-+++
-author = "PatchXR"
-ctalink = ""
-ctatext = ""
-date = 2021-10-15T04:00:00Z
-description = "A \"knowledge company\" to the global music business, Music Ally explains why Patch XR is part of the startup ecosystem \"worth your attention.\""
-image = "/uploads/thereport.jpg"
-slug = ""
-title = "PatchXR gets Music Ally nod as one of 2021's most promising startups"
-type = "post"
-
-+++
 ![The most promising start-up in 2021 by Musically](/uploads/thereport.jpg)
 
 PatchXR made Music Ally's third-quarter 2021 list, the "A to V of promising startups in 2021." And they're bullish on the state of that larger network as a whole, too:

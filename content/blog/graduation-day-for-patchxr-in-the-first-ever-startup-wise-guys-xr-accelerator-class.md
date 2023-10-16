@@ -1,19 +1,14 @@
 ---
-_template: blog_post
+author: "PatchXR"
+ctalink: ""
+ctatext: ""
+date: 2022-11-18T09:00:00Z
+description: "Cue Pomp and Circumstance and get ready to throw your hats - ooh, don't throw those headsets, though, please. PatchXR graduated this month from the first-ever XR accelerator at Startup Wise Guys, in an incredible class of new projects."
+image: "/uploads/wiseguys-class1.jpg"
+slug: "swg-graduation-day"
+title: "Graduation day for PatchXR in the first-ever Startup Wise Guys XR accelerator"
+type: "post"
 ---
-
-+++
-author = "PatchXR"
-ctalink = ""
-ctatext = ""
-date = 2022-11-18T09:00:00Z
-description = "Cue Pomp and Circumstance and get ready to throw your hats - ooh, don't throw those headsets, though, please. PatchXR graduated this month from the first-ever XR accelerator at Startup Wise Guys, in an incredible class of new projects."
-image = "/uploads/wiseguys-class1.jpg"
-slug = "swg-graduation-day"
-title = "Graduation day for PatchXR in the first-ever Startup Wise Guys XR accelerator"
-type = "post"
-
-+++
 
 ![](/uploads/wiseguys-class1.jpg)
 

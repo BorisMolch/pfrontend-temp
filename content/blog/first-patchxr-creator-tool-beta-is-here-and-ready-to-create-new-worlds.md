@@ -1,18 +1,13 @@
 ---
-_template: blog_post
+author: "PatchXR"
+ctalink: "https://docs.google.com/forms/d/e/1FAIpQLSclGNupdrQz7q37WGlCtb5jzXghsnByTz56CC-kbPaXIeKOmw/viewform"
+ctatext: "Register for the beta now"
+date: 2022-01-25T00:00:00Z
+description: "Inbound: the PatchXR creator tool beta will open doors to new creative powers in the metaverse. To get your golden ticket, register now."
+image: "/uploads/beta-image.jpg"
+title: "First PatchXR creator tool beta is here - and ready to create new worlds"
+type: "post"
 ---
-
-+++
-author = "PatchXR"
-ctalink = "https://docs.google.com/forms/d/e/1FAIpQLSclGNupdrQz7q37WGlCtb5jzXghsnByTz56CC-kbPaXIeKOmw/viewform"
-ctatext = "Register for the beta now"
-date = 2022-01-25T00:00:00Z
-description = "Inbound: the PatchXR creator tool beta will open doors to new creative powers in the metaverse. To get your golden ticket, register now."
-image = "/uploads/beta-image.jpg"
-title = "First PatchXR creator tool beta is here - and ready to create new worlds"
-type = "post"
-
-+++
 ![](/uploads/beta-image.jpg "Image shown is captured in-engine.")
 
 [Sign up](https://docs.google.com/forms/d/e/1FAIpQLSclGNupdrQz7q37WGlCtb5jzXghsnByTz56CC-kbPaXIeKOmw/viewform) for the beta; we'll gradually be opening access in smaller groups, just to make sure we provide lots of high-quality, hands-on interaction with our team. Register now and you'll be first in line.

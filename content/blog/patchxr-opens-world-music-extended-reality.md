@@ -5,7 +5,6 @@ image: "/uploads/automata.jpg"
 author: Ewen Chardronnet
 description: Published on Makery, the 3 October 2020 by Ewen Chardronnet
 type: post
-
 ---
 ![an exemple of a virtual music machine in PatchWorld](/uploads/automata.jpg)
 
