@@ -1,19 +1,14 @@
 ---
-_template: blog_post
+author: "PatchXR"
+ctalink: ""
+ctatext: ""
+date: 2021-08-05T07:00:00Z
+description: "Across eight time zones, artists from poets to singers to visual artists and technologists created a dizzying array of new worlds in Patch in July."
+image: "/uploads/patchathon-still.jpg"
+slug: ""
+title: "Watch as Patchathon participants push the envelope of Patch's powers"
+type: "post"
 ---
-
-+++
-author = "PatchXR"
-ctalink = ""
-ctatext = ""
-date = 2021-08-05T07:00:00Z
-description = "Across eight time zones, artists from poets to singers to visual artists and technologists created a dizzying array of new worlds in Patch in July."
-image = "/uploads/patchathon-still.jpg"
-slug = ""
-title = "Watch as Patchathon participants push the envelope of Patch's powers"
-type = "post"
-
-+++
 ![creation by Paula OS in PatchWorld VR](/uploads/patchathon-still.jpg)
 
 It's our second-ever Patchathon - returning to the virtual/hybrid A MAZE. Berlin "international games and playful media festival." And we're all still basking in the glow of the results. An incredible gathering of international artists got to learn new skills and explore ideas with one another and expand our image of what Patch can do.

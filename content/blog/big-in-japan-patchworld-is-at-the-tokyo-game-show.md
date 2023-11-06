@@ -1,15 +1,13 @@
 ---
-
-author : "PatchXR"
-ctalink : ""
-ctatext : ""
-date : 2022-09-12T06:00:00Z
-description : "We’re bringing our fantastic musical worlds to the XR/AR area at Tokyo Game Show - and that’s just the beginning of Patch’s plans for Japan."
-image : "/uploads/tokyogameshow.jpg"
-slug : ""
-title : "Big in Japan: PatchWorld is in person at the Tokyo Game Show"
-type : "post"
-
+author: "PatchXR"
+ctalink: ""
+ctatext: ""
+date: 2022-09-12T06:00:00.000Z
+description: "We’re bringing our fantastic musical worlds to the XR/AR area at Tokyo Game Show - and that’s just the beginning of Patch’s plans for Japan."
+image: "/uploads/tokyogameshow.jpg"
+slug: ""
+title: "Big in Japan: PatchWorld is in person at the Tokyo Game Show"
+type: "post"
 ---
 ![tokyo Gameshow 2022 poster](/uploads/tokyogameshow.jpg)
 

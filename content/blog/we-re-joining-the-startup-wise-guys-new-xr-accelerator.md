@@ -1,19 +1,14 @@
 ---
-_template: blog_post
+author: "PatchXR"
+ctalink: ""
+ctatext: ""
+date: 2022-06-28T22:00:00Z
+description: "The Wise Guys are set to \"speed up the arrival of the meta world\" - and Patch joins a group that comes from a big array of places - and brings a wide range of big ideas."
+image: "/uploads/wiseguys1.jpg"
+slug: ""
+title: "We're joining the Startup Wise Guys' new XR accelerator"
+type: "post"
 ---
-
-+++
-author = "PatchXR"
-ctalink = ""
-ctatext = ""
-date = 2022-06-28T22:00:00Z
-description = "The Wise Guys are set to \"speed up the arrival of the meta world\" - and Patch joins a group that comes from a big array of places - and brings a wide range of big ideas."
-image = "/uploads/wiseguys1.jpg"
-slug = ""
-title = "We're joining the Startup Wise Guys' new XR accelerator"
-type = "post"
-
-+++
 ![all the XR start-up on a group picture](/uploads/wiseguys1.jpg)
 
 Centered at the new Startup Wise Guys hub in Malaga, Spain, we join a group of 10 international teams from as far afield as China, South Africa, Armenia, and Jamaica. SWG will pair us with investment, an intensive 5-month program, and connections to a network that includes over 350 mentors and 200 investors.

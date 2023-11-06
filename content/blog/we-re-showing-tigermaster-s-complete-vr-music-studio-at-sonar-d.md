@@ -1,19 +1,14 @@
 ---
-_template: blog_post
+author: "PatchXR"
+ctalink: ""
+ctatext: ""
+date: 2022-06-14T22:00:00Z
+description: "Not just an instrument or musical toy or tech demo - Riccardo Ferri is building a complete live set and entire metaverse-native studio in Patch. And where better than the international conference of musical futurism, Barcelona's SÓNAR+D, to show it off? Here's a sneak peek - and a chance to see it live and in-person if you're at SÓNAR. "
+image: "/uploads/studio2.JPG"
+slug: ""
+title: "Riccardo Ferri's complete VR music studio - this week at SONAR+D"
+type: "post"
 ---
-
-+++
-author = "PatchXR"
-ctalink = ""
-ctatext = ""
-date = 2022-06-14T22:00:00Z
-description = "Not just an instrument or musical toy or tech demo - Riccardo Ferri is building a complete live set and entire metaverse-native studio in Patch. And where better than the international conference of musical futurism, Barcelona's SÓNAR+D, to show it off? Here's a sneak peek - and a chance to see it live and in-person if you're at SÓNAR. "
-image = "/uploads/studio2.JPG"
-slug = ""
-title = "Riccardo Ferri's complete VR music studio - this week at SONAR+D"
-type = "post"
-
-+++
 ![Virtual Music Studio](/uploads/studio2.JPG)
 
 Composer and sonic inventor Riccardo Ferri has already made a name as a stand-out innovator in the Patch community (where he goes by the handle Tigermaster). With his own deep-rooted history in electronic music - he's been a major name in record releases [back to 1994](https://www.discogs.com/artist/47582-Riccardo-Ferri?sort=year%2Casc&limit=25&type=Credits&filter_anv=0) - Patch is both a match for his technical imagination and experience and a way to play in new ways.
