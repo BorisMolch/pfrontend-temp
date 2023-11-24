@@ -9,7 +9,7 @@ description: >-
   community. You’ll be able to bring in your own avatars. And we’re featuring
   the instruments and worlds you create, plus hosting events, workshops, and
   tutorials created by and for our users.
-type: blog
+type: post
 ---
 
 ### November update new features and improvements
@@ -20,11 +20,10 @@ New in this update:
 
 * Support for Ready Player Me avatars
 * World suggestions and improved search for worlds and other players
-* New community page on the hub 
+* New community page on the hub
 * Portal Blocks
 * 20 new ready-made worlds, created by pro patchers
 * 10 new instruments and devices
-
 
 Fixes and improvements:
 
@@ -44,11 +43,9 @@ The Community Page on the Hub now gives you access to worlds, devices, and other
 
 Choose Spawn Portal, and you can create a gateway from any world to any other world, opening up endless journeys and the opportunity to take your friends along for the ride.
 
-
-
 ![](</snapshot_Franks Device Island-2023-11-21_10-46-43.png>)
 
-### More content and events 
+### More content and events
 
 Open up PatchWorld, and you’ll find new categories full of ways to learn more about patching, jam with others, and explore the instruments and worlds created by our amazing users.
 
