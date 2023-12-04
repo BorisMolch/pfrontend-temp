@@ -51,7 +51,7 @@ Multiplayer has been fun, but they have yet to build something together.  That'
 
 My dual foundational fascinations are puppetry and animation.  But my musical upbringing has woven itself into my play.  So, much of what I do carries with it an alter ego - voices that are exaggerated versions of me.  My style leans on the more scribbly/messy side and my worlds reflect that. I've been a performer nearly all of my life, and that experience has transferred quite nicely into my teaching.  Patch is almost instantly a puppet show/cartoon - so I fell in love with it without much trouble.
 
-Play puts us in self-perpetuated crises.  We form bonds as collaborators in that space. As one of my favorite artists, Lyndra Barry, puts it - we learn how “to be able to stand not knowing long enough for something alive to take shape.” [https://thegreatcomicbookheroes.blogspot.com/2013/12/lynda-barrys-two-questions.html](https://thegreatcomicbookheroes.blogspot.com/2013/12/lynda-barrys-two-questions.html)
+Play puts us in self-perpetuated crises.  We form bonds as collaborators in that space. As one of my favorite artists, Lyndra Barry, [puts it](https://thegreatcomicbookheroes.blogspot.com/2013/12/lynda-barrys-two-questions.html) - we learn how “to be able to stand not knowing long enough for something alive to take shape.” 
 
 **For more of what Todd offers, check his full playlist of Patchworld tutorials:**
 
