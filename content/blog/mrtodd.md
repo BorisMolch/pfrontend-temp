@@ -15,7 +15,7 @@ type: post
 
 Todd is boundless in his energy as an artist and educator, and he’s putting Patch to use in exploring that energy with both. Cacophony is Todd’s stock in trade - you can see it in that classroom. 
 
-{{\< youtube Uf8TNxmxFjg >}}
+{{< youtube Uf8TNxmxFjg >}}
 
 The addiction started in 1992, he says, with a Technics KN750 keyboard and “its amazing ability to write original background loops.” Those led to demos for his touring indie band. In 2011, he jumped into an iPod touch, Bluetooth MIDI, daisy-chained iPads, and controllers - even a roll-up floor piano and Omnichord. For extra mayhem, there were 15 individual signals routed into a single phone.
 
@@ -31,7 +31,7 @@ Now, we all get in on the fun. That appetite for the bleeding edge of musical te
 
 Then I read that Patchworld had plans to do beta testing of multiplayer.  This was the engagement I was looking for in the classroom.  I envisioned groups of students making music and building environments within this new format.  As I learned more about the community of Patchworld developers and users, I found a kind, like-minded collective of artful mistfits like me.  I made new friends who would become my collaborators, and in March of this year, I threw caution to the wind and elbowed my way to working the Patchworld booth at the Game Developers Conference in San Francisco.  The performance aspect of Patchworld allowed me to showcase my goofy stage persona that I'd been honing for 20 years. And in the months after, I've been fortunate to facilitate our weekly workshops where we come together to share our findings.  
 
-{{\< youtube 8ys4z\_nF7U0 >}}
+{{ < youtube 8ys4z\_nF7U0 >}}
 
 **How are you working with the kids; how do you introduce them to all this material?**
 
@@ -55,6 +55,6 @@ Play puts us in self-perpetuated crises.  We form bonds as collaborators in tha
 
 **For more of what Todd offers, check his full playlist of Patchworld tutorials:**
 
-{{\< youtube BojxeSFQMUg >}}
+{{ < youtube BojxeSFQMUg >}}
 
 This is the first in a new series on our users, as we highlight all the amazing stuff you're doing in the Patch community. See our recent news item for more on our expanded community updates - and how the last update fits in. And don't be shy - if you've got stuff you want featured, let us know!
