@@ -15,7 +15,7 @@ type: blog
 
 Todd is boundless in his energy as an artist and educator, and he’s putting Patch to use in exploring that energy with both. Cacophony is Todd’s stock in trade - you can see it in that classroom. 
 
-https\://youtu.be/Uf8TNxmxFjg?feature=shared
+{{\< youtube Uf8TNxmxFjg >}
 
 The addiction started in 1992, he says, with a Technics KN750 keyboard and “its amazing ability to write original background loops.” Those led to demos for his touring indie band. In 2011, he jumped into an iPod touch, Bluetooth MIDI, daisy-chained iPads, and controllers - even a roll-up floor piano and Omnichord. For extra mayhem, there were 15 individual signals routed into a single phone.
 
@@ -27,9 +27,11 @@ Now, we all get in on the fun. That appetite for the bleeding edge of musical te
 
 **Patch: How did you get into mixing teaching music and Patch?**
 
-**Todd: **Right when I started, I had an eye for the growing world of VR.  I used the crowd-funding site Donor's Choose to get our first two headsets and figured out how to connect it all together. 
+**Todd:** Right when I started, I had an eye for the growing world of VR.  I used Donor's Choose's crowd-funding site to get our first two headsets and figured out how to connect it all together. 
 
 Then I read that Patchworld had plans to do beta testing of multiplayer.  This was the engagement I was looking for in the classroom.  I envisioned groups of students making music and building environments within this new format.  As I learned more about the community of Patchworld developers and users, I found a kind, like-minded collective of artful mistfits like me.  I made new friends who would become my collaborators, and in March of this year, I threw caution to the wind and elbowed my way to working the Patchworld booth at the Game Developers Conference in San Francisco.  The performance aspect of Patchworld allowed me to showcase my goofy stage persona that I'd been honing for 20 years. And in the months after, I've been fortunate to facilitate our weekly workshops where we come together to share our findings.  
+
+{{\< youtube 8ys4z\_nF7U0 >}}
 
 **How are you working with the kids; how do you introduce them to all this material?**
 
@@ -41,7 +43,7 @@ Each group can do different things and is fascinated by various aspects of the a
 
 ![](</class in session.jpg>)
 
-**How is multiplayer working with the kids? **
+**How is multiplayer working with the kids?**
 
 Multiplayer has been fun, but they have yet to build something together.  That's the next step.  I've been in there with them a couple of times and it's wild.  I’ve turned on passthrough so we can actually move around the room without running into each other. I can spawn items and show the music they can make or just generate things they ask for.  We laugh a lot together.
 
@@ -49,20 +51,10 @@ Multiplayer has been fun, but they have yet to build something together.  That'
 
 My dual foundational fascinations are puppetry and animation.  But my musical upbringing has woven itself into my play.  So, much of what I do carries with it an alter ego - voices that are exaggerated versions of me.  My style leans on the more scribbly/messy side and my worlds reflect that. I've been a performer nearly all of my life, and that experience has transferred quite nicely into my teaching.  Patch is almost instantly a puppet show/cartoon - so I fell in love with it without much trouble.
 
-Play puts us in self-perpetuated crises.  We form bonds as collaborators in that space. As one of my favorite artists, Lyndra Barry, puts it - we learn how “to be able to stand not knowing long enough for something alive to take shape.” https\://thegreatcomicbookheroes.blogspot.com/2013/12/lynda-barrys-two-questions.html
+Play puts us in self-perpetuated crises.  We form bonds as collaborators in that space. As one of my favorite artists, Lyndra Barry, puts it - we learn how “to be able to stand not knowing long enough for something alive to take shape.” [https://thegreatcomicbookheroes.blogspot.com/2013/12/lynda-barrys-two-questions.html](https://thegreatcomicbookheroes.blogspot.com/2013/12/lynda-barrys-two-questions.html)
 
 **For more of what Todd offers, check his full playlist of Patchworld tutorials:**
 
-in the classroom
-
-https\://youtu.be/Uf8TNxmxFjg?feature=shared
-
-Patchworld tutorials
-
-https\://youtu.be/BojxeSFQMUg?feature=shared
-
-Multiplayer class
-
-[https://youtu.be/BojxeSFQMUg?feature=shared](https://youtu.be/BojxeSFQMUg?feature=shared)
+{{\< youtube BojxeSFQMUg >}}
 
 This is the first in a new series on our users, as we highlight all the amazing stuff you're doing in the Patch community. See our recent news item for more on our expanded community updates - and how the last update fits in. And don't be shy - if you've got stuff you want featured, let us know!
