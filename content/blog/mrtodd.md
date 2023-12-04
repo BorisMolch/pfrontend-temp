@@ -7,7 +7,7 @@ author: PatchXR
 description: >-
   Todd Fadel’s class is in session. And wherever he goes, you get that
   first-day-back, kid-with-new-school-supplies, all-your-friends are-here
-  giddiness. In the virtual realm of Patchworld, Mr. Todd’s Caucophony is lined
+  giddiness. In the virtual realm of Patchworld, Mr. Todd’s Cacophony is lined
   with virtual chairs, cute posters on the wall, and displays of how to navigate
   Patch’s controls. In the physical world, kids are squealing with excitement.
 type: post
