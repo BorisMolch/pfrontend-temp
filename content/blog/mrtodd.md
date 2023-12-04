@@ -10,7 +10,7 @@ description: >-
   giddiness. In the virtual realm of Patchworld, Mr. Todd’s Caucophony is lined
   with virtual chairs, cute posters on the wall, and displays of how to navigate
   Patch’s controls. In the physical world, kids are squealing with excitement.
-type: blog
+type: post
 ---
 
 Todd is boundless in his energy as an artist and educator, and he’s putting Patch to use in exploring that energy with both. Cacophony is Todd’s stock in trade - you can see it in that classroom. 
