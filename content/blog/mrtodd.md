@@ -15,7 +15,7 @@ type: post
 
 Todd is boundless in his energy as an artist and educator, and he’s putting Patch to use in exploring that energy with both. Cacophony is Todd’s stock in trade - you can see it in that classroom. 
 
-{{\< youtube Uf8TNxmxFjg >}
+{{\< youtube Uf8TNxmxFjg >}}
 
 The addiction started in 1992, he says, with a Technics KN750 keyboard and “its amazing ability to write original background loops.” Those led to demos for his touring indie band. In 2011, he jumped into an iPod touch, Bluetooth MIDI, daisy-chained iPads, and controllers - even a roll-up floor piano and Omnichord. For extra mayhem, there were 15 individual signals routed into a single phone.
 
