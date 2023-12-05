@@ -31,8 +31,6 @@ Now, we all get in on the fun. That appetite for the bleeding edge of musical te
 
 Then I read that Patchworld had plans to do beta testing of multiplayer.  This was the engagement I was looking for in the classroom.  I envisioned groups of students making music and building environments within this new format.  As I learned more about the community of Patchworld developers and users, I found a kind, like-minded collective of artful mistfits like me.  I made new friends who would become my collaborators, and in March of this year, I threw caution to the wind and elbowed my way to working the Patchworld booth at the Game Developers Conference in San Francisco.  The performance aspect of Patchworld allowed me to showcase my goofy stage persona that I'd been honing for 20 years. And in the months after, I've been fortunate to facilitate our weekly workshops where we come together to share our findings.  
 
-{{< youtube id=" 8ys4z\_nF7U0" >}}
-
 **How are you working with the kids; how do you introduce them to all this material?**
 
 We had seven Meta Quest 2 headsets donated to the music room, and I break classes up into small teams that rotate through stations, and the headsets only run Patch on them.  I set up a simple tutorial in the app that shows them how to move around, bring objects into a space, and save their creations.  I also had them draw pictures of what they'd like to make in the app - envisioning their worlds before they learn.  
@@ -55,6 +53,6 @@ Play puts us in self-perpetuated crises.  We form bonds as collaborators in tha
 
 **For more of what Todd offers, check his full playlist of Patchworld tutorials:**
 
-{{< youtube id=" BojxeSFQMUg" >}}
+{{< youtube id="BojxeSFQMUg" >}}
 
 This is the first in a new series on our users, as we highlight all the amazing stuff you're doing in the Patch community. See our recent news item for more on our expanded community updates - and how the last update fits in. And don't be shy - if you've got stuff you want featured, let us know!
