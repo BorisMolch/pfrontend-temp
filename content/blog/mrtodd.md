@@ -6,16 +6,18 @@ image: /mr todd classroom main.jpg
 author: PatchXR
 description: >-
   Todd Fadel’s class is in session. And wherever he goes, you get that
-  first-day-back, kid-with-new-school-supplies, all-your-friends are-here
+  first-day-back, kid-with-new-school-supplies, all-your-friends-are-here
   giddiness. In the virtual realm of Patchworld, Mr. Todd’s Cacophony is lined
   with virtual chairs, cute posters on the wall, and displays of how to navigate
   Patch’s controls. In the physical world, kids are squealing with excitement.
 type: post
 ---
 
-Todd is boundless in his energy as an artist and educator, and he’s putting Patch to use in exploring that energy with both. Cacophony is Todd’s stock in trade - you can see it in that classroom. 
+Todd is boundless in his energy as an artist and educator, and he’s putting Patch to use in exploring that energy with both. Cacophony is Todd’s stock in trade - you can see it in his school classroom. 
 
 {{< youtube id="Uf8TNxmxFjg" >}}
+
+But Todd has become a hero to the Patchworld community, too. His weekly classes have become an absolute must-attend; go once, and expect you'll be returning weekly. He's helped build up the Patch community by sharing his boundless enthusiasm and knowledge. He's not only a star of the community, but a virtual rockstar, too. "I started out imitating radio singers like George Michael and Bono but now I put on old man characters or monster voices to make the performance stand out," he says.  "I go vocally where the context demands The worlds and beats I’ve  made in Patchworld seems to have an ethereal rock side to them, so I donned a Thom Yorke vocal outfit." 
 
 The addiction started in 1992, he says, with a Technics KN750 keyboard and “its amazing ability to write original background loops.” Those led to demos for his touring indie band. In 2011, he jumped into an iPod touch, Bluetooth MIDI, daisy-chained iPads, and controllers - even a roll-up floor piano and Omnichord. For extra mayhem, there were 15 individual signals routed into a single phone.
 
