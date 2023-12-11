@@ -2,7 +2,7 @@
 title: 'Back to school: Mr. Todd''s Cacophony makes a joyous noise'
 slug: mr-todd
 date: 2023-12-03T23:00:00.000Z
-image: /mr todd classroom main.jpg
+image: /VR_in_CLASSROOM.png
 author: PatchXR
 description: >-
   Todd Fadel’s class is in session. And wherever he goes, you get that
@@ -13,11 +13,13 @@ description: >-
 type: post
 ---
 
+![](/VR_in_CLASSROOM.png)
+
 Todd is boundless in his energy as an artist and educator, and he’s putting Patch to use in exploring that energy with both. Cacophony is Todd’s stock in trade - you can see it in his school classroom. 
 
-{{< youtube id="Uf8TNxmxFjg" >}}
+{{\< youtube id="Uf8TNxmxFjg" >}}
 
-But Todd has become a hero to the Patchworld community, too. His weekly classes have become an absolute must-attend; go once, and expect you'll be returning weekly. He's helped build up the Patch community by sharing his boundless enthusiasm and knowledge. He's not only a star of the community, but a virtual rockstar, too. "I started out imitating radio singers like George Michael and Bono but now I put on old man characters or monster voices to make the performance stand out," he says.  "I go vocally where the context demands The worlds and beats I’ve  made in Patchworld seems to have an ethereal rock side to them, so I donned a Thom Yorke vocal outfit." 
+But Todd has become a hero to the Patchworld community, too. His classes have become an absolute must-attend; go once, and you'll soon be returning each week. He's helped build the Patch community by sharing his boundless enthusiasm and knowledge. He's not only a star of the community but a virtual rockstar, too. "I started out imitating radio singers like George Michael and Bono, but now I put on old man characters or monster voices to make the performance stand out," he says.  "I go vocally where the context demands. The worlds and beats I’ve  made in Patchworld seem to have an ethereal rock side, so I donned a Thom Yorke vocal outfit."
 
 The addiction started in 1992, he says, with a Technics KN750 keyboard and “its amazing ability to write original background loops.” Those led to demos for his touring indie band. In 2011, he jumped into an iPod touch, Bluetooth MIDI, daisy-chained iPads, and controllers - even a roll-up floor piano and Omnichord. For extra mayhem, there were 15 individual signals routed into a single phone.
 
@@ -25,7 +27,7 @@ After a music education degree, Todd kept chronicling his tech discoveries on hi
 
 Now, we all get in on the fun. That appetite for the bleeding edge of musical technology has led Todd straight to Patchworld, and he’s not only using VR as a teaching tool but also sharing the learning experience with the rest of us. We got to talk to Todd about his journey down the rabbit hole of sound.
 
-![](</mr todd classroom view.jpg>)
+![](</class in session.jpg>)
 
 **Patch: How did you get into mixing teaching music and Patch?**
 
@@ -33,7 +35,7 @@ Now, we all get in on the fun. That appetite for the bleeding edge of musical te
 
 Then I read that Patchworld had plans to do beta testing of multiplayer.  This was the engagement I was looking for in the classroom.  I envisioned groups of students making music and building environments within this new format.  As I learned more about the community of Patchworld developers and users, I found a kind, like-minded collective of artful mistfits like me.  I made new friends who would become my collaborators, and in March of this year, I threw caution to the wind and elbowed my way to working the Patchworld booth at the Game Developers Conference in San Francisco.  The performance aspect of Patchworld allowed me to showcase my goofy stage persona that I'd been honing for 20 years. And in the months after, I've been fortunate to facilitate our weekly workshops where we come together to share our findings.  
 
-{{< youtube id="8ys4z_nF7U0" >}}
+{{\< youtube id="8ys4z\_nF7U0" >}}
 
 **How are you working with the kids; how do you introduce them to all this material?**
 
@@ -42,8 +44,6 @@ We had seven Meta Quest 2 headsets donated to the music room, and I break classe
 **How are they receiving it? Do you find their approach is different at all from yours using Patch?**
 
 Each group can do different things and is fascinated by various aspects of the app.  Some just like the way they can move around.  Some love bringing objects in and stacking them or combining items in funny ways -- I found a saved world with pumpkins having a party! Their approach shows me they find it novel but not quite useful yet.  I'm planning a more in-depth unit with a series of challenges that get them problem-solving, and the solution is a creative output.
-
-![](</class in session.jpg>)
 
 **How is multiplayer working with the kids?**
 
@@ -57,6 +57,6 @@ Play puts us in self-perpetuated crises.  We form bonds as collaborators in tha
 
 **For more of what Todd offers, check his full playlist of Patchworld tutorials:**
 
-{{< youtube id="BojxeSFQMUg" >}}
+{{\< youtube id="BojxeSFQMUg" >}}
 
 This is the first in a new series on our users, as we highlight all the amazing stuff you're doing in the Patch community. See our recent news item for more on our expanded community updates - and how the last update fits in. And don't be shy - if you've got stuff you want featured, let us know!
