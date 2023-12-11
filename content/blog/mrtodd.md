@@ -37,7 +37,7 @@ Now, we all get in on the fun. That appetite for the bleeding edge of musical te
 
 Then I read that Patchworld had plans to do beta testing of multiplayer.  This was the engagement I was looking for in the classroom.  I envisioned groups of students making music and building environments within this new format.  As I learned more about the community of Patchworld developers and users, I found a kind, like-minded collective of artful mistfits like me.  I made new friends who would become my collaborators, and in March of this year, I threw caution to the wind and elbowed my way to working the Patchworld booth at the Game Developers Conference in San Francisco.  The performance aspect of Patchworld allowed me to showcase my goofy stage persona that I'd been honing for 20 years. And in the months after, I've been fortunate to facilitate our weekly workshops where we come together to share our findings.  
 
-{{< youtube id="8ys4z\_nF7U0" >}}
+{{< youtube id="8ys4z_nF7U0" >}}
 
 **How are you working with the kids; how do you introduce them to all this material?**
 
