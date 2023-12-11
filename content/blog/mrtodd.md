@@ -21,6 +21,8 @@ Todd is boundless in his energy as an artist and educator, and he’s putting Pa
 
 But Todd has become a hero to the Patchworld community, too. His classes have become an absolute must-attend; go once, and you'll soon be returning each week. He's helped build the Patch community by sharing his boundless enthusiasm and knowledge. He's not only a star of the community but a virtual rockstar, too. "I started out imitating radio singers like George Michael and Bono, but now I put on old man characters or monster voices to make the performance stand out," he says.  "I go vocally where the context demands. The worlds and beats I’ve  made in Patchworld seem to have an ethereal rock side, so I donned a Thom Yorke vocal outfit."
 
+![](/Arcade_Realm_1.png)
+
 The addiction started in 1992, he says, with a Technics KN750 keyboard and “its amazing ability to write original background loops.” Those led to demos for his touring indie band. In 2011, he jumped into an iPod touch, Bluetooth MIDI, daisy-chained iPads, and controllers - even a roll-up floor piano and Omnichord. For extra mayhem, there were 15 individual signals routed into a single phone.
 
 After a music education degree, Todd kept chronicling his tech discoveries on his YouTube channel “Mr. Todd’s Cacophony” - and landed a dream job teaching 4- to 11-year-old kids in a neighborhood elementary school. 
@@ -48,6 +50,8 @@ Each group can do different things and is fascinated by various aspects of the a
 **How is multiplayer working with the kids?**
 
 Multiplayer has been fun, but they have yet to build something together.  That's the next step.  I've been in there with them a couple of times and it's wild.  I’ve turned on passthrough so we can actually move around the room without running into each other. I can spawn items and show the music they can make or just generate things they ask for.  We laugh a lot together.
+
+![](/HELLSCAPE.png)
 
 **How are you using it on your side? How do you play, or how do you adapt your stage persona to Patch?**
 
