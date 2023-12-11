@@ -88,6 +88,10 @@ URL = "faq"
 name = "FAQ"
 parent = "Community ↓"
 weight = 5
+[[menu.main]]
+URL = "https://portal.patchxr.io/"
+name = "Portal"
+weight = 7
 [params]
 ISO8601 = "2006-01-02T15:04:05JST"
 address = "Physical Address?"
