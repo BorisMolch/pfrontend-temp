@@ -17,7 +17,7 @@ type: post
 
 Todd is boundless in his energy as an artist and educator, and he’s putting Patch to use in exploring that energy with both. Cacophony is Todd’s stock in trade - you can see it in his school classroom. 
 
-{{\< youtube id="Uf8TNxmxFjg" >}}
+{{< youtube id="Uf8TNxmxFjg" >}}
 
 But Todd has become a hero to the Patchworld community, too. His classes have become an absolute must-attend; go once, and you'll soon be returning each week. He's helped build the Patch community by sharing his boundless enthusiasm and knowledge. He's not only a star of the community but a virtual rockstar, too. "I started out imitating radio singers like George Michael and Bono, but now I put on old man characters or monster voices to make the performance stand out," he says.  "I go vocally where the context demands. The worlds and beats I’ve  made in Patchworld seem to have an ethereal rock side, so I donned a Thom Yorke vocal outfit."
 
@@ -37,7 +37,7 @@ Now, we all get in on the fun. That appetite for the bleeding edge of musical te
 
 Then I read that Patchworld had plans to do beta testing of multiplayer.  This was the engagement I was looking for in the classroom.  I envisioned groups of students making music and building environments within this new format.  As I learned more about the community of Patchworld developers and users, I found a kind, like-minded collective of artful mistfits like me.  I made new friends who would become my collaborators, and in March of this year, I threw caution to the wind and elbowed my way to working the Patchworld booth at the Game Developers Conference in San Francisco.  The performance aspect of Patchworld allowed me to showcase my goofy stage persona that I'd been honing for 20 years. And in the months after, I've been fortunate to facilitate our weekly workshops where we come together to share our findings.  
 
-{{\< youtube id="8ys4z\_nF7U0" >}}
+{{< youtube id="8ys4z\_nF7U0" >}}
 
 **How are you working with the kids; how do you introduce them to all this material?**
 
@@ -61,6 +61,12 @@ Play puts us in self-perpetuated crises.  We form bonds as collaborators in tha
 
 **For more of what Todd offers, check his full playlist of Patchworld tutorials:**
 
-{{\< youtube id="BojxeSFQMUg" >}}
+{{< youtube id="BojxeSFQMUg" >}}
+
+Here's more of his work, too:
+
+{{< youtube id="pBEQZP1e-6w" >}}
+
+{{< youtube id="41kACUSuBu8" >}}
 
 This is the first in a new series on our users, as we highlight all the amazing stuff you're doing in the Patch community. See our recent news item for more on our expanded community updates - and how the last update fits in. And don't be shy - if you've got stuff you want featured, let us know!
