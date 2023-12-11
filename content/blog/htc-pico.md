@@ -11,6 +11,8 @@ description: >-
 type: post
 ---
 
+![](/headsets.jpg)
+
 Thanks to our adventurous team, we’re constantly exploring technologies. Even though many users will discover PatchWorld on MetaQuest 2, we’ve just made the same critically acclaimed musical playground available on Pico. That includes ready-to-play worlds, live jam sessions, personal avatars and voices, 3D spatial audio, and other core features that have made PatchWorld a favorite for creating and connecting in music. You can play in VR or mixed reality, jam solo or with friends via multiplayer, and even connect to the popular studio tool Ableton Live, just as on the Meta Quest version.
 
 We also launched PatchWorld for HTC VIVE over the summer with the same core functionality and loads of musical worlds to discover and play. Support for HTC VIVE XR Elite means users can enjoy mixed reality passthrough in full color. The HTC VIVE platform also supports PCVR with desktop PCs, complementing the standalone experience on other headsets.
