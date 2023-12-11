@@ -14,6 +14,8 @@ type: post
 
 ### November update new features and improvements
 
+![](/featuredworlds.png)
+
 The latest release of PatchWorld is all about making it easier to go beyond your solo explorations and find other people, discover new worlds, and expand your musical horizons. The crazy-talented patchers in our community have created amazing new devices and toys, including melodic instruments, hard-hitting 808s, pro synths, intuitive sequencers, and creative chord loopers. And there are complete community-created worlds in this release, too.
 
 New in this update:
