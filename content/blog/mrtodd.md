@@ -59,7 +59,7 @@ My dual foundational fascinations are puppetry and animation.  But my musical u
 
 Play puts us in self-perpetuated crises.  We form bonds as collaborators in that space. As one of my favorite artists, Lyndra Barry, [puts it](https://thegreatcomicbookheroes.blogspot.com/2013/12/lynda-barrys-two-questions.html) - we learn how “to be able to stand not knowing long enough for something alive to take shape.” 
 
-**For more of what Todd offers, check his full playlist of Patchworld tutorials:**
+**For more of what Todd offers, check his <a href="https://youtu.be/BojxeSFQMUg?feature=shared">full playlist</a> of Patchworld tutorials:**
 
 {{< youtube id="BojxeSFQMUg" >}}
 
