@@ -1,15 +1,25 @@
 ---
 title: Presskit
 description: Presskit Description
-
 ---
+
 ![](/uploads/poster-500k.jpg)
 
-# PatchWorld: Play and create music worlds in VR
+# PatchWorld: Multiplayer music worlds, creation, and play in xR
 
-## The metaverse as your own playground - with all the emotional power of music!
+Discover the ultimate metaverse playground in PatchWorld: a universe of limitless musical creativity! Create and explore boundless worlds, build your dream music studio, produce creative interactive art, and connect with friends globally for a jam session. It's all native to xR -- from the immersive media experts of PatchXR.
 
-A collaborative music sandbox native to VR, from the immersive media experts of PatchXR.
+It’s a revolutionary cross-reality platform - and your chance to experience a new convergence of music, gaming, mixed reality, and visual imagination. It’s a place where the worlds of art, expression, and dreams can be brought to life.
+
+You start playing PatchWorld as easily as a game, but what you can do with it grows as you dive deeper. That opens up a wide range of possibilities:
+
+* Build your ultimate music studio with pro-quality production tools 
+* Jam in mixed reality with friends around the world
+* Host live concerts - and stream with full 3D visuals on social platforms
+* Create multiplayer musical games
+* Give and attend master classes
+* Produce interactive art and installations
+* Make fully immersive music tracks and music videos
 
 ***
 
@@ -17,93 +27,114 @@ A collaborative music sandbox native to VR, from the immersive media experts of 
 PatchXR
 
 **Based in:**
-Zurich (CH) and Copenhagen (DK)
+Zurich (CH)
+
+**Platforms:**
+Meta Quest 2, Pico, HTC VIVE XR Elite, Pico
 
 **Release date:**
-July 7th on Metaquest Store
+Available publicly on the Meta Quest store since summer 2022 
+Also available on HTC VIVE Port (early 2023) and Pico Store (fall 2023). Desktop version coming in 2024.
 
-**Platform:**
-Meta Quest 2
+**Store links:**
 
-**Store link:**
-https://ocul.us/39Vz1Ux
+[Meta Quest Store](https://ocul.us/39Vz1Ux)
+
+[Pico Store](https://www.picoxr.com/global/games/patchworld)
+
+[HTC VIVEPORT](https://www.viveport.com/apps/6a238615-4cdc-4819-a303-c071b00b3b74)
 
 **Website:**
-https://www.patchxr.com
+[https://www.patchxr.com](https://www.patchxr.com)
 
 **Regular Price:**
 $29.99
 
 **Press / Business contact:**
-Press@patchxr.com
+[Press@patchxr.com](mailto:Press@patchxr.com)
 
 ***
 
 ## Synopsis
 
-PatchWorld empowers musical experience with marvelous worlds, fanciful instruments, and full-immersion live shows. It combines the visual experience and play of gaming with the emotional power of music. It’s ready to play from the moment you enter - but deep enough to let you build everything you can imagine.
+PatchWorld combines the visual experience and playfulness of gaming with the emotional power of music. It’s ready to play from the moment you enter, but deep enough to let you build everything you can imagine. Our “building blocks” approach makes music and game creation intuitive and accessible to everyone who wants to join in. 
 
-## An unprecedented toolset
-
-Play and explore fantastic musical worlds, even without previous musical experience - then get involved and remix to create your own. Join an underwater reggae jam, blast some hard techno beats, or make polyrhythms out of rainfall. Build your own reactive stages and sonic playgrounds – fully immersive, native on Meta Quest 2.
-
-**EXPLORE** music experiences, stories, shows, virtual studios, interactive tutorials and a growing library of instruments created by artists around the globe.
-
-**CREATE** your own musical worlds and instruments and make a complete music band,and record musicverse music videos and shows.
-
-**SHARE** your creations with the world, and coming soon jam withyour friends from round the  world and make the best party in the musicverse.
-
-For the first time, you can make rich, fully-customizable worlds without needing your own personal visual effects house - it’s like stepping inside a futuristic music video. You create for VR inside VR, meaning working in three dimensions is more intuitive. And since it’s all live and playable, you can perform, improvise, and jam. In an age when music makers’ vision can get lost in faceless streams, PatchWorld lets you express yourself and produce media for VR, live streams, and even live shows, with high-performance 3D visuals and spatial sound, even on just a standalone Oculus headset.
+PatchWorld is more than a music app; it's a mixed-reality studio where your creations come to life, perfect for sharing on social media. 
 
 ## Features
 
-PatchWorld combines a playful interface with production-grade sound so that everyone gets a complete, rich musical experience. Want to explore music in an imaginative VR dreamworld? Check our interactive worlds. Want to stock your VR studio with your favorite techno instruments? You can do that, too.
+PatchWorld offers an unprecedented toolset:
 
-* 3 unique ready-to-play worlds (“EPs”) to explore or remix and make your own
-* Custom world creation
-* 30+ instruments and devices like –
-* Whimsical sound toys like rubber duckies, beer bottles, skulls, frying pans, and more
-* Powerful studio-quality tools, including recreations of acid synthesizers, vintage drum machines, loopers, and chord synths - some made by our community patchers
-* Playable, physics-based sounds based on wind, rain, marbles, gravity, and more
-* Use the mic to record samples or sing along
-* Jam together with built-in bands and characters
-* Customize your avatar
-* 3D spatial audio and stereo mixing
-* Record live performances in VR
+* Dive into over 40 musical worlds, from DJing on the beach to playing drums in outer space.
+* Extensive library with 300+ sounds and growing.
+* Create your own unique worlds to share.
+* Collaborate with musicians and creators in real-time jams and world-building.
+* Amass an unlimited collection of sounds and instruments for your studio.
+* Seamlessly record and share your VR performances and creations.
+* Craft and share cinematic mixed reality content and films.
+* Enjoy unparalleled mixed reality features on supported devices.
+* Experience the richness of 3D spatial audio and a high-quality VR audio engine.
+* Personalization with full avatar support (now including Ready Player Me) and microphone input
+* Powerful studio-quality tools and sound
+* Connect with Ableton Live for comprehensive cross-reality studio integration.
 
-**And more coming soon:**
+Recent additions:
 
-* More worlds, more instruments, more visuals – with new weekly releases
-* Publish your creations to share with friends
-* Multiplayer live rooms for jamming, learning, and partying
-* Custom-edited content and PatchMaker for building your own devices
-* MIDI and OSC support
-* ...and more customization and creation features
+* Full multiplayer support for live jam sessions and collaboration
+* Avatar support, including Ready Player Me 
+* Web portal with the ability to import files and more 
+* Community hub with world suggestions, search, and ready-made worlds created by pro patchers
 
-We’re building a universe of music makers who can exchange and explore one another’s instruments, worlds, and unimaginable variety of creations. This community growth is already underway with artists and inventors testing the pre-release builds, plus a series of Patchathons at major international gaming festivals over the past two years.
+What's next:
+
+* Desktop version launch: access your worlds anytime, anywhere with the upcoming desktop version.
+* New Tools and Blocks. Let your imagination run wild with new music and world creation tools, including no-code development tools to create your own blocks and bring your ideas to life.
+* Marketplace: We’re building a marketplace for sharing and monetizing your creations
+
+## Testimonials
+
+“This is the future of music! Musical worlds you can inhabit, interact with and become a part of. A completely psychedelic, immersive experience. I love it!”
+
+“This has blown my mind.
+
+By far the most incredible, mind-bending, exciting, and entertaining experience I've had in VR.”
+
+
+“This is the best app.
+
+It works with Ableton Link and in multiplayer. It is fun as it is useful and complex. It is potentially a DAW and a multiplayer game at the same time. As a music producer, this is the best software I have used so far in Quest 2. And also the tutorial worlds are very well done and sooo immersive and psychedelic.”
+
+
+“Easy to play, and SO much fun!
+
+The guided experience is top-notch: I've put on PatchWorld for inexperienced VR users and kids, and they've all had a blast! The guide's humor is on point, the pre-loaded worlds are super immersive, and easy to modify like in a big sandbox…. .”
+
+“The possibilities for collaborative music sessions across the globe would be enough to sell this app to me alone but add to that the world building, patching, and variety of tools available to you, and you have yourself not only a guaranteed good time with your friends (or strangers) but an excellent tool for music production, with an active and friendly discord community. The addition of DAW integration may well make this the future of VR music production, except it's here, right now.”
+
+
+
 
 ***
 
 ## Videos
 
-
 Trailer
-{{< youtube XcE73sOvkGg >}}
+{{\< youtube XcE73sOvkGg >}}
 
 Jam in Bouncy Beats (EP2)
-{{< youtube 2qwdCIwBJLM >}}
+{{\< youtube 2qwdCIwBJLM >}}
 
 Jam with pans in the RainMaker (EP3)
-{{< youtube xzAraxsQK4o >}}
+{{\< youtube xzAraxsQK4o >}}
 
 Jam with a few devices
-{{< youtube chHvZiJudhk >}}
+{{\< youtube chHvZiJudhk >}}
 
 Community creation (made in Patch Beta)
-{{< youtube nUw1yjTYnrQ >}}
+{{\< youtube nUw1yjTYnrQ >}}
 
 Techno live set made in Patch (made in Patch Beta for PC VR only)
-{{< youtube p273evH2ROQ >}}
+{{\< youtube p273evH2ROQ >}}
 
 ***
 
@@ -111,21 +142,21 @@ Techno live set made in Patch (made in Patch Beta for PC VR only)
 
 [Download Image pack](https://drive.google.com/drive/folders/1sSQT_Hk-9xOzmsTqDZR1lFi68K6cVI8i?usp=sharing)
 
-| | |
---- | --- |
-| ![](/uploads/fluidechoes-2.jpg) | ![](/uploads/fluidecho-1.jpg) |
+|                                 |                                |
+| ------------------------------- | ------------------------------ |
+| ![](/uploads/fluidechoes-2.jpg) | ![](/uploads/fluidecho-1.jpg)  |
 | ![](/uploads/fluidechoes-3.jpg) | ![](/uploads/bouncybeat-2.jpg) |
-| ![](/uploads/bouncybeat-4.jpg) | ![](/uploads/rainmaker-1.jpg) |
-| ![](/uploads/rainmaker-2.jpg) | ![](/uploads/newdevice.jpg) |
+| ![](/uploads/bouncybeat-4.jpg)  | ![](/uploads/rainmaker-1.jpg)  |
+| ![](/uploads/rainmaker-2.jpg)   | ![](/uploads/newdevice.jpg)    |
 
 ***
 
 ## GIFs
 
-|  |  |
- | --- | --- |
- | ![](/uploads/drop3_edited.gif) | ![](/uploads/01.gif) |
- | ![](/uploads/side_sample_v01.gif) | ![](/uploads/bath.gif) |
+|                                   |                        |
+| --------------------------------- | ---------------------- |
+| ![](/uploads/drop3_edited.gif)    | ![](/uploads/01.gif)   |
+| ![](/uploads/side_sample_v01.gif) | ![](/uploads/bath.gif) |
 
 ***
 
@@ -135,27 +166,27 @@ Techno live set made in Patch (made in Patch Beta for PC VR only)
 
 ***
 
-## Articles
+## Press coverage
 
-[PatchXR turns writing music into a Metaverse VR experience where you can shape your music and visuals](https://musictech.com/news/gear/patchxr-turns-writing-music-into-an-metaverse-vr-experience-where-you-can-shape-your-music-and-visuals/?fbclid=IwAR1wxlRzvtw_Bxaw8865QciYlqeQNCeOAo2rJcSHDdHxLNaYHVnJLDoCuD8) _Musictech (2021)_
+[The 10 most innovative companies in augmented and virtual reality of 2023](https://www.fastcompany.com/90846787/most-innovative-companies-augmented-virtual-reality-2023) Fast Company (2023)
 
-[VR becomes a fluid medium, a music video you can play, a playground in patchxr patchathon](https://cdm.link/2021/12/vr-becomes-a-fluid-medium-a-music-video-you-can-play-a-playground-in-patchxr-patchathon/) _CDM (2021)_
+[PatchWorld shows power of multiplayer VR music, integrates with Ableton Live](https://cdm.link/2023/07/patchworld-multiplayer-vr-music-integrates-with-ableton-live/) *CDM (2023)*
 
-[Worlds as instruments, as artists collaborate in VR using modular metaverse Patch](https://cdm.link/2021/08/worlds-as-instruments-as-artists-collaborate-in-vr-using-modular-metaverse-patch/?fbclid=IwAR1lBpA708t6EsVTv7L_6COugPuSKsHWxNy5w2dCxpCyDofKv973tlOjZpM) _CDM (2021)_
+[New VR Games July 2022: All The Biggest Releases](https://www.uploadvr.com/new-vr-games-july-2022-all-the-biggest-releases/) *Upload (2022)*
 
-[PatchXR opens the world of music to extended reality](https://www.makery.info/en/2020/10/03/patchxr-ouvre-le-monde-de-la-musique-a-la-realite-etendue/) _Makery (2021)_
+[PatchXR launches PatchWorld virtual-reality music-making app](https://musically.com/2022/07/08/patchxr-launches-patchworld-virtual-reality-music-making-app/) music:)ally (2022)
 
-[PatchXR for Gig Life Pro](https://giglifepro.com/articles/virtual-reality-patchxr-with-melodie-mousset-and-edo-fouilloux) _Giglifepro (2020)_
+[PatchXR turns writing music into a Metaverse VR experience where you can shape your music and visuals](https://musictech.com/news/gear/patchxr-turns-writing-music-into-an-metaverse-vr-experience-where-you-can-shape-your-music-and-visuals/?fbclid=IwAR1wxlRzvtw_Bxaw8865QciYlqeQNCeOAo2rJcSHDdHxLNaYHVnJLDoCuD8) *MusicTech (2021)*
 
-[PatchWorld selected for Swissgame showcase](https://www.startupticker.ch/en/news/january-2021/eleven-studios-join-the-swissgames-showcase-2021) _Startupticker (2021)_
+[PatchXR opens the world of music to extended reality](https://www.makery.info/en/2020/10/03/patchxr-ouvre-le-monde-de-la-musique-a-la-realite-etendue/) *Makery (2021)*
 
-[Abbey Road Red 10 to watch in 2021](https://www.abbeyroad.com/news/abbey-road-reds-10-to-watch-in-2021-the-countdown-10-3-2940) _Abbey Road (2021)_
+[Abbey Road Red 10 to watch in 2021](https://www.abbeyroad.com/news/abbey-road-reds-10-to-watch-in-2021-the-countdown-10-3-2940) *Abbey Road (2021)*
 
 ## About PatchXR
 
 PatchXR is a multinational studio blending unmatched experience in art, engineering, and sound and music for VR. The team has some of the world’s top talent in the emerging medium of immersive, generative, interactive music for full-sensory virtual reality. That lineage starts with co-founders Melodie Mousset and Eduardo Fouilloux, building on Melodie’s award-winning achievements in VR art and Eduardo’s pioneering work at Animation Studio Denmark and creating the music game prototype MuX.
 
-Now, PatchXR has assembled a global team and a powerful, complete, ground-up engine for VR music, sound, and play. We’ve tested our tools with diverse artists from around the world in closed beta and our Patchathon collaborative experience at top festivals. With that bespoke foundation and world-class experience in multiplayer experience and tech, we’re envisioning new, futuristic ways to play together with music, engaging the full body with vision and sound.
+PatchXR has assembled a global team and a powerful, complete, ground-up engine for VR music, sound, and play. We’ve tested our tools with diverse artists worldwide in closed beta and our Patchathon collaborative experience at top festivals. With that bespoke foundation and world-class experience in multiplayer experience and tech, we’re envisioning new, futuristic ways to play together with music, engaging the full body with vision and sound.
 
 ## More information
 
@@ -168,18 +199,18 @@ For news and updates on PatchWorld, here is our [blog](https://patchxr.com/blog/
 
 ## Management
 
-**Executive director** Eduardo Fouilloux  
+**Executive director** Eduardo Fouilloux\
 **Art director**		Melodie Mousset
 **Creator tool owner**	 	Joel Sadler
 **Content owner**	 	Gad Barush Hinkis
-**Operation manager**	Nicholas Borkowski  
+**Operation manager**	Nicholas Borkowski
 
 ## Production
 
 **Technical lead**		Victor Beaupuy
-**Engine architect**		Aleksey Sarapulov  
+**Engine architect**		Aleksey Sarapulov\
 **Platform architect**		Jonah Fox
-**Senior developper**		Dominic Rolin
+**Senior developer**		Dominic Rolin
 **DSP engineer** Pelle Juul
 **DSP engineer** Maciek Sypniewski
 **Unity generalist**		Tom Frackowiak
@@ -197,31 +228,31 @@ For news and updates on PatchWorld, here is our [blog](https://patchxr.com/blog/
 
 ## Inquiries
 
-contact@patchxr.com
+[contact@patchxr.com](mailto:contact@patchxr.com)
 
 ## Twitter
 
-https://twitter.com/patch_xr
+[https://twitter.com/patch\_xr](https://twitter.com/patch_xr)
 
 ## Facebook
 
-https://www.facebook.com/patch.xr/
+[https://www.facebook.com/patch.xr/](https://www.facebook.com/patch.xr/)
 
 ## Insta
 
-https://www.instagram.com/patch.xr/
+[https://www.instagram.com/patch.xr/](https://www.instagram.com/patch.xr/)
 
 ## Linkedin
 
-https://www.linkedin.com/company/patch-xr/
+[https://www.linkedin.com/company/patch-xr/](https://www.linkedin.com/company/patch-xr/)
 
 ## Web
 
-http://patchxr.com
+[http://patchxr.com](http://patchxr.com)
 
 ## Discord
 
-https://discord.gg/gwMVhKWxbr
+[https://discord.gg/gwMVhKWxbr](https://discord.gg/gwMVhKWxbr)
 
 ## Hashtag
 
