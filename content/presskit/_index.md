@@ -3,7 +3,7 @@ title: Presskit
 description: Presskit Description
 ---
 
-![](/uploads/poster-500k.jpg)
+![](/cover-DEC2023.jpg)
 
 # PatchWorld: Build and play musical worlds in multiplayer xR
 
