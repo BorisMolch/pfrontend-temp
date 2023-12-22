@@ -116,6 +116,9 @@ The guided experience is top-notch: I've put on PatchWorld for inexperienced VR 
 Trailer
 {{\< youtube XcE73sOvkGg >}}
 
+VR midi controller for Ableton\
+{{\< youtube sY-B9kknca4 >}}
+
 Jam in Bouncy Beats (EP2)
 {{\< youtube 2qwdCIwBJLM >}}
 
@@ -129,7 +132,7 @@ Community creation (made in Patch Beta)
 {{\< youtube nUw1yjTYnrQ >}}
 
 Techno live set made in Patch (made in Patch Beta for PC VR only)
-{{\< youtube p273evH2ROQ >}}
+{{\< youtube sY-B9kknca4 >}}
 
 ***
 
