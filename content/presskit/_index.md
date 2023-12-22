@@ -114,22 +114,22 @@ The guided experience is top-notch: I've put on PatchWorld for inexperienced VR 
 ## Videos
 
 Trailer\
-{{< youtube XcE73sOvkGg >}}
+{{ < youtube id="XcE73sOvkGg" >}}
 
 VR MIDI controller with Ableton Live\
-{{< youtube sY-B9kknca4 >}}
+{{ < youtube id="sY-B9kknca4" >}}
 
 Gad burning the dancefloor in a live jam\
-{{< youtube _vmxsJauzh4 >}}
+{{ < youtube id="_vmxsJauzh4" >}}
 
 Playing PatchWorld at Malibu Beach\
-{{< youtube ZTV7lp7m9Fc }}
+{{ < youtube id="ZTV7lp7m9Fc" >}}
 
 A face-melting drum & bass set\
-{{< youtube OPDiyQoJu2w >}}
+{{ < youtube id="OPDiyQoJu2w" >}}
 
 Community showreel
-{{< youtube nUw1yjTYnrQ >}}
+{{ < youtube id="nUw1yjTYnrQ" >}}
 
 ***
 
