@@ -5,7 +5,7 @@ description: Presskit Description
 
 ![](/uploads/poster-500k.jpg)
 
-# PatchWorld: Multiplayer music worlds, creation, and play in xR
+# PatchWorld: Build and play musical worlds in multiplayer xR
 
 Discover the ultimate metaverse playground in PatchWorld: a universe of limitless musical creativity! Create and explore boundless worlds, build your dream music studio, produce creative interactive art, and connect with friends globally for a jam session. It's all native to xR -- from the immersive media experts of PatchXR.
 
@@ -212,7 +212,6 @@ Business Developer		Michael Ronen
 
 QA and community manager		Boris Molchenov\
 **Public communications consultant**		Peter Kirn
-
 
 ***
 
