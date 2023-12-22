@@ -217,7 +217,7 @@ QA and community manager		Boris Molchenov\
 
 ## Inquiries
 
-[contact@patchxr.com](mailto:contact@patchxr.com)
+[press@patchxr.com](mailto:press@patchxr.com)
 
 ## Twitter
 
@@ -227,11 +227,11 @@ QA and community manager		Boris Molchenov\
 
 [https://www.facebook.com/patch.xr/](https://www.facebook.com/patch.xr/)
 
-## Insta
+## Instagram
 
-[https://www.instagram.com/patch.xr/](https://www.instagram.com/patch.xr/)
+[https://www.instagram.com/patchworld\_vr/](https://www.instagram.com/patch.xr/)
 
-## Linkedin
+## LinkedIn
 
 [https://www.linkedin.com/company/patch-xr/](https://www.linkedin.com/company/patch-xr/)
 
