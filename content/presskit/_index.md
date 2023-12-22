@@ -33,7 +33,7 @@ Zurich (CH)
 Meta Quest 2, Pico, HTC VIVE XR Elite, Pico
 
 **Release date:**
-Available publicly on the Meta Quest store since summer 2022 
+Available publicly on the Meta Quest store since summer 2022
 Also available on HTC VIVE Port (early 2023) and Pico Store (fall 2023). Desktop version coming in 2024.
 
 **Store links:**
@@ -57,9 +57,9 @@ $29.99
 
 ## Synopsis
 
-PatchWorld combines the visual experience and playfulness of gaming with the emotional power of music. It’s ready to play from the moment you enter, but deep enough to let you build everything you can imagine. Our “building blocks” approach makes music and game creation intuitive and accessible to everyone who wants to join in. 
+PatchWorld combines the visual experience and playfulness of gaming with the emotional power of music. It’s ready to play from the moment you enter, but deep enough to let you build everything you can imagine. Our “building blocks” approach makes music and game creation intuitive and accessible to everyone who wants to join in.
 
-PatchWorld is more than a music app; it's a mixed-reality studio where your creations come to life, perfect for sharing on social media. 
+PatchWorld is more than a music app; it's a mixed-reality studio where your creations come to life, perfect for sharing on social media.
 
 ## Features
 
@@ -99,20 +99,15 @@ What's next:
 
 By far the most incredible, mind-bending, exciting, and entertaining experience I've had in VR.”
 
-
 “This is the best app.
 
 It works with Ableton Link and in multiplayer. It is fun as it is useful and complex. It is potentially a DAW and a multiplayer game at the same time. As a music producer, this is the best software I have used so far in Quest 2. And also the tutorial worlds are very well done and sooo immersive and psychedelic.”
-
 
 “Easy to play, and SO much fun!
 
 The guided experience is top-notch: I've put on PatchWorld for inexperienced VR users and kids, and they've all had a blast! The guide's humor is on point, the pre-loaded worlds are super immersive, and easy to modify like in a big sandbox…. .”
 
 “The possibilities for collaborative music sessions across the globe would be enough to sell this app to me alone but add to that the world building, patching, and variety of tools available to you, and you have yourself not only a guaranteed good time with your friends (or strangers) but an excellent tool for music production, with an active and friendly discord community. The addition of DAW integration may well make this the future of VR music production, except it's here, right now.”
-
-
-
 
 ***
 
@@ -199,28 +194,22 @@ For news and updates on PatchWorld, here is our [blog](https://patchxr.com/blog/
 
 ## Management
 
-**Executive director** Eduardo Fouilloux\
+**Executive director**		Eduardo Fouilloux\
 **Art director**		Melodie Mousset
-**Creator tool owner**	 	Joel Sadler
-**Content owner**	 	Gad Barush Hinkis
-**Operation manager**	Nicholas Borkowski
+**Content owner**		Gad Barush Hinkis
+Business Developer		Michael Ronen
 
 ## Production
 
 **Technical lead**		Victor Beaupuy
 **Engine architect**		Aleksey Sarapulov\
-**Platform architect**		Jonah Fox
-**Senior developer**		Dominic Rolin
-**DSP engineer** Pelle Juul
-**DSP engineer** Maciek Sypniewski
-**Unity generalist**		Tom Frackowiak
+**DSP engineer**		Pelle Juul
 
 ## Communication
 
-**Community development** Peter Kirn
-**Web developer** Daniel F. Wehleit
-**Marketing** Guy Meldem
-**Graphic designer** Mike Romo
+QA and community manager		Boris Molchenov\
+**Public communications consultant**		Peter Kirn
+
 
 ***
 
