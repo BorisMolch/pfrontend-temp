@@ -116,23 +116,15 @@ The guided experience is top-notch: I've put on PatchWorld for inexperienced VR 
 Trailer
 {{\< youtube XcE73sOvkGg >}}
 
-VR midi controller for Ableton\
+VR MIDI controller with Ableton Live\
 {{\< youtube sY-B9kknca4 >}}
 
-Jam in Bouncy Beats (EP2)
-{{\< youtube 2qwdCIwBJLM >}}
+{{\< youtube [\_vmxsJauzh4]() >}}
 
-Jam with pans in the RainMaker (EP3)
-{{\< youtube xzAraxsQK4o >}}
+[https://youtube.com/shorts/\_vmxsJauzh4?si=1yN-6JOdzBDNbRFb](https://youtube.com/shorts/_vmxsJauzh4?si=1yN-6JOdzBDNbRFb)
 
-Jam with a few devices
-{{\< youtube chHvZiJudhk >}}
-
-Community creation (made in Patch Beta)
+Community showreel
 {{\< youtube nUw1yjTYnrQ >}}
-
-Techno live set made in Patch (made in Patch Beta for PC VR only)
-{{\< youtube sY-B9kknca4 >}}
 
 ***
 
