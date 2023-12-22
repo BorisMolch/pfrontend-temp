@@ -8,6 +8,7 @@ description: >-
   We’ve rounded out 2023 with still more powerful, playful, pro-level
   instruments and effects. They’re as fun as toys but make seriously
   studio-grade sound. Here’s the rundown of all the latest so you don’t miss it.
+type: post
 ---
 
 ![](/newdevices.jpg)
