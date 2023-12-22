@@ -10,6 +10,8 @@ description: >-
   studio-grade sound. Here’s the rundown of all the latest so you don’t miss it.
 ---
 
+![](/newdevices.jpg)
+
 In the very newest update:
 
 ### New effects
