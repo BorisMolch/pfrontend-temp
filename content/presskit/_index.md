@@ -119,9 +119,14 @@ Trailer
 VR MIDI controller with Ableton Live\
 {{\< youtube sY-B9kknca4 >}}
 
-{{\< youtube [\_vmxsJauzh4]() >}}
+Gad burning the dancefloor in a live jam\
+{{\< youtube \_vmxsJauzh4 >}}
 
-[https://youtube.com/shorts/\_vmxsJauzh4?si=1yN-6JOdzBDNbRFb](https://youtube.com/shorts/_vmxsJauzh4?si=1yN-6JOdzBDNbRFb)
+Playing PatchWorld at Malibu Beach\
+{{\< youtube ZTV7lp7m9Fc }}
+
+A face-melting drum & bass set\
+{{\< youtube OPDiyQoJu2w >}}
 
 Community showreel
 {{\< youtube nUw1yjTYnrQ >}}
