@@ -219,9 +219,9 @@ QA and community manager		Boris Molchenov\
 
 [press@patchxr.com](mailto:press@patchxr.com)
 
-## Twitter
+## X
 
-[https://twitter.com/patch\_xr](https://twitter.com/patch_xr)
+[https://x.com/patch\_xr](https://twitter.com/patch_xr)
 
 ## Facebook
 
@@ -235,9 +235,17 @@ QA and community manager		Boris Molchenov\
 
 [https://www.linkedin.com/company/patch-xr/](https://www.linkedin.com/company/patch-xr/)
 
+## TikTok
+
+[https://www.tiktok.com/@patchworld](https://www.tiktok.com/@patchworld)
+
 ## Web
 
 [http://patchxr.com](http://patchxr.com)
+
+## YouTube
+
+[https://www.youtube.com/@patchxr](https://www.youtube.com/@patchxr)
 
 ## Discord
 
