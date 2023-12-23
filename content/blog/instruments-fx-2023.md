@@ -29,6 +29,10 @@ In the very newest update:
 
 There’s also a new sampler keyboard with a granular looper onboard. Add your own sounds or record them from the mic, then play, warp, and mangle them live.
 
+{{\< youtube baqi9WeHZvw >}}
+
+{{\< youtube ZTV7lp7m9Fc >}}
+
 ### New sequencer
 
 A new melodic sequencer with arrangement capabilities means you can incorporate tunes and entire song structures into your VR songwriting. And if you’re stuck for ideas, it’s a way to play around and experiment, quickly spawning song starters.
