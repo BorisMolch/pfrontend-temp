@@ -53,8 +53,4 @@ Add these latest additions to our growing toybox of powerful production machines
 * New and updated Light Show devices, including lamp light, spotlight, sunsets, world color, and more.
 * **Spawn portal** (as mentioned in our story on the last update): create portals to help players easily jump into multiplayer rooms.
 
-Check everything out on Device Island:
-
-![](/device-island.png)
-
 With all those goodies to explore, what are we sitting around here looking at a boring screen for? Let’s head into PatchWorld and play. See you there.
