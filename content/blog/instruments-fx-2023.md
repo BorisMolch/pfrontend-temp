@@ -45,16 +45,16 @@ Add these latest additions to our growing toybox of powerful production machines
 
 ![](/morenewdevices.png)
 
-* **808 MAYHAM**: A versatile drum machine inspired by the Japanese classic, with dynamic options for range and pitch and plenty of possibilities as you play the pads.
-* **Draw Board**: Use a laser to doodle in melodies by drawing - who needs keyboards?
-* **New shakers**: Hold and shake or move these around as you would an acoustic shaker. Try The Thing, Melodic, and Egg shakers - and see what happens as you move slowly or quickly.
-* **Home Grown sampler** to play bubbles in the mode of a beloved historic “vox synth.”
+**808 MAYHAM**: A versatile drum machine inspired by the Japanese classic, with dynamic options for range and pitch and plenty of possibilities as you play the pads.\
+**Draw Board**: Use a laser to doodle in melodies by drawing - who needs keyboards?\
+**New shakers**: Hold and shake or move these around as you would an acoustic shaker. Try The Thing, Melodic, and Egg shakers - and see what happens as you move slowly or quickly.\
+**Home Grown sampler** to play bubbles in the mode of a beloved historic “vox synth.”
 
 ![](/shakers-movethem.png)
 
-* **Jangler polyphonic sampler**
-* **Ratchet Tiker hi-hat synth** (perfect for trap, drill, and more).
-* New and updated Light Show devices, including lamp light, spotlight, sunsets, world color, and more.
-* **Spawn portal** (as mentioned in our story on the last update): create portals to help players easily jump into multiplayer rooms.
+**Jangler polyphonic sampler**\
+**Ratchet Tiker hi-hat synth** (perfect for trap, drill, and more).\
+New and updated Light Show devices, including lamp light, spotlight, sunsets, world color, and more.\
+**Spawn portal** (as mentioned in our story on the last update): create portals to help players easily jump into multiplayer rooms.
 
 With all those goodies to explore, what are we sitting around here looking at a boring screen for? Let’s head into PatchWorld and play. See you there.
