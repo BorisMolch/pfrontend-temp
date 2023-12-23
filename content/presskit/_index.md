@@ -189,13 +189,13 @@ For news and updates on PatchWorld, here is our [blog](https://patchxr.com/blog/
 ## Management
 
 **Executive director**		Eduardo Fouilloux\
-**Art director**		Melodie Mousset
-**Content owner**		Gad Barush Hinkis
-Business Developer		Michael Ronen
+**Art director**		Melodie Mousset\
+**Content owner**		Gad Baruch Hinkis\
+Business Developer		Michael Ronen\
 
 ## Production
 
-**Technical lead**		Victor Beaupuy
+**Technical lead**		Victor Beaupuy\
 **Engine architect**		Aleksey Sarapulov\
 **DSP engineer**		Pelle Juul
 
