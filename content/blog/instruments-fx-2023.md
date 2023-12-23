@@ -5,9 +5,9 @@ date: 2023-12-22T05:00:00.000Z
 image: /newdevices.jpg
 author: PatchXR
 description: >-
-  We’ve rounded out 2023 with still more powerful, playful, pro-level
-  instruments and effects. They’re as fun as toys but make seriously
-  studio-grade sound. Here’s the rundown of all the latest so you don’t miss it.
+  We’ve rounded out 2023 with even more powerful, playful, pro-level instruments
+  and effects. They’re as fun as toys but make seriously studio-grade sound.
+  Here’s the rundown of all the latest so you don’t miss it.
 type: post
 ---
 
