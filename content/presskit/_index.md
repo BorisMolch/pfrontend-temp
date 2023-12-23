@@ -117,7 +117,7 @@ Trailer\
 {{< youtube id="XcE73sOvkGg" >}}
 
 VR MIDI controller with Ableton Live\
-{{ < youtube id="sY-B9kknca4" >}}
+{{< youtube id="sY-B9kknca4" >}}
 
 Gad burning the dancefloor in a live jam\
 {{< youtube id="_vmxsJauzh4" >}}
