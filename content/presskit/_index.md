@@ -140,15 +140,6 @@ Community showreel
 
 ***
 
-## GIFs
-
-|                                   |                        |
-| --------------------------------- | ---------------------- |
-| ![](/uploads/drop3_edited.gif)    | ![](/uploads/01.gif)   |
-| ![](/uploads/side_sample_v01.gif) | ![](/uploads/bath.gif) |
-
-***
-
 ## Logo & Icon
 
 [Download logo pack](https://drive.google.com/drive/folders/1uvMkd9QYqqFg4kJTDp_EPqsDX2EQ4Yij?usp=sharing)
