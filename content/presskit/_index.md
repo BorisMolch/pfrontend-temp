@@ -114,29 +114,35 @@ The guided experience is top-notch: I've put on PatchWorld for inexperienced VR 
 ## Videos
 
 Trailer\
-{{< youtube id="XcE73sOvkGg" >}}
+{{\< youtube id="XcE73sOvkGg" >}}
 
 VR MIDI controller with Ableton Live\
-{{< youtube id="sY-B9kknca4" >}}
+{{\< youtube id="sY-B9kknca4" >}}
 
 Gad burning the dancefloor in a live jam\
-{{< youtube id="_vmxsJauzh4" >}}
+{{\< youtube id="\_vmxsJauzh4" >}}
 
 Playing PatchWorld at Malibu Beach\
-{{< youtube id="ZTV7lp7m9Fc" >}}
+{{\< youtube id="ZTV7lp7m9Fc" >}}
 
 A face-melting drum & bass set\
-{{< youtube id="OPDiyQoJu2w" >}}
+{{\< youtube id="OPDiyQoJu2w" >}}
 
 Community showreel
-{{< youtube id="nUw1yjTYnrQ" >}}
+{{\< youtube id="nUw1yjTYnrQ" >}}
 
 ***
 
 ## Images
 
-[Download Image pack](https://drive.google.com/drive/folders/1sSQT_Hk-9xOzmsTqDZR1lFi68K6cVI8i?usp=sharing)\
-![](/patchscreens.jpg)
+[Download Image pack](https://drive.google.com/drive/folders/1sSQT_Hk-9xOzmsTqDZR1lFi68K6cVI8i?usp=sharing)
+
+![](/patchscreens1.jpg)
+
+|                                   |                        |
+| --------------------------------- | ---------------------- |
+| ![](/uploads/drop3_edited.gif)    | ![](/uploads/01.gif)   |
+| ![](/uploads/side_sample_v01.gif) | ![](/uploads/bath.gif) |
 
 ***
 
@@ -182,7 +188,7 @@ For news and updates on PatchWorld, here is our [blog](https://patchxr.com/blog/
 **Executive director**		Eduardo Fouilloux\
 **Art director**		Melodie Mousset\
 **Content owner**		Gad Baruch Hinkis\
-Business Developer		Michael Ronen\
+Business Developer		Michael Ronen\\
 
 ## Production
 
