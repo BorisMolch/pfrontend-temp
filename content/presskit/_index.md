@@ -139,11 +139,6 @@ Community showreel
 
 ![](/patchscreens1.jpg)
 
-|                                   |                        |
-| --------------------------------- | ---------------------- |
-| ![](/uploads/drop3_edited.gif)    | ![](/uploads/01.gif)   |
-| ![](/uploads/side_sample_v01.gif) | ![](/uploads/bath.gif) |
-
 ***
 
 ## Logo & Icon
