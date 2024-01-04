@@ -273,7 +273,9 @@ export default defineConfig({
                          required: true,
                        },
                      ],
-          },
+                   }, // Ensure closing brace for the template object
+                 ], // Ensure closing square bracket for the templates array
+               },
           ...blog_postFields(),
         ],
       },
