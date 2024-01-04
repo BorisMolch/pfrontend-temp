@@ -12,7 +12,7 @@ description: >-
 type: post
 ---
 
-{{< youtube id="fuBmZmi5AMY" >}} 
+{{< youtube id="fuBmZmi5AMY" >}}
 
 Immersive Tech Week is an event “where creativity, innovation, business, research, and art meet to connect and explore the possibilities of immersive technologies and their impact on our planet, culture, and society.” The event landed at de Doelen in Rotterdam from 28 November to 2 December. 
 
