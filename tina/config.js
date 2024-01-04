@@ -257,6 +257,22 @@ export default defineConfig({
             label: "Body of Document",
             description: "This is the markdown body",
             isBody: true,
+            templates: [ // Add this template array
+                   {
+                     name: 'youtube',
+                     label: 'YouTube video',
+                     match: {
+                       start: '{{<',
+                       end: '>}}',
+                     },
+                     fields: [
+                       {
+                         name: 'id',
+                         label: 'YouTube Video ID',
+                         type: 'string',
+                         required: true,
+                       },
+                     ],
           },
           ...blog_postFields(),
         ],
