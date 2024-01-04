@@ -107,7 +107,7 @@ logo_2 = "images/logo-2.png"
 logo_light = "images/logo-alt.png"
 logotype = "images/patchXR-SOUNDmetaverse-grey.svg"
 mailchimpURL = "https://patchxr.us7.list-manage.com/subscribe/post?u=b7bf7d4a7c9e42a6b4c2d1df1&amp;id=e2163949b5"
-og_image = "images/cover-landscapemultiplayer-artgame.jpg"
+og_image = "images/screenshot.png"
 og_image2 = "uploads/patchathon.jpg"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
