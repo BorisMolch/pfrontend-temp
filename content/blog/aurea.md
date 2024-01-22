@@ -10,11 +10,11 @@ description: >-
 type: post
 ---
 
-With the award ceremony in Europa-Park, Baden-Württemberg’s legendary theme park, roller coasters were both this year’s metaphor and literal setting. And as usual, AUREA organizers had a stellar jury. (Awards are nominated by the rich AUREA community, then final selection is made by the experts.) This year:
-
 ![](/aureawinners.jpg)
 
 ![](/aurea-prizes.jpeg)
+
+With the award ceremony in Europa-Park, Baden-Württemberg’s legendary theme park, roller coasters were both this year’s metaphor and literal setting. And as usual, AUREA organizers had a stellar jury. (Awards are nominated by the rich AUREA community, then final selection is made by the experts.) This year:
 
 * Kathleen Cohen, The Collaboratorium
 * Emily Olman, Hopscotch Interactive
