@@ -12,6 +12,8 @@ type: post
 
 With the award ceremony in Europa-Park, Baden-Württemberg’s legendary theme park, roller coasters were both this year’s metaphor and literal setting. And as usual, AUREA organizers had a stellar jury. (Awards are nominated by the rich AUREA community, then final selection is made by the experts.) This year:
 
+![](/aureawinners.jpg)
+
 ![](/aurea-prizes.jpeg)
 
 * Kathleen Cohen, The Collaboratorium
@@ -34,3 +36,5 @@ Our own Edo picked up the prize and got to have the “I thank the Academy” mo
 You can check out the AUREA community, too, by nominating projects. As for who on the PatchXR does and doesn’t like roller coasters, you’ll have to try to ask us that in person.
 
 [AUREA Award](https://www.aurea-award.com/)
+
+[AUREA#6 Award Winners](https://www.aurea-award.com/news/aurea6-award-winners)
