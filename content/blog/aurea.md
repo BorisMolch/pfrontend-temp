@@ -25,9 +25,9 @@ With the award ceremony in Europa-Park, Baden-Württemberg’s legendary theme p
 
 In AUREA’s most international prize yet, we were selected among five finalists, joining Motorica’s MoGen, Brainjo’s brain training, a wingsuit experience from Limitless Flight, and immersive audio from Holoplot. PatchXR, in winning the Creative Award, "represents a new paradigm for creative expression in mixed realities,” say the organizers. The winning projects were “selected for the profound impact they have on the XR landscape.”
 
-![](/aurea-1.jpeg)
-
 ![](/AUREA#6_PatchXR.jpg)
+
+![](/aurea-4.jpeg)
 
 And yes, there is a very handsome trophy. It had better be - one past year’s expert host came equipped with their own Academy Award in visual effects. (The community also has names like Disney in its community.)
 
