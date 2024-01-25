@@ -1,5 +1,7 @@
 ---
 title: 'Creation and integration: we’re speaking at the NAMM show (streamlined online)'
+slug: namm24
+date: 2024-01-24T23:00:00.000Z
 image: /a3efuture.jpeg
 author: PatchXR
 description: >-
