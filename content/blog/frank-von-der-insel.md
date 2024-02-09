@@ -1,14 +1,14 @@
 ---
-title: 'Artist profile: Frank von der Insel brings the thrill of the crowd to Patch'
+title: 'Artist profile: FrankVonDerInsel brings the thrill of the crowd to Patch'
 slug: frank-von-der-insel
 date: 2024-02-08T23:00:00.000Z
 image: /frank-thumbs.jpg
 author: PatchXR
 description: >-
   It’s all about the rush of a live audience - and the fun of creation that
-  feels as far away from work as possible. Frank von der Insel is another
-  prolific member of our artist community. He talks to us about how got active
-  with PatchWorld, and how he brought that onstage energy into the experience.
+  feels as far away from work as possible. FrankVonDerInsel is another prolific
+  member of our artist community. He talks to us about how he got active with
+  PatchWorld and brought that onstage energy into the experience.
 type: post
 ---
 
