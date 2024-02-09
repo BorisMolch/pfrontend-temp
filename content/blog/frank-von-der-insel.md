@@ -9,7 +9,7 @@ description: >-
   feels as far away from work as possible. Frank von der Insel is another
   prolific member of our artist community. He talks to us about how got active
   with PatchWorld, and how he brought that onstage energy into the experience.
-type: blog
+type: post
 ---
 
 ![](/frank-thumbs.jpg)
