@@ -10,7 +10,7 @@ description: >-
   vital discussion with key industry players tackling integration,
   interoperability, and standards for creative production. It’s happening in
   person and available for anyone to stream online.
-type: blog
+type: post
 ---
 
 ![](/a3efuture.jpeg)
