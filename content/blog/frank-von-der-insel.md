@@ -48,10 +48,10 @@ Audience reactions in The Ventriloquist are just triggered by me hitting a butto
 
 {{< youtube id="t_SWVyAcMVo" >}}
 
-How has PatchWorld evolved for you while you’ve been working with it? Any tips for others wanting to get deeper and learn the way you have? Join the Discord group, for starters,?
+**How has PatchWorld evolved for you while you’ve been working with it? Any tips for others wanting to get deeper and learn the way you have? Join the Discord group, for starters,?**
 
 Patch looks like it’s starting to take off in so many ways. It’s great to be a part of that, and to be able to interact so closely with the developers. They treat community members almost like part of the team. 
 
 Yes, join the Discord and build from scratch! There's a learning curve, but it’s worth it!
 
-Thanks, Frank! Can’t wait to see what else you’re doing! Follow Frank's YouTube channel for regular updates - or find him and other stellar community members on Discord.
+**Thanks, Frank! Can’t wait to see what else you’re doing! Follow [Frank's YouTube channel](https://www.youtube.com/@fsnw2193) for regular updates - or find him and other stellar community members on Discord.**
