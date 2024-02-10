@@ -38,7 +38,11 @@ For one of the latest things I’ve made, you go onstage and play a drum solo, a
 
 {{< youtube id="X1YyPfI1Zy4" >}}
 
-Continuing with the theatre theme, I recently created a little shadow theatre in a prehistoric world that another user had created:
+Continuing with the theatre theme, I recently created a little shadow theatre in a prehistoric world that another user  (EmberWolf) had created. 
+
+*\[Note: This is a great example of how you can build on others' work - expanding the world they've constructed!]*
+
+{{< youtube id="3bHL5WTgxBw" >}}
 
 The patch I recently created, "The Ventriloquist," is the one I like most. I was surprised to see how real it feels even though I created it myself. A couple of minutes into that, I believe that I’m on stage with a live audience, and the dialogue between me and the puppet or the audience member takes on a dynamic of its own.
 
