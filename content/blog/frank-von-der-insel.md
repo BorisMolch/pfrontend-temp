@@ -16,7 +16,7 @@ type: post
 
 You get some seriously fanciful stuff here, from a talking snowman ventriloquist’s dummy doing standup to a shadow puppet theater in a cave. (That’ll be perfect for fans of the movie Frozen and Platonic allegory / prehistoric art history, respectively.)
 
-Frank is a programmer and bio-informatician with training in biology - but also has a foot in the world of pop performance and acoustic instruments. Like a lot of people, though, time slipped away and the music lapsed. “We’ve got a household of instruments that never get touched,” he sighs. He had researched music creation software, but “it seemed like a very steep learning curve,” he said. And then he discovered PatchWorld.
+Frank is a programmer and bio-informatician with training in biology - but also has a foot in the world of traditional acoustic folk music. Like a lot of people, though, time slipped away and the music lapsed. “We’ve got a household of instruments that never get touched,” he sighs. He had researched music creation software, but “it seemed like a very steep learning curve,” he said. And then he discovered PatchWorld.
 
 **How did you first get into Patch? What made you choose this environment?**
 
