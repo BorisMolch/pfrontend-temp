@@ -142,7 +142,7 @@ promo_video:
 testimonial:
   enable: true
   testimonial_item:
-    - name: Vrwizkid 
+  - name: Vrwizkid 
     date: 01/09/2024
     summary: Brilliant
     content: What an amazing music making app...but it is so much more than just that. This is what utilising VR to its full potential looks like!
