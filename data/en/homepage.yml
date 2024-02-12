@@ -60,7 +60,7 @@ feature_slider:
 discord_banner:
   enable: true
   notes: "(only for reference) Ideal image size is 1378x775px"
-  image: "/uploads/nudi-homepage.jpg"
+  image: "/uploads/discord_gif_by_todd.gif"
   label: Join Discord
   text: Join our Discord channel to access our community and unlock the beta features
     for early access to even more powerful creative building blocks.
