@@ -24,7 +24,7 @@ Yahoo Finance anchor [Akiko Fujita](https://www.yahoo.com/author/akiko-fujita/?
 
 And we even made it in Korean:
 
-{{< youtube id="tH_33f3B_dQ&t=333s" >}}
+{{< youtube id="tH_33f3B_dQ" >}}
 
 ![](/images/blog-images/GDeh26bXwAAKT0f.jpeg)
 
