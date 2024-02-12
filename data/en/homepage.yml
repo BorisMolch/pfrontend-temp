@@ -142,6 +142,26 @@ promo_video:
 testimonial:
   enable: true
   testimonial_item:
+    - name: Vrwizkid 
+    date: 01/09/2024
+    summary: Brilliant
+    content: What an amazing music making app...but it is so much more than just that. This is what utilising VR to its full potential looks like!
+
+  - name: Meta.mat.999
+    date: 11/17/2023
+    summary: This is the future of music!
+    content: This is the future of music! Musical worlds you can inhabit, interact with and become a part of. A completely psychedelic, immersive experience. I love it!
+
+  - name: Becausereasons
+    date: 11/09/2023
+    summary: This has blown my mind.
+    content: By far the most incredible, mind bending, exciting and entertaining experience I've had in VR. I'm a VR vet.
+
+  - name: DJ_Ma9net
+    date: 10/11/2023
+    summary: WoooooooW!
+    content: Don't know how it took me so long to find this app but jeez I'm glad I did. The possibilities for collaborative music sessions across the globe would be enough to sell this app to me alone, but add to that the world building, patching, and variety of tools available to you and you have yourself not only a guaranteed good time with your friends (or strangers) but an excellent tool for music production, with an active and friendly discord community. The addition of DAW integration may well make this the future of VR music production, except it's here, right now. 5 stars!
+  
   - name: corprinus
     date: 01/05/2023
     summary: The best music software for VR, this will change music production forever.
@@ -154,6 +174,7 @@ testimonial:
       EVERYTHING. Yes...you can import your own 3D objects, custom make instruments
       and create REAL music studio equipment and God knows what else. I''ve never
       seen an app do so many things and completely nail it.'
+ 
   - name: Toddfadel
     date: 11/30/2022
     summary: Dream come true for my classroom!
