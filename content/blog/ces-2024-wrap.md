@@ -20,9 +20,9 @@ As usual, PatchWorld got people enthralled, playing, and dancing - PatchWorld al
 
 Select media accolades to mention:
 
-![](/IMG_4594.jpeg)
+Yahoo Finance anchor [Akiko Fujita](https://www.yahoo.com/author/akiko-fujita/?.tsrc=fin-srch) named us as one of [3 biggest tech trends to watch at the conference,](https://finance.yahoo.com/video/ces-2024-3-biggest-tech-170709893.html?guccounter=1) for the fun of making music and building your own universes to explore. From the start of this video:
 
-Yahoo Finance anchor [Akiko Fujita](https://www.yahoo.com/author/akiko-fujita/?.tsrc=fin-srch) named us as one of [3 biggest tech trends to watch at the conference,](https://finance.yahoo.com/video/ces-2024-3-biggest-tech-170709893.html?guccounter=1) for the fun of making music and building your own universes to explore.
+{{< youtube id="1GPWBOfj_eg" >}}
 
 And we even made it in Korean (skip to 3:33 - well, if you know Korean or want to practice):
 
