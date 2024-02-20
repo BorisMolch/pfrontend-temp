@@ -1,5 +1,5 @@
 ---
-title: 'Press round-up: Patch was one of the most talked-about CES stories'
+title: 'Press round-up: PatchWorld highlighted among CES show picks'
 slug: ces-press
 date: 2024-02-18T23:00:00.000Z
 image: /CES-banner.jpg
