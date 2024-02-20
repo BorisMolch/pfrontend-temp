@@ -15,6 +15,8 @@ type: post
 
 For all the AI and automated cat flaps, once again, PatchWorld is right in the tech spotlight. The Associated Press picked up Patch as one of the "most interesting" highlights of the blockbuster tech show, which meant via the wire service Patchworld - and, of course, demo star Gad's iconic flower shirt - made the rounds worldwide, UK to UAE. In the metaverse, folks in Decentraland again were treated to a [virtual party](https://decentraland.org/events/event/?id=90385953-056c-4cc8-b0ad-c34b46fb8e9b) (funded by their DAO through a grant proposal). Getty Images captured the tech (and shirt) [for posterity](https://www.gettyimages.ie/search/2/image?events=776087715\&family=editorial\&page=10\&sort=newest).
 
+![](/gad-on-yahoofinance.png)
+
 To read the AP story, look not further than the UK's \*Independent \*(though it also made the cut at the UAE's *Khaleej Times*):
 
 [CES 2024 updates: Most interesting news and gadgets from tech's big show](https://www.independent.co.uk/news/ap-las-vegas-ces-samsung-tvs-b2475217.html)
