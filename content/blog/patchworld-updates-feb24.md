@@ -8,13 +8,13 @@ description: >-
   Find your friends and explore worlds together. Beam yourself onto a space
   station and discover the latest new features and tutorials. If you haven’t
   followed recent PatchWorld updates, you’ve been missing out. Here’s a look at
-  what’s new - including what’s in the very latest release on the Meta Store.
+  what’s new - including what’s in the latest release on the Meta Store.
 type: post
 ---
 
 ![](</Space_Stage_Landing (3).jpeg>)
 
-Playing with PatchWorld is fun. But jamming with other players, learning from the community, exploring all the creative possibilities - that’s next level. So we’ve been working to make that easier than ever by improving and expanding multiplayer functionality, redesigning the hub and library, and showcasing more of the incredible events and creations you’re building in the community. 
+Playing with PatchWorld is fun. But jamming with other players, learning from the community, exploring all the creative possibilities - that’s next level. So we’ve been working to make that easier than ever by improving and expanding multiplayer functionality, redesigning the hub and library, and showcasing more of the incredible events and creations you’re building in the community.
 
 ![](/OnlineUsers.jpeg)
 
@@ -68,5 +68,3 @@ Watch how much faster spawning is now - use the A and X buttons to add to your l
 Check the full [version 67 release changelog on Discord](https://discord.com/channels/802206423609638962/1180553647734652992/1208159488767561808) for more. And if you're not on the Discord community, now's the time to join!
 
 We're not slowing down. So watch here for more of what's new!
-
-
