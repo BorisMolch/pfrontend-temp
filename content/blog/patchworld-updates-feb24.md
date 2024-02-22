@@ -67,6 +67,6 @@ Watch how much faster spawning is now - use the A and X buttons to add to your l
 
 ![](/Spawning.gif)
 
-Check the full [version 67 release changelog on Discord](https://discord.com/channels/802206423609638962/1180553647734652992/1208159488767561808) for more. And if you're not on the Discord community, now's the time to join!
+Check the full [version 67 release changelog on Discord](https://discord.com/channels/802206423609638962/1180553647734652992/1208159488767561808) for more. And if you're not on the Discord community, now's the time to [join](https://patchxr.com/blog/patchworld-updates-feb24/)!
 
 We're not slowing down. So watch here for more of what's new!
