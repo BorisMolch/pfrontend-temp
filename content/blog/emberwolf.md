@@ -9,6 +9,7 @@ description: >-
   There are spaceships and boats, MTV Cribs-inspired abodes, and vaporwave-style
   constructions of cityscapes and collaged images. Step in, and it could change
   how you think about Patch - and VR/xR.
+type: post
 ---
 
 ![](/Ember_12.jpeg)
@@ -47,8 +48,6 @@ Welcome to my crib, indeed.
 *An example of some of Ember's tutorial content:*
 
 {{< youtube id="h8Ecq1W8k4E" >}}
-
- 
 
 *And here's Emberwolf in his PatchXR habitat:*
 
