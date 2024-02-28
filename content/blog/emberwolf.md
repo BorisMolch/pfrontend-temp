@@ -44,6 +44,12 @@ Don’t miss those creations; these are brave, new worlds. And for his part, Emb
 
 Welcome to my crib, indeed.
 
-Here's Emberwolf in his PatchXR habitat:
+*An example of some of Ember's tutorial content:*
+
+{{< youtube id="h8Ecq1W8k4E" >}}
+
+ 
+
+*And here's Emberwolf in his PatchXR habitat:*
 
 {{< youtube id="LHUfPc68gNc" >}}
