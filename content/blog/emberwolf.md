@@ -22,6 +22,10 @@ It's hard to do those words justice in words, images, or even video - but you ca
 
 “As somebody who worked in TV, I see PatchWorld as a sandbox opportunity to experiment with sound and visuals in a three-dimensional environment,” EmberWolf tells us. “I’m a musician who’s a visual artist, and I came into PatchWorld expecting music - but became a world builder.
 
+“I’m not much of a shoot-em-up person when it comes to VR -- motion sickness -- so I prefer creation and experimentation,” he says. And our tool he says is unlike anything else he’s found on the platform: “PatchWorld is full of happy accidents. When it comes to creating graphical art, you have all these possibilities.”
+
+“Oh, yeah, and then there’s the blocks. The constant addition of blocks -- it’s basically like the Holodeck from Star Trek. It’s been constantly improved for the past couple years,  and gains more functionality with every update.”
+
 It’s hard to keep up with EmberWolf’s pace of invention, so in recent weeks, he took us on some tours of his favorite worlds. One is a multi-level realm full of studios.
 
 “It’s basically MTV Cribs,” says EmberWolf, “... three levels, and slowly but surely, I’m adding studios in rooms. There’s a pool; there’s outside equipment as well. Just like a real house party.” Another world features a spaceship, with television screens that display live images (as with PatchWorld’s 360-degree video). You can add planets and motion, and as the outside world transforms, so, too, can the virtual TV images staring back. This kind of trippy reality-bending and attention to detail is packed into every corner of his work.
