@@ -32,7 +32,7 @@ It’s hard to keep up with EmberWolf’s pace of invention, so in recent weeks,
 
 “It’s basically MTV Cribs,” says EmberWolf, “... three levels, and slowly but surely, I’m adding studios in rooms. There’s a pool; there’s outside equipment as well. Just like a real house party.” Another world features a spaceship, with television screens that display live images (as with PatchWorld’s 360-degree video). You can add planets and motion, and as the outside world transforms, so, too, can the virtual TV images staring back. This kind of trippy reality-bending and attention to detail is packed into every corner of his work.
 
-![](/apics/fallenangel.jpg)
+![](/apics/futurecitytowers2.jpeg)
 
 ![](/apics/emberlab.jpeg)
 
