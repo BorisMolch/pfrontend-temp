@@ -34,11 +34,15 @@ It’s hard to keep up with EmberWolf’s pace of invention, so in recent weeks,
 
 ![](/apics/fallenangel.jpg)
 
+![](/apics/emberlab.jpeg)
+
 Once you understand how PatchWorld’s components work, EmberWolf says, you have open-ended possibilities to explore. That sets PatchWorld apart from other VR software, he says, because devices are “more malleable - a device isn’t set in stone. That makes it easy to develop that sweet spot - where you mold things to fit VR and not a two-dimensional perspective we’re used to.”
 
 As PatchWorld has added support for new asset formats, EmberWolf has kept up, exploiting this ever-changing medium. Most recently, that has meant working with 3D GLB files (the format used by SketchLab). But warp into one of his creations, and you’ll see how adept he is at working with elements of collage, treating two-dimensional images and videos in the 3D space. That simplicity can be “very artistic and organic, in a way,” he says, even with “low-poly” creations. 2D graphics elements and layers take on new possibilities in spatial dimensions: “I started using PatchWorld as an advanced form of Photoshop - I can just throw a video in the background with that cityscape that I’m building.” 
 
-![](/apics/ember-skyline.jpg)
+![](/apics/bearstudio.jpeg)
+
+![](/apics/asianscape.jpeg)
 
 “Just like in regular reality,” EmberWolf says, “when you have a piece of paper in front of you, you can wiggle it, you can look at it from the top and bottom, you can see through it. The same thing works when you’re in VR.” And that TV background comes into play, too. “You start considering the things that you use in television - foley design, how sound moves around you.”
 
