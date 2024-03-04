@@ -16,6 +16,8 @@ type: post
 
 You might know Rey not by “EmberWolf” but by the shorthand wolf face staring back through text characters - ʕ•ᴥ•ʔ. The musician, artist, and creator got our attention with a dazzling array of original immersive environments, which he’s shared on Discord and his [TikTok channel](https://www.tiktok.com/@emberwolfxr) alongside PatchWorld tutorials and instruments. He can make a world feel like a stage or TV set, even with the simplest sonic and visual elements.
 
+{{< youtube id="iEXCB49ewPQ" >}}
+
 It's hard to do those words justice in words, images, or even video - but you can check them out for yourself. You'll find many of EmberWolf's worlds published on the Hub, with more on his profile.
 
 ![](/apics/IMG_1513.jpg)
