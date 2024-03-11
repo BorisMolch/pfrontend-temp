@@ -63,3 +63,5 @@ Yes, join the Discord and build from scratch! There's a learning curve, but itâ€
 Update: Check out our channel for the latest videos featuring Olaf and The Brick! (That second character is what they sound like!)
 
 {{< youtube id="0L2q7GFxoks" >}}
+
+{{< youtube id="ISfevHwDqE0" >}}
