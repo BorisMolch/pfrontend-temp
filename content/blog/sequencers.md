@@ -4,7 +4,7 @@ title: >-
   PatchWorld
 slug: sequencers
 date: 2024-03-10T23:00:00.000Z
-image: /sequencers.jpg
+image: /apics/sequencers4.jpg
 author: PatchXR
 description: >-
   It's all about finding powerful, intuitive new ways of making music in VR.
@@ -14,7 +14,7 @@ description: >-
 type: post
 ---
 
-![](/apics/sequencers.jpg)
+![](/apics/sequencers4.jpg)
 
 Among the many improvements we've been packing into PatchWorld since launch, the new three-dimensional sequencers open up some of the biggest musical possibilities. And you can do all of this with gestures. Plus, learn one, and you'll get skills you can apply to the others. Patch into your favorite synths and effects for unlimited expandability.
 
@@ -34,7 +34,7 @@ Some of the features included:
 * Advanced opens up more: rate division, direction, sequence length, preset storage and "song mode" (what some music sequencers call pattern chaining)
 * Song mode with the ability to set up different s
 
-And yes, advanced users, that means you can create polymeters and polyrhythms with multiple sequencers! 
+And yes, advanced users, that means you can create polymeters and polyrhythms with multiple sequencers!
 
 Then there's the unique Killerboard - which is a bit unlike anything you've likely seen before, inside or outside VR. Instead of the more conventional piano-roll style view of the Melodic Sequencer, you get a horizontal row of bars, each representing both pitches and events. Arm a trigger, and you can create micro-timed repeats and sustains, for unusual patterns and pads.  Let's watch Gad again for more:
 
@@ -77,6 +77,6 @@ In short:
 * Global start/stop for overall patterns
 * Autonomous outputs you can patch to other devices as you wish
 
-It's a huge amount of power, usually found only inside hard-to-use node patching environments, but here as easy as our other Patch devices. 
+It's a huge amount of power, usually found only inside hard-to-use node patching environments, but here as easy as our other Patch devices.
 
 We can't wait to see what you do with these. And if anything is unclear, if you want to see more, or you want to share tips and ideas, be sure to share with us on Discord!
