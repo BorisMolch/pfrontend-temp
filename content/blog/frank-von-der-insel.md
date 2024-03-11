@@ -38,7 +38,7 @@ For one of the latest things I’ve made, you go onstage and play a drum solo, a
 
 {{< youtube id="X1YyPfI1Zy4" >}}
 
-Continuing with the theatre theme, I recently created a little shadow theatre in a prehistoric world that another user  (EmberWolf) had created. 
+Continuing with the theatre theme, I recently created a little shadow theatre in a prehistoric world that another user  (EmberWolf) had created.
 
 *\[Note: This is a great example of how you can build on others' work - expanding the world they've constructed!]*
 
@@ -59,3 +59,7 @@ Patch looks like it’s starting to take off in so many ways. It’s great to be
 Yes, join the Discord and build from scratch! There's a learning curve, but it’s worth it!
 
 **Thanks, Frank! Can’t wait to see what else you’re doing! Follow [Frank's YouTube channel](https://www.youtube.com/@fsnw2193) for regular updates - or find him and other stellar community members on [our Discord channel](https://discord.gg/gwMVhKWxbr).**
+
+Update: Check out our channel for the latest videos featuring Olaf and The Brick! (That second character is what they sound like!)
+
+{{< youtube id="0L2q7GFxoks" >}}
