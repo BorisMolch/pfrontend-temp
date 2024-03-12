@@ -35,9 +35,9 @@ There’s also a new sampler keyboard with a granular looper onboard. Add your o
 
 ### New sequencers
 
-A new melodic sequencer with arrangement capabilities means you can incorporate tunes and entire song structures into your VR songwriting. And if you’re stuck for ideas, it’s a way to play around and experiment, quickly spawning song starters. It'll be familiar to users of 2D desktop software, but it's built entirely for the 3D environment, including gestural controls, a native 3D interface that lends itself to gestures, and the usual PatchWorld patchability.
+A new **Melodic Sequencer** with arrangement capabilities means you can incorporate tunes and entire song structures into your VR songwriting. And if you’re stuck for ideas, it’s a way to play around and experiment, quickly spawning song starters. It'll be familiar to users of 2D desktop software, but it's built entirely for the 3D environment, including gestural controls, a native 3D interface that lends itself to gestures, and the usual PatchWorld patchability.
 
-And there are three more sequencers to explore, all original to PatchWorld. There's the graphical, spatial Killerboard, the polyphonic Jangler, and the open-ended, patchable Node Sequencer.
+And there are three more sequencers to explore, all original to PatchWorld. There's the graphical, spatial **Killerboard**, the polyphonic **Jangler**, and the open-ended, patchable **Node Sequencer**.
 
 For more, see our dedicated video guide to the sequencers:
 
