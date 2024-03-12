@@ -18,7 +18,7 @@ type: post
 
 Among the many improvements we've been packing into PatchWorld since launch, the new three-dimensional sequencers open up some of the biggest musical possibilities. And you can do all of this with gestures. Plus, learn one, and you'll get skills you can apply to the others. Patch into your favorite synths and effects for unlimited expandability.
 
-For starters, there's the melodic sequencer:
+For starters, there's the **Melodic Sequencer**:
 
 {{< youtube id="sgbcPryC4gc" >}}
 
@@ -36,7 +36,7 @@ Some of the features included:
 
 And yes, advanced users, the control for sequence length means you can create polymeters with multiple synchronized sequencers!
 
-Then there's the unique Killerboard - which is a bit unlike anything you've likely seen before, inside or outside VR. Instead of the more conventional piano-roll style view of the Melodic Sequencer, you get a horizontal row of bars, each representing both pitches and events. Arm a trigger, and you can create micro-timed repeats and sustains, for unusual patterns and pads.  Let's watch Gad again for more:
+Then you've got the unique **Killerboard** - which is a bit unlike anything you've likely seen before, inside or outside VR. Instead of the more conventional piano-roll style view of the Melodic Sequencer, you get a horizontal row of bars, each representing both pitches and events. Arm a trigger, and you can create micro-timed repeats and sustains, for unusual patterns and pads.  Let's watch Gad again for more:
 
 {{< youtube id="g5U8HVNFjn4" >}}
 
@@ -48,7 +48,7 @@ Again, you'll find more features, including:
 * Velocity with depth (as desired)
 * "Grain size" for the size of repeated triggers
 
-The "Jangler" is a PatchWorld original, too - a polyphonic X/Y grid of pitches and triggers you can use expressively with gestures:
+The **Jangler** is a PatchWorld original, too - a polyphonic X/Y grid of pitches and triggers you can use expressively with gestures:
 
 {{< youtube id="7k3jFZ04cWQ" >}}
 
@@ -61,7 +61,7 @@ More:
 * Optional velocity operation - again using depth
 * Patch in velocity and synths as you want (as PatchWorld is modular!)
 
-We saved the most advanced and creative sequencer for last - but fear not, Node Sequencer is friendly and intuitive even as it's open-ended and deep!
+We saved the most advanced and creative sequencer for last - but fear not, **Node Sequencer** is friendly and intuitive even as it's open-ended and deep!
 
 It all starts with a single cube and a sphere inside. And then patch in space ... well, let's watch:
 
