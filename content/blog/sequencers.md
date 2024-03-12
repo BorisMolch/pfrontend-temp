@@ -32,9 +32,9 @@ Some of the features included:
 * Global swing (matched to your overall project)
 * Color options
 * Advanced opens up more: rate division, direction, sequence length, preset storage and "song mode" (what some music sequencers call pattern chaining)
-* Song mode with the ability to set up different s
+* Song mode with the ability to set up different sequences of patterns and repeats
 
-And yes, advanced users, that means you can create polymeters and polyrhythms with multiple sequencers!
+And yes, advanced users, the control for sequence length means you can create polymeters with multiple synchronized sequencers!
 
 Then there's the unique Killerboard - which is a bit unlike anything you've likely seen before, inside or outside VR. Instead of the more conventional piano-roll style view of the Melodic Sequencer, you get a horizontal row of bars, each representing both pitches and events. Arm a trigger, and you can create micro-timed repeats and sustains, for unusual patterns and pads.  Let's watch Gad again for more:
 
