@@ -8,7 +8,7 @@ image: /apics/sequencers4.jpg
 author: PatchXR
 description: >-
   It's all about finding powerful, intuitive new ways of making music in VR.
-  PatchWorld's latest sequencer devices unlock creative ways of generating
+  PatchWorld's latest instrument devices unlock creative ways of generating
   melodies, rhythms, and patterns. Gad is here to show us how in these video
   tutorials.
 type: post
@@ -16,9 +16,13 @@ type: post
 
 ![](/apics/sequencers4.jpg)
 
-Among the many improvements we've been packing into PatchWorld since launch, the new three-dimensional sequencers open up some of the biggest musical possibilities. And you can do all of this with gestures. Plus, learn one, and you'll get skills you can apply to the others. Patch into your favorite synths and effects for unlimited expandability.
+Among the many improvements we've been packing into PatchWorld since launch, these new three-dimensional instruments for making patterns open up some of the biggest musical possibilities. And you can do all of this with gestures. Plus, learn one, and you'll get skills you can apply to the others. Patch into your favorite synths and effects for unlimited expandability.
 
-For starters, there's the **Melodic Sequencer**:
+There are four sequencer devices. And there's **Home Grown** - a visual, spatial instrument you can use on its own or combined with other synths. Let's start there, as it's a great go-to for starting some new melodic ideas:
+
+{{< youtube id="tUhQmaaPM-s" >}}
+
+On to the sequencers! For starters, there's the **Melodic Sequencer**:
 
 {{< youtube id="sgbcPryC4gc" >}}
 
