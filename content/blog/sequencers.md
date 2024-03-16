@@ -22,6 +22,16 @@ There are four sequencer devices. And there's **Home Grown** - a visual, spatial
 
 {{< youtube id="tUhQmaaPM-s" >}}
 
+It's easy to get started, but there's a lot of power inside:
+
+* Apply any sound you want by adding Bubbles from the Library
+* Built-in repeat, using depth with the controller to control repeat rate
+* Tweak volume, pitch, wobble, and echo
+* Swing
+* Connect to other devices - and layer the internal sound of Home Grown, or remove its sound bubble to use it as a controller (only hear an external synth)
+
+It's a unique, gestural way of playing totally native to VR and your controllers.
+
 On to the sequencers! For starters, there's the **Melodic Sequencer**:
 
 {{< youtube id="sgbcPryC4gc" >}}
