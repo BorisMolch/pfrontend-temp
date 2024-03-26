@@ -28,9 +28,7 @@ Frank is a programmer and bio-informatician with training in biology - but also 
 
 I came across some of Todd’s video tutorials he’s made where he talks about more advanced features - and I joined the Discord group, requested Blocks access, and haven’t stopped since. Now I have something to program audiovisual experiences that’s actually fun. 
 
-*\[See our previous profile of Todd.]*
-
-**![](/apics/tutorialworld.jpg)
+*\[See our [previous profile of Todd](https://patchxr.com/blog/mr-todd/).]*![](/apics/tutorialworld.jpg)
 
 **Right, it has this playful experience - even when you go all the way into custom creation from scratch. So you decided not to work with code, even as a programmer?**
 
@@ -48,7 +46,7 @@ For one of the latest things I’ve made, you go onstage and play a drum solo, a
 
 Continuing with the theatre theme, I recently created a little shadow theatre in a prehistoric world that another user  (EmberWolf) had created.
 
-*\[Note: This is a great example of how you can build on others' work - expanding the world they've constructed!]*
+*\[This is a great example of how you can build on others' work - expanding the world they've constructed!]*
 
 {{< youtube id="3bHL5WTgxBw" >}}
 
@@ -68,7 +66,7 @@ Yes, join the Discord and build from scratch! There's a learning curve, but it�
 
 **Thanks, Frank! Can’t wait to see what else you’re doing! Follow [Frank's YouTube channel](https://www.youtube.com/@fsnw2193) for regular updates - or find him and other stellar community members on [our Discord channel](https://discord.gg/gwMVhKWxbr).**
 
-Update: Check out our channel for the latest videos featuring Olaf and The Brick! (That second character is what they sound like!)
+Check out our channel for the latest videos featuring Olaf and The Brick. (That second character is what they sound like!)
 
 {{< youtube id="0L2q7GFxoks" >}}
 
