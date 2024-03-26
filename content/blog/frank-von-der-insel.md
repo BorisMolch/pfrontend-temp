@@ -2,7 +2,7 @@
 title: 'Artist profile: FrankVonDerInsel brings the thrill of the crowd to Patch'
 slug: frank-von-der-insel
 date: 2024-02-08T23:00:00.000Z
-image: /frank-thumbs.jpg
+image: /chess-at-night.jpg
 author: PatchXR
 description: >-
   It’s all about the rush of a live audience - and the fun of creation that
@@ -12,9 +12,15 @@ description: >-
 type: post
 ---
 
-![](/frank-thumbs.jpg)
+![](/apics/deviceisland.jpg)
 
-You get some seriously fanciful stuff here, from a talking snowman ventriloquist’s dummy doing standup to a shadow puppet theater in a cave. (That’ll be perfect for fans of the movie Frozen and Platonic allegory / prehistoric art history, respectively.)
+Frank's worlds can take you places, teach you skills, and give you powerful, imaginative tools. You'll see his work all over the Hub. Don't forget to stop by his tutorials in "Frank's Tutorials Hub," and then when you're ready to discover new instruments, book a holiday trip to "Device Island" (above). There, he's assembled all of his devices, from chord players to utilities to advanced instruments, and he's made them freely available for you to copy and use them in your own worlds.
+
+![](/apics/chess-at-night.jpg)
+
+"[How about a nice game of chess?](https://www.youtube.com/watch?v=E5V_lDITKEQ)" Frank has also produced a chess sequencer - playable as a game, but simultaneously sequencing pleasing melodic patterns. You can try that solo, but of course even better is to invite a friend for a musical match.![](/frank-thumbs.jpg)
+
+You get some seriously fanciful stuff in Frank's creations, too, from a talking snowman ventriloquist’s dummy doing standup to a shadow puppet theater in a cave. (That’ll be perfect for fans of the movie Frozen and Platonic allegory / prehistoric art history, respectively.)
 
 Frank is a programmer and bio-informatician with training in biology - but also has a foot in the world of traditional acoustic folk music. Like a lot of people, though, time slipped away and the music lapsed. “We’ve got a household of instruments that never get touched,” he sighs. He had researched music creation software, but “it seemed like a very steep learning curve,” he said. And then he discovered PatchWorld.
 
@@ -23,6 +29,8 @@ Frank is a programmer and bio-informatician with training in biology - but also 
 I came across some of Todd’s video tutorials he’s made where he talks about more advanced features - and I joined the Discord group, requested Blocks access, and haven’t stopped since. Now I have something to program audiovisual experiences that’s actually fun. 
 
 *\[See our previous profile of Todd.]*
+
+**![](/apics/tutorialworld.jpg)
 
 **Right, it has this playful experience - even when you go all the way into custom creation from scratch. So you decided not to work with code, even as a programmer?**
 
