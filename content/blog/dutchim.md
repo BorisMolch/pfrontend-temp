@@ -8,7 +8,7 @@ description: >-
   It’s a typical moment in Dutchim’s creations: what seems like a simple, flat
   pair of squares chasing each other and filling in the screen explodes into a
   ball filled with twisted, interlaced patterns against a lighting-lit alien
-  purple sky. Welcome to Dutchim’s very own Matchmagic Land and his PatchWorld
+  purple sky. Welcome to Dutchim’s very own Mathmagic Land and his PatchWorld
   inventions.
 type: post
 ---
