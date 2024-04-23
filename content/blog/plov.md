@@ -49,3 +49,17 @@ Plov’s visual inspirations have been myriad—“school, fine arts and then gr
 But while PatchWorld may seem like a music tool to most, Plov is yet another example of an artist who took it as an open-ended playground – a blank slate. His own musical background is relatively limited in comparison to his art and graphic inclinations, though he’s quick to remind us that he makes music as the duo plov & faverman. And what does he like best about PatchWorld? “Interacting with other players, pooling our knowledge, to create a superuser who can do everything like the Great Creator,” he answers. “I want to progress in both visuals and music in PatchWorld. I've even ordered myself a new PC for rendering.”
 
 “My biggest passion is science fiction,” plov says. If you get me started, we’ll talk all day.” But here, in PatchWorld, we can get lost in sci-fi scenes as vivid as those we imagine while reading—a futuristic fantasy now within reach.
+
+**View more of plov's incredible worlds:**
+
+{{< youtube id="ZldHNAwHYd4" >}}
+
+{{< youtube id="YPqGYxe83BM" >}}
+
+{{< youtube id="h0nboOBg6hM" >}}
+
+{{< youtube id="vltQGd1hDpQ" >}}
+
+{{< youtube id="i-KGtKaikGY" >}}
+
+{{< youtube id="VYMwLd3rmrQ" >}}
