@@ -16,6 +16,10 @@ type: post
 
 Plov’s creations are the stuff of legends - like theater sets, full of intricate details. You wander into them, and they tell a story. And they cover quite a range. There are inquisitive-looking extraterrestrials peering back at you on ocean-covered planets, off-world cityscapes set against fiery red canyons, dreamlike cyborg figures unfolding arrays of arms like some Hindu deity. Some creations become abstract etudes of color and form - and some to more fanciful territory, as a cute robot tends to a storybook water mill and bakery.
 
+Watch a complete sizzle reel of his recent work for a preview:
+
+{{< youtube id="aabE2yoCdGw" >}}
+
 Fittingly for a person whose best-known PatchWorld creation is the entry lobby, plov is evangelical about bringing more people to Patch making. “The most important thing is collaborations,” plov says. That’s a chance to put together what you’re best at with the best skills from other folks. “Programmers, musicians, visual designers, get together!”
 
 ![](/apics/Screenshot_2024-03-27_20-12-50D2FE.jpg)
