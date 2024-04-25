@@ -52,14 +52,8 @@ But while PatchWorld may seem like a music tool to most, Plov is yet another exa
 
 **View more of plov's incredible worlds:**
 
-{{< youtube id="ZldHNAwHYd4" >}}
-
 {{< youtube id="YPqGYxe83BM" >}}
-
-{{< youtube id="h0nboOBg6hM" >}}
 
 {{< youtube id="vltQGd1hDpQ" >}}
 
 {{< youtube id="i-KGtKaikGY" >}}
-
-{{< youtube id="VYMwLd3rmrQ" >}}
