@@ -3,6 +3,7 @@ title: '"Aloof In The Blue" is an ambient EP produced entirely in PatchWorld'
 slug: aloof-martin
 date: 2024-06-20T22:00:00.000Z
 image: /apics/martincover.jpg
+author: PatchXR
 description: >-
   In Martin Delaney's newest album, full immersion is the whole point -
   literally, artistically, and philosophically. The London-based artist produced
@@ -13,7 +14,7 @@ type: post
 
 ![](/apics/martincover.jpg)
 
-It's an album that could only exist in PatchWorld. Martin plays the VR software like an instrument, starting with long fuzzy drones and oscillations that transform the patch into a VR-based experimental pedalboard. This isn't VR for the sake of it; Martin proves you can make ambient electronics with PatchWorld just as you would a big rig of hardware. 
+It's an album that could only exist in PatchWorld. Martin plays the VR software like an instrument, starting with long fuzzy drones and oscillations that transform the patch into a VR-based experimental pedalboard. This isn't VR for the sake of it; Martin proves you can make ambient electronics with PatchWorld just as you would a big rig of hardware.
 
 "I got the Quest 3 headset earlier this year, and of course went on a search for music apps," says Martin. "PatchWorld stood out for me. Before lockdown, I was working on more spacey or ambient material, and I've been looking for a way to restart that, adding my own visual material. I've used visuals alongside music one way or the other since the early 2000s."
 
@@ -37,7 +38,7 @@ And he does fully embrace that immersion. "The word 'immersive' is overused, in 
 
 That mixture of video and audio is an ideal outcome of working in PatchWorld, since you naturally capture both at once. "I do think that by capturing both together, they are much better integrated, and spontaneous," Martin says.
 
-You can get the music on Bandcamp, but Martin even encourages you to get the "full effect" by [taking in the videos.](https://www.youtube.com/@VRMusicPlanet) 
+You can get the music on Bandcamp, but Martin even encourages you to get the "full effect" by [taking in the videos.](https://www.youtube.com/@VRMusicPlanet)
 
 More is coming, too - Martin says he plans more music, with use of PatchWorld's blocks and randomization. Oh, and if anyone wants to book him live, live shows are possible, too. Otherwise, see you in the park.
 
