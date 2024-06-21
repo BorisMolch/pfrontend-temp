@@ -28,7 +28,7 @@ Each video becomes an etude in how PatchWorld can produce visuals - one mixed re
 
 {{< youtube id="_Vwchfy7EWc" >}}
 
-"Movement and Inaction," apart from featuring a prominent, friendly floating cat head, goes fully into the visual realms of PatchWorld. Against another array of uneasy drones, we get spaced-out delays and a gentle, shuffling acid groove. It's perhaps an ideal tune for cats.
+"Movement and Inaction," apart from featuring a prominent, friendly floating cat head, goes fully into the visual realms of PatchWorld. Against another array of uneasy drones, we get spaced-out delays and a gentle, shuffling acid groove. It's perhaps an ideal tune for cats. Martin explains: "The cat is our beloved Tina, who died earlier in the year, I miss her and like to keep her in the picture as much as possible."
 
 {{< youtube id="jn_y0-_iJ6A" >}}
 
