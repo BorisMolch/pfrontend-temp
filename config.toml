@@ -79,15 +79,10 @@ name = "Discord"
 parent = "Community ↓"
 weight = 3
 [[menu.main]]
-URL = "https://forum.patchxr.com/"
-name = "Forum"
-parent = "Community ↓"
-weight = 4
-[[menu.main]]
 URL = "faq"
 name = "FAQ"
 parent = "Community ↓"
-weight = 5
+weight = 4
 [[menu.main]]
 URL = "https://portal.patchxr.io/"
 name = "Portal"
