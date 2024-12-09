@@ -69,6 +69,24 @@ weight = 5
 # weight = 1
 
 [[menu.main]]
+URL = "#"
+name = "Download"
+parent = ""
+weight = 10
+
+[[menu.main]]
+URL = "https://www.meta.com/en-gb/experiences/patchworld-multiplayer-music-maker/3715150718552632"
+name = "Meta Quest App"
+parent = "Download"
+weight = 0
+
+[[menu.main]]
+URL = "https://installer.launcher.xsolla.com/xlauncher-builds/xsolla-launcher-update/10018/bin/web_installer.exe"
+name = "PC desktop BETA"
+parent = "Download"
+weight = 1
+
+[[menu.main]]
 URL = "community"
 name = "Gallery"
 parent = "Community ↓"
