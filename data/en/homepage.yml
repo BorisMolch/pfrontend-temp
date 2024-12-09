@@ -48,19 +48,23 @@ feature_slider:
       studios, and instruments created by our passionate community from around the
       globe.
     feature_image: "/uploads/skull-instrument.jpg"
+    feature_image_alt: ""
   - feature_title: Create
     feature_text: Create your own musical worlds and instruments, design your avatar,
       and record yourself performing, for musicverse music videos and shows.
     feature_image: "/uploads/pianist.jpg"
+    feature_image_alt: ""
   - feature_title: Share
     feature_text: Share your creations with the world. Publish your works to PatchWorld
       and in the coming months, multiplayer support will allow you to explore, build,
       and jam in real-time with friends.
     feature_image: "/uploads/snapshot_Orion Stargate Alpha set.jpg"
+    feature_image_alt: ""
 discord_banner:
   enable: true
   notes: "(only for reference) Ideal image size is 1378x775px"
   image: "/uploads/discord_gif_by_todd.gif"
+  image_alt: ""
   label: Join Discord
   text: Join our Discord channel to access our community and unlock the beta features
     for early access to even more powerful creative building blocks.
