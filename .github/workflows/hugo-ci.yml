@@ -4,13 +4,15 @@
 
 name: Node.js CI
 
-on: [push]
+on:
+  push:
+    branches:
+      - master 
 
 jobs:
   deploy:
     name: "Deploy to Linode"
     runs-on: ubuntu-latest
-    if: github.event_name == 'push'
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
