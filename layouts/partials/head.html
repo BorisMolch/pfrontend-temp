@@ -11,17 +11,18 @@
 {{ "<!-- PatchXR - Web design / development by 1XN.org -->" | safeHTML }}
 
 <head>
-  <link href="https://vjs.zencdn.net/7.8.4/video-js.css" rel="stylesheet" />
   <meta charset="utf-8">
   {{ if .IsHome }}
   <title>{{ .Site.Title }}</title>
   {{ else }}
   <title>{{ .Title }} | {{ .Site.Title }}</title>
   {{ end }}
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
 
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+
+  <link rel="dns-prefetch" href="https://vjs.zencdn.net">
   {{ with .Site.Params.author }}
   <meta name="author" content="{{ . }}">{{ end }}
   {{ hugo.Generator }}
@@ -35,6 +36,8 @@
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
   {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+
+  <link href="https://vjs.zencdn.net/7.8.4/video-js.css" rel="stylesheet" />
 
   {{ "<!--Favicon-->" | safeHTML }}
 
@@ -55,6 +58,7 @@
   <meta name="msapplication-TileColor" content="#000000">
   <meta name="msapplication-TileImage" content="/images/appicons/ms-icon-144x144.png">
   <meta name="theme-color" content="#000000">
+
 
   <link rel="canonical" href="{{ .Site.BaseURL }}"/>
    {{ partial "json-ld-schema.html" . }}
