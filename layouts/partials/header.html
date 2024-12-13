@@ -116,9 +116,8 @@
         {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
         {{- $page_url:= $currentPage.Permalink  | absLangURL }}
         {{ if .HasChildren }}
-        <li class="nav-item dropdown dropdown-slide">
-          <a class="nav-link " href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
-            aria-expanded="false">
+        <li class="nav-item dropdown dropdown-slide{{ if eq .Name "Download ↓" }} download-nav{{ end }}">
+          <a class="nav-link " href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             {{ .Name }}
           </a>
           <div class="dropdown-menu text-left">
@@ -128,12 +127,10 @@
           </div>
         </li>
         {{ else }}
-        <li class="nav nav-item">
+        <li class="nav nav-item{{ if eq .Name "Download ↓" }} download-nav{{ end }}">
           <a class="nav-link" href="{{ $menu_item_url }}">
-             <span {{- if eq $menu_item_url $page_url }} class="active" {{- end }}>
-               {{ .Name }}
-             </span>
-           </a>
+            <span {{ if eq $menu_item_url $page_url }}class="active"{{ end }}>{{ .Name }}</span>
+          </a>
         </li>
         {{ end }}
         {{ end }}

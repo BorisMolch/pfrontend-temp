@@ -70,21 +70,33 @@ weight = 5
 
 [[menu.main]]
 URL = "#"
-name = "Download"
+name = "Download ↓"
 parent = ""
 weight = 10
 
 [[menu.main]]
 URL = "https://www.meta.com/en-gb/experiences/patchworld-multiplayer-music-maker/3715150718552632"
 name = "Meta Quest App"
-parent = "Download"
+parent = "Download ↓"
 weight = 0
 
 [[menu.main]]
 URL = "https://installer.launcher.xsolla.com/xlauncher-builds/xsolla-launcher-update/10018/bin/web_installer.exe"
 name = "PC desktop BETA"
-parent = "Download"
+parent = "Download ↓"
 weight = 1
+
+[[menu.main]]
+URL = "https://www.picoxr.com/global/games/patchworld"
+name = "PicoXR"
+parent = "Download ↓"
+weight = 2
+
+[[menu.main]]
+URL = "https://www.viveport.com/apps/e26fdc87-5b12-424e-b880-2bc3051ad98c?hl=en-US"
+name = "Viveport"
+parent = "Download ↓"
+weight = 3
 
 [[menu.main]]
 URL = "community"

@@ -53,7 +53,12 @@
 					}
 				}
 			}
+			&.download-nav {
+				.nav-link {
+				  color: $cyan;  
+				}
 		}
+	}
 	}
 	.dropdown-slide {
 	  position: static;
@@ -128,3 +133,4 @@
 .nav-link, .dropdown-item {
   text-decoration: none!important;
 }
+
