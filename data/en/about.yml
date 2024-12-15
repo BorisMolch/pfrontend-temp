@@ -50,12 +50,10 @@ philosophy:
 location:
   enable: true
   title: Location
-  location1: Copenhagen
-  location2: Remote
-  location3: Zurich
-  location1img: images/dk.png
-  location2img: images/remote.png
-  location3img: images/ch.png
+  location1: Remote
+  location2: Zurich
+  location1img: images/remote.png
+  location2img: images/ch.png
 about_us:
   enable: true
   about_item:
