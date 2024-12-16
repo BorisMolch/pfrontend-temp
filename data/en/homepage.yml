@@ -40,6 +40,21 @@ intro:
     Explore an ever-expanding library of tools, toys, and wild instruments you can
     use to make your own music in VR.
   description: ''
+awards:
+  enable: true
+  award_item:
+    - logo_name_base: ''
+      logo_alt: 'Auggie Awards'
+      quote: 'Best XR Startup to Watch'
+    - logo_name_base: 'aurea-awards'
+      logo_alt: 'Aurea Awards'
+      quote: 'Creative Categorie Winner'
+    - logo_name_base: 'abbey-road-red'
+      logo_alt: 'Abbey Road'
+      quote: 'Music Tech Start-up to Watch'
+    - logo_name_base: 'fast-company'
+      logo_alt: 'Fast Company'
+      quote: 'Most Innovative VR/AR Companies'
 feature_slider:
   enable: true
   slider_item:

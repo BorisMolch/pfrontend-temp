@@ -29,6 +29,59 @@
 	{{ end }}
 </section>
 
+
+{{ "<!-- introtext -->" | safeHTML }}
+{{ if $data.homepage.intro.enable }}
+{{ with $data.homepage.intro }}
+<section class="introtext section">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-6 left"  data-aos="fade-in"></div>
+			<div class="col-lg-6 left"  data-aos="fade-in">
+				<p class="feature-text pt-0">{{ .subtitle | safeHTML }}</p>
+			</div>
+		</div>
+	</div>
+</section>
+{{ end }}
+{{ end }}
+{{ "<!-- End of introtext -->" | safeHTML }}
+
+
+{{ "<!-- Awards -->" | safeHTML }}
+{{ if $data.homepage.awards.enable }}
+  {{ with $data.homepage.awards }}
+     <section class="section cyan" style="background-color: black;">
+    	<div class="container">
+    		<div class="row">
+    			{{ range .award_item }}
+         			<div class="col-12 col-sm-6 col-lg-3 text-center">
+         				<picture>
+         					<source type="image/webp" srcset="/images/awards/{{ .logo_name_base }}.webp, /images/awards/{{ .logo_name_base }}-2x.webp 2x">
+         					<source type="image/png" srcset="/images/awards/{{ .logo_name_base }}.png, /images/awards/{{ .logo_name_base }}-2x.png 2x">
+         					<img width="160" height="90" class="img-fluid mb-3" src="/images/awards/{{ .logo_name_base }}.png" alt="{{ .logo_alt }}" loading="lazy">
+         				</picture>
+         				<p>{{ .quote }}</p>
+         			</div>
+                {{ end }}
+    		</div>
+    	</div>
+    </section> 
+  {{ end }}
+{{ end }}
+
+{{ "<!-- End of Awards -->" | safeHTML }}
+
+
+{{ "<!-- Product presentation -->" | safeHTML }}
+ <section class="section px-0 pb-0">
+	<video width="100%" class="video-fluid z-depth-1" poster="/images/videopreview.jpg" controls >
+		<source src="/videos/Patchworld_Announcement.mp4" type="video/mp4" />
+	</video>
+</section> 
+{{ "<!-- End of Product presentation -->" | safeHTML }}
+
+
 {{ "<!-- Testimonial -->" | safeHTML }}
 {{ if $data.homepage.testimonial.enable }}
 {{ with $data.homepage.testimonial }}
@@ -76,33 +129,6 @@
 {{ end }}
 {{ end }}
 {{ "<!-- End of Testimonial -->" | safeHTML }}
-
-{{ "<!-- introtext -->" | safeHTML }}
-{{ if $data.homepage.intro.enable }}
-{{ with $data.homepage.intro }}
-<section class="introtext section">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-6 left"  data-aos="fade-in"></div>
-			<div class="col-lg-6 left"  data-aos="fade-in">
-				<p class="feature-text pt-0">{{ .subtitle | safeHTML }}</p>
-			</div>
-		</div>
-		</div>
-</section>
-{{ end }}
-{{ end }}
-{{ "<!-- End of introtext -->" | safeHTML }}
-
-
-{{ "<!-- Teaser -->" | safeHTML }}
- <section class="section px-0 pb-0">
-	<video width="100%" class="video-fluid z-depth-1" poster="/images/videopreview.jpg" controls >
-		<source src="/videos/Patchworld_Announcement.mp4" type="video/mp4" />
-	</video>
-</section> 
-{{ "<!-- End of Teaser -->" | safeHTML }}
-
 
 {{ "<!-- Feature Slider -->" | safeHTML }}
 {{ if $data.homepage.feature_slider.enable }}
