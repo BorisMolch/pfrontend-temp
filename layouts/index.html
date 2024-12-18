@@ -29,85 +29,116 @@
 	{{ end }}
 </section>
 
+{{ "<!-- introtext -->" | safeHTML }}
+{{ if $data.homepage.intro.enable }}
+{{ with $data.homepage.intro }}
+	<section class="introtext section mb-5">
+		<div class="container text-center">
+			<div class="row">
+				<div class="col-lg-12"  data-aos="fade-in">
+					<p class="feature-text pt-0">{{ .subtitle | safeHTML }}</p>
+				</div>
+			</div>
+		</div>
+	</section>
+{{ end }}
+{{ end }}
+{{ "<!-- End of introtext -->" | safeHTML }}
+
+
+{{ "<!-- Awards -->" | safeHTML }}
+{{ if $data.homepage.awards.enable }}
+  {{ with $data.homepage.awards }}
+     <section class="section cyan py-3" style="background-color: black;">
+    	<div class="container">
+    		<div class="row">
+    			{{ range .award_item }}
+         			<div class="col-12 col-sm-6 col-lg-3 text-center">
+         				<picture>
+         					<source type="image/webp" srcset="/images/awards/{{ .logo_name_base }}.webp, /images/awards/{{ .logo_name_base }}-2x.webp 2x">
+         					<source type="image/png" srcset="/images/awards/{{ .logo_name_base }}.png, /images/awards/{{ .logo_name_base }}-2x.png 2x">
+         					<img width="160" height="90" class="img-fluid mb-3" src="/images/awards/{{ .logo_name_base }}.png" alt="{{ .logo_alt }}" loading="lazy">
+         				</picture>
+         				<p>{{ .quote }}</p>
+         			</div>
+                {{ end }}
+    		</div>
+    	</div>
+    </section> 
+  {{ end }}
+{{ end }}
+
+{{ "<!-- End of Awards -->" | safeHTML }}
+
+
+{{ "<!-- Product presentation -->" | safeHTML }}
+ <section class="section px-0 py-0">
+	<video width="100%" class="video-fluid z-depth-1" poster="/images/videopreview.jpg" controls >
+		<source src="/videos/Patchworld_Announcement.mp4" type="video/mp4" />
+	</video>
+</section> 
+{{ "<!-- End of Product presentation -->" | safeHTML }}
+
+
 {{ "<!-- Testimonial -->" | safeHTML }}
 {{ if $data.homepage.testimonial.enable }}
 {{ with $data.homepage.testimonial }}
 <style>
 	.ratings { 
-		display: inline; 
+		display: inline-block; 
 		background-color: black; 
+		color: #2efefe;
 		border-radius: 3em; 
-		padding-left: 1em; 
-		padding-right: 1em;
+		padding-left: .75em; 
+		padding-right: .75em;
 		padding-top: 0.75em;
 		padding-bottom: 0.75em;
 		font-size: 1.2em;
 		}
 </style>
-<section class="section testimonial pb-0">
+<section class="section testimonial pb-0 mb-4" itemscope itemtype="https://schema.org/Game">
+	<meta itemprop="name" content="PatchWorld" />
 	<div class="container">
-		<div class="row">
-			<div class="testimonial-slider owl-carousel owl-theme ">
-				{{ range .testimonial_item }}
-				<div class="item"> 
-					<div class="row">
-					<div class="col-lg mt-4" data-aos="fade-in">
-						<div class="ratings">
-							<ion-icon name="star"></ion-icon>
-							<ion-icon name="star"></ion-icon>
-							<ion-icon name="star"></ion-icon>
-							<ion-icon name="star"></ion-icon>
-							<ion-icon name="star"></ion-icon><!-- <ion-icon name="star-half-outline"></ion-icon> -->
-							<span class="text-white">200+ Ratings</span>
-						</div>
-						<div class="mt-5 cyan">
-							<p>{{ .summary }}<br>by {{ .name }}</p></div>
-<!-- 							<p>{{ .date }}</p> -->
-					</div>
-					<div class="col-lg" data-aos="fade-in">
-						<p class="feature-text pt-0">{{ .content | safeHTML }}</p>
-					</div>
-				</div>				</div>
-				{{ end }}
-		</div>
+<div class="row">
+    <!-- Left column for aggregate rating -->
+    <div class="col-6 text-center mb-5" data-aos="fade-in">
+        <div class="ratings" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+            <ion-icon name="star"></ion-icon>
+            <span itemprop="ratingValue">4.7</span>
+            <span class="ml-2 text-white">
+                <meta itemprop="ratingCount" content="228" /> 200+ ratings
+            </span>
+        </div>
+    </div>
+
+    <!-- Right column for testimonials carousel -->
+    <div class="col-6 mb-5">
+        <div class="testimonial-slider owl-carousel owl-theme">
+            {{ range .testimonial_item }}
+            <div class="item" itemprop="review" itemscope itemtype="https://schema.org/Review">
+                <span itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
+                    <meta itemprop="ratingValue" content="{{ .rating }}">
+                </span>
+                <div>
+                    <p class="feature-text mb-2">{{ .content | safeHTML }}</p>
+                    <div class="cyan" itemprop="author" itemscope itemtype="https://schema.org/Person">
+                        <p itemprop="name">{{ .name }}</p>
+                    </div>
+                    {{ if .date }}
+                        <meta itemprop="datePublished" content="{{ .date }}">
+                    {{ end }}
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</div>
 	</div>
 </div>
 </section>
 {{ end }}
 {{ end }}
 {{ "<!-- End of Testimonial -->" | safeHTML }}
-
-{{ "<!-- introtext -->" | safeHTML }}
-{{ if $data.homepage.intro.enable }}
-{{ with $data.homepage.intro }}
-<section class="introtext section">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-6 left"  data-aos="fade-in"></div>
-			<div class="col-lg-6 left"  data-aos="fade-in">
-				<p class="feature-text pt-0">{{ .subtitle | safeHTML }}</p>
-			</div>
-		</div>
-		</div>
-</section>
-{{ end }}
-{{ end }}
-{{ "<!-- End of introtext -->" | safeHTML }}
-
-
-{{ "<!-- Teaser -->" | safeHTML }}
- <section class="section pb-0">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-12 text-center" data-aos="fade-in">
-				<video width="100%" class="video-fluid z-depth-1" poster="/images/videopreview.jpg" controls >
-					<source src="/videos/Patchworld_Announcement.mp4" type="video/mp4" />
-				  </video>
-			</div>
-		</div>
-		</div>
-</section> 
-{{ "<!-- End of Teaser -->" | safeHTML }}
 
 
 {{ "<!-- Feature Slider -->" | safeHTML }}
@@ -122,7 +153,7 @@
 			<div class="row">
 			<div class="col-lg-6">
 				<div class="imageblock" style="position: relative">
-				<img loading="lazy" src="{{ .feature_image }}" class="img-fluid featureimages">
+				<img loading="lazy" src="{{ .feature_image }}" alt="{{ default "" .feature_image_alt }}" class="img-fluid featureimages">
 				<div class="top-left btn-main-md" style="position: absolute; top: 0.875em;">{{ .feature_title }}</div>
 				</div>
 			</div>
@@ -135,65 +166,6 @@
         </div>
       </div>
     </div>
-		{{ if $data.homepage.discord_banner.enable }}
-		{{ with $data.homepage.discord_banner }}
-	<div class="row pt-5">
-		<div class="col-12 m-auto text-left">
-
-			<div class="item">
-			  <div class="row">
-			  <div class="col-lg-6">
-				  <div class="imageblock" style="position: relative">
-				  <img loading="lazy" src="{{ .image }}" class="img-fluid featureimages">
-				  <a href="https://discord.gg/gwMVhKWxbr">
-						<div class="top-left btn-main-md" style="position: absolute; top: 0.875em;">{{ .label }}</div></a>
-			  </div>
-			  </div>
-			<div class="col-lg-6" style="padding-left:0.875em">
-			  <p class="feature-text ">{{ .text }}</p>
-			</div>
-		  </div>
-	  </div>
-
-		</div>
-	  </div>
-		{{ end }}
-		{{ end }}
-
-		{{ if $data.homepage.blog.enable }}
-		{{ "<!-- Featured Blog Article -->" | safeHTML }}
-
-		
-		
-					{{ range first 1 (where .Site.Pages "Type" "post") }}
-		
-					<div class="row pt-5">
-						<div class="col-12 m-auto text-left">
-							<div class="item">
-								<div class="row">
-								<div class="col-lg-6">
-									<div class="imageblock" style="position: relative">
-									<img loading="lazy" src="{{ .Params.Image }}" class="img-fluid featureimages">
-									<a href="/blog"><div class="top-left btn-main-md" style="position: absolute; top: 0.875em;">Blog</div></a>
-								</div>
-								</div>
-							<div class="col-lg-6" style="padding-left:0.875em">
-								<p class="feature-text mb-3">{{ .Title }}</p>
-								
-								<p><a href="{{ .Permalink }}">{{ i18n "read_more" }} <i class="tf-ion-android-arrow-forward"></i></a></p><br>
-								<span class="mt-3 text-white">{{ .PublishDate.Format "January 02, 2006" }}</span><br>
-							</div>
-							</div>
-						</div>
-						</div>
-						</div>
-					{{ end }}
-
-		{{ "<!-- End of Featured Blog Article -->" | safeHTML }}
-		{{ end }}
-		
-
-
 
   </div>
 </section>
@@ -257,7 +229,7 @@
 {{"<!-- banner-feature -->" | safeHTML}}
 {{ if $data.homepage.banner_feature.enable }}
 {{ with $data.homepage.banner_feature }}
-<section class="section pt-30 mt-5 position-relative pull-top">
+<section class="section pt-30 mt-5 mb-4 position-relative pull-top">
 	<div class="container">
 		<div class="rounded shadow p-5 bg-white">
 			<div class="row justify-content-center">
@@ -276,20 +248,25 @@
 {{ end }}
 {{"<!-- /banner-feature -->" | safeHTML}}
 
+
 {{ "<!-- Feature -->" | safeHTML }}
 {{ if $data.homepage.feature.enable }}
 {{ range $i,$p:= $data.homepage.feature.feature_item }}
-<section class="feature section hide-overflow">
+<section class="feature section hide-overflow pb-0">
 	<div class="container">
 		<div class="row justify-content-between align-top">
 			<div class="col-lg-6 {{if not (modBool $i 2)}}order-lg-2{{end}}">
 				<div class="image-content mb-5" data-aos="fade-{{if not (modBool $i 3)}}left{{else}}right{{end}}">
-					<img loading="lazy" class="img-fluid" src="{{ .image | absURL }}" alt="PatchXR features">
+					<picture>
+						<source type="image/webp" srcset="{{ .image_base_path }}.webp, {{ .image_base_path }}-2x.webp 2x">
+						<source type="image/jpeg" srcset="{{ .image_base_path }}.jpg, {{ .image_base_path }}-2x.jpg 2x">
+						<img width="540" height="304" class="img-fluid featureimages" src="{{ .image_base_path }}.jpg" alt="{{ .image_alt }}" loading="lazy">
+					</picture>
 				</div>
 			</div>
 			<div class="col-lg-6 align-top {{if not (modBool $i 2)}}order-lg-1{{end}}">
 				<div class="feature-content ">
-					<h1 class="newstitle"><strong>{{ .title }}</strong></h1>
+					<h2 class="newstitle" style="padding-top: 0 !important; line-height: .8em !important;"><small>{{ .title }}</small></h2>
 					<p class="desc">{{ .content }}</p>
 				</div>
 
@@ -298,8 +275,10 @@
 	</div>
 </section>
 {{ end }}
+<br><br>
 {{ end }}
 {{ "<!-- /Feature -->" | safeHTML }}
+
 
 {{"<!-- USPs -->" | safeHTML }}
 {{ if $data.homepage.usp.enable }}
@@ -370,6 +349,78 @@
 {{ end }}
 {{ "<!-- End of Video Promo -->" | safeHTML }}
 
+
+{{ "<!-- Discord and Blog -->" | safeHTML }}
+<section class="section features" style="background-color: black;">
+  <div class="container">
+		{{ if $data.homepage.discord_banner.enable }}
+		{{ with $data.homepage.discord_banner }}
+	<div class="row pt-5">
+		<div class="col-12 m-auto text-left">
+
+			<div class="item">
+				<div class="row">
+					<div class="col-lg-6">
+						<div class="imageblock" style="position: relative">
+							<picture>
+								<source type="image/webp" srcset="{{ .image_base_path }}.webp, {{ .image_base_path }}-2x.webp 2x">
+								<source type="image/jpeg" srcset="{{ .image_base_path }}.jpg, {{ .image_base_path }}-2x.jpg 2x">
+								<img width="540" height="304" class="img-fluid featureimages" src="{{ .image_base_path }}.jpg" alt="{{ .image_alt }}" loading="lazy">
+							</picture>
+							<a href="https://discord.gg/gwMVhKWxbr">
+									<div class="top-left btn-main-md" style="position: absolute; top: 0.875em;">{{ .label }}</div>
+							</a>
+						</div>
+					</div>
+					<div class="col-lg-6" style="padding-left:0.875em">
+						<p class="feature-text ">{{ .text }}</p>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+		{{ end }}
+		{{ end }}
+
+		{{ if $data.homepage.blog.enable }}
+		{{ "<!-- Featured Blog Article -->" | safeHTML }}
+
+		
+		
+					{{ range first 1 (where .Site.Pages "Type" "post") }}
+		
+					<div class="row pt-5">
+						<div class="col-12 m-auto text-left">
+							<div class="item">
+								<div class="row">
+								<div class="col-lg-6">
+									<div class="imageblock" style="position: relative">
+									<img loading="lazy" src="{{ .Params.Image }}" class="img-fluid featureimages">
+									<a href="/blog"><div class="top-left btn-main-md" style="position: absolute; top: 0.875em;">Blog</div></a>
+								</div>
+								</div>
+							<div class="col-lg-6" style="padding-left:0.875em">
+								<p class="feature-text mb-3">{{ .Title }}</p>
+								
+								<p><a href="{{ .Permalink }}">{{ i18n "read_more" }} <i class="tf-ion-android-arrow-forward"></i></a></p><br>
+								<span class="mt-3 text-white">{{ .PublishDate.Format "January 02, 2006" }}</span><br>
+							</div>
+							</div>
+						</div>
+						</div>
+						</div>
+					{{ end }}
+
+		{{ "<!-- End of Featured Blog Article -->" | safeHTML }}
+		{{ end }}
+		
+
+
+
+  </div>
+</section>
+{{ "<!-- End of Discord and Blog -->" | safeHTML }}
 
 
 {{ if $data.homepage.community.enable }}

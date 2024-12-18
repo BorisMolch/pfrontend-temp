@@ -1,0 +1,9 @@
+# Block semalt
+User-agent: semalt.com
+Disallow: /
+
+# Allow crawling of all content
+User-agent: *
+Disallow:
+
+Sitemap: https://patchxr.com/sitemap.xml
