@@ -43,7 +43,7 @@ intro:
 awards:
   enable: true
   award_item:
-    - logo_name_base: ''
+    - logo_name_base: 'auggie-awards'
       logo_alt: 'Auggie Awards'
       quote: 'Best XR Startup to Watch'
     - logo_name_base: 'aurea-awards'
