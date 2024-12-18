@@ -46,7 +46,7 @@ awards:
       logo_alt: 'Fast Company'
       quote: 'Most Innovative VR/AR Companies'
 feature_slider:
-  enable: true
+  enable: false
   slider_item:
   - feature_title: Explore
     feature_text: Explore a growing number of musical experiences, shows, virtual
@@ -99,7 +99,7 @@ download:
     logo: images/p-oculus.png
     link: www.oculus.com
 feature:
-  enable: false
+  enable: true
   feature_item:
   - title: Play fantastic worlds
     image: "/uploads/fishwebsite1.jpg"

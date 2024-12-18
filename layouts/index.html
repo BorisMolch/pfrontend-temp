@@ -49,7 +49,7 @@
 {{ "<!-- Awards -->" | safeHTML }}
 {{ if $data.homepage.awards.enable }}
   {{ with $data.homepage.awards }}
-     <section class="section cyan" style="background-color: black;">
+     <section class="section cyan py-3" style="background-color: black;">
     	<div class="container">
     		<div class="row">
     			{{ range .award_item }}
@@ -301,6 +301,7 @@
 {{ end }}
 {{"<!-- /banner-feature -->" | safeHTML}}
 
+
 {{ "<!-- Feature -->" | safeHTML }}
 {{ if $data.homepage.feature.enable }}
 {{ range $i,$p:= $data.homepage.feature.feature_item }}
@@ -314,7 +315,7 @@
 			</div>
 			<div class="col-lg-6 align-top {{if not (modBool $i 2)}}order-lg-1{{end}}">
 				<div class="feature-content ">
-					<h1 class="newstitle"><strong>{{ .title }}</strong></h1>
+					<h2 class="newstitle"><strong>{{ .title }}</strong></h2>
 					<p class="desc">{{ .content }}</p>
 				</div>
 
@@ -325,6 +326,7 @@
 {{ end }}
 {{ end }}
 {{ "<!-- /Feature -->" | safeHTML }}
+
 
 {{"<!-- USPs -->" | safeHTML }}
 {{ if $data.homepage.usp.enable }}
@@ -395,6 +397,79 @@
 {{ end }}
 {{ "<!-- End of Video Promo -->" | safeHTML }}
 
+
+{{ "<!-- Discord and Blog -->" | safeHTML }}
+<section class="section features">
+  <div class="container">
+		{{ if $data.homepage.discord_banner.enable }}
+		{{ with $data.homepage.discord_banner }}
+	<div class="row pt-5">
+		<div class="col-12 m-auto text-left">
+
+			<div class="item">
+				<div class="row">
+					<div class="col-lg-6">
+						<div class="imageblock" style="position: relative">
+							<picture>
+								<source type="image/webp" srcset="{{ .image_base_path }}.webp, {{ .image_base_path }}-2x.webp 2x">
+								<source type="image/jpeg" srcset="{{ .image_base_path }}.jpg, {{ .image_base_path }}-2x.jpg 2x">
+								<img width="160" height="90" class="img-fluid featureimages" src="{{ .image_base_path }}.jpg" alt="{{ .image_alt }}" loading="lazy">
+							</picture>
+							<img loading="lazy" src="{{ .image }}" class="img-fluid featureimages">
+							<a href="https://discord.gg/gwMVhKWxbr">
+									<div class="top-left btn-main-md" style="position: absolute; top: 0.875em;">{{ .label }}</div>
+							</a>
+						</div>
+					</div>
+					<div class="col-lg-6" style="padding-left:0.875em">
+						<p class="feature-text ">{{ .text }}</p>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+		{{ end }}
+		{{ end }}
+
+		{{ if $data.homepage.blog.enable }}
+		{{ "<!-- Featured Blog Article -->" | safeHTML }}
+
+		
+		
+					{{ range first 1 (where .Site.Pages "Type" "post") }}
+		
+					<div class="row pt-5">
+						<div class="col-12 m-auto text-left">
+							<div class="item">
+								<div class="row">
+								<div class="col-lg-6">
+									<div class="imageblock" style="position: relative">
+									<img loading="lazy" src="{{ .Params.Image }}" class="img-fluid featureimages">
+									<a href="/blog"><div class="top-left btn-main-md" style="position: absolute; top: 0.875em;">Blog</div></a>
+								</div>
+								</div>
+							<div class="col-lg-6" style="padding-left:0.875em">
+								<p class="feature-text mb-3">{{ .Title }}</p>
+								
+								<p><a href="{{ .Permalink }}">{{ i18n "read_more" }} <i class="tf-ion-android-arrow-forward"></i></a></p><br>
+								<span class="mt-3 text-white">{{ .PublishDate.Format "January 02, 2006" }}</span><br>
+							</div>
+							</div>
+						</div>
+						</div>
+						</div>
+					{{ end }}
+
+		{{ "<!-- End of Featured Blog Article -->" | safeHTML }}
+		{{ end }}
+		
+
+
+
+  </div>
+</section>
+{{ "<!-- End of Discord and Blog -->" | safeHTML }}
 
 
 {{ if $data.homepage.community.enable }}
