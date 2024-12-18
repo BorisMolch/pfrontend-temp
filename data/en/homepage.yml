@@ -135,32 +135,42 @@ testimonial:
   enable: true
   testimonial_item:
   - name: Colin Spielmacher
-    date: ""
     content: The potential is staggering, make music, games, videos, and more. The limit is your imagination. Learn while you play, make your own worlds and experiences to share with others.
+    date: ""
+    rating: 5
   - name: Reas
     content: This is incredible. I cannot recommend this game enough! A whole world of endless possibilities. Making music in multiplayer is next level.
-    date: 2024/03/10
+    date: 2024-03-10
+    rating: 5
   - name: Magnet
     content: Excellent tool for music production, with an active and friendly discord community. The recent addition of DAW integration may well make this app  the future of VR music production.
-    date: 2023/10/11
+    date: 2023-10-11
+    rating: 5
   - name: Meg
     content: What an amazing music making app...but it is so much more than just that. This is what utilising VR to its full potential looks like!
-    date: 2024/01/09
+    date: 2024-01-09
+    rating: 5
   - name: British Fella
     content: This has been my go-to game on my headset. The controls are so easy to learn and the instruments are so unique and simple to use. Not to mention the extremely friendly and welcoming community.
-    date: 2024/04/20
+    date: 2024-04-20
+    rating: 5
   - name: Because reason
     content: This has blown my mind! By far the most incredible, mind-bending, exciting and entertaining experience I’ve had in VR and I am a VR vet!
     date: ""
+    rating: 5
   - name: Dik
+    rating: 5
     content: This is the best vr music playground out there. Tons of modular synth blocks, effects, visuals, all wrapped up in a fun explorable way, with one of THE best onboarding tutorial sets in any game
-    date: 2024/05/05
+    date: 2024-05-05
+    rating: 5
   - name: Metamat
     content: This is the future of music! Musical worlds you can inhabit, interact with and become part of. A completely psychedelic , immersive experience, I love it !
     date: ""
+    rating: 5
   - name: RAVE2030
     content: If I could give it a higher rating I would. This game has everything you need. A loving community, excellent teachers. You can touch sound, smoosh it, bend it, and turn it into something you invent.
     date: ""
+    rating: 5
 
 community:
   enable: false

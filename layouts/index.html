@@ -96,30 +96,35 @@
 		font-size: 1.2em;
 		}
 </style>
-<section class="section testimonial pb-0">
+<section class="section testimonial pb-0" itemscope itemtype="https://schema.org/Game">
+	<meta itemprop="name" content="PatchWorld" />
 	<div class="container">
 		<div class="row">
 			<div class="col text-center mb-5" data-aos="fade-in">
-				<div class="ratings">
-					<ion-icon name="star"></ion-icon>
-					<ion-icon name="star"></ion-icon>
-					<ion-icon name="star"></ion-icon>
-					<ion-icon name="star"></ion-icon>
-					<ion-icon name="star"></ion-icon><!-- <ion-icon name="star-half-outline"></ion-icon> -->
-					<span class="ml-2 text-white">200+ Ratings</span>
+				<div class="ratings" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+					<ion-icon name="star"></ion-icon> 
+					<span itemprop="ratingValue">4.7</span>
+					
+					<span class="ml-2 text-white">- <meta itemprop="ratingCount" content="228" /> 200+ ratings</span>
 				</div>
 			</div>
 		</div>
 		<div class="row">
 			<div class="testimonial-slider owl-carousel owl-theme ">
 				{{ range .testimonial_item }}
-				<div class="item"> 
+				<div class="item" itemprop="review" itemscope itemtype="https://schema.org/Review"> 
+					<span itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
+						<meta itemprop="ratingValue" content="{{ .rating }}">
+					</span>
 					<div class="row">
 						<div class="col-lg mt-3" data-aos="fade-in">
 							<p class="feature-text mb-2">{{ .content | safeHTML }}</p>
-							<div class="cyan">
-								<p>{{ .name }}</p>
+							<div class="cyan" itemprop="author" itemscope itemtype="https://schema.org/Person">
+								<p itemprop="name">{{ .name }}</p>
 							</div>
+							{{ if .date }}
+								<meta itemprop="datePublished" content="{{ .date }}">
+							{{ end }}
 						</div>
 					</div>
 				</div>
