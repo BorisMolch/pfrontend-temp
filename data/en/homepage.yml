@@ -118,7 +118,7 @@ feature:
     image_alt: ""
     content: Record your performances, create stunning mixed reality content, and share across social media. Create and share cinematic content and films that blend the virtual and real world seamlessly, using 3D spatial audio for an immersive sound experience.
   - title: Integrated with Ableton Live
-    image_base_path: "/images/home/"
+    image_base_path: "/images/home/ableton-live-integration"
     image_alt: ""
     content: Connect to Ableton Live for ultimate cross-reality production. You’re not just making VR music—you’re connecting your virtual studio to real-world tools for endless creative possibilities.
 
