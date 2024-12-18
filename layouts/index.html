@@ -116,10 +116,10 @@
 				<div class="item"> 
 					<div class="row">
 						<div class="col-lg mt-3" data-aos="fade-in">
+							<p class="feature-text mb-2">{{ .content | safeHTML }}</p>
 							<div class="cyan">
-								<p>{{ .summary }} by {{ .name }}</p>
+								<p>{{ .name }}</p>
 							</div>
-							<p class="feature-text pt-0">{{ .content | safeHTML }}</p>
 						</div>
 					</div>
 				</div>
