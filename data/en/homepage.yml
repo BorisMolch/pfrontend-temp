@@ -101,43 +101,27 @@ download:
 feature:
   enable: true
   feature_item:
-  - title: Play fantastic worlds
-    image: "/uploads/fishwebsite1.jpg"
-    content: Transform any room into your musical playground and discover an infinite
-      library of fantastic musical worlds to play with. Get inspired to make music
-      in VR thanks to a bundle of surreal instruments and sound FX made by the community,
-      and use PatchXR tools to build your own. Step inside the music you love and
-      play, tweak, and patch without borders.
-    quote:
-      enable: false
-      name: Jonathon Andrew , 1xN.org
-      avater: images/testimonial/feature-testimonial-thumb.jpg
-      comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua.
-  - title: Build Sound
-    image: "/uploads/newfish.gif"
-    image_webp: images/feature/feature-new-02.webp
-    content: 'Become an architect of the PatchWorld metaverse : Get down on the circuits
-      level, and build your own instruments and worlds from the wire-up. Discover
-      and learn all about the wonders of sound synthesis in VR, where you can feel,
-      see and interact with sound in 3D space. Crafted for first timer to the experimented
-      patchers in Max MSP or Pure Data, our native VR tool let you create without
-      physical limitation. Assemble Patch’s sonic modules and interactive powerblocks
-      to shape unique sounds and world.'
-    quote:
-      enable: false
-      name: Jonathon Andrew , 1xN.org
-      avater: images/testimonial/feature-testimonial-thumb.jpg
-      comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua.
-  - title: Share in the metaverse and beyond
-    image: "/uploads/avatar-web-1.jpg"
-    quote: ''
-    content: 'Publish your creations and invite your fans and friends to step inside
-      your worlds. Jam, make a virtual band, throw a party. Broadcast, record, remix
-      and share your performances in the metaverse and on social media.
+  - title: Limitless Creativity
+    image_base_path: "/images/home/limitless-creativity"
+    image_alt: ""
+    content: Explore infinite worlds designed as blank canvases for your ideas. Build, jam, and create anything you can dream of.
+  - title: Collaborate Live
+    image_base_path: "/images/home/collaborate-live"
+    image_alt: ""
+    content: Don’t just create alone—join live sessions with other musicians and creators to build entire virtual experiences together in real-time.
+  - title: Ultimate Studio Setup
+    image_base_path: "/images/home/ultimate-studio-setup"
+    image_alt: ""
+    content: Create unlimited sounds, instruments, and visual elements to design the perfect creative studio—one that moves with you. You’ll have access to everything you need to sound like a pro and create polished, share-worthy content.
+  - title: Effortless Sharing
+    image_base_path: "/images/home/effortless-sharing"
+    image_alt: ""
+    content: Record your performances, create stunning mixed reality content, and share across social media. Create and share cinematic content and films that blend the virtual and real world seamlessly, using 3D spatial audio for an immersive sound experience.
+  - title: Integrated with Ableton Live
+    image_base_path: "/images/home/"
+    image_alt: ""
+    content: Connect to Ableton Live for ultimate cross-reality production. You’re not just making VR music—you’re connecting your virtual studio to real-world tools for endless creative possibilities.
 
-      '
 promo_video:
   enable: false
   title: Where musical instruments become fantastic worlds

@@ -310,7 +310,11 @@
 		<div class="row justify-content-between align-top">
 			<div class="col-lg-6 {{if not (modBool $i 2)}}order-lg-2{{end}}">
 				<div class="image-content mb-5" data-aos="fade-{{if not (modBool $i 3)}}left{{else}}right{{end}}">
-					<img loading="lazy" class="img-fluid" src="{{ .image | absURL }}" alt="PatchXR features">
+					<picture>
+						<source type="image/webp" srcset="{{ .image_base_path }}.webp, {{ .image_base_path }}-2x.webp 2x">
+						<source type="image/jpeg" srcset="{{ .image_base_path }}.jpg, {{ .image_base_path }}-2x.jpg 2x">
+						<img width="540" height="304" class="img-fluid featureimages" src="{{ .image_base_path }}.jpg" alt="{{ .image_alt }}" loading="lazy">
+					</picture>
 				</div>
 			</div>
 			<div class="col-lg-6 align-top {{if not (modBool $i 2)}}order-lg-1{{end}}">
@@ -413,7 +417,7 @@
 							<picture>
 								<source type="image/webp" srcset="{{ .image_base_path }}.webp, {{ .image_base_path }}-2x.webp 2x">
 								<source type="image/jpeg" srcset="{{ .image_base_path }}.jpg, {{ .image_base_path }}-2x.jpg 2x">
-								<img width="160" height="90" class="img-fluid featureimages" src="{{ .image_base_path }}.jpg" alt="{{ .image_alt }}" loading="lazy">
+								<img width="540" height="304" class="img-fluid featureimages" src="{{ .image_base_path }}.jpg" alt="{{ .image_alt }}" loading="lazy">
 							</picture>
 							<a href="https://discord.gg/gwMVhKWxbr">
 									<div class="top-left btn-main-md" style="position: absolute; top: 0.875em;">{{ .label }}</div>
