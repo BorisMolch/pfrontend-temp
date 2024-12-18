@@ -4,7 +4,7 @@ scroller:
   speed: "180"
   autohide: true
   link: https://www.oculus.com/experiences/quest/3715150718552632/?utm_source=homepage_top_scroller
-  text: "Get 53% OFF on PatchWorld in the Meta Store until January 6th!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get 53% OFF on PatchWorld in the Meta Store until January 6th !&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get 53% OFF on PatchWorld in the Meta Store until January 6th !&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get 53% OFF on PatchWorld in the Meta Store until January 6th !&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get 53% OFF on PatchWorld in the Meta Store until January 6th !&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get 53% OFF on PatchWorld in the Meta Store until January 6th !&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get 53% OFF on PatchWorld in the Meta Store until January 6th !&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get 53% OFF on PatchWorld in the Meta Store until January 6th !&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get 53% OFF on PatchWorld in the Meta Store until January 6th !&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get 53% OFF on PatchWorld in the Meta Store until January 6th !&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get 53% OFF on PatchWorld in the Meta Store until January 6th !&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+  text: "Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;"
 alert:
   enable: false
   type: light
@@ -120,7 +120,7 @@ feature:
     image_base_path: "/images/home/effortless-sharing"
     image_alt: ""
     content: Record your performances, create stunning mixed reality content, and share across social media. Create and share cinematic content and films that blend the virtual and real world seamlessly, using 3D spatial audio for an immersive sound experience.
-  - title: Integrated with Ableton Live
+  - title: Integrated with Ableton
     image_base_path: "/images/home/ableton-live-integration"
     image_alt: ""
     content: Connect to Ableton Live for ultimate cross-reality production. You’re not just making VR music—you’re connecting your virtual studio to real-world tools for endless creative possibilities.

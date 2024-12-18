@@ -72,7 +72,7 @@
 
 
 {{ "<!-- Product presentation -->" | safeHTML }}
- <section class="section px-0 pb-0">
+ <section class="section px-0 py-0">
 	<video width="100%" class="video-fluid z-depth-1" poster="/images/videopreview.jpg" controls >
 		<source src="/videos/Patchworld_Announcement.mp4" type="video/mp4" />
 	</video>
@@ -96,40 +96,43 @@
 		font-size: 1.2em;
 		}
 </style>
-<section class="section testimonial pb-0" itemscope itemtype="https://schema.org/Game">
+<section class="section testimonial pb-0 mb-4" itemscope itemtype="https://schema.org/Game">
 	<meta itemprop="name" content="PatchWorld" />
 	<div class="container">
-		<div class="row">
-			<div class="col text-center mb-5" data-aos="fade-in">
-				<div class="ratings" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
-					<ion-icon name="star"></ion-icon> 
-					<span itemprop="ratingValue">4.7</span>
-					
-					<span class="ml-2 text-white">- <meta itemprop="ratingCount" content="228" /> 200+ ratings</span>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="testimonial-slider owl-carousel owl-theme ">
-				{{ range .testimonial_item }}
-				<div class="item" itemprop="review" itemscope itemtype="https://schema.org/Review"> 
-					<span itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
-						<meta itemprop="ratingValue" content="{{ .rating }}">
-					</span>
-					<div class="row">
-						<div class="col-lg mt-3" data-aos="fade-in">
-							<p class="feature-text mb-2">{{ .content | safeHTML }}</p>
-							<div class="cyan" itemprop="author" itemscope itemtype="https://schema.org/Person">
-								<p itemprop="name">{{ .name }}</p>
-							</div>
-							{{ if .date }}
-								<meta itemprop="datePublished" content="{{ .date }}">
-							{{ end }}
-						</div>
-					</div>
-				</div>
-				{{ end }}
-		</div>
+<div class="row">
+    <!-- Left column for aggregate rating -->
+    <div class="col-6 text-center mb-5" data-aos="fade-in">
+        <div class="ratings" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+            <ion-icon name="star"></ion-icon>
+            <span itemprop="ratingValue">4.7</span>
+            <span class="ml-2 text-white">
+                <meta itemprop="ratingCount" content="228" /> 200+ ratings
+            </span>
+        </div>
+    </div>
+
+    <!-- Right column for testimonials carousel -->
+    <div class="col-6 mb-5">
+        <div class="testimonial-slider owl-carousel owl-theme">
+            {{ range .testimonial_item }}
+            <div class="item" itemprop="review" itemscope itemtype="https://schema.org/Review">
+                <span itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
+                    <meta itemprop="ratingValue" content="{{ .rating }}">
+                </span>
+                <div>
+                    <p class="feature-text mb-2">{{ .content | safeHTML }}</p>
+                    <div class="cyan" itemprop="author" itemscope itemtype="https://schema.org/Person">
+                        <p itemprop="name">{{ .name }}</p>
+                    </div>
+                    {{ if .date }}
+                        <meta itemprop="datePublished" content="{{ .date }}">
+                    {{ end }}
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</div>
 	</div>
 </div>
 </section>
@@ -226,7 +229,7 @@
 {{"<!-- banner-feature -->" | safeHTML}}
 {{ if $data.homepage.banner_feature.enable }}
 {{ with $data.homepage.banner_feature }}
-<section class="section pt-30 mt-5 position-relative pull-top">
+<section class="section pt-30 mt-5 mb-4 position-relative pull-top">
 	<div class="container">
 		<div class="rounded shadow p-5 bg-white">
 			<div class="row justify-content-center">
@@ -249,7 +252,7 @@
 {{ "<!-- Feature -->" | safeHTML }}
 {{ if $data.homepage.feature.enable }}
 {{ range $i,$p:= $data.homepage.feature.feature_item }}
-<section class="feature section hide-overflow">
+<section class="feature section hide-overflow pb-0">
 	<div class="container">
 		<div class="row justify-content-between align-top">
 			<div class="col-lg-6 {{if not (modBool $i 2)}}order-lg-2{{end}}">
@@ -263,7 +266,7 @@
 			</div>
 			<div class="col-lg-6 align-top {{if not (modBool $i 2)}}order-lg-1{{end}}">
 				<div class="feature-content ">
-					<h2 class="newstitle"><strong>{{ .title }}</strong></h2>
+					<h2 class="newstitle" style="padding-top: 0 !important; line-height: .8em !important;"><small>{{ .title }}</small></h2>
 					<p class="desc">{{ .content }}</p>
 				</div>
 
@@ -272,6 +275,7 @@
 	</div>
 </section>
 {{ end }}
+<br><br>
 {{ end }}
 {{ "<!-- /Feature -->" | safeHTML }}
 
@@ -347,7 +351,7 @@
 
 
 {{ "<!-- Discord and Blog -->" | safeHTML }}
-<section class="section features">
+<section class="section features" style="background-color: black;">
   <div class="container">
 		{{ if $data.homepage.discord_banner.enable }}
 		{{ with $data.homepage.discord_banner }}
