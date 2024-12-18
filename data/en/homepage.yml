@@ -30,6 +30,21 @@ intro:
     Explore boundless worlds, build your dream music studio, and create with friends globally. <br><br> Play, connect, and let your imagination run wild!
 
   description: ''
+awards:
+  enable: true
+  award_item:
+    - logo_name_base: 'auggie-awards'
+      logo_alt: 'Auggie Awards'
+      quote: 'Best XR Startup to Watch'
+    - logo_name_base: 'aurea-awards'
+      logo_alt: 'Aurea Awards'
+      quote: 'Creative Categorie Winner'
+    - logo_name_base: 'abbey-road-red'
+      logo_alt: 'Abbey Road'
+      quote: 'Music Tech Start-up to Watch'
+    - logo_name_base: 'fast-company'
+      logo_alt: 'Fast Company'
+      quote: 'Most Innovative VR/AR Companies'
 feature_slider:
   enable: true
   slider_item:
