@@ -10,6 +10,4 @@ linktree:
     url: https://patchxrdocumentation.readthedocs.io/
   - name: Presskit
     url: /presskit
-  - name: Forum
-    url: http://forum.patchxr.com/
     

@@ -145,7 +145,7 @@
 			<div class="row">
 			<div class="col-lg-6">
 				<div class="imageblock" style="position: relative">
-				<img loading="lazy" src="{{ .feature_image }}" class="img-fluid featureimages">
+				<img loading="lazy" src="{{ .feature_image }}" alt="{{ default "" .feature_image_alt }}" class="img-fluid featureimages">
 				<div class="top-left btn-main-md" style="position: absolute; top: 0.875em;">{{ .feature_title }}</div>
 				</div>
 			</div>

@@ -99,7 +99,11 @@
 <nav id="navbar" class="navbar main-nav navbar-expand-lg p-0 navbar-fixed-top ">
   <div class="container">
     <a class="navbar-brand" href="{{ .Site.BaseURL | absLangURL }}">
-      <img src="{{ .Site.Params.logo | absURL }}" alt="PatchXR">
+      <picture>
+        <source type="image/webp" srcset="{{ .Site.Params.logo | absURL }}">
+        <source type="image/png" srcset="{{ .Site.Params.logo_fallback | absURL }}">
+        <img class="img-fluid" width="300" height="71" src="{{ .Site.Params.logo_fallback | absURL }}" alt="PatchXR">
+      </picture>
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav"
       aria-expanded="false" aria-label="Toggle navigation">
