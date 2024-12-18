@@ -1,20 +1,10 @@
 ---
 scroller:
-  enable: false
+  enable: true
   speed: "180"
   autohide: true
-  link: https://discord.gg/gwMVhKWxbr
-  text: "LAST CHANCE TOP GRAB CHRISTMAS DISCOUNT&nbsp;\U0001F640\U0001F640\U0001F640&nbsp;LAST
-    CHANCE TOP GRAB CHRISTMAS DISCOUNT&nbsp;\U0001F640\U0001F640\U0001F640&nbsp;LAST
-    CHANCE TOP GRAB CHRISTMAS DISCOUNT&nbsp;\U0001F640\U0001F640\U0001F640&nbsp;LAST
-    CHANCE TOP GRAB CHRISTMAS DISCOUNT&nbsp;\U0001F640\U0001F640\U0001F640&nbsp;LAST
-    CHANCE TOP GRAB CHRISTMAS DISCOUNT&nbsp;\U0001F640\U0001F640\U0001F640&nbsp;LAST
-    CHANCE TOP GRAB CHRISTMAS DISCOUNT&nbsp;\U0001F640\U0001F640\U0001F640&nbsp;LAST
-    CHANCE TOP GRAB CHRISTMAS DISCOUNT&nbsp;\U0001F640\U0001F640\U0001F640&nbsp;LAST
-    CHANCE TOP GRAB CHRISTMAS DISCOUNT&nbsp;\U0001F640\U0001F640\U0001F640&nbsp;LAST
-    CHANCE TOP GRAB CHRISTMAS DISCOUNT&nbsp;\U0001F640\U0001F640\U0001F640&nbsp;LAST
-    CHANCE TOP GRAB CHRISTMAS DISCOUNT&nbsp;\U0001F640\U0001F640\U0001F640&nbsp;LAST
-    CHANCE TOP GRAB CHRISTMAS DISCOUNT&nbsp;\U0001F640\U0001F640\U0001F640&nbsp;\n\n\n\n"
+  link: https://www.oculus.com/experiences/quest/3715150718552632/?utm_source=homepage_top_scroller
+  text: "Get 53% OFF on PatchWorld in the Meta Store until January 6th!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get 53% OFF on PatchWorld in the Meta Store until January 6th !&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get 53% OFF on PatchWorld in the Meta Store until January 6th !&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get 53% OFF on PatchWorld in the Meta Store until January 6th !&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get 53% OFF on PatchWorld in the Meta Store until January 6th !&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get 53% OFF on PatchWorld in the Meta Store until January 6th !&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get 53% OFF on PatchWorld in the Meta Store until January 6th !&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get 53% OFF on PatchWorld in the Meta Store until January 6th !&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get 53% OFF on PatchWorld in the Meta Store until January 6th !&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get 53% OFF on PatchWorld in the Meta Store until January 6th !&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get 53% OFF on PatchWorld in the Meta Store until January 6th !&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
 alert:
   enable: false
   type: light
