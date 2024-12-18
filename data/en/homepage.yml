@@ -20,15 +20,15 @@ banner:
   videourl: https://youtu.be/N4tTMRGGHmA
   gif: "1"
 hero:
-  text: 
+  text: Explore. Create. Play.
   link: https://www.oculus.com/experiences/quest/3715150718552632/?utm_source=homepage
-  linktext: 'Get the app '
+  linktext: 'Get the app'
 intro:
-  enable: false
+  enable: true
   title: Play and create music worlds
-  subtitle: Unleash your creativity in the marvelous musicverse of PatchWorld! <br><br>
-    Explore an ever-expanding library of tools, toys, and wild instruments you can
-    use to make your own music in VR.
+  subtitle: Discover the ultimate mixed-reality music playground with PatchWorld! <br><br>
+    Explore boundless worlds, build your dream music studio, and create with friends globally. <br><br> Play, connect, and let your imagination run wild!
+
   description: ''
 feature_slider:
   enable: true

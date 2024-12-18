@@ -29,6 +29,22 @@
 	{{ end }}
 </section>
 
+{{ "<!-- introtext -->" | safeHTML }}
+{{ if $data.homepage.intro.enable }}
+{{ with $data.homepage.intro }}
+<section class="introtext section mb-5">
+	<div class="container text-center">
+		<div class="row">
+			<div class="col-lg-12"  data-aos="fade-in">
+				<p class="feature-text pt-0">{{ .subtitle | safeHTML }}</p>
+			</div>
+		</div>
+		</div>
+</section>
+{{ end }}
+{{ end }}
+{{ "<!-- End of introtext -->" | safeHTML }}
+
 {{ "<!-- Testimonial -->" | safeHTML }}
 {{ if $data.homepage.testimonial.enable }}
 {{ with $data.homepage.testimonial }}
@@ -76,23 +92,6 @@
 {{ end }}
 {{ end }}
 {{ "<!-- End of Testimonial -->" | safeHTML }}
-
-{{ "<!-- introtext -->" | safeHTML }}
-{{ if $data.homepage.intro.enable }}
-{{ with $data.homepage.intro }}
-<section class="introtext section">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-6 left"  data-aos="fade-in"></div>
-			<div class="col-lg-6 left"  data-aos="fade-in">
-				<p class="feature-text pt-0">{{ .subtitle | safeHTML }}</p>
-			</div>
-		</div>
-		</div>
-</section>
-{{ end }}
-{{ end }}
-{{ "<!-- End of introtext -->" | safeHTML }}
 
 
 {{ "<!-- Teaser -->" | safeHTML }}
