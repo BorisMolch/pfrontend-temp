@@ -64,8 +64,8 @@ feature_slider:
     feature_image: "/uploads/snapshot_Orion Stargate Alpha set.jpg"
 discord_banner:
   enable: true
-  notes: "(only for reference) Ideal image size is 1378x775px"
-  image: "/uploads/discord_gif_by_todd.gif"
+  image_base_path: "/images/home/discord"
+  image_alt: ""
   label: Join Discord
   text: Join our Discord channel to access our community and unlock the beta features
     for early access to even more powerful creative building blocks.
