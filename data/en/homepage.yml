@@ -1,20 +1,10 @@
 ---
 scroller:
-  enable: false
+  enable: true
   speed: "180"
   autohide: true
-  link: https://discord.gg/gwMVhKWxbr
-  text: "LAST CHANCE TOP GRAB CHRISTMAS DISCOUNT&nbsp;\U0001F640\U0001F640\U0001F640&nbsp;LAST
-    CHANCE TOP GRAB CHRISTMAS DISCOUNT&nbsp;\U0001F640\U0001F640\U0001F640&nbsp;LAST
-    CHANCE TOP GRAB CHRISTMAS DISCOUNT&nbsp;\U0001F640\U0001F640\U0001F640&nbsp;LAST
-    CHANCE TOP GRAB CHRISTMAS DISCOUNT&nbsp;\U0001F640\U0001F640\U0001F640&nbsp;LAST
-    CHANCE TOP GRAB CHRISTMAS DISCOUNT&nbsp;\U0001F640\U0001F640\U0001F640&nbsp;LAST
-    CHANCE TOP GRAB CHRISTMAS DISCOUNT&nbsp;\U0001F640\U0001F640\U0001F640&nbsp;LAST
-    CHANCE TOP GRAB CHRISTMAS DISCOUNT&nbsp;\U0001F640\U0001F640\U0001F640&nbsp;LAST
-    CHANCE TOP GRAB CHRISTMAS DISCOUNT&nbsp;\U0001F640\U0001F640\U0001F640&nbsp;LAST
-    CHANCE TOP GRAB CHRISTMAS DISCOUNT&nbsp;\U0001F640\U0001F640\U0001F640&nbsp;LAST
-    CHANCE TOP GRAB CHRISTMAS DISCOUNT&nbsp;\U0001F640\U0001F640\U0001F640&nbsp;LAST
-    CHANCE TOP GRAB CHRISTMAS DISCOUNT&nbsp;\U0001F640\U0001F640\U0001F640&nbsp;\n\n\n\n"
+  link: https://www.oculus.com/experiences/quest/3715150718552632/?utm_source=homepage_top_scroller
+  text: "Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Get 53% OFF until January 6th &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;"
 alert:
   enable: false
   type: light
@@ -30,16 +20,30 @@ banner:
   videourl: https://youtu.be/N4tTMRGGHmA
   gif: "1"
 hero:
-  text: 
+  text: Explore. Create. Play.
   link: https://www.oculus.com/experiences/quest/3715150718552632/?utm_source=homepage
-  linktext: 'Get the app '
+  linktext: 'Get the app'  # removed the extra space
 intro:
-  enable: false
+  enable: true
   title: Play and create music worlds
-  subtitle: Unleash your creativity in the marvelous musicverse of PatchWorld! <br><br>
-    Explore an ever-expanding library of tools, toys, and wild instruments you can
-    use to make your own music in VR.
+  subtitle: Discover the ultimate mixed-reality music playground with PatchWorld! <br><br>
+    Explore boundless worlds, build your dream music studio, and create with friends globally. <br><br> Play, connect, and let your imagination run wild!
   description: ''
+awards:
+  enable: true
+  award_item:
+    - logo_name_base: 'auggie-awards'
+      logo_alt: 'Auggie Awards'
+      quote: 'Best XR Startup to Watch'
+    - logo_name_base: 'aurea-awards'
+      logo_alt: 'Aurea Awards'
+      quote: 'Creative Categorie Winner'
+    - logo_name_base: 'abbey-road-red'
+      logo_alt: 'Abbey Road'
+      quote: 'Music Tech Start-up to Watch'
+    - logo_name_base: 'fast-company'
+      logo_alt: 'Fast Company'
+      quote: 'Most Innovative VR/AR Companies'
 feature_slider:
   enable: true
   slider_item:
@@ -59,8 +63,8 @@ feature_slider:
     feature_image: "/uploads/snapshot_Orion Stargate Alpha set.jpg"
 discord_banner:
   enable: true
-  notes: "(only for reference) Ideal image size is 1378x775px"
-  image: "/uploads/discord_gif_by_todd.gif"
+  image_base_path: "/images/home/discord" 
+  image_alt: ""  
   label: Join Discord
   text: Join our Discord channel to access our community and unlock the beta features
     for early access to even more powerful creative building blocks.
@@ -94,45 +98,33 @@ download:
     logo: images/p-oculus.png
     link: www.oculus.com
 feature:
-  enable: false
+  enable: true
   feature_item:
-  - title: Play fantastic worlds
-    image: "/uploads/fishwebsite1.jpg"
-    content: Transform any room into your musical playground and discover an infinite
-      library of fantastic musical worlds to play with. Get inspired to make music
-      in VR thanks to a bundle of surreal instruments and sound FX made by the community,
-      and use PatchXR tools to build your own. Step inside the music you love and
-      play, tweak, and patch without borders.
-    quote:
-      enable: false
-      name: Jonathon Andrew , 1xN.org
-      avater: images/testimonial/feature-testimonial-thumb.jpg
-      comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua.
-  - title: Build Sound
-    image: "/uploads/newfish.gif"
-    image_webp: images/feature/feature-new-02.webp
-    content: 'Become an architect of the PatchWorld metaverse : Get down on the circuits
-      level, and build your own instruments and worlds from the wire-up. Discover
-      and learn all about the wonders of sound synthesis in VR, where you can feel,
-      see and interact with sound in 3D space. Crafted for first timer to the experimented
-      patchers in Max MSP or Pure Data, our native VR tool let you create without
-      physical limitation. Assemble Patch’s sonic modules and interactive powerblocks
-      to shape unique sounds and world.'
-    quote:
-      enable: false
-      name: Jonathon Andrew , 1xN.org
-      avater: images/testimonial/feature-testimonial-thumb.jpg
-      comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua.
-  - title: Share in the metaverse and beyond
-    image: "/uploads/avatar-web-1.jpg"
-    quote: ''
-    content: 'Publish your creations and invite your fans and friends to step inside
-      your worlds. Jam, make a virtual band, throw a party. Broadcast, record, remix
-      and share your performances in the metaverse and on social media.
+  - title: Limitless Creativity
+    image_base_path: "/images/home/limitless-creativity"
+    image_alt: ""
+    content: Explore infinite worlds designed as blank canvases for your ideas. Build, jam, and create anything you can dream of.
 
-      '
+  - title: Collaborate Live
+    image_base_path: "/images/home/collaborate-live" 
+    image_alt: ""
+    content: Don't just create alone—join live sessions with other musicians and creators to build entire virtual experiences together in real-time.
+
+  - title: Ultimate Studio Setup
+    image_base_path: "/images/home/ultimate-studio-setup"
+    image_alt: ""
+    content: Create unlimited sounds, instruments, and visual elements to design the perfect creative studio—one that moves with you. You'll have access to everything you need to sound like a pro and create polished, share-worthy content.
+
+  - title: Effortless Sharing
+    image_base_path: "/images/home/effortless-sharing"
+    image_alt: ""
+    content: Record your performances, create stunning mixed reality content, and share across social media. Create and share cinematic content and films that blend the virtual and real world seamlessly, using 3D spatial audio for an immersive sound experience.
+
+  - title: Integrated with Ableton
+    image_base_path: "/images/home/ableton-live-integration"
+    image_alt: ""
+    content: Connect to Ableton Live for ultimate cross-reality production. You're not just making VR music—you're connecting your virtual studio to real-world tools for endless creative possibilities.
+
 promo_video:
   enable: false
   title: Where musical instruments become fantastic worlds
@@ -142,134 +134,43 @@ promo_video:
 testimonial:
   enable: true
   testimonial_item:
-  - name: Vrwizkid 
-    date: 01/09/2024
-    summary: Brilliant
+  - name: Colin Spielmacher
+    content: The potential is staggering, make music, games, videos, and more. The limit is your imagination. Learn while you play, make your own worlds and experiences to share with others.
+    date: ""
+    rating: 5
+  - name: Reas
+    content: This is incredible. I cannot recommend this game enough! A whole world of endless possibilities. Making music in multiplayer is next level.
+    date: 2024-03-10
+    rating: 5
+  - name: Magnet
+    content: Excellent tool for music production, with an active and friendly discord community. The recent addition of DAW integration may well make this app  the future of VR music production.
+    date: 2023-10-11
+    rating: 5
+  - name: Meg
     content: What an amazing music making app...but it is so much more than just that. This is what utilising VR to its full potential looks like!
-
-  - name: Meta.mat.999
-    date: 11/17/2023
-    summary: This is the future of music!
-    content: This is the future of music! Musical worlds you can inhabit, interact with and become a part of. A completely psychedelic, immersive experience. I love it!
-
-  - name: Becausereasons
-    date: 11/09/2023
-    summary: This has blown my mind.
-    content: By far the most incredible, mind bending, exciting and entertaining experience I've had in VR. I'm a VR vet.
-
-  - name: DJ_Ma9net
-    date: 10/11/2023
-    summary: WoooooooW!
-    content: Don't know how it took me so long to find this app but jeez I'm glad I did. The possibilities for collaborative music sessions across the globe would be enough to sell this app to me alone, but add to that the world building, patching, and variety of tools available to you and you have yourself not only a guaranteed good time with your friends (or strangers) but an excellent tool for music production, with an active and friendly discord community. The addition of DAW integration may well make this the future of VR music production, except it's here, right now. 5 stars!
-  
-  - name: corprinus
-    date: 01/05/2023
-    summary: The best music software for VR, this will change music production forever.
-      Period.
-    content: 'You pretty much have your own music production studio here, but unlike
-      many music apps on Quest, in this one you have every tool you need to make REAL
-      quality music. You can do your own music show like a live or pre-recorded concert
-      or you can literally just play around in a virtual music world and jam out.
-      But here is where things get freaking crazy: Patchworld will let you custom
-      EVERYTHING. Yes...you can import your own 3D objects, custom make instruments
-      and create REAL music studio equipment and God knows what else. I''ve never
-      seen an app do so many things and completely nail it.'
- 
-  - name: Toddfadel
-    date: 11/30/2022
-    summary: Dream come true for my classroom!
-    content: Not only does this app have a great tutorial setup, but the tools are
-      easy to learn and fun to record and share! I'm starting a new unit covering
-      collaboration and this is definitely the app I'll use to show how to support
-      each others ideas!
-  - name: Nick.bennett.5602
-    date: 11/26/2022
-    summary: This is the most entertaining/comprehensive music making app I've played!
-    content: |+
-      It will have you lolling at the crazy funny characters. Who all sound like someone you would meet in a chill out room. Then there's the crazy but really useful and inspiring music making tools. The Bouncy Beat world will make you feel like you've just stepped into a 90s dreamscape flyer. I've only scraped the surface of this app but it has so much potential! The moment the free demo ended I immediately purchased the game, what a bargain !!
-
-
-  - name: Aaazzi
-    date: 11/26/2022
-    summary: "How XR music creation should be \U0001F3A4\U0001F4A7"
-    content: Return to first principles, without limits.. & FUN!! Brilliant work !!!
-  - name: Jonathan.bell.5817
-    date: 11/24/2022
-    summary: This app is amazing
-    content: Coming from music programming (max, pure data) and composition, this
-      app really allows me to take way further compositional ideas involving nime
-      interaction, music information retrieval… Most importantly the community's extremely
-      friendly and reactive.
-  - name: Mystickid
-    date: 11/24/2022
-    summary: You won't know how much fun making music in VR can be until you try it!
-    content: Patch interacts from the very beginning; avatars show you around, demonstrate
-      and teach you what you can do. There's no learning curve though, within minutes
-      I found myself playing built-in sounds, and making new ones with just the mic
-      in my headset. Recording a performance seems just as easy, and you can perform
-      all the parts yourself on different instruments. That's just for starters, you
-      can “world build” your own stage, too. Highly recommended!
-  - name: Bohdan.svyrydov
-    date: 11/24/2022
-    summary: I had no idea how powerful this thing is
-    content: I purchased this app a few days ago, but I tried the free 30-minute version
-      before that. During this half an hour, I watched only the first tutorial, and
-      I liked it; quirky musical instruments, friendly atmosphere. But I was shocked
-      when I bought the app and watched everything there. It was just the tip of the
-      iceberg. This app is a powerful constructor that will allow you even to create
-      your own instruments once you figure out how to do it. So far, I haven't had
-      time to master everything there. There are a lot of possibilities. So grab it
-      without hesitation. It's an incredible playground.
-  - name: VertigeV
-    date: 11/24/2022
-    summary: WOAHH
-    content: This blew my mind right from the get go. It's the most immersive tutorial
-      I've ever seen in any medium. I really felt like I was there hanging out with
-      these weird alien dudes. So much personality! Anyway, it's not really a game,
-      more like a engine for creating musical and visual experiences. There is nothing
-      else like it and I can't wait to spend more time in it and make my own worlds.
-      To the devs, you guys are awesome! I hope to see more of my new "friends" in
-      the future!
-  - name: swappyMaine
-    date: 11/23/2022
-    summary: Love this ! The new ableton integration
-    content: The new ableton max4live device is a game changer. I can't believe I
-      can send and receive commands from any OSC supporting platform. Super fun worlds
-      to explore and it's possible to patch your own.
-  - name: Blastjammer
-    date: 11/26/2022
-    summary: Wonderful instrument!
-    content: I'm having too much fun recording my performances! Making some pretty
-      insane instruments in this dreamy world. The 'drop' feature is amazing. I usually
-      do VR seated, but this one has me dancing like crazy. Robust, performance ready
-      beat machine. I highly recommend this musical fun-house!
-  - name: 3dmusic
-    date: 11/14/2022
-    summary: Great for casual or advanced musicmakers
-    content: Patchworld is an easy and fun way to create music for beginners, but
-      allows experienced music creators to dig into the structure without limitations.
-      It's like a Lego set for music in which you can create your own Lego pieces.
-      Amazingly creative visuals make it completely immersive. I've tried them all,
-      PatchWorld is the best!
-  - name: PipyVR
-    date: 11/13/2022
-    summary: One of the best games on Quest
-    content: I was looking for a new way to experience music in VR, and PatchWorld
-      is better than any other music game. The intuitive tools is easy to learn yet
-      a professional way to creating sounds. And the tutorial system is one of the
-      smartest idea I've ever seen, it's like there's a person in the world with you,
-      guiding you through it. I haven't played VR games in a while that made me giddy
-      with excitement, but I find a huge smile across my face as I bop and dance to
-      a new beat I made. Best game on Quest!!!
-  - name: Ramz2020
-    date: 11/07/2022
-    summary: The future of digital audio workstations
-    content: If you make music, or just wish you could, this app is a must own with
-      endless possibilities for the expert and newbie alike. At its core it's a playful
-      digital audio workstation for making your own music in VR, but it adds to that
-      both visual and spacial immersion that you can't experience anywhere else. The
-      possibilities are endless and it's easy to get lost for hours in your own creativity
-      and fun. The devs keep adding more and I can't wait to see where this goes!
+    date: 2024-01-09
+    rating: 5
+  - name: British Fella
+    content: This has been my go-to game on my headset. The controls are so easy to learn and the instruments are so unique and simple to use. Not to mention the extremely friendly and welcoming community.
+    date: 2024-04-20
+    rating: 5
+  - name: Because reason
+    content: This has blown my mind! By far the most incredible, mind-bending, exciting and entertaining experience I've had in VR and I am a VR vet!
+    date: ""
+    rating: 5
+  - name: Dik
+    rating: 5
+    content: This is the best vr music playground out there. Tons of modular synth blocks, effects, visuals, all wrapped up in a fun explorable way, with one of THE best onboarding tutorial sets in any game
+    date: 2024-05-05
+    rating: 5
+  - name: Metamat
+    content: This is the future of music! Musical worlds you can inhabit, interact with and become part of. A completely psychedelic , immersive experience, I love it !
+    date: ""
+    rating: 5
+  - name: RAVE2030
+    content: If I could give it a higher rating I would. This game has everything you need. A loving community, excellent teachers. You can touch sound, smoosh it, bend it, and turn it into something you invent.
+    date: ""
+    rating: 5
 community:
   enable: false
 blog:
@@ -328,9 +229,4 @@ company:
   address1extra: Chriesbaumstrasse 6
   address1city: 8604 Volketswil
   address1country: Switzerland
-  address2title: Copenhagen
-  address2street: 'CVR: 41988177'
-  address2extra: Refshalevej 209,
-  address2city: 1432 Copenhagen
-  address2country: Denmark
   email: contact@patchxr.com
